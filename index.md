@@ -1,13 +1,7 @@
----
-layout: default
----
-## Hello!
 
----
-Text can be **bold**, _italic_, or ~~strikethrough~~. 
----
+## hello!
 
-I am an incoming Ph.D. student in the ![Harvard Program in Neuroscience](http://www.hms.harvard.edu/dms/neuroscience/index.html). Previously, I studied ![Cognitive Science](http://cogsci.rice.edu/), ![Neuroscience](http://neuroscience.rice.edu), and ![Computational and Applied Mathematics](http://www.caam.rice.edu/) at ![Rice University](http://www.rice.edu/). I’m interested in multisensory perception, sensorimotor integration, and Bayesian models of behavior. Besides research, I enjoy teaching, playing the piano, running, poetry, and classical music.
+I am an incoming Ph.D. student in the [Harvard Program in Neuroscience](http://www.hms.harvard.edu/dms/neuroscience/index.html). Previously, I studied [Cognitive Science](http://cogsci.rice.edu/), [Neuroscience](http://neuroscience.rice.edu), and [Computational and Applied Mathematics](http://www.caam.rice.edu/) at [Rice University](http://www.rice.edu/). I’m interested in multisensory perception, sensorimotor integration, and Bayesian models of behavior. Besides research, I enjoy teaching, playing the piano, running, poetry, and classical music.
 
 You can email me at lucylai (at) g (dot) harvard (dot) edu.
 
@@ -15,9 +9,9 @@ You can email me at lucylai (at) g (dot) harvard (dot) edu.
 
 * * *
 
-## Research
+## research
 
-My undergraduate research days were spent in the ![Yau Lab](http://www.yaulab.com) at the Baylor College of Medicine. There I worked on developing a Bayesian inference model to explain repulsive multisensory cue interactions. I presented this work at SfN 2016, IMRF 2017, and CCN 2017 (&paper).
+My undergraduate research days were spent in the [Yau Lab](http://www.yaulab.com) at the Baylor College of Medicine. There I worked on developing a Bayesian inference model to explain repulsive multisensory cue interactions. I presented this work at SfN 2016, IMRF 2017, and CCN 2017 (&paper).
 
 I also often fled north to escape hot Houston summers…  🙂
 
@@ -32,7 +26,7 @@ I spent another summer at the beautiful Janelia Research Campus as a part of the
 > When something is important enough, you do it even if the odds are not in your favor.
 * * *
 
-## Teaching
+## teaching
 
 Teaching is one of my greatest joys. At Rice, I was a teaching assistant for:
 
@@ -85,6 +79,10 @@ What they thought of the course | What they thought of me
   - level 2 item
   - level 2 item
 - level 1 item
+
+---
+Text can be **bold**, _italic_, or ~~strikethrough~~. 
+---
 
 ### Small image
 
