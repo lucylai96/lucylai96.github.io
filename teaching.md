@@ -1,6 +1,6 @@
 
 ### teaching
-
+***
 Teaching is one of my greatest joys. At Rice, I was a teaching assistant for:
 
 * NEUR/PSYC 362: Cognitive Neuroscience (Spring ’16, ’17, ’18)
