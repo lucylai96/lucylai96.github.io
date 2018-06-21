@@ -4,4 +4,4 @@ I am an incoming Ph.D. student in the [Harvard Program in Neuroscience](http://w
 
 You can email me at lucylai (at) g (dot) harvard (dot) edu.
 
-[CV](./lai_cv.pdf)
+**[CV](./lai_cv.pdf)**
