@@ -1,5 +1,5 @@
-theme: jekyll-theme-minimal
-
 title: lucy lai
-description: welcome to my personal website!
+logo: '/assets/headshot.jpeg'
+description: brains and bayes
 show_downloads: false
+theme: jekyll-theme-minimal
