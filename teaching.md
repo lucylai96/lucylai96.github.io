@@ -1,5 +1,5 @@
 
-### teaching
+## teaching
 ***
 Teaching is one of my greatest joys. At Rice, I was a teaching assistant for:
 
@@ -20,4 +20,5 @@ But by far my favorite teaching endeavor has been COLL 158: “How Music Plays t
 So, did I fulfill my promises? 😛
 
 What they thought of the course | What they thought of me
+
 [back](./)
