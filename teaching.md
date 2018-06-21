@@ -3,12 +3,12 @@
 ***
 Teaching is one of my greatest joys. At Rice, I was a teaching assistant for:
 
-* NEUR/PSYC 362: Cognitive Neuroscience (Spring ’16, ’17, ’18)
-* NEUR/CAAM 416: Neural Computation (Spring ’18) 
+* **NEUR/PSYC 362:** Cognitive Neuroscience _(Spring ’16, ’17, ’18)_
+* **NEUR/CAAM 416:** Neural Computation _(Spring ’18)_ 
 -- I contributed [a lecture] (./bci_lecture.pdf) on Bayesian Causal Inference in perception.
-* NEUR/BIOC 385: Fundamentals of Neuroscience (Fall ’16, ’17)
-* STAT 310: Probability and Statistics (Fall ‘16)
-* PSYC 203: Intro to Cognitive Psychology (Fall ’15) 
+* **NEUR/BIOC 385:** Fundamentals of Neuroscience _(Fall ’16, ’17)_
+* **STAT 310:** Probability and Statistics _(Fall ‘16)_
+* **PSYC 203:** Intro to Cognitive Psychology _(Fall ’15_
 
 Before I left the Yau Lab, I gave a little tutorial on model building and fitting [slides](./lai_modeling.pdf).
 
@@ -20,6 +20,6 @@ But by far my favorite teaching endeavor has been [COLL 158: “How Music Plays 
 
 So, did I fulfill my promises? :p
 
-[What they thought of the course](./coll158_evals.pdf) || [What they thought of me](./coll158_teaching.pdf).
+[What they thought of the course](./coll158_evals.pdf) || [What they thought of me](./coll158_teaching.pdf)
 
 [back](./)
