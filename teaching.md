@@ -14,7 +14,7 @@ I was also a mentor at BrainSTEM, an after-school neuroscience program at KIPP S
 
 But by far my favorite teaching endeavor has been COLL 158: “How Music Plays the Brain.” I designed and taught 3 semesters of this seminar course on the intersection of music and neuroscience.
 
-> “Students will leave this course having developed a greater appreciation for the power of music through dialogues between an > age-old art and a budding field of science.” 
+> “Students will leave this course having developed a greater appreciation for the power of music through dialogues between an age-old art and a budding field of science.” 
 -– lofty goals from the course syllabus
 
 So, did I fulfill my promises? 😛
