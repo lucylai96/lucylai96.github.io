@@ -1,53 +1,61 @@
 ---
 layout: default
 ---
+## Hello!
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+---
+Text can be **bold**, _italic_, or ~~strikethrough~~. 
+---
 
-[Link to another page](./another-page.html).
+I am an incoming Ph.D. student in the ![Harvard Program in Neuroscience](http://www.hms.harvard.edu/dms/neuroscience/index.html). Previously, I studied ![Cognitive Science](http://cogsci.rice.edu/), ![Neuroscience](http://neuroscience.rice.edu), and ![Computational and Applied Mathematics](http://www.caam.rice.edu/) at ![Rice University](http://www.rice.edu/). I’m interested in multisensory perception, sensorimotor integration, and Bayesian models of behavior. Besides research, I enjoy teaching, playing the piano, running, poetry, and classical music.
 
-There should be whitespace between paragraphs.
+You can email me at lucylai (at) g (dot) harvard (dot) edu.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[CV](./Lai_CV_Web.pdf).
 
-# Header 1
+* * *
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Research
 
-## Header 2
+My undergraduate research days were spent in the ![Yau Lab](http://www.yaulab.com) at the Baylor College of Medicine. There I worked on developing a Bayesian inference model to explain repulsive multisensory cue interactions. I presented this work at SfN 2016, IMRF 2017, and CCN 2017 (&paper).
+
+I also often fled north to escape hot Houston summers…  🙂
+
+Thanks to an NSF-REU, I spent some time at MIT working in the lab of Mehrdad Jazayeri. My work there focused on understanding how variability in perception, inference, and memory influences sensorimotor timing.
+
+I spent another summer at the beautiful Janelia Research Campus as a part of the JUS program (which is also how I met these pretty awesome people). There, Josh Dudman taught me to record from neurons, and together we tried to understand how the striatum might represent action kinematics.
+
+
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
+* * *
 
-### Header 3
+## Teaching
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Teaching is one of my greatest joys. At Rice, I was a teaching assistant for:
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+* NEUR/PSYC 362: Cognitive Neuroscience (Spring ’16, ’17, ’18)
+* NEUR/CAAM 416: Neural Computation (Spring ’18)
+    I contributed a lecture on Bayesian Causal Inference in perception.
+* NEUR/BIOC 385: Fundamentals of Neuroscience (Fall ’16, ’17)
+* STAT 310: Probability and Statistics (Fall ‘16)
+* PSYC 203: Intro to Cognitive Psychology (Fall ’15)
+Before I left the Yau Lab, I gave a little tutorial on model building and fitting [slides].
 
-#### Header 4
+I was also a mentor at BrainSTEM, an after-school neuroscience program at KIPP Sunnyside High School. The program serves to promote interest in STEM and neuroscience to underrepresented minorities.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+But by far my favorite teaching endeavor has been COLL 158: “How Music Plays the Brain.” I designed and taught 3 semesters of this seminar course on the intersection of music and neuroscience.
 
-##### Header 5
+“Students will leave this course having developed a greater appreciation for the power of music through dialogues between an age-old art and a budding field of science.” – lofty goals from the course syllabus
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+So, did I fulfill my promises? 😛
+
+What they thought of the course | What they thought of me
+* * *
+
+
 
 ###### Header 6
 
@@ -61,20 +69,6 @@ end
 ### There's a horizontal rule below this.
 
 * * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
 
 ### And a nested list:
 
