@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 
 title: lucy lai
 description: welcome to my personal website!
+show_downloads: false
