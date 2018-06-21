@@ -2,7 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
-#footer_wrap {display: none;}
-#forkme_banner {display: none;}
-#downloads {display: none;}
-#whocares {haha: hehe;}
+body {
+    color: blue;
+}
+
+h1 {
+    color: green;
+}
