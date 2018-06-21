@@ -5,20 +5,21 @@ Teaching is one of my greatest joys. At Rice, I was a teaching assistant for:
 
 * NEUR/PSYC 362: Cognitive Neuroscience (Spring ’16, ’17, ’18)
 * NEUR/CAAM 416: Neural Computation (Spring ’18) 
--- I contributed a lecture on Bayesian Causal Inference in perception.
+-- I contributed [a lecture] (./bci_lecture.pdf) on Bayesian Causal Inference in perception.
 * NEUR/BIOC 385: Fundamentals of Neuroscience (Fall ’16, ’17)
 * STAT 310: Probability and Statistics (Fall ‘16)
-* PSYC 203: Intro to Cognitive Psychology (Fall ’15) Before I left the Yau Lab, I gave a little tutorial on model building and fitting [slides].
+* PSYC 203: Intro to Cognitive Psychology (Fall ’15) 
 
-I was also a mentor at BrainSTEM, an after-school neuroscience program at KIPP Sunnyside High School. The program serves to promote interest in STEM and neuroscience to underrepresented minorities.
+Before I left the Yau Lab, I gave a little tutorial on model building and fitting [slides](./lai_modeling.pdf).
 
-But by far my favorite teaching endeavor has been COLL 158: “How Music Plays the Brain.” I designed and taught 3 semesters of this seminar course on the intersection of music and neuroscience.
+I was also a mentor at [BrainSTEM](https://brainstem.club/), an after-school neuroscience program at [KIPP Sunnyside High School] (http://kipphouston.org/sunnyside). The program serves to promote interest in STEM and neuroscience to underrepresented minorities.
 
-> “Students will leave this course having developed a greater appreciation for the power of music through dialogues between an age-old art and a budding field of science.” 
--– lofty goals from the course syllabus
+But by far my favorite teaching endeavor has been [COLL 158: “How Music Plays the Brain.”](https://courses.rice.edu/admweb/!SWKSCAT.cat?p_action=CATALIST&p_acyr_code=2019&p_crse_numb=158&p_subj=COLL) I designed and taught 3 semesters of this seminar course on the intersection of music and neuroscience.
 
-So, did I fulfill my promises? 😛
+> “Students will leave this course having developed a greater appreciation for the power of music through dialogues between an age-old art and a budding field of science.” -– lofty goals from the [course syllabus](https://docs.google.com/a/rice.edu/document/d/e/2PACX-1vSEOAOsSzzJJTJuK-n5mIAhbJBXXJzCk7ZmlUppfPqA8NLAj1-PjvgmIYkqssITnNSIoEm8tnf41r3s/pub)
 
-What they thought of the course | What they thought of me
+So, did I fulfill my promises? :p
+
+[What they thought of the course](./coll158_evals.pdf) || [What they thought of me](./coll158_teaching.pdf).
 
 [back](./)
