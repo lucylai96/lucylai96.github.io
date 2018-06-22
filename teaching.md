@@ -5,7 +5,7 @@ Teaching is one of my greatest joys. At Rice, I was a teaching assistant for:
 
 * **NEUR/PSYC 362:** Cognitive Neuroscience _(Spring ’16, ’17, ’18)_
 * **NEUR/CAAM 416:** Neural Computation _(Spring ’18)_ 
-* * I contributed [a lecture] (./bci_lecture.pdf) on Bayesian Causal Inference in perception.
+* * I contributed [a lecture](./bci_lecture.pdf) on Bayesian Causal Inference in perception.
 * **NEUR/BIOC 385:** Fundamentals of Neuroscience _(Fall ’16, ’17)_
 * **STAT 310:** Probability and Statistics _(Fall ‘16)_
 * **PSYC 203:** Intro to Cognitive Psychology _(Fall ’15_
