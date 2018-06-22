@@ -4,7 +4,7 @@
 ***
 My undergraduate research days were spent in the [Yau Lab](http://yaulab.com/) at the [Baylor College of Medicine](http://www.bcm.edu/) . There I worked on developing a Bayesian inference model to explain repulsive multisensory cue interactions. I presented this work at SfN 2016, IMRF 2017, and CCN 2017.
 
-I also often fled north to escape hot Houston summers…  :-)
+I also often fled north to escape hot Houston summers... :-)
 
 Thanks to an [NSF-REU](http://csne-erc.org/content/research-experience-undergraduates), I spent some time at [MIT](http://www.mit.edu/) working in the lab of [Mehrdad Jazayeri](https://mcgovern.mit.edu/principal-investigators/mehrdad-jazayeri). My work there focused on understanding how variability in perception, inference, and memory influences sensorimotor timing.
 
