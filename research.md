@@ -10,4 +10,5 @@ Thanks to an [NSF-REU](http://csne-erc.org/content/research-experience-undergrad
 
 I spent another summer at the beautiful [Janelia Research Campus](https://www.janelia.org) as a part of the [JUS program](https://www.janelia.org/you-janelia/students-postdocs/undergraduate-scholars-program). There, [Josh Dudman](https://www.dudmanlab.org) taught me to [record from neurons](./neurons.html), and together we tried to understand how the striatum might represent action kinematics.
 
+***
 [back](./)
