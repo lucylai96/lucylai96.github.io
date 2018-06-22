@@ -3,7 +3,10 @@
 
 body {
   background-color: #fff;
-  padding:50px;
+  padding-top: 50px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    padding-left: 50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#424242;
   font-weight:300;
@@ -20,7 +23,7 @@ h2, h3, h4, h5, h6 {
 }
 
 p, ul, ol, table, pre, dl {
-  margin:0 0 20px;
+  margin:0 0 15px;
 }
 
 h1, h2, h3 {
