@@ -27,7 +27,7 @@ In 2016, I attended [Cosyne](cosyne.org) and realized just how few women were in
 * Every year, I [run a 5K](https://www.lupus.org/action/walk-to-end-lupus-now) to raise awareness about lupus and fundraise for the [Lupus Foundation of America](https://lupus.org/).
 * [Some blogs](http://ricecatalyst.org/discoveries/?author=559ed5bfe4b0a37c3cb5967d) on music and neuroscience that I wrote for Discoveries, a section of [Catalyst](http://ricecatalyst.org/), Rice's Undergraduate Science Journal.
 * I once [composed some piano music](https://soundcloud.com/lucy_lai).
-* sometimes I write [poetry](https://subcorticalsongs.wordpress.com/).
+* Sometimes I write [poetry](https://subcorticalsongs.wordpress.com/).
 * I also try to keep a regular [blog](https://lucyblogs.wordpress.com/) about various topics.
 
 ***
