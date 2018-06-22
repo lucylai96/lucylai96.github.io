@@ -21,6 +21,7 @@ By far, my favorite teaching endeavor has been bringing [COLL 158: “How Music 
 
 So, did I fulfill my promises? :p
 
-[What they thought of the course](./coll158_evals.pdf) & [What they thought of me](./coll158_teaching.pdf)
+  [what they thought of the course](./coll158_evals.pdf) / [what they thought of me](./coll158_teaching.pdf)
 
+***
 [back](./)
