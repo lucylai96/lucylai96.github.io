@@ -14,7 +14,7 @@ Before I left the Yau Lab, I gave a little tutorial on [model building and fitti
 
 I was also a mentor at [BrainSTEM](https://brainstem.club/), an after-school neuroscience program at [KIPP Sunnyside High School](http://kipphouston.org/sunnyside). The program serves to promote interest in STEM and neuroscience to underrepresented minorities.
 
-### COLL 158: How Music Plays the Brain
+### coll 158: how music plays the brain
 By far, my favorite teaching endeavor has been bringing [COLL 158: “How Music Plays the Brain.”](https://courses.rice.edu/admweb/!SWKSCAT.cat?p_action=CATALIST&p_acyr_code=2019&p_crse_numb=158&p_subj=COLL) to life: I designed and taught 3 semesters of this seminar course on the intersection of music and neuroscience.
 
 > “Students will leave this course having developed a greater appreciation for the power of music through dialogues between an age-old art and a budding field of science.” -– lofty goals from the [course syllabus](https://docs.google.com/a/rice.edu/document/d/e/2PACX-1vSEOAOsSzzJJTJuK-n5mIAhbJBXXJzCk7ZmlUppfPqA8NLAj1-PjvgmIYkqssITnNSIoEm8tnf41r3s/pub)
