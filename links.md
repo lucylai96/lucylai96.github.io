@@ -2,9 +2,11 @@
 ***
 ### applications
 a few of my favorite application/fellowship-writing advice resources:
-* <a href=“http://www.alexhunterlang.com/nsf-fellowship” target=“_blank”></a>(http://www.alexhunterlang.com/nsf-fellowship) by Alex Lang
+* [NSF-GRFP application guide](http://www.alexhunterlang.com/nsf-fellowship) by Alex Lang
 * ["How to apply to grad school" blog post](https://monicagatesblog.wordpress.com/2016/03/14/the-phd-application-post/) by Monica Gates 
 * [Advice for science fellowship applications: NSF, NDSEG, Hertz](http://www.pgbovine.net/fellowship-tips.htm) by Phillip Guo
+
+<a href=“http://www.alexhunterlang.com/nsf-fellowship” target=“_blank”> Hello, world!</a>
 
 ### surviving grad school
 self-explanatory
