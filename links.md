@@ -6,8 +6,6 @@ a few of my favorite application/fellowship-writing advice resources:
 * ["How to apply to grad school" blog post](https://monicagatesblog.wordpress.com/2016/03/14/the-phd-application-post/) by Monica Gates 
 * [Advice for science fellowship applications: NSF, NDSEG, Hertz](http://www.pgbovine.net/fellowship-tips.htm) by Phillip Guo
 
-<a href=“http://www.alexhunterlang.com/nsf-fellowship” target=“_blank”> Hello, world!</a>
-
 ### surviving grad school
 self-explanatory
 * ["A Survival Guide to a PhD"](https://karpathy.github.io/2016/09/07/phd/) by Andre Karpathy
