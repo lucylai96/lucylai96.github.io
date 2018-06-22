@@ -1,7 +1,7 @@
 ## links
 ***
 ### applications
-These are just a few of my favorite application/fellowship-writing advice resources:
+a few of my favorite application/fellowship-writing advice resources:
 * [NSF-GRFP application guide](http://www.alexhunterlang.com/nsf-fellowship) by Alex Lang
 * ["How to apply to grad school" blog post](https://monicagatesblog.wordpress.com/2016/03/14/the-phd-application-post/) by Monica Gates 
 * [Advice for science fellowship applications: NSF, NDSEG, Hertz](http://www.pgbovine.net/fellowship-tips.htm) by Phillip Guo
@@ -12,7 +12,7 @@ self-explanatory
 * [PhD Comics](http://phdcomics.com/)
 
 ### women in science
-In 2016, I attended [Cosyne](cosyne.org) and realized just how few women were in computational neuroscience...here are some great resources that are trying to bring awareness to gender diversity in (neuro)science.
+in 2016, I attended [Cosyne](cosyne.org) and realized just how few women were in computational neuroscience...here are some great resources that are trying to bring awareness to gender diversity in (neuro)science.
 * [womenincocosci.com](http://womenincocosci.com/): advice website for undergraduate women interested in computational and cognitive science (credit to [Monica Gates](http://monicagates.org/)).
 * [anneslist.net](https://anneslist.net/): a list of female systems/computational neuroscientists curated by [Anne Churchland](http://churchlandlab.labsites.cshl.edu/).
 * [biaswatchneuro.com](https://biaswatchneuro.com/): a website dedicated to elucidating gender biases at neuroscience conferences
