@@ -2,7 +2,7 @@
 ***
 ### applications
 a few of my favorite application/fellowship-writing advice resources:
-* [NSF-GRFP application guide](http://www.alexhunterlang.com/nsf-fellowship) by Alex Lang
+* <a href=“http://www.alexhunterlang.com/nsf-fellowship” target=“_blank”></a>[NSF-GRFP application guide](http://www.alexhunterlang.com/nsf-fellowship) by Alex Lang
 * ["How to apply to grad school" blog post](https://monicagatesblog.wordpress.com/2016/03/14/the-phd-application-post/) by Monica Gates 
 * [Advice for science fellowship applications: NSF, NDSEG, Hertz](http://www.pgbovine.net/fellowship-tips.htm) by Phillip Guo
 
