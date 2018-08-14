@@ -4,4 +4,6 @@ I am a neuroscience Ph.D. student at [Harvard University](http://www.hms.harvard
 
 You can email me at lucylai (at) g (dot) harvard (dot) edu.
 
+*I recently wrote a blog post about the (neuro)science PhD application process! You can read it [here](https://lucyblogs.wordpress.com/2018/08/02/all-about-phd-applications/).*
+
 **[CV](./lai_cv.pdf)**
