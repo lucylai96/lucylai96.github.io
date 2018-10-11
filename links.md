@@ -23,6 +23,7 @@ In 2016, I attended [Cosyne](cosyne.org) and realized just how few women were in
 ### personal
 * Every year, I [run a 5K](https://www.lupus.org/action/walk-to-end-lupus-now) to raise awareness about lupus and fundraise for the [Lupus Foundation of America](https://lupus.org/).
 * I once [composed some piano music](https://soundcloud.com/lucy_lai).
+* I play chamber music with the [HLS Chamber Music Society](https://orgs.law.harvard.edu/cms/).
 * Sometimes I write [poetry](https://subcorticalsongs.wordpress.com/).
 * I also try to keep a regular [blog](https://lucyblogs.wordpress.com/) about various topics.
 
