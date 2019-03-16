@@ -26,6 +26,6 @@ In 2016, I attended [Cosyne](cosyne.org) and realized just how few women were in
 * I play chamber music with the [HLS Chamber Music Society](https://orgs.law.harvard.edu/cms/).
 * Sometimes I write [poetry](https://subcorticalsongs.wordpress.com/).
 * I also try to keep a regular [blog](https://lucyblogs.wordpress.com/) about various topics.
-
+* A short list (_forthcoming_) of things (music, books, films, etc.) that deeply resonate with me. 
 ***
 [back](./)
