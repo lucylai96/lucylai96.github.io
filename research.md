@@ -3,7 +3,7 @@
 
 ***
 ### currently
-...rotating in the [Drugowitsch Lab](https://drugowitschlab.hms.harvard.edu)! 
+I recently joined the [Cognitive Computational Neuroscience Lab](http://gershmanlab.webfactional.com/index.html).
 
 ### previously
 My undergraduate research days were spent in the [Yau Lab](http://yaulab.com/) at the [Baylor College of Medicine](http://www.bcm.edu/) . There I worked on developing a Bayesian inference model to explain repulsive multisensory cue interactions. I presented this work at SfN 2016, IMRF 2017, and CCN 2017.
