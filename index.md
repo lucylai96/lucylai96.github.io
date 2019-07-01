@@ -1,8 +1,7 @@
 ## hello!
 ***
-I am a Ph.D. student at [Harvard](http://www.harvard.edu" target="_blank)
-<a href="http://www.harvard.edu" target="_blank">New Tab</a>  
-in the [Neuroscience](http://www.hms.harvard.edu/dms/neuroscience/index.html" target="_blank)  program, supported by an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/" target="_blank) . I am advised by [Sam Gershman](http://gershmanlab.webfactional.com/index.html" target="_blank) . 
+I am a Ph.D. student at <a href="http://www.harvard.edu" target="_blank">Harvard</a>  
+in the <a href="http://www.hms.harvard.edu/dms/neuroscience/index.html" target="_blank">Neuroscience</a> program, supported by an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/" target="_blank) . I am advised by [Sam Gershman](http://gershmanlab.webfactional.com/index.html" target="_blank) . 
 
 Previously, I studied [Cognitive Science](http://cogsci.rice.edu/), [Neuroscience](http://neuroscience.rice.edu), and [Computational and Applied Mathematics](http://www.caam.rice.edu/) at [Rice University](http://www.rice.edu/). I’m broadly interested in questions at the intersection of cognitive and systems neuroscience. Besides [research](./research.html), I enjoy [teaching](./teaching.html), playing the piano, running, [writing poetry](http://subcorticalsongs.wordpress.com/), and classical music.
 
