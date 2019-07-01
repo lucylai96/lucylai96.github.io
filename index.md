@@ -1,10 +1,10 @@
 ## hello!
 ***
-I am a Ph.D. student at <a href="http://www.harvard.edu" target="_blank">Harvard</a> in the <a href="http://www.hms.harvard.edu/dms/neuroscience/index.html" target="_blank">Neuroscience</a> program, supported by an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/" target="_blank) . I am advised by [Sam Gershman](http://gershmanlab.webfactional.com/index.html" target="_blank) . 
+I am a Ph.D. student at <a href="http://www.harvard.edu" target="_blank">Harvard</a> in the <a href="http://www.hms.harvard.edu/dms/neuroscience/index.html" target="_blank">Neuroscience</a> program, supported by an <a href="https://www.nsfgrfp.org/" target="_blank">NSF Graduate Research Fellowship</a>. I am advised by <a href="http://gershmanlab.webfactional.com/index.html" target="_blank">Sam Gershman</a>. 
 
-Previously, I studied [Cognitive Science](http://cogsci.rice.edu/), [Neuroscience](http://neuroscience.rice.edu), and [Computational and Applied Mathematics](http://www.caam.rice.edu/) at [Rice University](http://www.rice.edu/). I’m broadly interested in questions at the intersection of cognitive and systems neuroscience. Besides [research](./research.html), I enjoy [teaching](./teaching.html), playing the piano, running, [writing poetry](http://subcorticalsongs.wordpress.com/), and classical music.
+Previously, I studied <a href="http://cogsci.rice.edu/" target="_blank">Cognitive Science</a>, <a href="http://neuroscience.rice.edu" target="_blank">Neuroscience</a>, and <a href="http://www.caam.rice.edu/" target="_blank">Applied Math</a> at <a href="http://www.rice.edu/" target="_blank">Rice University</a>. I’m broadly interested in theoretical questions at the intersect of cognitive and systems neuroscience. Besides [research](./research.html), I enjoy [teaching](./teaching.html), playing the piano, running, <a href="http://subcorticalsongs.wordpress.com/" target="_blank">writing poetry</a>, and classical music.
 
-*I recently wrote a blog post about the (neuro)science PhD application process! You can read it [here](https://lucyblogs.wordpress.com/2018/08/02/all-about-phd-applications/).*
+*I recently wrote a blog post about the (neuro)science PhD application process! You can read it <a href="https://lucyblogs.wordpress.com/2018/08/02/all-about-phd-applications/" target="_blank">here</a>.*
 
 You can email me at lucylai (at) g (dot) harvard (dot) edu.
 
