@@ -4,8 +4,8 @@
 a few of my favorite application/fellowship-writing advice resources:
 * [NSF-GRFP application guide](http://www.alexhunterlang.com/nsf-fellowship) by Alex Lang
 * [Advice for science fellowship applications: NSF, NDSEG, Hertz](http://www.pgbovine.net/fellowship-tips.htm) by Phillip Guo
-* ["How to apply to grad school" blog post](https://monicagatesblog.wordpress.com/2016/03/14/the-phd-application-post/) by Monica Gates 
-* [All About PhD Applications](https://lucyblogs.wordpress.com/2018/08/02/all-about-phd-applications/) by me! 
+* ["How to apply to grad school" blog post](https://monicagatesblog.wordpress.com/2016/03/14/the-phd-application-post/) by Vael Gates 
+* [All About PhD Applications](https://lucyblogs.wordpress.com/2018/08/02/all-about-phd-applications/) by yours truly :-) 
 
 ### women in science
 In 2016, I attended [Cosyne](cosyne.org) and realized just how few women were in computational neuroscience...here are some great resources that are trying to bring awareness to gender diversity in (neuro)science.
