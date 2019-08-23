@@ -9,7 +9,7 @@ a few of my favorite application/fellowship-writing advice resources:
 
 ### women in science
 In 2016, I attended [Cosyne](cosyne.org) and realized just how few women were in computational neuroscience...here are some great resources that are trying to bring awareness to gender diversity in (neuro)science.
-* [womenincocosci.com](http://womenincocosci.com/): advice website for undergraduate women interested in computational and cognitive science (credit to [Monica Gates](http://monicagates.org/)).
+* [womenincocosci.com](http://womenincocosci.com/): advice website for undergraduate women interested in computational and cognitive science (credit to [Vael Gates](https://vaelgates.com/)).
 * [compcog.science](http://compcog.science/): a list of minority computational cognitive modellers, curated by [Christina Bergmann](https://sites.google.com/site/chbergma/) and [Olivia Guest](http://oliviaguest.com/)
 * [anneslist.net](https://anneslist.net/): a list of female systems/computational neuroscientists curated by [Anne Churchland](http://churchlandlab.labsites.cshl.edu/).
 * [biaswatchneuro.com](https://biaswatchneuro.com/): a website dedicated to elucidating gender biases at neuroscience conferences
@@ -21,11 +21,11 @@ In 2016, I attended [Cosyne](cosyne.org) and realized just how few women were in
 * [Advocating for the creation of a rigorous neuroscience curriculum](http://www.ricethresher.org/article/2017/11/fac-senate-neuroscience-major-vote) at Rice.
 
 ### personal
-* Every year, I [run a 5K](https://www.lupus.org/action/walk-to-end-lupus-now) to raise awareness about lupus and fundraise for the [Lupus Foundation of America](https://lupus.org/).
-* I once [composed some piano music](https://soundcloud.com/lucy_lai).
+* Every year, I [run](https://www.lupus.org/action/walk-to-end-lupus-now) to raise awareness about lupus and fundraise for the [Lupus Foundation of America](https://lupus.org/).
+* I try to keep a regular [blog](https://lucyblogs.wordpress.com/) about various topics.
 * I play chamber music with the [HLS Chamber Music Society](https://orgs.law.harvard.edu/cms/).
+* Sometimes I [compose](https://soundcloud.com/lucy_lai).
 * Sometimes I write [poetry](https://subcorticalsongs.wordpress.com/).
-* I also try to keep a regular [blog](https://lucyblogs.wordpress.com/) about various topics.
 
 ***
 [back](./)
