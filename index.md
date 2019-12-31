@@ -4,7 +4,7 @@ I am a Ph.D. student at <a href="http://www.harvard.edu" target="_blank">Harvard
 
 Previously, I studied <a href="http://cogsci.rice.edu/" target="_blank">Cognitive Science</a>, <a href="http://neuroscience.rice.edu" target="_blank">Neuroscience</a>, and <a href="http://www.caam.rice.edu/" target="_blank">Applied Math</a> at <a href="http://www.rice.edu/" target="_blank">Rice University</a>. I’m broadly interested in theoretical questions at the intersect of cognitive and systems neuroscience. Besides [research](./research.html), I enjoy [teaching](./teaching.html), playing the piano, running, <a href="http://lucyblogs.wordpress.com/" target="_blank">blogging</a>, <a href="http://subcorticalsongs.wordpress.com/" target="_blank">writing poetry</a>, and classical music.
 
-*I wrote a blog post about the (neuro)science PhD application process! You can read it <a href="https://lucyblogs.wordpress.com/2018/08/02/all-about-phd-applications/" target="_blank">here</a>.*
+*I have written extensively about the (neuro)science PhD application process! You can read the post <a href="https://lucyblogs.wordpress.com/2018/08/02/all-about-phd-applications/" target="_blank">here</a>.*
 
 You can email me at lucylai (at) g (dot) harvard (dot) edu.
 
