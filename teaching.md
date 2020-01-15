@@ -4,9 +4,9 @@
 Teaching is one of my greatest joys. 
 
 ### currently...
-Along with my classmate and friend, [Alex Chen](https://twitter.com/alexbchen), I designed **NB314QC: Math Tools for Neuroscience**--a new January-term course for the Harvard Program in Neuroscience.
+Along with my classmate and friend, [Alex Chen](https://twitter.com/alexbchen), I designed **NB314QC: Math Tools for Neuroscience**--a new January-term course for the Harvard Program in Neuroscience. We condensed the fundamentals of linear algebra, dynamical systems theory, and probability theory (as applied to neuroscience) into a one-month crash course!
 
-All course materials (including the syllabus and problem sets) are publically availible on [our course Canvas site](https://canvas.harvard.edu/courses/71556).
+All course materials (including the syllabus, lecture notes, and problem sets) are publically availible on [our course's Canvas site](https://canvas.harvard.edu/courses/71556).
 
 ### previously...
 At Rice, I was a teaching assistant for:
@@ -24,17 +24,21 @@ I was also a mentor at [BrainSTEM](https://brainstem.club/), an after-school neu
 
 #### COLL 158: How Music Plays The Brain
 
-By far, my favorite teaching endeavor has been bringing [COLL 158: “How Music Plays the Brain.”](https://courses.rice.edu/admweb/!SWKSCAT.cat?p_action=CATALIST&p_acyr_code=2019&p_crse_numb=158&p_subj=COLL) to life: I designed and taught 3 semesters of this seminar course on the intersection of music and neuroscience.
+By far, my favorite teaching endeavor has been bringing [COLL 158: “How Music Plays the Brain.”](https://courses.rice.edu/admweb/!SWKSCAT.cat?p_action=CATALIST&p_acyr_code=2019&p_crse_numb=158&p_subj=COLL) to life: I designed and taught 3 semesters of this seminar course on the intersection of music and neuroscience. 
 
 ![Visiting CAMRI](./coll158camri.jpg)
 
 _**COLL 158 visits Baylor College of Medicine's Center for Advanced Magnetic Resonance Imaging**_
 
-> “Students will leave this course having developed a greater appreciation for the power of music through dialogues between an age-old art and a budding field of science.” -– lofty goals from the [course syllabus](https://docs.google.com/a/rice.edu/document/d/e/2PACX-1vSEOAOsSzzJJTJuK-n5mIAhbJBXXJzCk7ZmlUppfPqA8NLAj1-PjvgmIYkqssITnNSIoEm8tnf41r3s/pub)
+> “Students will leave this course having developed a greater appreciation for the power of music through dialogues between an age-old art and a budding field of science.” -– lofty goals from the course syllabus
+
+All course materials (including the syllabus and lecture slides) from the last rendition of the course (Spring 2018) are publically availible on [the course's Canvas site](https://canvas.rice.edu/courses/10423/).
 
 So, did I fulfill my promises? :p
 
-[what they thought of the course](./coll158_evals.pdf) / [what they thought of me](./coll158_teaching.pdf)
+##### course evaluations
+* [what they thought of the course](./coll158_evals.pdf) 
+* [what they thought of me](./coll158_teaching.pdf)
 
 ***
 [back](./)
