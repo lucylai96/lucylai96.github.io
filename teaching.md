@@ -35,7 +35,7 @@ All course materials (including the syllabus and lecture slides) from the last r
 
 _**COLL 158 visits Baylor College of Medicine's Center for Advanced Magnetic Resonance Imaging**_
 
-> “Students will leave this course having developed a greater appreciation for the power of music through dialogues between an age-old art and a budding field of science.” -– lofty goals from the course syllabus
+> “Students will leave this course having developed a greater appreciation for the power of music through dialogues between an age-old art and a budding field of science.” - lofty goals from the course syllabus
 
 
 So, did I fulfill my promises? :p
