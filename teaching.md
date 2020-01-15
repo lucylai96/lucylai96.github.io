@@ -6,7 +6,7 @@ Teaching is one of my greatest joys.
 ### currently...
 
 #### NB314QC: Math Tools for Neuroscience
-Along with my classmate and friend, [Alex Chen](https://twitter.com/alexbchen), I designed a new January-term "Math Tools" course for the Harvard Program in Neuroscience. We condensed the fundamentals of linear algebra, dynamical systems theory, and probability theory (as applied to neuroscience) all into a one-month crash course!
+Along with my classmate and friend, [Alex Chen](https://twitter.com/alexbchen), I designed a new January-term course for the Harvard Program in Neuroscience. We condensed the fundamentals of linear algebra, dynamical systems theory, and probability theory (as applied to neuroscience) all into a one-month crash course!
 
 All course materials (including the syllabus, lecture notes, and problem sets) are publically availible on [our course's Canvas site](https://canvas.harvard.edu/courses/71556).
 
@@ -26,7 +26,7 @@ I was also a mentor at [BrainSTEM](https://brainstem.club/), an after-school neu
 
 #### COLL 158: How Music Plays The Brain
 
-By far, my favorite teaching endeavor has been bringing [COLL 158: “How Music Plays the Brain”](https://courses.rice.edu/admweb/!SWKSCAT.cat?p_action=CATALIST&p_acyr_code=2019&p_crse_numb=158&p_subj=COLL) to life: I designed and taught 3 semesters of this seminar course on the intersection of music and neuroscience. 
+By far, my favorite teaching endeavor has been bringing [COLL 158: How Music Plays the Brain](https://courses.rice.edu/admweb/!SWKSCAT.cat?p_action=CATALIST&p_acyr_code=2019&p_crse_numb=158&p_subj=COLL) to life: I designed and taught 3 semesters of this seminar course on the intersection of music and neuroscience. 
 
 All course materials (including the syllabus and lecture slides) from the last rendition of the course (Spring 2018) are publically availible on [the course's Canvas site](https://canvas.rice.edu/courses/10423/).
 
