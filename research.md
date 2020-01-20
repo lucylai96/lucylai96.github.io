@@ -4,7 +4,7 @@
 ***
 > _All animals suffer unhappiness because learning is design, and this particular design for learning is optimal..._ 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - from _Principles of Neural Design_ by Sterling and Laughlin
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - from _Principles of Neural Design_ by Sterling and Laughlin
 
 ### currently
 I am a student in the [Computational Cognitive Neuroscience Lab](http://gershmanlab.webfactional.com/index.html) and on occasion, collaborate with the [Ölveczky Lab](https://olveczkylab.oeb.harvard.edu/)!
