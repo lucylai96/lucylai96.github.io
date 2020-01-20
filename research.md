@@ -2,7 +2,7 @@
 ## research
 
 ***
-> _All animals suffer unhappiness because learning is design, and this particular design for learning is optimal..._
+> _All animals suffer unhappiness because learning is design, and this particular design for learning is optimal..._ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - from _Principles of Neural Design_ by Sterling and Laughlin
 
 ### currently
