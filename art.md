@@ -4,16 +4,34 @@
 
 _coming soon._
 ***
+
+ _soliloquy_ thoughts / blog
+_stories_ creative writing
+_snapshots_
+
 _sounds_
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/39690369&color=%23000000&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lucy_lai" title="Lucy Lai" target="_blank" style="color: #cccccc; text-decoration: none;">Lucy Lai</a> · <a href="https://soundcloud.com/lucy_lai/sets/reflections" title="Reflections" target="_blank" style="color: #cccccc; text-decoration: none;">Reflections</a></div>
 
-<iframe width="100%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/639832068&color=%23b8acdc&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lucy_lai" title="Lucy Lai" target="_blank" style="color: #cccccc; text-decoration: none;">Lucy Lai</a> · <a href="https://soundcloud.com/lucy_lai/dj-dirichlet" title="dj dirichlet" target="_blank" style="color: #cccccc; text-decoration: none;">dj dirichlet</a></div>
+**_Reflections (2013)_**
+in another life, i composed music. here is an EP i wrote in high school:
+
+<iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/39690369&color=%23000000&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lucy_lai" title="Lucy Lai" target="_blank" style="color: #cccccc; text-decoration: none;">Lucy Lai</a> · <a href="https://soundcloud.com/lucy_lai/sets/reflections" title="Reflections" target="_blank" style="color: #cccccc; text-decoration: none;">Reflections</a></div>
 
 
-_sounds_
+the idea for this track was actually an accident
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/639832068&color=%23000000&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lucy_lai" title="Lucy Lai" target="_blank" style="color: #cccccc; text-decoration: none;">Lucy Lai</a> · <a href="https://soundcloud.com/lucy_lai/dj-dirichlet" title="dj dirichlet" target="_blank" style="color: #cccccc; text-decoration: none;">dj dirichlet</a></div>
+
+**_Citrullus lanatus (2015)_**
+i was also once really into <a href="https://en.wikipedia.org/wiki/Process_music" target="_blank">process music</a> after taking a course on contemporary music composition in college. inspired by Steve Reich's clapping music, i wrote this piece to be performed on a watermelon:
+
+<iframe width="300" height="315" src="https://www.youtube.com/embed/GGRqrHdU7Dg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-{sounds (compositions), structures (places), soliloquy (blogs), stories (creative writing), snapshots}
+***
+structures
+places that are important to the soul
+- rothko
+
 
 ***
 [back](./)
