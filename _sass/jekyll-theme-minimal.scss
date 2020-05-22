@@ -29,12 +29,12 @@ h1, h2, h3 {
 
 h1 {
   font-size:25px;
-  font-weight:500;
+  font-weight:550;
 }
 
 h2 {
   font-size:20px;
-  font-weight:500;
+  font-weight:550;
   color:#900000;
 }
 
@@ -101,7 +101,7 @@ th, td {
 
 dt {
   color:#444;
-  font-weight:700;
+  font-weight:600;
 }
 
 th {
@@ -157,7 +157,7 @@ ul.downloads {
 
 .downloads a:hover, .downloads a:focus {
   color:#675C5C;
-  font-weight:bold;
+  //font-weight:bold;
 }
 
 .downloads ul a:active {
@@ -166,7 +166,7 @@ ul.downloads {
 
 strong {
   color:#222;
-  font-weight:700;
+  font-weight:600;
 }
 
 .downloads li + li + li {
