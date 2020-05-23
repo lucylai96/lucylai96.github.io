@@ -3,7 +3,7 @@
 ***
 
 <details>
-<summary> <i> soliloquy </i> / thoughts </summary>
+<summary> <i> soliloquy </i> // thoughts </summary>
 - sdasdas
 - asdasda
 - asdasd
@@ -11,7 +11,7 @@
 </details>
 
 <details>
-<summary> <i> stories </i> / creative writing </summary>
+<summary> <i> stories </i> // creative writing </summary>
 - sdasdas
 - asdasda
 - asdasd
@@ -19,7 +19,7 @@
 </details>
 
 <details>
-<summary> <i> snapshots </i> / photos </summary>
+<summary> <i> snapshots </i> // photos </summary>
 - sdasdas
 - asdasda
 - asdasd
@@ -28,7 +28,7 @@
 
 
 <details>
-<summary> <i> sounds </i> / compositions </summary>
+<summary> <i> sounds </i> // compositions </summary>
 <br>
 
 <i><b> Reflections (2013)</b></i>
@@ -52,7 +52,7 @@ i was also once really into <a href="https://en.wikipedia.org/wiki/Process_music
 </details>
 
 <details>
-<summary> <i> structures </i> places and spaces </summary>
+<summary> <i> structures </i> // places and spaces </summary>
 - rothko
 </details>
 
