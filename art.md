@@ -5,16 +5,30 @@
 <details>
 <summary> <i> soliloquy </i> / thoughts </summary>
 <br>
-blog
+- sdasdas
+- asdasda
+- asdasd
+
 </details>
 
 <details>
 <summary> <i> stories </i> / creative writing </summary>
 <br>
+- sdasdas
+- asdasda
+- asdasd
 
 </details>
 
-_snapshots_ photos
+<details>
+<summary> <i> snapshots </i> / photos </summary>
+<br>
+- sdasdas
+- asdasda
+- asdasd
+
+</details>
+
 
 <details>
 <summary> <i> sounds </i> / compositions </summary>
@@ -25,7 +39,6 @@ _snapshots_ photos
 in another life, i composed music. here is an EP i wrote in high school:
 
 <iframe width="100%" height="350" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/39690369&color=%23000000&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lucy_lai" title="Lucy Lai" target="_blank" style="color: #cccccc; text-decoration: none;">Lucy Lai</a> · <a href="https://soundcloud.com/lucy_lai/sets/reflections" title="Reflections" target="_blank" style="color: #cccccc; text-decoration: none;">Reflections</a></div>
-
 
 
 the idea for this track was actually an accident
