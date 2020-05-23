@@ -7,7 +7,7 @@
 - sdasdas
 - asdasda
 - asdasd
-
+<br>
 </details>
 
 <details>
@@ -15,7 +15,7 @@
 - sdasdas
 - asdasda
 - asdasd
-
+<br>
 </details>
 
 <details>
@@ -24,6 +24,7 @@
 - asdasda
 - asdasd
 
+<br>
 </details>
 
 
@@ -56,6 +57,7 @@ i was also once really into <a href="https://en.wikipedia.org/wiki/Process_music
 - rothko
 </details>
 
+<br>
 
 ***
 [back](./)
