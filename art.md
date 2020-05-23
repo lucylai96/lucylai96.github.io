@@ -11,7 +11,12 @@ _stories_ creative writing
 
 _snapshots_ photos
 
-_sounds_ 
+<details>
+<summary> _sounds_ </summary>
+<br>
+This is how you dropdown.
+</details>
+
 
 **_Reflections (2013)_**
 
