@@ -12,11 +12,8 @@ _stories_ creative writing
 _snapshots_ photos
 
 <details>
-<summary> _sounds_ </summary>
+<summary> <i> sounds </i></summary>
 <br>
-This is how you dropdown.
-</details>
-
 
 **_Reflections (2013)_**
 
@@ -38,6 +35,7 @@ i was also once really into <a href="https://en.wikipedia.org/wiki/Process_music
 
 <iframe width="415" height="315" src="https://www.youtube.com/embed/GGRqrHdU7Dg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+</details>
 
 ***
 structures
