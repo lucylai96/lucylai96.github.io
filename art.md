@@ -4,7 +4,6 @@
 
 <details>
 <summary> <i> soliloquy </i> / thoughts </summary>
-<br>
 - sdasdas
 - asdasda
 - asdasd
@@ -13,7 +12,6 @@
 
 <details>
 <summary> <i> stories </i> / creative writing </summary>
-<br>
 - sdasdas
 - asdasda
 - asdasd
@@ -22,7 +20,6 @@
 
 <details>
 <summary> <i> snapshots </i> / photos </summary>
-<br>
 - sdasdas
 - asdasda
 - asdasd
@@ -56,7 +53,6 @@ i was also once really into <a href="https://en.wikipedia.org/wiki/Process_music
 
 <details>
 <summary> <i> structures </i> places and spaces </summary>
-<br>
 - rothko
 </details>
 
