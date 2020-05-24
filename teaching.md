@@ -25,13 +25,13 @@ At Rice, I was a teaching assistant for:
 
 Before I left the Yau Lab, I gave a little tutorial on [model building and fitting](./files/lai_modeling.pdf).
 
-I was also a mentor at [BrainSTEM](https://brainstem.club/), an after-school neuroscience program at [KIPP Sunnyside High School](http://kipphouston.org/sunnyside). The program serves to promote interest in STEM and neuroscience to underrepresented minorities.
+I was also a mentor at [BrainSTEM](https://tmcbrainstem.org/), an after-school neuroscience program at [KIPP Sunnyside High School](http://kipphouston.org/sunnyside). The program serves to promote interest in STEM and neuroscience in underserved areas of Houston.
 
 #### COLL 158: How Music Plays The Brain
 
 By far, my favorite teaching endeavor has been bringing [COLL 158: How Music Plays the Brain](https://courses.rice.edu/admweb/!SWKSCAT.cat?p_action=CATALIST&p_acyr_code=2019&p_crse_numb=158&p_subj=COLL) to life! I designed and taught 3 semesters of this seminar course on the intersection of music and neuroscience. _COLL 158 won the 2017 Rice University [Student-Taught Course Teaching award](https://cte.rice.edu/stc#award)!_
 
-All course materials (including the syllabus and lecture slides) from the last rendition of the course (Spring 2018) are publically availible on [the course's Canvas site](https://canvas.rice.edu/courses/10423/).
+All course materials (including the syllabus and lecture slides) from the last rendition of the course (Spring 2018) are publicly available on [the course's Canvas site](https://canvas.rice.edu/courses/10423/).
 
 ![Visiting CAMRI](./files/coll158camri.jpg)
 

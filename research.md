@@ -5,9 +5,9 @@
 > "All animals suffer unhappiness because learning is design, and this particular design for learning is optimal..."  - from Principles of Neural Design by Sterling and Laughlin
 
 ### currently
-I am a student in the [Computational Cognitive Neuroscience Lab](http://gershmanlab.webfactional.com/index.html) and on occasion, collaborate with the [Ölveczky Lab](https://olveczkylab.oeb.harvard.edu/)!
+I am a grad student in the [Computational Cognitive Neuroscience Lab](http://gershmanlab.webfactional.com/index.html). On occasion, you can also find me in the [Ölveczky Lab](https://olveczkylab.oeb.harvard.edu/).
 
-My current work focuses on understanding how structure and parameter learning (two components of RL) are subserved by distinct brain areas during motor skill acquisition.
+I study habits: what they are, why they form, and how we break them.
 
 ### previously
 My undergraduate research days were spent in the [Yau Lab](http://yaulab.com/) at the [Baylor College of Medicine](http://www.bcm.edu/) . There I worked on developing a Bayesian inference model to explain repulsive multisensory cue interactions. I presented this work at SfN 2016, IMRF 2017, and CCN 2017.
