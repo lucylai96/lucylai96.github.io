@@ -26,7 +26,7 @@
 <br>
 </details>
 
-<br>
+
 <details>
 <summary> <i> sounds </i> // compositions </summary>
 in a previous life, i made music...
@@ -50,7 +50,7 @@ a couple months into grad school, i thought of the idea for this mix (almost by 
 <br>
 </details>
 
-<br>
+
 <details>
 <summary> <i> structures </i> // places and spaces </summary>
 <i>several places</i>
