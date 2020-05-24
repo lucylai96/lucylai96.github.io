@@ -4,32 +4,28 @@
 
 <details>
 <summary> <i> soliloquy </i> // thoughts </summary>
-<br>
+<i>some thoughts that i written </i>
 ...
+more on my personal blog
 <br>
 </details>
 
 <details>
 <summary> <i> stories </i> // creative writing </summary>
-- sdasdas
-- asdasda
-- asdasd
+<i>some creative pieces that I have written </i>
+...
 <br>
 </details>
 
 <details>
 <summary> <i> snapshots </i> // photos </summary>
-- sdasdas
-- asdasda
-- asdasd
-
+...
 <br>
 </details>
 
-
 <details>
 <summary> <i> sounds </i> // compositions </summary>
-in a previous life, i made music...
+<i>in a previous life, i made music...</i>
 <br>
 <br>
 <i><b> Reflections (2013)</b></i> is an EP i wrote in high school:
@@ -53,9 +49,7 @@ a couple months into grad school, i thought of the idea for this mix (almost by 
 
 <details>
 <summary> <i> structures </i> // places and spaces </summary>
-<i>several places</i>
-<br>
-<p align=center><i>that hold special space in my heart... </i></p>
+<i>several places that hold special space in my heart... </i>
 
 <ul>
   <li>   <a href="http://rothkochapel.org/" target="_blank">Rothko Chapel</a> </li>
