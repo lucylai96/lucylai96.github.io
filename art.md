@@ -4,12 +4,15 @@
 
 <details>
 <summary> <i> soliloquy </i> // thoughts </summary>
+<br>
 - sdasdas
+<br>
 - asdasda
+<br>
 - asdasd
 <br>
 </details>
-
+<br>
 <details>
 <summary> <i> stories </i> // creative writing </summary>
 - sdasdas
@@ -17,7 +20,7 @@
 - asdasd
 <br>
 </details>
-
+<br>
 <details>
 <summary> <i> snapshots </i> // photos </summary>
 - sdasdas
@@ -27,7 +30,7 @@
 <br>
 </details>
 
-
+<br>
 <details>
 <summary> <i> sounds </i> // compositions </summary>
 <br>
@@ -44,17 +47,25 @@ the idea for this track was actually an accident
 <br>
 
 <i><b> Citrullus Ianatus (2015)</b> </i>
+
 <br>
-i was also once really into <a href="https://en.wikipedia.org/wiki/Process_music" target="_blank">process music</a> after taking a course on contemporary music composition in college. inspired by Steve Reich's clapping music, i wrote this piece to be performed on a watermelon:
+
+i once got really into <a href="https://en.wikipedia.org/wiki/Process_music" target="_blank">process music</a> after taking a course on contemporary music composition in college. inspired by Steve Reich's clapping music, i wrote this piece to be performed on a watermelon:
 
 <iframe width="415" height="315" src="https://www.youtube.com/embed/GGRqrHdU7Dg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 </details>
 
+<br>
 <details>
 <summary> <i> structures </i> // places and spaces </summary>
-- rothko
+<br>
+here are a couple of places that are near and dear to my heart...
+
+<ul>
+  <li>   <a href="http://rothkochapel.org/" target="_blank">Rothko Chapel</a> </li>
+</ul>
 </details>
 
 <br>
