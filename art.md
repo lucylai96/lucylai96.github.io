@@ -3,15 +3,18 @@
 ***
 
 <details>
-<summary> <i> soliloquy </i> // thoughts </summary>
-<i>some thoughts that i written </i>
-...
-more on my personal blog
+<summary> <i> soliloquy </i> // poetry </summary>
+<div style="text-align: left"> attempting to capture my fleeting thoughts </div>
+
+<br>
+these are some of my favorite pieces
+<br>
+more poetry here
 <br>
 </details>
 
 <details>
-<summary> <i> stories </i> // creative writing </summary>
+<summary> <i> stories </i> // personal writing </summary>
 <i>some creative pieces that I have written </i>
 ...
 <br>
@@ -49,7 +52,7 @@ a couple months into grad school, i thought of the idea for this mix (almost by 
 
 <details>
 <summary> <i> structures </i> // places and spaces </summary>
-<i>several places that hold special space in my heart... </i>
+<div style="text-align: left"> <i>several places that hold special space in my heart... </i> </div>
 
 <ul>
   <li>   <a href="http://rothkochapel.org/" target="_blank">Rothko Chapel</a> </li>
