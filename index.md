@@ -6,6 +6,6 @@ Previously, I studied <a href="http://cogsci.rice.edu/" target="_blank">Cognitiv
 
 Outside the lab, I enjoy teaching, playing the piano, running, <a href="http://lucyblogs.wordpress.com/" target="_blank">writing</a> <a href="http://subcorticalsongs.wordpress.com/" target="_blank">stuff</a>, coffee, and classical music (<a href="https://en.wikipedia.org/wiki/Alexander_Scriabin" target="_blank">Alexander Scriabin</a> has been the recent obsession).
 
-You can email me at lucylai (at) g (dot) harvard (dot) edu.
+Email me at lucylai (at) g (dot) harvard (dot) edu.
 
-**[CV](./lai_cv.pdf)**
+**[CV](./files/lai_cv.pdf)**
