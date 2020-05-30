@@ -7,17 +7,17 @@
 <p style="text-align:right"> <i> an attempt to capture fleeting thoughts </i> </p>
 these are some of my favorite pieces I've written:
 <ul>
-  <li>   <a href="https://subcorticalsongs.wordpress.com/2020/01/21/and-now-we-see-in-20-20/" target="_blank"> <i> and now we see in 2020 </i> / about forgiveness </a> </li>
-  <li>   <a href="https://subcorticalsongs.wordpress.com/2019/07/28/these-idyllic-sheets/" target="_blank"> <i> these idyllic sheets </i> / fleeting memories of a brief love </a> </li>
-  <li>   <a href="https://subcorticalsongs.wordpress.com/2019/08/14/idee-fixe/" target="_blank">  <i> idée fixe </i> / endless striving towards the unknown  </a> </li>
-  <li>   <a href="https://subcorticalsongs.wordpress.com/2019/06/08/summertime/" target="_blank"> <i> summertime </i> / the best month </a> </li>
+  <li>   <a href="https://subcorticalsongs.wordpress.com/2020/01/21/and-now-we-see-in-20-20/" target="_blank"> <i> and now we see in 2020 </i> </a> </li>/ about forgiveness
+  <li>   <a href="https://subcorticalsongs.wordpress.com/2019/07/28/these-idyllic-sheets/" target="_blank"> <i> these idyllic sheets </i> </a> </li>/ fleeting memories of a brief love
+  <li>   <a href="https://subcorticalsongs.wordpress.com/2019/08/14/idee-fixe/" target="_blank">  <i> idée fixe </i> </a> </li>/ endless striving towards the unknown
+  <li>   <a href="https://subcorticalsongs.wordpress.com/2019/06/08/summertime/" target="_blank"> <i> summertime </i> </a> </li> / the best month
   <li>   <a href="https://subcorticalsongs.wordpress.com/2018/08/06/getting-intimate-with-a-crab/" target="_blank">  <i> getting intimate with a crab </i> / thoughts before a satisfying meal </a> </li>
-  <li>   <a href="https://subcorticalsongs.wordpress.com/2018/06/24/the-orange/" target="_blank">  <i>  the orange </i> / reconsidering the ordinary  </a> </li>
-  <li>   <a href="https://subcorticalsongs.wordpress.com/2018/06/22/sliced-pears/" target="_blank"> <i> sliced pears </i> / an Asian father's language of love </a> </li>
-<li>   <a href="https://subcorticalsongs.wordpress.com/2018/06/27/pathetique/" target="_blank"> <i> pathétique </i> / for Tchaikovsky  </a> </li>
+  <li>   <a href="https://subcorticalsongs.wordpress.com/2018/06/24/the-orange/" target="_blank">  <i>  the orange </i></a> </li> / reconsidering the ordinary  
+  <li>   <a href="https://subcorticalsongs.wordpress.com/2018/06/22/sliced-pears/" target="_blank"> <i> sliced pears </i></a> </li>/ an Asian father's love
+<li>   <a href="https://subcorticalsongs.wordpress.com/2018/06/27/pathetique/" target="_blank"> <i> pathétique </i> </a> </li>/ for Tchaikovsky
 </ul>
 
-more poetry  <a href="https://subcorticalsongs.wordpress.com/" target="_blank"> <i> here </i> </a>
+<p style="text-align:right"> more poetry  <a href="https://subcorticalsongs.wordpress.com/" target="_blank"> <i> here </i> </a> </p>
 <br>
 
 </details>
