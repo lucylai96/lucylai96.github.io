@@ -4,7 +4,7 @@
 
 <details>
 <summary> <i> soliloquy </i> // poetry </summary>
-<p style="text-align:right"> an attempt to capture fleeting thoughts </p>
+<p style="text-align:right"> <i> an attempt to capture fleeting thoughts </i> </p>
 these are some of my favorite pieces I've written:
 <ul>
   <li>   <a href="https://subcorticalsongs.wordpress.com/2020/01/21/and-now-we-see-in-20-20/" target="_blank"> <i> and now we see in 2020 </i> / about forgiveness </a> </li>
