@@ -2,8 +2,7 @@
 ***
 Written notes on certain topics forthcoming (esp as I prepare for quals!).
 
-[hello world!](./notes/helloworld.md)
+[hello world!](./posts/helloworld.md)
 
 ***
 [back](./)
-

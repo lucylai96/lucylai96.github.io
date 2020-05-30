@@ -2,9 +2,9 @@
 @import "rouge-github";
 
 body {
-  background-color: #fff;
+  background-color: #ffffff;
   padding: 50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 15px/1.5 "HelveticaNeue-Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#424242;
   font-weight:300;
 }
@@ -29,14 +29,23 @@ h1, h2, h3 {
 
 h1 {
   font-size:25px;
+  font-weight:540;
+}
+
+h1:hover, h1:focus {
+  font-weight: 540;
 }
 
 h2 {
+  font-size:20px;
+  font-weight:540;
   color:#900000;
 }
 
 h3, h4, h5, h6 {
   color:#900000;
+  font-weight:550;
+  font-style:italic;
 }
 
 a {
@@ -45,8 +54,8 @@ a {
 }
 
 a:hover, a:focus {
-  color:#300000;
-  font-weight: bold;
+  color:#4f0000;
+  font-weight: 550;
 }
 
 a small {
@@ -70,6 +79,7 @@ blockquote {
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;
+  font-weight:300;
 }
 
 code, pre {
@@ -98,7 +108,7 @@ th, td {
 
 dt {
   color:#444;
-  font-weight:700;
+  font-weight:540;
 }
 
 th {
@@ -114,7 +124,7 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
-  
+
 }
 
 ul.downloads {
@@ -154,7 +164,7 @@ ul.downloads {
 
 .downloads a:hover, .downloads a:focus {
   color:#675C5C;
-  font-weight:bold;
+  //font-weight:bold;
 }
 
 .downloads ul a:active {
@@ -163,7 +173,7 @@ ul.downloads {
 
 strong {
   color:#222;
-  font-weight:700;
+  font-weight:550;
 }
 
 .downloads li + li + li {
@@ -219,7 +229,7 @@ footer {
     padding-right:320px;
     padding-bottom:100px;
   }
- 
+
 
   section {
     border:1px solid #e5e5e5;
