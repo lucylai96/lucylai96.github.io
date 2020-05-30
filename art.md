@@ -18,7 +18,7 @@ these are some of my favorite pieces
 <li>   <a href="https://subcorticalsongs.wordpress.com/2018/06/27/pathetique/" target="_blank"> <i> pathétique </i> / for Tchaikovsky  </a> </li>
 </ul>
 
-more poetry  <a href="https://subcorticalsongs.wordpress.com/" target="_blank"> <i> here </i> </a> </li>
+more poetry  <a href="https://subcorticalsongs.wordpress.com/" target="_blank"> <i> here </i> </a> 
 <br>
 
 </details>
