@@ -4,6 +4,7 @@
 
 <details>
 <summary> <i> soliloquy </i> // poetry </summary>
+<<<<<<< HEAD
 <p style="text-align:left"> attempting to capture my fleeting thoughts </p>
 
 <br>
@@ -23,6 +24,13 @@ these are some of my favorite pieces
 
 
 </ul>
+=======
+<div style="text-align: left"> attempting to capture my fleeting thoughts </div>
+
+<br>
+these are some of my favorite pieces
+<br>
+>>>>>>> e1801a154e2fbed1b9a8418c5a641e633fd524a6
 more poetry here
 <br>
 </details>
