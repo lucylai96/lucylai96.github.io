@@ -14,15 +14,14 @@ these are some of my favorite pieces
   <li>   <a href="https://subcorticalsongs.wordpress.com/2019/08/14/idee-fixe/" target="_blank">  <i> idée fixe </i> / endless striving towards the unknown  </a> </li>
   <li>   <a href="https://subcorticalsongs.wordpress.com/2019/06/08/summertime/" target="_blank"> <i> summertime </i> / the best month </a> </li>
   <li>   <a href="https://subcorticalsongs.wordpress.com/2018/08/06/getting-intimate-with-a-crab/" target="_blank">  <i> getting intimate with a crab </i> / thoughts before a satisfying meal </a> </li>
-  <li>   <a href="https://subcorticalsongs.wordpress.com/2018/06/22/sliced-pears/" target="_blank"> sliced pears /  </a> </li>
-  <li>   <a href="https://subcorticalsongs.wordpress.com/2018/06/24/the-orange/" target="_blank"> the orange /  </a> </li>
-  <li>   <a href="https://subcorticalsongs.wordpress.com/2018/06/22/sliced-pears/" target="_blank"> sliced pears /  </a> </li>
-<li>   <a href="https://subcorticalsongs.wordpress.com/2018/06/27/pathetique/" target="_blank"> pathetique /  </a> </li>
-
-
+  <li>   <a href="https://subcorticalsongs.wordpress.com/2018/06/24/the-orange/" target="_blank">  <i>  the orange </i> / reconsidering the ordinary  </a> </li>
+  <li>   <a href="https://subcorticalsongs.wordpress.com/2018/06/22/sliced-pears/" target="_blank"> <i> sliced pears </i> / an Asian father's language of love </a> </li>
+<li>   <a href="https://subcorticalsongs.wordpress.com/2018/06/27/pathetique/" target="_blank"> <i> pathétique </i> / for Tchaikovsky  </a> </li>
 </ul>
-more poetry  <a href="https://subcorticalsongs.wordpress.com/" target="_blank"> here /
+
+more poetry  <a href="https://subcorticalsongs.wordpress.com/" target="_blank"> <i> here </i> </a> </li>
 <br>
+
 </details>
 
 <details>
