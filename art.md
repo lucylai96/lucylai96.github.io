@@ -4,9 +4,8 @@
 
 <details>
 <summary> <i> soliloquy </i> // poetry </summary>
-<p style="text-align:right"> attempting to capture my fleeting thoughts </p>
-
-these are some of my favorite pieces
+<p style="text-align:right"> an attempt to capture fleeting thoughts </p>
+these are some of my favorite pieces I've written:
 <ul>
   <li>   <a href="https://subcorticalsongs.wordpress.com/2020/01/21/and-now-we-see-in-20-20/" target="_blank"> <i> and now we see in 2020 </i> / about forgiveness </a> </li>
   <li>   <a href="https://subcorticalsongs.wordpress.com/2019/07/28/these-idyllic-sheets/" target="_blank"> <i> these idyllic sheets </i> / fleeting memories of a brief love </a> </li>
@@ -18,7 +17,7 @@ these are some of my favorite pieces
 <li>   <a href="https://subcorticalsongs.wordpress.com/2018/06/27/pathetique/" target="_blank"> <i> pathétique </i> / for Tchaikovsky  </a> </li>
 </ul>
 
-more poetry  <a href="https://subcorticalsongs.wordpress.com/" target="_blank"> <i> here </i> </a> 
+more poetry  <a href="https://subcorticalsongs.wordpress.com/" target="_blank"> <i> here </i> </a>
 <br>
 
 </details>
