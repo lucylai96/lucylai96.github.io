@@ -4,9 +4,8 @@
 
 <details>
 <summary> <i> soliloquy </i> // poetry </summary>
-<p style="text-align:left"> attempting to capture my fleeting thoughts </p>
+<p style="text-align:right"> attempting to capture my fleeting thoughts </p>
 
-<br>
 these are some of my favorite pieces
 <ul>
   <li>   <a href="https://subcorticalsongs.wordpress.com/2020/01/21/and-now-we-see-in-20-20/" target="_blank"> <i> and now we see in 2020 </i> / about forgiveness </a> </li>
@@ -26,7 +25,7 @@ more poetry  <a href="https://subcorticalsongs.wordpress.com/" target="_blank"> 
 
 <details>
 <summary> <i> stories </i> // personal writing </summary>
-<i>some creative pieces that I have written </i>
+some creative pieces that I have written
 ...
 <br>
 </details>
