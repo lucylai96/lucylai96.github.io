@@ -83,8 +83,7 @@ i hope you enjoy :)
   <li>   <a href="https://www.ssje.org/" target="_blank">Society of Saint John the Evangelist</a> </li>
   <li>   <a href="https://bso.org" target="_blank">Symphony Hall</a> </li>
   <li>   <a href="https://www.bso.org/brands/tanglewood-music-center/explore-the-tanglewood-music-center.aspx" target="_blank">Tanglewood</a> </li>
-  <li>   <a href="https://janelia.org/" target="_blank">Janelia Research Campus</a> </li>
-
+  <li>   <a href="https://vinoly.com/works/howard-hughes-medical-institute-janelia-research-campus/" target="_blank">Janelia Research Campus</a> </li>
 </ul>
 </details>
 <br>
