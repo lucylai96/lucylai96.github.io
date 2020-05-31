@@ -49,14 +49,16 @@
 <iframe width="100%" height="350" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/39690369&color=%23000000&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lucy_lai" title="Lucy Lai" target="_blank" style="color: #cccccc; text-decoration: none;">Lucy Lai</a> · <a href="https://soundcloud.com/lucy_lai/sets/reflections" title="Reflections" target="_blank" style="color: #cccccc; text-decoration: none;">Reflections</a></div>
 
 <br>
-<i><b> Citrullus Ianatus (2015)</b> </i> / once upon a time, I got really into <a href="https://en.wikipedia.org/wiki/Process_music" target="_blank">process music</a> after taking a course on contemporary music composition in college. i wrote this piece for watermelon, inspired by Steve Reich's <a href="https://en.wikipedia.org/wiki/Clapping_Music" target="_blank">process music</a> clapping music. want to perform this? luckily, i kept the [score](./compositions/watermelon_score.pdf) :)
+<i><b> Citrullus Ianatus (2015)</b> </i> / once upon a time, I got really into <a href="https://en.wikipedia.org/wiki/Process_music" target="_blank">process music</a> after taking a course on contemporary music composition in college. I wrote this piece for watermelon, inspired by Steve Reich's <a href="https://en.wikipedia.org/wiki/Clapping_Music" target="_blank">clapping music</a>. want to perform this? luckily, i kept the <a href="http://lucy-lai.com/compositions/watermelon_score.pdf" target="_blank">score</a> :)
 
 <iframe width="415" height="315" src="https://www.youtube.com/embed/GGRqrHdU7Dg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
+<br>
+<i><b> Father Eradicates House Fly (2015)</b> </i> / i wrote this to personify my father's fly-snatching talent... / <a href="http://lucy-lai.com/compositions/housefly_score.pdf" target="_blank">score</a>
+<br>
+<br>
 
-<i><b> Father Eradicates House Fly (2015)</b> </i> / i wrote this to personify my father's fly-snatching talent... / [score](./compositions/housefly_score.pdf) :)
-
-<i><b> I C the End (2015)</b> </i> / an experiment in monotony / [score](./compositions/ctheend_score.pdf) :)
+<i><b> I C the End (2015)</b> </i> / an experiment in monotony /  <a href="http://lucy-lai.com/compositions/ictheend_score.pdf" target="_blank">score</a>
 
 <br>
 
