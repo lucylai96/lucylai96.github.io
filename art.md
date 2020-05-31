@@ -1,8 +1,8 @@
 
 ## creations
 ***
-here, a collection of my
-creations and contemplations.
+here, a collection of my <br>
+creations and contemplations. <br>
 i hope you enjoy :)
 
 <details>
