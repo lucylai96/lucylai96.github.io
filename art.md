@@ -5,10 +5,9 @@
 <details>
 <summary> <i> soliloquy </i> // poetry </summary>
 <p style="text-align:right"> <i> an attempt to capture fleeting thoughts </i> </p>
-some of my favorite pieces:
 <ul>
-  <li>   <a href="https://subcorticalsongs.wordpress.com/2020/01/21/and-now-we-see-in-20-20/" target="_blank"> <i> and now we see in 2020 </i> </a> / about forgiveness </li>
-  <li>   <a href="https://subcorticalsongs.wordpress.com/2019/07/28/these-idyllic-sheets/" target="_blank"> <i> these idyllic sheets </i> </a> / fleeting memories of a brief love </li>
+  <li>   <a href="https://subcorticalsongs.wordpress.com/2020/01/21/and-now-we-see-in-20-20/" target="_blank"> <i> and now we see in 20/20 </i> </a> / about forgiveness </li>
+  <li>   <a href="https://subcorticalsongs.wordpress.com/2019/07/28/these-idyllic-sheets/" target="_blank"> <i> these idyllic sheets </i> </a> / a brief love </li>
   <li>   <a href="https://subcorticalsongs.wordpress.com/2019/08/14/idee-fixe/" target="_blank">  <i> idée fixe </i> </a> / endless striving towards the unknown </li>
   <li>   <a href="https://subcorticalsongs.wordpress.com/2019/06/08/summertime/" target="_blank"> <i> summertime </i> </a> / the best month</li>
   <li>   <a href="https://subcorticalsongs.wordpress.com/2018/08/06/getting-intimate-with-a-crab/" target="_blank">  <i> getting intimate with a crab </i> </a>/ thoughts before a satisfying meal </li>
@@ -24,6 +23,7 @@ some of my favorite pieces:
 <details>
 <summary> <i> stories </i> // personal writing </summary>
 <p style="text-align:right"> <i> on life and growing up </i> </p>
+
 <ul>
   <li>   <a href="https://lucyblogs.wordpress.com/2019/11/28/a-letter-from-the-past/" target="_blank">  <i> a letter from the past </i> </a> / receiving a letter from my 16-year-old self </li>
   <li>   <a href="https://lucyblogs.wordpress.com/2018/12/27/antoine-from-chicago/" target="_blank"> <i> Antoine, from Chicago </i> </a> / an unlikely encounter </li>
@@ -36,7 +36,7 @@ some of my favorite pieces:
 
 <details>
 <summary> <i> snapshots </i> // photos </summary>
-<p style="text-align:right"> <i> some beautiful moments </i> </p>
+<p style="text-align:right"> <i> some beautiful moments, captured </i> </p>
 ...
 <br>
 </details>
@@ -44,16 +44,20 @@ some of my favorite pieces:
 <details>
 <summary> <i> sounds </i> // compositions </summary>
 <p style="text-align:right"> <i> in a previous life... </i> </p>
-
-<i><b> Reflections (2013)</b></i> / an EP I wrote in high school.
-
-<p><iframe width="100%" height="350" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/39690369&color=%23000000&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lucy_lai" title="Lucy Lai" target="_blank" style="color: #cccccc; text-decoration: none;">Lucy Lai</a> · <a href="https://soundcloud.com/lucy_lai/sets/reflections" title="Reflections" target="_blank" style="color: #cccccc; text-decoration: none;">Reflections</a></div></p>
+<i><b> Reflections (2013)</b></i> / an EP I wrote in high school
+<br>
+<iframe width="100%" height="350" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/39690369&color=%23000000&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lucy_lai" title="Lucy Lai" target="_blank" style="color: #cccccc; text-decoration: none;">Lucy Lai</a> · <a href="https://soundcloud.com/lucy_lai/sets/reflections" title="Reflections" target="_blank" style="color: #cccccc; text-decoration: none;">Reflections</a></div>
 
 <br>
-<i><b> Citrullus Ianatus (2015)</b> </i> / once upon a time I got really into <a href="https://en.wikipedia.org/wiki/Process_music" target="_blank">process music</a> after taking a course on contemporary music composition in college. i wrote this piece for watermelon, inspired by Steve Reich's clapping music (score).
+<i><b> Citrullus Ianatus (2015)</b> </i> / once upon a time, I got really into <a href="https://en.wikipedia.org/wiki/Process_music" target="_blank">process music</a> after taking a course on contemporary music composition in college. i wrote this piece for watermelon, inspired by Steve Reich's <a href="https://en.wikipedia.org/wiki/Clapping_Music" target="_blank">process music</a> clapping music. want to perform this? luckily, i kept the [score](./compositions/watermelon_score.pdf) :)
 
 <iframe width="415" height="315" src="https://www.youtube.com/embed/GGRqrHdU7Dg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
+
+<i><b> Father Eradicates House Fly (2015)</b> </i> / i wrote this to personify my father's fly-snatching talent... / [score](./compositions/housefly_score.pdf) :)
+
+<i><b> I C the End (2015)</b> </i> / an experiment in monotony / [score](./compositions/ctheend_score.pdf) :)
+
 <br>
 
 <i><b> Misc. </b> </i> / a couple months into grad school, an idea came to me after listening to music while learning about Dirichlet Processes on YouTube...
