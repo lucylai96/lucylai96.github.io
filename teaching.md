@@ -39,7 +39,7 @@ _**COLL 158 visits Baylor College of Medicine's [Core for Advanced Magnetic Reso
 
 > “Students will leave this course having developed a greater appreciation for the power of music through dialogues between an age-old art and a budding field of science.”  - from the course syllabus
 
-Did I fulfill my promises? :p
+Did I fulfill my promises? :-)
 
 #### Course Evaluations
 * [what they thought of the course](./files/coll158_evals.pdf)
