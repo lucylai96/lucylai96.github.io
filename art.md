@@ -54,7 +54,7 @@
 <iframe width="415" height="315" src="https://www.youtube.com/embed/GGRqrHdU7Dg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
-<i><b> Father Eradicates House Fly (2015)</b> </i> / i wrote this to personify my father's fly-snatching talent... / <a href="http://lucy-lai.com/compositions/housefly_score.pdf" target="_blank">score</a>
+<i><b> Father Eradicates House Fly (2015)</b> </i> / for my father, in honor of his fly-snatching talents... / <a href="http://lucy-lai.com/compositions/housefly_score.pdf" target="_blank">score</a>
 <br>
 <br>
 
@@ -76,7 +76,7 @@
 <ul>
   <li>   <a href="http://rothkochapel.org/" target="_blank">Rothko Chapel</a> </li>
   <li>   <a href="https://www.menil.org/" target="_blank">The Menil Collection</a> </li>
-  <li>   <a href="https://www.ssje.org/" target="_blank">Compline at the Society of Saint John the Evangelist</a> </li>
+  <li>   <a href="https://www.ssje.org/" target="_blank">Society of Saint John the Evangelist</a> </li>
   <li>   <a href="https://janelia.org/" target="_blank">Janelia Research Campus</a> </li>
   <li>   <a href="https://en.wikipedia.org/wiki/Wuyi_Mountains" target="_blank">Wuyi Mountains</a> </li>
 
