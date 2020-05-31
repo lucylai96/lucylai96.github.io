@@ -29,8 +29,7 @@ some of my favorite pieces:
   <li>   <a href="https://lucyblogs.wordpress.com/2018/12/27/antoine-from-chicago/" target="_blank"> <i> Antoine, from Chicago </i> </a> / an unlikely encounter </li>
   <li>   <a href="https://lucyblogs.wordpress.com/2019/12/31/growing-pains-2019/" target="_blank"> <i> growing pains, 2019 </i> </a> / on therapy </li>
   <li>   <a href="https://lucyblogs.wordpress.com/2019/08/13/on-childlike-passion/" target="_blank"> <i> on childlike passion </i> </a> / my earliest memory </li>
-
-
+</ul>
 <p style="text-align:right"> more stories <a href="https://lucyblogs.wordpress.com/" target="_blank"> <i> here </i> </a> </p>
 
 </details>
