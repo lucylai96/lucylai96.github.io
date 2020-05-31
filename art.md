@@ -69,10 +69,15 @@
 
 <details>
 <summary> <i> structures </i> // places and spaces </summary>
-<div style="text-align:right"> <i>several places that hold special space for me</i> </div>
+<div style="text-align:right"> <i>places that hold special space for me</i> </div>
 
 <ul>
   <li>   <a href="http://rothkochapel.org/" target="_blank">Rothko Chapel</a> </li>
+  <li>   <a href="https://www.menil.org/" target="_blank">The Menil Collection</a> </li>
+  <li>   <a href="https://www.ssje.org/" target="_blank">Compline at the Society of Saint John the Evangelist</a> </li>
+  <li>   <a href="https://janelia.org/" target="_blank">Janelia Research Campus</a> </li>
+  <li>   <a href="https://en.wikipedia.org/wiki/Wuyi_Mountains" target="_blank">Wuyi Mountains</a> </li>
+
 </ul>
 </details>
 <br>
