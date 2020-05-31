@@ -5,9 +5,7 @@
 <details>
 <summary> <i> soliloquy </i> // poetry </summary>
 <p style="text-align:right"> <i> an attempt to capture fleeting thoughts </i> </p>
-these are some
-<p style="text-align:center"> <i> of my favorite pieces</i> </p>
-<p style="text-align:right"> <i> that I've written:</i> </p>
+some of my favorite pieces:
 <ul>
   <li>   <a href="https://subcorticalsongs.wordpress.com/2020/01/21/and-now-we-see-in-20-20/" target="_blank"> <i> and now we see in 2020 </i> </a> / about forgiveness </li>
   <li>   <a href="https://subcorticalsongs.wordpress.com/2019/07/28/these-idyllic-sheets/" target="_blank"> <i> these idyllic sheets </i> </a> / fleeting memories of a brief love </li>
@@ -21,39 +19,46 @@ these are some
 
 <p style="text-align:right"> more poetry  <a href="https://subcorticalsongs.wordpress.com/" target="_blank"> <i> here </i> </a> </p>
 <br>
-
 </details>
 
 <details>
 <summary> <i> stories </i> // personal writing </summary>
-<p style="text-align:right"> <i> about life and growing up </i> </p>
-...
+<p style="text-align:right"> <i> on life and growing up </i> </p>
+
+<ul>
+  <li>   <a href="https://lucyblogs.wordpress.com/2019/11/28/a-letter-from-the-past/" target="_blank">  <i> a letter from the past </i> </a> / receiving a letter from my 16-year-old self </li>
+  <li>   <a href="https://lucyblogs.wordpress.com/2018/12/27/antoine-from-chicago/" target="_blank"> <i> Antoine, from Chicago </i> </a> / an unlikely encounter </li>
+  <li>   <a href="https://lucyblogs.wordpress.com/2019/12/31/growing-pains-2019/" target="_blank"> <i> growing pains, 2019 </i> </a> / on therapy </li>
+  <li>   <a href="https://lucyblogs.wordpress.com/2019/08/13/on-childlike-passion/" target="_blank"> <i> on childlike passion </i> </a> / on my earliest memory </li>
+
+
+<p style="text-align:right"> more stories <a href="https://lucyblogs.wordpress.com/" target="_blank"> <i> here </i> </a> </p>
 <br>
 </details>
 
 <details>
 <summary> <i> snapshots </i> // photos </summary>
+<p style="text-align:right"> <i> some beautiful moments </i> </p>
 ...
 <br>
 </details>
 
 <details>
 <summary> <i> sounds </i> // compositions </summary>
-<p style="text-align:right"> <i> in a previous life, I wrote some tunes... </i> </p>
+<p style="text-align:right"> <i> in a previous life... </i> </p>
 <br>
-<i><b> Reflections (2013)</b></i> / an EP i wrote in high school.
+<i><b> Reflections (2013)</b></i> / an EP I wrote in high school.
 
 <p><iframe width="100%" height="350" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/39690369&color=%23000000&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lucy_lai" title="Lucy Lai" target="_blank" style="color: #cccccc; text-decoration: none;">Lucy Lai</a> · <a href="https://soundcloud.com/lucy_lai/sets/reflections" title="Reflections" target="_blank" style="color: #cccccc; text-decoration: none;">Reflections</a></div></p>
 
 <br>
-<i><b> Citrullus Ianatus (2015)</b> </i> i got really into <a href="https://en.wikipedia.org/wiki/Process_music" target="_blank">process music</a> after taking a course on contemporary music composition in college. i wrote this piece for watermelon, inspired by Steve Reich's clapping music (score).
+<i><b> Citrullus Ianatus (2015)</b> </i> / once upon a time I got really into <a href="https://en.wikipedia.org/wiki/Process_music" target="_blank">process music</a> after taking a course on contemporary music composition in college. i wrote this piece for watermelon, inspired by Steve Reich's clapping music (score).
 
 <iframe width="415" height="315" src="https://www.youtube.com/embed/GGRqrHdU7Dg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
 
-<i><b> Misc. </b> </i>
-a couple months into grad school, i thought of the idea for this mix (almost by accident) after trying to listen to music while learning about Dirichlet Processes on YouTube...
+<i><b> Misc. </b> </i> / a couple months into grad school, an idea came to me after listening to music while learning about Dirichlet Processes on YouTube...
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/639832068&color=%23000000&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lucy_lai" title="Lucy Lai" target="_blank" style="color: #cccccc; text-decoration: none;">Lucy Lai</a> · <a href="https://soundcloud.com/lucy_lai/dj-dirichlet" title="dj dirichlet" target="_blank" style="color: #cccccc; text-decoration: none;">dj dirichlet</a></div>
 <br>
@@ -62,7 +67,7 @@ a couple months into grad school, i thought of the idea for this mix (almost by 
 
 <details>
 <summary> <i> structures </i> // places and spaces </summary>
-<div style="text-align: left"> <i>several places that hold special space in my heart... </i> </div>
+<div style="text-align:right"> <i>several places that hold special space for me</i> </div>
 
 <ul>
   <li>   <a href="http://rothkochapel.org/" target="_blank">Rothko Chapel</a> </li>
