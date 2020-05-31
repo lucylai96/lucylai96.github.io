@@ -79,10 +79,10 @@ i hope you enjoy :)
 
 <ul>
   <li>   <a href="http://rothkochapel.org/" target="_blank">Rothko Chapel</a> </li>
-  <li>   <a href="https://franklloydwright.org/taliesin-west/" target="_blank">Taliesin West</a> </li>
   <li>   <a href="https://www.ssje.org/" target="_blank">Society of Saint John the Evangelist</a> </li>
   <li>   <a href="https://bso.org" target="_blank">Symphony Hall</a> </li>
   <li>   <a href="https://www.bso.org/brands/tanglewood-music-center/explore-the-tanglewood-music-center.aspx" target="_blank">Tanglewood</a> </li>
+  <li>   <a href="https://franklloydwright.org/taliesin-west/" target="_blank">Taliesin West</a> </li>
   <li>   <a href="https://vinoly.com/works/howard-hughes-medical-institute-janelia-research-campus/" target="_blank">Janelia Research Campus</a> </li>
 </ul>
 </details>
