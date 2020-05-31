@@ -3,7 +3,7 @@
 ***
 here, a collection of my <br>
 creations and contemplations. <br>
-i hope you enjoy :)
+i hope you enjoy :-)
 
 <details>
 <summary> <i> soliloquy </i> // poetry </summary>
