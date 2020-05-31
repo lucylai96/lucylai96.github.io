@@ -1,6 +1,9 @@
 
 ## creations
 ***
+here, a collection of my
+creations and contemplations.
+i hope you enjoy :)
 
 <details>
 <summary> <i> soliloquy </i> // poetry </summary>
