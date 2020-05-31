@@ -39,8 +39,7 @@ i hope you enjoy :)
 
 <details>
 <summary> <i> snapshots </i> // photos </summary>
-<p style="text-align:right"> <i> some beautiful moments, captured </i> </p>
-...
+<p style="text-align:right"> <i> coming soon... </i> </p>
 <br>
 </details>
 
