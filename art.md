@@ -61,7 +61,7 @@ i hope you enjoy :-)
 <br>
 <br>
 
-<i><b> I C the End (2015)</b> </i> / <a href="http://lucy-lai.com/compositions/ictheend_score.pdf" target="_blank">score</a> / <a href="http://lucy-lai.com/compositions/ictheend_live.wav" target="_blank">live recording</a> / an experiment in monotony
+<i><b> I C the End (2015)</b> </i> / <a href="http://lucy-lai.com/compositions/ctheend_score.pdf" target="_blank">score</a> / <a href="http://lucy-lai.com/compositions/ctheend_live.wav" target="_blank">live recording</a> / an experiment in monotony
 <br>
 <br>
 
