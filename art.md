@@ -29,7 +29,7 @@ i hope you enjoy :-)
 <ul>
   <li>   <a href="https://lucyblogs.wordpress.com/2019/11/28/a-letter-from-the-past/" target="_blank">  <i> a letter from the past </i> </a> / receiving a letter from my 16-year-old self </li>
   <li>   <a href="https://lucyblogs.wordpress.com/2018/12/27/antoine-from-chicago/" target="_blank"> <i> Antoine, from Chicago </i> </a> / an unlikely encounter </li>
-  <a href="https://lucyblogs.wordpress.com/2018/08/09/a-world-without-sound/" target="_blank"> <i> a world without sound </i> </a> / a tribute to my deaf uncle </li>
+  <li>   <a href="https://lucyblogs.wordpress.com/2018/08/09/a-world-without-sound/" target="_blank"> <i> a world without sound </i> </a> / a tribute to my deaf uncle </li>
   <li>   <a href="https://lucyblogs.wordpress.com/2019/12/31/growing-pains-2019/" target="_blank"> <i> growing pains, 2019 </i> </a> / on therapy </li>
   <li>   <a href="https://lucyblogs.wordpress.com/2019/08/13/on-childlike-passion/" target="_blank"> <i> on childlike passion </i> </a> / my earliest memory </li>
 </ul>
