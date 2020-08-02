@@ -10,7 +10,6 @@ i hope you enjoy :-)
 <p style="text-align:right"> <i> an attempt to capture fleeting thoughts </i> </p>
 <ul>
   <li>   <a href="https://subcorticalsongs.wordpress.com/2020/01/21/and-now-we-see-in-20-20/" target="_blank"> <i> and now we see in 20/20 </i> </a> / about forgiveness </li>
-  <li>   <a href="https://subcorticalsongs.wordpress.com/2019/07/28/these-idyllic-sheets/" target="_blank"> <i> these idyllic sheets </i> </a> / a brief love </li>
   <li>   <a href="https://subcorticalsongs.wordpress.com/2019/08/14/idee-fixe/" target="_blank">  <i> idée fixe </i> </a> / endless striving towards the unknown </li>
   <li>   <a href="https://subcorticalsongs.wordpress.com/2019/06/08/summertime/" target="_blank"> <i> summertime </i> </a> / the best month</li>
   <li>   <a href="https://subcorticalsongs.wordpress.com/2018/08/06/getting-intimate-with-a-crab/" target="_blank">  <i> getting intimate with a crab </i> </a>/ thoughts before a satisfying meal </li>
@@ -30,6 +29,7 @@ i hope you enjoy :-)
 <ul>
   <li>   <a href="https://lucyblogs.wordpress.com/2019/11/28/a-letter-from-the-past/" target="_blank">  <i> a letter from the past </i> </a> / receiving a letter from my 16-year-old self </li>
   <li>   <a href="https://lucyblogs.wordpress.com/2018/12/27/antoine-from-chicago/" target="_blank"> <i> Antoine, from Chicago </i> </a> / an unlikely encounter </li>
+  <a href="https://lucyblogs.wordpress.com/2018/08/09/a-world-without-sound/" target="_blank"> <i> a world without sound </i> </a> / a tribute to my deaf uncle </li>
   <li>   <a href="https://lucyblogs.wordpress.com/2019/12/31/growing-pains-2019/" target="_blank"> <i> growing pains, 2019 </i> </a> / on therapy </li>
   <li>   <a href="https://lucyblogs.wordpress.com/2019/08/13/on-childlike-passion/" target="_blank"> <i> on childlike passion </i> </a> / my earliest memory </li>
 </ul>
