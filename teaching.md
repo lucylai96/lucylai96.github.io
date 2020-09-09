@@ -14,8 +14,6 @@ All course materials (including the syllabus, lecture notes, and problem sets) a
 
 _Update (Sept 2020):_ Math Tools has been converted into a full-semester curriculum and added as the foundational course for the PiN [Certificate in Computational Neuroscience](https://www.hms.harvard.edu/dms/neuroscience/curriculum/certificate.html). Much thanks to [Ella Batty](https://ebatty.github.io/) for helping push this effort :-)
 
-#### Teaching material and course design
-Samples of my work (p-set design, syllabi, etc.) coming soon...
 
 ### previously
 At Rice, I was a teaching assistant for:
@@ -41,7 +39,7 @@ All course materials (including the syllabus and lecture slides) from the last r
 
 _**COLL 158 visits Baylor College of Medicine's [Core for Advanced Magnetic Resonance Imaging](https://www.bcm.edu/research/centers/advanced-mr-imaging) (CAMRI)**_
 
-> “Students will leave this course having developed a greater appreciation for the power of music through dialogues between an age-old art and a budding field of science.”  - from the course syllabus
+> “Students will leave this course having developed a greater appreciation for the power of music through dialogues between an age-old art and a budding field of science.”  - from the syllabus
 
 Did I fulfill my promises? :-)
 

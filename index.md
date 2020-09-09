@@ -4,7 +4,7 @@ I am a Ph.D. student at <a href="http://www.harvard.edu" target="_blank">Harvard
 
 I’m broadly interested in theories of learning: how do our <a href="http://mitpress.mit.edu/books/principles-neural-design" target="_blank">intricately-designed</a> brains enable us to interact with and learn from the world? What makes our learning capabilities <a href="http://gershmanlab.webfactional.com/pubs/Lake17.pdf" target="_blank"> different</a> than the best artificial intelligence systems? How do these learning mechanisms break down in neurological and psychiatric disease? I attempt to answer these questions using tools from computational, cognitive, and systems neuroscience.
 
-Outside the lab, I enjoy teaching, playing the piano, running, <a href="http://lucyblogs.wordpress.com/" target="_blank">writing</a> <a href="http://subcorticalsongs.wordpress.com/" target="_blank">stuff</a>, coffee, and classical music (<a href="https://en.wikipedia.org/wiki/Alexander_Scriabin" target="_blank">Alexander Scriabin</a> has been the recent obsession). 
+Outside the lab, I enjoy <a href="http://lucy-lai.com/teaching" target="_blank">teaching</a>, playing the piano, running, <a href="http://lucyblogs.wordpress.com/" target="_blank">writing</a> <a href="http://subcorticalsongs.wordpress.com/" target="_blank">stuff</a>, moral philosophy, coffee, and classical music (<a href="https://en.wikipedia.org/wiki/Alexander_Scriabin" target="_blank">Alexander Scriabin</a> has been the recent obsession). 
 
 Email me at lucylai (at) g (dot) harvard (dot) edu.
 

@@ -10,7 +10,7 @@ I am a grad student in the [Computational Cognitive Neuroscience Lab](http://ger
 Updates coming soon...
 
 ### previously
-My undergraduate research days were spent in the [Yau Lab](http://yaulab.com/) at the [Baylor College of Medicine](http://www.bcm.edu/) . There I worked on developing a Bayesian inference model to explain repulsive multisensory cue interactions. I presented this work at SfN 2016, IMRF 2017, and CCN 2017.
+My undergraduate research days were spent in the [Yau Lab](http://yaulab.com/) at [Baylor College of Medicine](http://www.bcm.edu/). There I worked on developing a Bayesian inference model for understanding multisensory time distortions. I presented this work at SfN 2016, IMRF 2017, and CCN 2017.
 
 I often fled north to escape hot Houston summers... :-)
 
