@@ -1,7 +1,7 @@
 
 ## teaching
 ***
-> "Docendo discimus...By teaching, we learn."  - Seneca the Younger
+> "Docendo discimus...By teaching, we learn."  - Seneca
 
 Teaching is one of my greatest joys :-)
 
