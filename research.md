@@ -7,7 +7,7 @@
 ### currently
 I am a grad student in the [Computational Cognitive Neuroscience Lab](http://gershmanlab.webfactional.com/index.html). On occasion, you can also find me in the [Ölveczky Lab](https://olveczkylab.oeb.harvard.edu/).
 
-Updates coming soon...
+_Updates coming soon..._
 
 ### previously
 My undergraduate research days were spent in the [Yau Lab](http://yaulab.com/) at [Baylor College of Medicine](http://www.bcm.edu/). There I worked on developing a Bayesian inference model for understanding multisensory time distortions. I presented this work at SfN 2016, IMRF 2017, and CCN 2017.
