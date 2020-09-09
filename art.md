@@ -1,5 +1,5 @@
 
-## creations
+## art
 ***
 here, a collection of my <br>
 creations and contemplations. <br>
