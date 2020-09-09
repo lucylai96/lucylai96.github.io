@@ -8,7 +8,7 @@ Teaching is one of my greatest joys :-)
 ### currently
 
 #### NB314QC / NB212: Math Tools for Neuroscience
-[Alex Chen](https://twitter.com/alexbchen) and I designed a new January-term course for the Harvard Program in Neuroscience. We condensed the fundamentals of linear algebra, dynamical systems theory, and probability theory (as applied to neuroscience) into a one-month crash course.
+[Alex Chen](https://twitter.com/alexbchen) and I designed and taught a new January-term course for the Harvard Program in Neuroscience. We condensed the fundamentals of linear algebra, dynamical systems theory, and probability theory (as applied to neuroscience) into a one-month crash course.
 
 All course materials (including the syllabus, lecture notes, and problem sets) are publicly available on [our course Canvas site](https://canvas.harvard.edu/courses/71556).
 
