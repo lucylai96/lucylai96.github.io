@@ -12,18 +12,18 @@ Teaching is one of my greatest joys :-)
 
 All course materials (including the syllabus, lecture notes, and problem sets) are publicly available on [our course Canvas site](https://canvas.harvard.edu/courses/71556).
 
-_Update (Sept 2020):_ Math Tools has been converted into a full-semester curriculum and added as the foundational course for the PiN [Certificate in Computational Neuroscience](https://www.hms.harvard.edu/dms/neuroscience/curriculum/certificate.html). Much thanks to [Ella Batty](https://ebatty.github.io/) for helping push this effort :-) A complete syllabus, YouTube video lectures, and Google Colab notebook assignments are freely available [here](https://github.com/ebatty/MathToolsforNeuroscience). Much of this course was modeled after the amazing [Neuromatch Academy online computational neuroscience course](https://www.neuromatchacademy.org/syllabus). 
+_Update (Sept 2020):_ Math Tools has been converted into a full-semester curriculum and added as the foundational course for the PiN [Certificate in Computational Neuroscience](https://www.hms.harvard.edu/dms/neuroscience/curriculum/certificate.html). Much thanks to [Ella Batty](https://ebatty.github.io/) for helping push this effort :-) A complete syllabus, YouTube video lectures, and Google Colab notebook assignments are freely available [here](https://github.com/ebatty/MathToolsforNeuroscience). Much of this course was modeled after the amazing [Neuromatch Academy online computational neuroscience course](https://www.neuromatchacademy.org/syllabus).
 
 
 ### previously
 At Rice, I was a teaching assistant for:
 
-* **NEUR/PSYC 362:** Cognitive Neuroscience _(Spring ’16, ’17, ’18)_
-* **NEUR/CAAM 416:** Neural Computation _(Spring ’18)_
+* Cognitive Neuroscience _(Spring ’16, ’17, ’18)_
+* Neural Computation _(Spring ’18)_
   * I contributed [a lecture](./files/bci_lecture.pdf) on Bayesian Causal Inference in perception.
-* **NEUR/BIOC 385:** Fundamentals of Neuroscience _(Fall ’16, ’17)_
-* **STAT 310:** Probability and Statistics _(Fall ‘16)_
-* **PSYC 203:** Intro to Cognitive Psychology _(Fall ’15)_
+* Fundamentals of Neuroscience _(Fall ’16, ’17)_
+* Probability and Statistics _(Fall ‘16)_
+* Intro to Cognitive Psychology _(Fall ’15)_
 
 Before I left the Yau Lab, I gave a little tutorial on [model building and fitting](./files/lai_modeling.pdf).
 

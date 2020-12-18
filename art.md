@@ -38,7 +38,7 @@ i hope you enjoy :-)
 </details>
 
 <details>
-<summary> <i> snapshots </i> // photos </summary>
+<summary> <a href="https://lucyblogs.wordpress.com/2019/08/13/on-childlike-passion/" target="_blank"> <i> snapshots </i> // photos </a> </summary>
 <p style="text-align:right"> <i> coming soon... </i> </p>
 <br>
 </details>
