@@ -12,7 +12,7 @@ Teaching is one of my greatest joys :-)
 
 All course materials (including the syllabus, lecture notes, and problem sets) are publicly available on [our course Canvas site](https://canvas.harvard.edu/courses/71556).
 
-_Update (Sept 2020):_ Math Tools has been converted into a full-semester curriculum and added as the foundational course for the PiN [Certificate in Computational Neuroscience](https://www.hms.harvard.edu/dms/neuroscience/curriculum/certificate.html). Much thanks to [Ella Batty](https://ebatty.github.io/) for helping push this effort :-)
+_Update (Sept 2020):_ Math Tools has been converted into a full-semester curriculum and added as the foundational course for the PiN [Certificate in Computational Neuroscience](https://www.hms.harvard.edu/dms/neuroscience/curriculum/certificate.html). Much thanks to [Ella Batty](https://ebatty.github.io/) for helping push this effort :-) A complete syllabus, YouTube video lectures, and Google Colab notebook assignments are freely available [here](https://github.com/ebatty/MathToolsforNeuroscience). Much of this course was modeled after the amazing [Neuromatch Academy online computational neuroscience course](https://www.neuromatchacademy.org/syllabus). 
 
 
 ### previously
