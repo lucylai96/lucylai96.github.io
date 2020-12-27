@@ -5,9 +5,11 @@
 > "All animals suffer unhappiness because learning is design, and this particular design for learning is optimal..."  - from Principles of Neural Design (Sterling and Laughlin)
 
 ### currently
-I am a grad student in the [Computational Cognitive Neuroscience Lab](http://gershmanlab.com/index.html). On occasion, you can also find me in the [Ölveczky Lab](https://olveczkylab.oeb.harvard.edu/).
+I am a grad student in the [Computational Cognitive Neuroscience Lab](http://gershmanlab.com/index.html), working on theories of learning under computational resource constraints. I’m curious about how these constraints can both benefit and limit our behavioral repertoire, and how the trade-off between reward and cognitive cost is compromised in psychiatric disease. I am also interested more broadly in the limitations of human reasoning and thought, and in the collaboration between artificial and natural intelligence.
 
-_Updates coming soon..._
+#### publications
+- Gershman, S.J., & *Lai, L*. (submitted). [The reward-complexity trade-off in schizophrenia](https://www.biorxiv.org/content/10.1101/2020.11.16.385013v2)
+- Mikhael, J.G., *Lai, L.*, & Gershman, S.J. (submitted). [Rational inattention and tonic dopamine](https://www.biorxiv.org/content/10.1101/2020.10.04.325175v1)
 
 ### previously
 My undergraduate research days were spent in the [Yau Lab](http://yaulab.com/) at [Baylor College of Medicine](http://www.bcm.edu/). There I worked on developing a Bayesian inference model for understanding multisensory time distortions. I presented this work at SfN 2016, IMRF 2017, and CCN 2017.
