@@ -9,7 +9,7 @@ I am a grad student in the [Computational Cognitive Neuroscience Lab](http://ger
 
 #### publications
 - Gershman, S.J. & **Lai, L.** (submitted). [The reward-complexity trade-off in schizophrenia](https://www.biorxiv.org/content/10.1101/2020.11.16.385013v2).
-- Mikhael, J.G., **Lai, L.**, & Gershman, S.J. (submitted). [Rational inattention and tonic dopamine](https://www.biorxiv.org/content/10.1101/2020.10.04.325175v1).
+- Mikhael, J.G., **Lai, L.**, & Gershman, S.J. (in press). [Rational inattention and tonic dopamine](https://www.biorxiv.org/content/10.1101/2020.10.04.325175v1). _PLOS Computational Biology._
 
 ### previously
 My undergraduate research days were spent in the [Yau Lab](http://yaulab.com/) at [Baylor College of Medicine](http://www.bcm.edu/). There I worked on developing a Bayesian inference model for understanding multisensory time distortions. I presented this work at SfN 2016, IMRF 2017, and CCN 2017.
