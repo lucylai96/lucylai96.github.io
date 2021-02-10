@@ -10,6 +10,7 @@ I am a grad student in the [Computational Cognitive Neuroscience Lab](http://ger
 #### publications
 - **Lai, L.** & Gershman, S.J. (in press). [Policy compression: an information bottleneck in action selection](https://gershmanlab.com/pubs/LaiGershman21.pdf). _Psychology of Learning and Motivation, Volume 74._
 - Gershman, S.J. & **Lai, L.** (submitted). [The reward-complexity trade-off in schizophrenia](https://www.biorxiv.org/content/10.1101/2020.11.16.385013v2).
+- Bhui, R., **Lai, L.**, Gershman, S.J. (in press). Resource-rational decision making. _Current Opinion in Behavioral Sciences._
 - Mikhael, J.G., **Lai, L.**, & Gershman, S.J. (in press). [Rational inattention and tonic dopamine](https://www.biorxiv.org/content/10.1101/2020.10.04.325175v1). _PLOS Computational Biology._
 
 ### previously
