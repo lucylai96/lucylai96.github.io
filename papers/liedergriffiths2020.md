@@ -1,12 +1,19 @@
-Title: [_**Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources.**_](https://cocosci.princeton.edu/papers/lieder_resource.pdf)
+Title: [_**Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources.**_](https://cocosci.princeton.edu/papers/lieder_resource.pdf){:target="_blank"}
 
 Authors: Falk Lieder and Thomas Griffiths 
 
 Journal: Behavioral and Brain Sciences
 
-**Summary:**
+Type: Review article
 
-**Outline:**
+**Summary**
+
+- Main question
+- Main takeaway
+- Innovative methods
+- Relationship to other works
+
+**Outline**
 
 1. Introduction
 2. A brief history of rationality
