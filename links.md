@@ -10,7 +10,7 @@ a few of my favorite application/fellowship-writing advice resources:
 ### women in science
 In 2016, I attended [Cosyne](http://cosyne.org){:target="_blank"} and realized just how few women were in computational neuroscience...here are some great resources that are trying to bring awareness to gender diversity in (neuro)science.
 * [womenincocosci.com](http://womenincocosci.com/){:target="_blank"}: advice website for undergraduate women interested in computational and cognitive science (credit to [Vael Gates](https://vaelgates.com/){:target="_blank"}).
-* [compcog.science](http://compcog.science/): a list of minority computational cognitive modellers, curated by [Christina Bergmann](https://sites.google.com/site/chbergma/){:target="_blank"} and [Olivia Guest](http://oliviaguest.com/){:target="_blank"}
+* [compcog.science](http://compcog.science/){:target="_blank"}: a list of minority computational cognitive modellers, curated by [Christina Bergmann](https://sites.google.com/site/chbergma/){:target="_blank"} and [Olivia Guest](http://oliviaguest.com/){:target="_blank"}
 * [anneslist.net](https://anneslist.net/){:target="_blank"}: a list of female systems/computational neuroscientists curated by [Anne Churchland](http://churchlandlab.labsites.cshl.edu/){:target="_blank"}.
 * [biaswatchneuro.com](https://biaswatchneuro.com/){:target="_blank"}: a website dedicated to elucidating gender biases at neuroscience conferences
 * A [list of female neuroscientists and their personal experiences](https://fairhalllab.com/careers/how-does-she-do-it/){:target="_blank"} on being both academic _and_ domestic (credit to [Adrienne Fairhall](https://fairhalllab.com/){:target="_blank"}).
