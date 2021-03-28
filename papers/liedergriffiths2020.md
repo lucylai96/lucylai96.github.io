@@ -15,8 +15,23 @@ Type: Review article
 
 **Outline**
 
-1. Introduction
+- [1. Introduction](#1-introduction)
+- [2. A brief history of rationality](#2-a-brief-history-of-rationality)
+- [3. Resource rational analysis](#3-resource-rational-analysis)
+- [4. Modeling capacity limits to explain cognitive biases: case studies in decision-making](#4-modeling-capacity-limits-to-explain-cognitive-biases--case-studies-in-decision-making)
+  * [4.1 Costly information acquisition and limited attention](#41-costly-information-acquisition-and-limited-attention)
+  * [4.2 Computational complexity and limited computational resources](#42-computational-complexity-and-limited-computational-resources)
+  * [4.3 Resource-rational heuristics](#43-resource-rational-heuristics)
+  * [4.4 Habits](#44-habits)
+- [5. Revisiting classic questions of cognitive psychology](#5-revisiting-classic-questions-of-cognitive-psychology)
+  * [5.1 Reverse-engineering cognitive mechanisms and mental representations](#51-reverse-engineering-cognitive-mechanisms-and-mental-representations)
+  * [5.2 Cognitive architectures and capacity limits](#52-cognitive-architectures-and-capacity-limits)
+  * [5.3 Connecting psychology to AI and neuroscience](#53-connecting-psychology-to-ai-and-neuroscience)
+- [6. Challenges of resource-rational analysis](#6-challenges-of-resource-rational-analysis)
+- [7. Conclusion](#7-conclusion)
 
+
+# 1. Introduction
 Why is it important or useful to build models of people’s cognitive strategies and representations?
 
 (1) By testing our understanding of psychological phenomena in computer simulations, we are forced to be more precise by using the formal language of mathematics. This also helps to identify gaps in explanations. (Where the model fails, etc.)
@@ -47,18 +62,18 @@ Cognitive architectures (bottom up) vs rationality (top down) : complementary ap
 Brain represents the world as a trade-off between accuracy and metabolic cost.
 
 
+# 2. A brief history of rationality
+# 3. Resource rational analysis
+# 4. Modeling capacity limits to explain cognitive biases: case studies in decision-making
+## 4.1 Costly information acquisition and limited attention
+## 4.2 Computational complexity and limited computational resources
+## 4.3 Resource-rational heuristics
+## 4.4 Habits
+# 5. Revisiting classic questions of cognitive psychology	
+## 5.1 Reverse-engineering cognitive mechanisms and mental representations
+## 5.2 Cognitive architectures and capacity limits
+## 5.3 Connecting psychology to AI and neuroscience
+# 6. Challenges of resource-rational analysis
+# 7. Conclusion
 
 
-2. A brief history of rationality
-3. Resource rational analysis
-4. Modeling capacity limits to explain cognitive biases: case studies in decision-making
-	- 4.1 Costly information acquisition and limited attention
-	- 4.2 Computational complexity and limited computational resources
-	- 4.3 Resource-rational heuristics
-	- 4.4 Habits
-5. Revisiting classic questions of cognitive psychology	
-	- 5.1 Reverse-engineering cognitive mechanisms and mental representations
-	- 5.2 Cognitive architectures and capacity limits
-	- 5.3 Connecting psychology to AI and neuroscience
-6. Challenges of resource-rational analysis
-7. Conclusion
