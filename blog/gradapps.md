@@ -13,6 +13,7 @@ What kind of programs should I apply to?
 How many schools should I apply to?
 Applying is so expensive! (Fee waivers)
 Should I reach out to PIs before applying?
+
 Application components
 I need examples of application materials?!?
 The checklist
@@ -20,30 +21,45 @@ Transcript/CV,GRE,Rec Letters
 The Personal Statement
 The Research Statement
 The Diversity/Personal History Statement
+
 Interviews
 The 101
 Interview weekend schedule
 What to wear
 What to bring
 Structure of the interview
+
 After the interview
 What matters: some personal observations
+
 How to choose a school
-General application tips!
+
+
+# General application tips!
 Before I begin this section, I want to say that many great student bloggers and professors have already written extensively on this topic, so a quick Google search in your discipline of choice should lead you to many resources about general advice on preparing and applying for grad school.
 How do I know I want to go to grad school?
+
 A resource that really helped me was written by Monica Gates, a Neuroscience PhD student at UC Berkeley. Monica is a friend and someone I greatly look up to. She did so well in the application process, and her advice and website helped me a lot along the way. She gives a good summary about what you should think about BEFORE applying to grad school, so I won’t reiterate that here.
+
 One thing I would like to add is to think about taking a gap year(s) if you do not feel your application is yet strong enough for the current application cycle. How do I know if my application is strong enough? One good way to know is to ask your research mentors. These guys have read and interviewed countless researchers and potential grad students and can easily tell you how you might fare in the process, what schools you should shoot for, etc.
-When should I start applying?
+
+### When should I start applying?
 Start really early! Applying takes a long time, and is a lot of effort on top of a full senior year courseload (if you’re still in your undergrad). Personally, I would say that the summer (i.e. right now!) before the application cycle in which you plan to apply is the right time to begin narrowing down the list of schools you want to apply to, and making lists of the principle investigators (PIs) that you are interested in working with. Your personal statement (PS) has to address this in some way, as well as why it makes sense for you to want to work in that lab/with that particular PI. Once you have this sorted out, the process becomes much more concrete/organized, and you can begin crafting your PS for specific schools. More on this in the PS section!
+
 Applying takes a long time, and is a lot of effort on top of a full senior year courseload (if you’re still in your undergrad). Keep in mind that graduate school fellowship funding applications like the NSF-GRFP, Hertz, NDSEG, etc are also due in the Fall semester. While these fellowships require components that are similar to grad school applications, they also take a lot of time to craft, so make sure you plan your Fall accordingly, and pray for your own sanity 🙂
-What kind of programs/schools should I apply to?
+
+### What kind of programs/schools should I apply to?
 This is a bit of a hard question to answer, because it really depends on your interests. The only biggest difference between programs that are similar (e.g. psychology vs neuroscience) is the coursework you will take and the kinds of peers you might have. By far, the most defining environment of your PhD is your thesis lab, and so the choice of program might not even matter that much after the first year or two. The only thing you might want to consider/find out is if your PI of choice takes students from that particular program (due to certain programs’ funding structures). Even if they have never taken a student from that program, they are likely open to it, as long as your research interests align—either way, it’s worth a conversation!
+
 Last but not least, ASK YOUR MENTORS (postdocs/PIs/etc.) about what schools/programs they recommend! They are a great resource as they know more about the reputation of certain programs and can recommend PIs/labs you might be interested in. I cannot stress this enough— people who have been in the field for a long time are well connected and can perhaps put in a good word for you before you even apply.
-How many schools should I apply to?
+
+### How many schools should I apply to?
 This will depend on the number of labs you are interested in! As a go-to rule that I’ve heard, it’s important for you to apply to schools that have at least 2-3 PIs you’d be interested in working with. This is important so that you have alternative options in case the lab you were really interested in doesn’t end up working out for you. For programs that require rotations (most bioscience programs), it’s even more important to have several people you’d want to work with in order to experience a variety of rotations and be able to pick a thesis lab that you’ll be able to thrive in.
+
 I’d personally suggest somewhere between 6-10 schools— enough to give you options, yet not too many as to overwhelm you with application fees (see next section) and essays. I personally applied to 12 which was o v e r k i l l , and ended up turning down interviews because there just weren’t enough days to visit all the schools.
-Applying is so expensive! How do I get application fee waivers?
+
+### Applying is so expensive! How do I get application fee waivers?
+
 As I just mentioned, applying to schools is incredibly expensive. For example, Stanford’s application fee was $125. Multiply that by 6-10 schools and you could rack up a $1000 bill just by trying to get into a PhD program!
 One seldom known fact is that most schools have application fee waivers. Some of these fee waiver applications require you to attach your FAFSA, or other proof of financial limitation, but others simply require you to write a short paragraph or two about why you want to apply to that school. I saved about $600 in application fees by just doing Google searches of fee waivers for the schools I applied to, and emailing their admissions directors.
 Should I reach out to PIs before applying?
@@ -52,7 +68,7 @@ There are always mixed answers to this question, but what I’ve learned from PI
 Disclaimer: If you are applying to programs that do NOT have a rotation program, it is imperative that you contact PIs before applying as to ensure they have sufficient space and funding to take you on as a student. This process could even require several Skype calls to determine if the lab you’re interested in would be a good fit for you. After all, in this case, you’re going to that school for that particular lab.
 Also, don’t feel bad if PIs don’t respond to your emails! Out of the 32 emails I sent, I only received replies to about half of them, and ended up Skyping or calling about 6-7 PIs before Dec 1. But nevertheless, this was extremely helpful for me as I ended up not applying to certain schools because I found out that the lab I was interested in was going in a different research direction than I had expected.
 
-Application components
+# Application components
 I need examples of application materials?!?
 It helped me immensely to read and model my application essays after other successful applicants’ (mostly friends/recently graduated Rice alumni). To pass along the favor, I am happy to provide my application materials (fellowship, grad school, etc) upon request. You can email me at [my full name] @ g.harvard.edu. I am also happy to chat about specific schools if I familiar with them. Now onto the application components…
 The checklist
@@ -196,7 +212,7 @@ On the subject of gut feelings—I was told a lot during interviews to “go wit
 
 And…that’s it! Kudos to you if you’ve made it all the way to the end of this post—the application process is certainly something that I’ve spent a long time reflecting on, and I hope my thoughts have helped you!. If there’s a topic I have not yet covered, or something in the post that needs more detail, please let me know. I will constantly be updating 🙂
 
-Acknowledgements. I could not have figured all of this out without the unending support of Dr. Michael Domeracki and Dr. Caroline Quenemoen, two invaluable mentors from the Rice Center for Civic Leadership who spent countless hours revising my statements and advising me on application processes (for more than just grad school).
+Acknowledgments. I could not have figured all of this out without the unending support of Dr. Michael Domeracki and Dr. Caroline Quenemoen, two invaluable mentors from the Rice Center for Civic Leadership who spent countless hours revising my statements and advising me on application processes (for more than just grad school).
 
 Last but not least, I want to thank my three PIs: Jeff Yau (Baylor College of Medicine), Mehrdad Jazayeri (MIT), and Josh Dudman (Janelia Research Campus) for providing me so much wisdom and advice through this whole application process. I’m thankful for their guidance and for their vouching for me to their vast network of PI friends. Connections matter!
 
