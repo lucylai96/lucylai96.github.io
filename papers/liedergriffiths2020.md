@@ -30,11 +30,13 @@ Type: Review article
 - [6. Challenges of resource-rational analysis](#6-challenges-of-resource-rational-analysis)
 - [7. Conclusion](#7-conclusion)
 
+---
 
 # 1. Introduction
 Why is it important or useful to build models of people’s cognitive strategies and representations? 
 
 $e^{i \pi} = -1$
+
 
 (1) By testing our understanding of psychological phenomena in computer simulations, we are forced to be more precise by using the formal language of mathematics. This also helps to identify gaps in explanations. (Where the model fails, etc.)
 
