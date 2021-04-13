@@ -10,8 +10,8 @@ I am a grad student in the [Computational Cognitive Neuroscience Lab](http://ger
 #### publications
 - **Lai, L.** & Gershman, S.J. (in press). [Policy compression: an information bottleneck in action selection](https://gershmanlab.com/pubs/LaiGershman21.pdf){:target="_blank"}. _Psychology of Learning and Motivation._
 - Gershman, S.J. & **Lai, L.** (submitted). [The reward-complexity trade-off in schizophrenia](https://www.biorxiv.org/content/10.1101/2020.11.16.385013v2){:target="_blank"}.
-- Bhui, R., **Lai, L.**, Gershman, S.J. [Resource-rational decision making](https://gershmanlab.com/pubs/Bhui21.pdf){:target="_blank"}. _Current Opinion in Behavioral Sciences._
-- Mikhael, J.G., **Lai, L.**, & Gershman, S.J. [Rational inattention and tonic dopamine](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008659){:target="_blank"}. _PLOS Computational Biology._
+- Bhui, R., **Lai, L.**, Gershman, S.J. (2021). [Resource-rational decision making](https://gershmanlab.com/pubs/Bhui21.pdf){:target="_blank"}. _Current Opinion in Behavioral Sciences._
+- Mikhael, J.G., **Lai, L.**, & Gershman, S.J. (2021). [Rational inattention and tonic dopamine](https://gershmanlab.com/pubs/MikhaelLaiGershman21.pdf){:target="_blank"}. _PLOS Computational Biology._
 
 ### previously
 My undergraduate research days were spent in the [Yau Lab](http://yaulab.com/){:target="_blank"} at [Baylor College of Medicine](http://www.bcm.edu/){:target="_blank"}. There I worked on developing a Bayesian inference model for understanding multisensory time distortions.
