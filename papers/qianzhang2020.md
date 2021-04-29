@@ -8,7 +8,7 @@ Type: Journal article
 
 **Summary**
 - Main question
-- Main takeaway
+- Main takeaway: Neuronal firing rates in sensory areas are proportional to optimal code length
 - Innovative methods
 - Relationship to other works
 
