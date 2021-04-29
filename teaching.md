@@ -7,7 +7,9 @@ Teaching is one of my greatest joys :-)
 
 ### currently
 
-In Spring '21, I am TF-ing a new [GenEd](https://gened.fas.harvard.edu/){:target="_blank"} course: [Artificial and Natural Intelligence](https://gened.fas.harvard.edu/classes/artificial-and-natural-intelligence){:target="_blank"}.
+In Spring '21, I TF-ed a new [GenEd](https://gened.fas.harvard.edu/){:target="_blank"} course: [Artificial and Natural Intelligence](https://gened.fas.harvard.edu/classes/artificial-and-natural-intelligence){:target="_blank"}, and also gave a [guest lecture on machine consciousness](https://www.youtube.com/watch?v=kle1uBIW8dM&ab_channel=LucyLai){:target="_blank"}.
+
+I am yearly mentor for [HPREP](https://hprep.wordpress.com/){:target="_blank"}, a ten-week science enrichment and mentorship program for underserved and underrepresented high school students in the Boston area.
 
 #### NB314QC / NB212: Math Tools for Neuroscience
 [Alex Chen](https://twitter.com/alexbchen){:target="_blank"} and I designed and taught a new January-term course for the Harvard Program in Neuroscience. We condensed the fundamentals of linear algebra, dynamical systems theory, and probability theory (as applied to neuroscience) into a one-month crash course.
@@ -28,8 +30,6 @@ At Rice, I was a teaching assistant for:
 * Fundamentals of Neuroscience _(Fall ’16, ’17)_
 * Probability and Statistics _(Fall ‘16)_
 * Intro to Cognitive Psychology _(Fall ’15)_
-
-Before I left the Yau Lab, I gave a little tutorial on [model building and fitting](./files/lai_modeling.pdf).
 
 I was also a mentor at [BrainSTEM](https://tmcbrainstem.org/){:target="_blank"}, an after-school neuroscience program at [KIPP Sunnyside High School](http://kipphouston.org/sunnyside){:target="_blank"}. The program serves to promote interest in STEM and neuroscience in underserved areas of Houston.
 
