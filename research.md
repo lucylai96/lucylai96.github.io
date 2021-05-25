@@ -12,7 +12,7 @@ I am a grad student in the [Computational Cognitive Neuroscience Lab](http://ger
 - Gershman, S.J. & **Lai, L.** (in press). [The reward-complexity trade-off in schizophrenia](./pubs/GershmanLai2021.pdf){:target="_blank"}. _Computational Psychiatry._
 - Bhui, R., **Lai, L.**, Gershman, S.J. (2021). [Resource-rational decision making](./pubs/BhuiLaiGershman2021.pdf){:target="_blank"}. _Current Opinion in Behavioral Sciences._
 - Mikhael, J.G., **Lai, L.**, & Gershman, S.J. (2021). [Rational inattention and tonic dopamine](./pubs/MikhaelLaiGershman2021.pdf){:target="_blank"}. _PLOS Computational Biology._
-- **Lai, L.**, Magnotti, J.F., & Yau, J.M. (2017). [Rational inattention and tonic dopamine](./pubs/LaiMagnottiYau2017.pdf){:target="_blank"}. _2017 Conference on Cognitive Computational Neuroscience._
+- **Lai, L.**, Magnotti, J.F., & Yau, J.M. (2017). [Multisensory context warps time perception](./pubs/LaiMagnottiYau2017.pdf){:target="_blank"}. _2017 Conference on Cognitive Computational Neuroscience._
 
 ### previously
 My undergraduate research days were spent in the [Yau Lab](http://yaulab.com/){:target="_blank"} at [Baylor College of Medicine](http://www.bcm.edu/){:target="_blank"}. There I worked on developing a Bayesian inference model for understanding multisensory time distortions.
