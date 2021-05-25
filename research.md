@@ -8,10 +8,10 @@
 I am a grad student in the [Computational Cognitive Neuroscience Lab](http://gershmanlab.com/index.html){:target="_blank"}, working on theories of learning under computational resource constraints. I’m curious about how these constraints can both benefit and limit our behavioral repertoire, and how the trade-off between reward and cognitive cost is compromised in psychiatric disease. I am also interested more broadly in the limitations of human reasoning and thought, and in the collaboration between artificial and natural intelligence.
 
 #### publications
-- **Lai, L.** & Gershman, S.J. (in press). [Policy compression: an information bottleneck in action selection](https://gershmanlab.com/pubs/LaiGershman21.pdf){:target="_blank"}. _Psychology of Learning and Motivation._
-- Gershman, S.J. & **Lai, L.** (submitted). [The reward-complexity trade-off in schizophrenia](https://www.biorxiv.org/content/10.1101/2020.11.16.385013v2){:target="_blank"}.
-- Bhui, R., **Lai, L.**, Gershman, S.J. (2021). [Resource-rational decision making](https://gershmanlab.com/pubs/Bhui21.pdf){:target="_blank"}. _Current Opinion in Behavioral Sciences._
-- Mikhael, J.G., **Lai, L.**, & Gershman, S.J. (2021). [Rational inattention and tonic dopamine](https://gershmanlab.com/pubs/MikhaelLaiGershman21.pdf){:target="_blank"}. _PLOS Computational Biology._
+- **Lai, L.** & Gershman, S.J. (in press). [Policy compression: an information bottleneck in action selection](./pubs/LaiGershman21.pdf){:target="_blank"}. _Psychology of Learning and Motivation._
+- Gershman, S.J. & **Lai, L.** (in press). [The reward-complexity trade-off in schizophrenia](./pubs/GershmanLai2021.pdf){:target="_blank"}.
+- Bhui, R., **Lai, L.**, Gershman, S.J. (2021). [Resource-rational decision making](./pubs/BhuiLaiGershman2021.pdf){:target="_blank"}. _Current Opinion in Behavioral Sciences._
+- Mikhael, J.G., **Lai, L.**, & Gershman, S.J. (2021). [Rational inattention and tonic dopamine](./pubs/MikhaelLaiGershman21.pdf){:target="_blank"}. _PLOS Computational Biology._
 
 ### previously
 My undergraduate research days were spent in the [Yau Lab](http://yaulab.com/){:target="_blank"} at [Baylor College of Medicine](http://www.bcm.edu/){:target="_blank"}. There I worked on developing a Bayesian inference model for understanding multisensory time distortions.
