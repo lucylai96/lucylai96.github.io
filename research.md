@@ -8,7 +8,7 @@
 I am a grad student in the [Computational Cognitive Neuroscience Lab](http://gershmanlab.com/index.html){:target="_blank"}, working on theories of learning under computational resource constraints. I’m curious about how these constraints can both benefit and limit our behavioral repertoire, and how the trade-off between reward and cognitive cost is compromised in psychiatric disease. I am also interested more broadly in the limitations of human reasoning and thought, and in the collaboration between artificial and natural intelligence.
 
 #### publications
-- **Lai, L.** & Gershman, S.J. (in press). [Policy compression: an information bottleneck in action selection](./pubs/LaiGershman2021.pdf){:target="_blank"}. _Psychology of Learning and Motivation._
+- **Lai, L.** & Gershman, S.J. (2021). [Policy compression: an information bottleneck in action selection](./pubs/LaiGershman2021.pdf){:target="_blank"}. _Psychology of Learning and Motivation._
 - Gershman, S.J. & **Lai, L.** (2021). [The reward-complexity trade-off in schizophrenia](./pubs/GershmanLai2021.pdf){:target="_blank"}. _Computational Psychiatry._
 - Bhui, R., **Lai, L.**, Gershman, S.J. (2021). [Resource-rational decision making](./pubs/BhuiLaiGershman2021.pdf){:target="_blank"}. _Current Opinion in Behavioral Sciences._
 - Mikhael, J.G., **Lai, L.**, & Gershman, S.J. (2021). [Rational inattention and tonic dopamine](./pubs/MikhaelLaiGershman2021.pdf){:target="_blank"}. _PLOS Computational Biology._
