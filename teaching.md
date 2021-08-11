@@ -5,7 +5,7 @@
 
 Teaching is one of my greatest joys :-)
 
-### currently
+### recently
 
 In Spring '21, I TF-ed a new [GenEd](https://gened.fas.harvard.edu/){:target="_blank"} course: [Artificial and Natural Intelligence](https://gened.fas.harvard.edu/classes/artificial-and-natural-intelligence){:target="_blank"}, and also gave a [guest lecture on machine consciousness](https://www.youtube.com/watch?v=kle1uBIW8dM&ab_channel=LucyLai){:target="_blank"}.
 #### Course Evaluations
