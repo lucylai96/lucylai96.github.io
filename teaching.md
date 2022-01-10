@@ -6,7 +6,7 @@
 Teaching is one of my greatest joys :-)
 
 ### currently
-This Spring ('22), I am the Head Teaching Fellow for [GENED 1125: Artificial and Natural Intelligence](https://github.com/gened1125/spring2022){:target="_blank"} (website by yours truly!).
+This Spring ('22), I am the Head Teaching Fellow for [GENED 1125: Artificial and Natural Intelligence](https://github.com/gened1125/spring2022){:target="_blank"} (website by yours truly!)
 
 I also TF'ed the same course last year, when I also gave a [guest lecture on machine consciousness](https://www.youtube.com/watch?v=kle1uBIW8dM&ab_channel=LucyLai){:target="_blank"}.
 
