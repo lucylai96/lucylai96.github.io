@@ -5,9 +5,11 @@
 
 Teaching is one of my greatest joys :-)
 
-### recently
+### currently
+This Spring ('22), I am the Head Teaching Fellow for [GENED 1125: Artificial and Natural Intelligence](https://github.com/gened1125/spring2022){:target="_blank"} (website by yours truly!).
 
-In Spring '21, I TF-ed a new [GenEd](https://gened.fas.harvard.edu/){:target="_blank"} course: [Artificial and Natural Intelligence](https://gened.fas.harvard.edu/classes/artificial-and-natural-intelligence){:target="_blank"}, and also gave a [guest lecture on machine consciousness](https://www.youtube.com/watch?v=kle1uBIW8dM&ab_channel=LucyLai){:target="_blank"}.
+I also TF'ed the same course last year, when I also gave a [guest lecture on machine consciousness](https://www.youtube.com/watch?v=kle1uBIW8dM&ab_channel=LucyLai){:target="_blank"}.
+
 #### Course Evaluations
 * [Spring 2021](./files/gened1125_evals.pdf){:target="_blank"}
 
