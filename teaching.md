@@ -10,8 +10,9 @@ This Spring ('22), I am the Head Teaching Fellow for [GENED 1125: Artificial and
 
 I also TF'ed the same course last year and gave a [guest lecture on machine consciousness](https://www.youtube.com/watch?v=kle1uBIW8dM&ab_channel=LucyLai){:target="_blank"}.
 
-#### Course Evaluations
-* [Spring 2021](./files/gened1125_evals.pdf){:target="_blank"}
+#### Course & Teaching Evaluations
+* [Spring 2022](./files/gened1125_s22.pdf){:target="_blank"}
+* [Spring 2021](./files/gened1125_s21.pdf){:target="_blank"}
 
 I am yearly mentor for [HPREP](https://hprep.wordpress.com/){:target="_blank"}, a ten-week science enrichment and mentorship program for underserved and underrepresented high school students in the Boston area.
 
@@ -22,7 +23,7 @@ All course materials (including the syllabus, lecture notes, and problem sets) a
 
 _Update (Sept 2020):_ Math Tools has been converted into a full-semester course and was added as a foundational requirement for the PiN [Certificate in Computational Neuroscience](https://pinphd.hms.harvard.edu/training/computational-certificate){:target="_blank"}. Much thanks to [Ella Batty](https://ebatty.github.io/){:target="_blank"} for helping push this effort :-) A complete syllabus, YouTube video lectures, and Google Colab notebook assignments are freely available [here](https://github.com/ebatty/MathToolsforNeuroscience){:target="_blank"}. Much of this course was modeled after the amazing [Neuromatch Academy online computational neuroscience course](https://www.neuromatchacademy.org/syllabus){:target="_blank"}.
 
-#### Course Evaluations
+#### Course & Teaching Evaluations
 * [J-Term 2020](./files/nb314qc_evals.pdf){:target="_blank"}
 * [Fall 2020](./files/nb212_evals.pdf){:target="_blank"}
 
@@ -51,9 +52,9 @@ _**COLL 158 visits Baylor College of Medicine's [Core for Advanced Magnetic Reso
 
 Did I fulfill my promises? :-)
 
-#### Course Evaluations
-* [what they thought of the course](./files/coll158_evals.pdf){:target="_blank"}
-* [what they thought of me](./files/coll158_teaching.pdf){:target="_blank"}
+#### Evaluations
+* [Course evaluation](./files/coll158_evals.pdf){:target="_blank"}
+* [Teaching evaluation](./files/coll158_teaching.pdf){:target="_blank"}
 
 ***
 [back](./)
