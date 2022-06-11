@@ -46,7 +46,7 @@ I was a mentor at [BrainSTEM](https://tmcbrainstem.org/){:target="_blank"}, an a
 
 #### COLL 158: How Music Plays The Brain
 
-By far, my favorite teaching endeavor has been bringing [COLL 158: How Music Plays the Brain](https://courses.rice.edu/admweb/!SWKSCAT.cat?p_action=CATALIST&p_acyr_code=2019&p_crse_numb=158&p_subj=COLL){:target="_blank"} to life! I designed and taught 3 semesters (S'17, F'18, S'18) of this seminar course on the intersection of music and neuroscience. _COLL 158 won the 2017 Rice University [Student-Taught Course Teaching award](https://cte.rice.edu/stc#award){:target="_blank"}!_
+By far, my favorite teaching endeavor has been bringing [COLL 158: How Music Plays the Brain](https://courses.rice.edu/admweb/!SWKSCAT.cat?p_action=CATALIST&p_acyr_code=2019&p_crse_numb=158&p_subj=COLL){:target="_blank"} to life! I designed and taught 3 semesters (S'17, F'17, S'18) of this seminar course on the intersection of music and neuroscience. _COLL 158 won the 2017 Rice University [Student-Taught Course Teaching award](https://cte.rice.edu/stc#award){:target="_blank"}!_
 
 All course materials (including the syllabus and lecture slides) from the last rendition of the course (Spring 2018) are publicly available on [the course Canvas site](https://canvas.rice.edu/courses/10423/){:target="_blank"}.
 
