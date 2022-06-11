@@ -8,7 +8,8 @@ Teaching is one of my greatest joys :-)
 ### currently
 This Spring ('22), I am the Head Teaching Fellow for [GENED 1125: Artificial and Natural Intelligence](https://gened1125.github.io/spring2022/){:target="_blank"} (website by yours truly!)
 
-I also TF'ed the same course last year and gave a [guest lecture on machine consciousness](https://www.youtube.com/watch?v=kle1uBIW8dM&ab_channel=LucyLai){:target="_blank"}.
+In Spring 2022, I gave a [guest lecture on dopamine and reinforcement learning](https://www.youtube.com/watch?v=qIjEKWftu0A&ab_channel=LucyLai){:target="_blank"}.
+In Spring 2021, I gave a [guest lecture on machine consciousness](https://www.youtube.com/watch?v=kle1uBIW8dM&ab_channel=LucyLai){:target="_blank"}.
 
 #### Course & Teaching Evaluations
 * [Spring 2022](./files/gened1125_s22.pdf){:target="_blank"}
