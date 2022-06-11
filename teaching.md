@@ -7,7 +7,7 @@ Teaching is one of my greatest joys :-)
 
 ### currently
 #### [GENED 1125: Artificial and Natural Intelligence](https://gened1125.github.io/spring2022/){:target="_blank"} 
-In Spring ('22), I was the Head Teaching Fellow for [GENED 1125: Artificial and Natural Intelligence](https://gened1125.github.io/spring2022/){:target="_blank"} (website by yours truly!). In this role, I developed course materials (psets, section guides, midterm reviews, etc.),  gave occasional guest lectures, and managed a teaching team of 5 TFs for a course of ~100 students. In S'21 and S'22 I also taught a discussion section of 15-20 students.
+In Spring '22, I was the Head Teaching Fellow for [GENED 1125: Artificial and Natural Intelligence](https://gened1125.github.io/spring2022/){:target="_blank"} (website by yours truly!). In this role, I developed course materials (psets, section guides, midterm reviews, etc.),  gave occasional guest lectures, and managed a teaching team of 5 TFs for a course of ~100 students. In S'21 and S'22 I also taught a discussion section of 15-20 students.
 
 ##### Guest lectures given
 * [Reinforcement learning in the brain: The computational role of dopamine](https://www.youtube.com/watch?v=qIjEKWftu0A&ab_channel=LucyLai){:target="_blank"}
