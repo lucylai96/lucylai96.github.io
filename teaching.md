@@ -6,7 +6,7 @@
 Teaching is one of my greatest joys :-)
 
 ### currently
-#### [MAHPING Pedagogy Fellows Program]
+#### [MAHPING Pedagogy Fellows Program](https://projects.iq.harvard.edu/mahping/pedagogy-fellows-program){:target="_blank"}
 A collaboration between Harvard Medical School and Morehouse School of Medicine, the [MAHPING Pedagogy Fellows program](https://projects.iq.harvard.edu/mahping/pedagogy-fellows-program){:target="_blank"} trains graduate students and postdocs at HMS and MSM in theoretical and applied knowledge of evidence-based, inclusive teaching practices. With our team of 7, we are co-creating and co-teaching a nanocourse "From Bench to Bedside: Entraining Policy to Science" in Fall 2022 at both Harvard and Morehouse.
 
 #### [GENED 1125: Artificial and Natural Intelligence](https://gened1125.github.io/spring2022/){:target="_blank"} 
@@ -23,7 +23,7 @@ In Spring '22, I was the Head Teaching Fellow for [GENED 1125: Artificial and Na
 #### HPREP
 I am yearly mentor for [HPREP](https://hprep.wordpress.com/){:target="_blank"}, a ten-week science enrichment and mentorship program for underserved and underrepresented high school students in the Boston area.
 
-#### NB314QC / NB212: Math Tools for Neuroscience
+#### [NB314QC / NB212: Math Tools for Neuroscience](https://github.com/ebatty/MathToolsforNeuroscience){:target="_blank"}
 [Alex Chen](https://twitter.com/alexbchen){:target="_blank"} and I designed and taught a new January-term course for the Harvard Program in Neuroscience. We condensed the fundamentals of linear algebra, dynamical systems theory, and probability theory (as applied to neuroscience) into a one-month crash course.
 
 All course materials (including the syllabus, lecture notes, and problem sets) are publicly available on [our course Canvas site](https://canvas.harvard.edu/courses/71556){:target="_blank"}.
@@ -48,7 +48,6 @@ At Rice, I was a teaching assistant for:
 I was a mentor at [BrainSTEM](https://tmcbrainstem.org/){:target="_blank"}, an after-school neuroscience program at [KIPP Sunnyside High School](http://kipphouston.org/sunnyside){:target="_blank"} from 2015-2017. The program serves to promote interest in STEM and neuroscience in underserved areas of Houston.
 
 #### COLL 158: How Music Plays The Brain
-
 By far, my favorite teaching endeavor has been bringing [COLL 158: How Music Plays the Brain](https://courses.rice.edu/admweb/!SWKSCAT.cat?p_action=CATALIST&p_acyr_code=2019&p_crse_numb=158&p_subj=COLL){:target="_blank"} to life! I designed and taught 3 semesters (S'17, F'17, S'18) of this seminar course on the intersection of music and neuroscience. _COLL 158 won the 2017 Rice University [Student-Taught Course Teaching award](https://cte.rice.edu/stc#award){:target="_blank"}!_
 
 All course materials (including the syllabus and lecture slides) from the last rendition of the course (Spring 2018) are publicly available on [the course Canvas site](https://canvas.rice.edu/courses/10423/){:target="_blank"}.
