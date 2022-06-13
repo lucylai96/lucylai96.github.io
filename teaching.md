@@ -6,6 +6,9 @@
 Teaching is one of my greatest joys :-)
 
 ### currently
+#### [MAHPING Pedagogy Fellows Program]
+A collaboration between Harvard Medical School and Morehouse School of Medicine, the [MAHPING Pedagogy Fellows program](https://projects.iq.harvard.edu/mahping/pedagogy-fellows-program){:target="_blank"} trains graduate students and postdocs at HMS and MSM in theoretical and applied knowledge of evidence-based, inclusive teaching practices. With our team of 7, we are co-creating and co-teaching a nanocourse "From Bench to Bedside: Entraining Policy to Science" in Fall 2022 at both Harvard and Morehouse.
+
 #### [GENED 1125: Artificial and Natural Intelligence](https://gened1125.github.io/spring2022/){:target="_blank"} 
 In Spring '22, I was the Head Teaching Fellow for [GENED 1125: Artificial and Natural Intelligence](https://gened1125.github.io/spring2022/){:target="_blank"} (website by yours truly!). In this role, I developed course materials (psets, section guides, midterm reviews, etc.---from scratch), gave occasional guest lectures, and managed a teaching team of 5 TFs for a course of ~100 students. In S'21 and S'22 I also taught a discussion section of 15-20 students.
 
@@ -14,7 +17,7 @@ In Spring '22, I was the Head Teaching Fellow for [GENED 1125: Artificial and Na
 * [What is consciousness? And can machines have it?](https://www.youtube.com/watch?v=kle1uBIW8dM&ab_channel=LucyLai){:target="_blank"}
 
 ##### Course & Teaching Evaluations
-* [Spring 2022](./files/gened1125_s22.pdf){:target="_blank"} | After a overhaul of the course materials and organization, we saw an 11.28% increase in the overall course rating from '21 to '22!
+* [Spring 2022](./files/gened1125_s22.pdf){:target="_blank"} (After an overhaul of the course materials and organization, we saw an 11.28% increase in the overall course rating from '21 to '22!)
 * [Spring 2021](./files/gened1125_s21.pdf){:target="_blank"}
 
 #### HPREP
