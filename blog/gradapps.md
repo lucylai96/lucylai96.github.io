@@ -86,8 +86,7 @@ There are always mixed answers to this question, but what I’ve learned from PI
 **Disclaimer:** If you are applying to programs that do NOT have a rotation program, it is imperative that you contact PIs before applying as to ensure they have sufficient space and funding to take you on as a student. This process could even require several Skype calls to determine if the lab you’re interested in would be a good fit for you. After all, in this case, you’re going to that school for that particular lab.
 Also, don’t feel bad if PIs don’t respond to your emails! Out of the 32 emails I sent, I only received replies to about half of them, and ended up Skyping or calling about 6-7 PIs before Dec 1. But nevertheless, this was extremely helpful for me as I ended up not applying to certain schools because I found out that the lab I was interested in was going in a different research direction than I had expected.
 
--------
-
+------
 ## Application components
 
 ### I need examples of application materials?!?
@@ -188,6 +187,7 @@ The diversity/personal history statement is usually more rare than the research 
   
 This statement asks you to discuss personal factors that would make you attractive from a diversity point of view. Besides the obvious one (racial diversity), you may draw upon your diversity of experience, economic status, gender, etc. that might make you stand out from the rest of the applicant pool. This would also be great place to elaborate on your story if you’re the first person in your family to go to college or grad school, and to talk about how the experience of higher education has challenged and changed you. I think this is a great space to personalize your application and to give a little bit more flavor to who you are!
 
+------
 ## Interviews (the fun part)
 
 ### The 101
@@ -274,6 +274,7 @@ Interviews take a long time (the entire Spring semester, basically), and are qui
 ### After the interview
 I’ve found that it really helps to jot down your gut feelings about the school after the interview weekend. Recount what you liked/disliked about each place, so that you can use these thoughts later when choosing where to attend.
 
+------
 ## Who gets into grad school?
 
 ### What matters: personal observations as an interviewee
@@ -288,11 +289,12 @@ Being able to carry a dynamic and intriguing conversation about science, be it t
 * F I T
 But at the end of the day, I think admissions is really about this vague word called “fit.” I cannot stress enough that the process of applying to graduate school goes in both directions: the program is evaluating YOU to see if you would thrive in their research environment, but YOU are also evaluating THEM to see if you would be happy there. It’s like dating—both parties have to be invested.
 
-## Personal observations as an interviewer
+### Personal observations as an interviewer
 
-## Insight gathered from PIs on admissions committees
+### Insight gathered from PIs on admissions committees
 
 
+------
 ## How to choose a school
 If you’ve been fortunate enough to receive an offer of admission, its time to celebrate! But when The Universal D-Day (decision day) of April 15 rolls around, you’ll have to have made a choice about where you will spend the next 5-7 years of your life… no biggie, right? Something that I didn’t expect from the application process was the self growth and reflection that occurred by mulling over my decision. One important question to ask (preferable before you begin interviewing) is: what is most important to you?
 For many, research fit is obviously at the top of the list; after all, that’s what we’re all going to grad school for, right? To study what we love! But what if you’re not terribly certain about your particular topic of interest yet? Then maybe it’s more important for you to choose a place that gives you the most options for labs to explore before you commit the next few years to a particular one. These “important” factors will differ from person to person, and are what makes this decision highly personal.
@@ -305,6 +307,7 @@ On the subject of gut feelings—I was told a lot during interviews to “go wit
 
 And…that’s it! Kudos to you if you’ve made it all the way to the end of this post—the application process is certainly something that I’ve spent a long time reflecting on, and I hope my thoughts have helped you!. If there’s a topic I have not yet covered, or something in the post that needs more detail, please let me know. I will constantly be updating 🙂
 
+------
 ### Acknowledgments
 I could not have figured all of this out without the unending support of Dr. Michael Domeracki and Dr. Caroline Quenemoen, two invaluable mentors from the Rice Center for Civic Leadership who spent countless hours revising my statements and advising me on application processes (for more than just grad school).
 
