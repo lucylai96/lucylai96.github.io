@@ -4,7 +4,7 @@
 Welcome! You may have ended up here because you came across [my popular article](https://lucyblogs.wordpress.com/2018/08/02/all-about-phd-applications), which has been viewed over 7k times (and growing!). Thank you to all who reached out to me over the years telling me how helpful of a resource it was to you---and it's been super fun meeting some of you in person at conferences, too! :) Since it has been 4 years since I wrote the article, I am doing a "refresh" in this second edition with the following improvements and content additions: 
 
 *  hosting it here on my personal website for neater organization and ease of navigation (thanks to [Github-flavored Markdown!](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github))
-*  my application materials are now **[free to download](./files/phd_apps.zip)**. This file contains my Harvard, Stanford, and NYU essays, chosen in particular to illustrate 1) how little they actually differ, and 2) how a diversity/history statement looks like compared to the personal statement (NYU). Previously, I had asked people to email me requesting these materials, but since it has been awhile since my application days, I decided it was time to make them freely available on the internet :)
+*  my application materials are now **[free to download](https://lucy-lai.com/files/phd_apps.zip)**. This file contains my Harvard, Stanford, and NYU essays, chosen in particular to illustrate 1) how little they actually differ, and 2) how a diversity/history statement looks like compared to the personal statement (NYU). Previously, I had asked people to email me requesting these materials, but since it has been awhile since my application days, I decided it was time to make them freely available on the internet :)
 * added a section on [Personal observations as an interviewer](#personal-observations-as-an-interviewer) since I became a student interviewer this year for Harvard's PhD  Program in Neuroscience.
 * added a section on [Reflections on my decision 4 years later](#reflections-on-my-decision).
 
@@ -80,6 +80,7 @@ I’d personally suggest somewhere between 6-10 schools— enough to give you op
 ### Applying is so expensive! How do I get application fee waivers?
 
 As I just mentioned, applying to schools is incredibly expensive. For example, Stanford’s application fee was $125. Multiply that by 6-10 schools and you could rack up a $1000 bill just by trying to get into a PhD program!
+
 One seldom known fact is that most schools have application fee waivers. Some of these fee waiver applications require you to attach your FAFSA, or other proof of financial limitation, but others simply require you to write a short paragraph or two about why you want to apply to that school. I saved about $600 in application fees by just doing Google searches of fee waivers for the schools I applied to, and emailing their admissions directors.
 
 ### Should I reach out to PIs before applying?
@@ -92,7 +93,7 @@ Also, don’t feel bad if PIs don’t respond to your emails! Out of the 32 emai
 ## Application components
 
 ### I need examples of application materials?!?
-It helped me immensely to read and model my application essays after other successful applicants’ (mostly friends/recently graduated Rice alumni). (2022 Update) To pass along the favor, I am providing three examples: [my Harvard, Stanford, and NYU essays](./files/phd_apps.zip), in particular to illustrate 1) how little they actually differ, and 2) how a diversity/history statement looks like compared to the personal statement (NYU).
+It helped me immensely to read and model my application essays after other successful applicants’ (mostly friends/recently graduated Rice alumni). (2022 Update) To pass along the favor, I am providing three examples: [my Harvard, Stanford, and NYU essays](https://lucy-lai.com/files/phd_apps.zip), in particular to illustrate 1) how little they actually differ, and 2) how a diversity/history statement looks like compared to the personal statement (NYU).
 
 Now onto the application components…
 
