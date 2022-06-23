@@ -15,6 +15,16 @@ It can be hard to know where to even begin…how to decide which schools to appl
 
 I have broken up this post into short digestible, FAQ-like sections for convinience, in case you didn’t sign up for a wall of text 🙂
 
+<details>
+<summary> **[General application tips](#general-application-tips)** </summary>
+* [How do I know I want to go to grad school?](#how-do-I-know-i-want-to-go-to-grad-school)
+* [When should I start applying?](#when-should-i-start-applying)
+* [What kind of programs and schools should I apply to?](#what-kind-of-programs-and-schools-should-i-apply-to)
+* [How many schools should I apply to?](#how-many-schools-should-i-apply-to)
+* [Applying is so expensive! (Fee waivers)](#applying-is-so-expensive-how-do-i-get-application-fee-waivers)
+* [Should I reach out to PIs before applying?](#should-i-reach-out-to-pis-before-applying)
+</details>
+
 **[General application tips](#general-application-tips)**
 * [How do I know I want to go to grad school?](#how-do-I-know-i-want-to-go-to-grad-school)
 * [When should I start applying?](#when-should-i-start-applying)
@@ -26,10 +36,10 @@ I have broken up this post into short digestible, FAQ-like sections for convinie
 **[Application components](#application-components)**
 * [I need examples of application materials?!?](#i-need-examples-of-application-materials)
 * [The checklist](#the-checklist)
-* [Transcript/CV, GRE, Rec Letters](#transcript-cv-gre-rec-letters)
+* [Transcript, CV, GRE, Rec Letters](#transcript-cv-gre-rec-letters)
 * [The Personal Statement](#the-personal-statement)
 * [The Research Statement](#the-research-statement)
-* [The Diversity/Personal History Statement](#the-diversity-personal-history-statement)
+* [The Diversity/Personal History Statement](#the-diversity-or-personal-history-statement)
 
 **[Interviews](#interviews-the-fun-part)**
 * [The 101](#the-101)
@@ -42,10 +52,10 @@ I have broken up this post into short digestible, FAQ-like sections for convinie
 * [What matters: some personal observations]
 * [How to choose a school]
 
+-----
+
 Here's a simple footnote,[^1].
-
-[^1]: This is the first footnote. [top](https://lucy-lai.com/blog/gradapps/#fnref:1)
-
+[^1]: This is the first footnote.
 
 ## General application tips
 Before I begin this section, I want to say that many great student bloggers and professors have already written extensively on this topic, so a quick Google search in your discipline of choice should lead you to many resources about general advice on preparing and applying for grad school.
@@ -120,7 +130,8 @@ Now the commonly asked question is: who should I ask for recommendation letters?
 
 Rec letters are sometimes a bit of a black box, and since I’ve never read any of my own letters, I can’t really tell you how you should act to impress your mentors while working in their labs. But what I can say (from what a PI told me during our interview), is that application readers are looking for qualities of a good grad student: resilience, patience, the ability to think critically and creatively, independence, etc.
 
-### The PS: Personal Statement a.k.a. Your science (not life) story.
+### The Personal Statement
+#### a.k.a. Your science (not life) story
 The Personal Statement is an incredibly important part of your application, and one that you still have full control over before you apply. Virtually all schools will ask you to write a PS as the main essay. The good news is, PS prompts are virtually all the same, and thus you won’t have to rewrite too much for each school that you’re applying to. Here are two samples that I pulled from different schools:
 Discuss how your personal background informs your decision to pursue a graduate degree.Include any educational, cultural, economic, family or social experiences, challenges, or opportunities relevant to your academic journey.
 The Statement of Purpose should describe succinctly your reasons for applying to the proposed program at [school name],yourpreparationfor this field of study,research interests,future career plans, andother aspects of your backgroundand interests which may aid the admissions committee in evaluating youraptitude and motivation for graduate study.
