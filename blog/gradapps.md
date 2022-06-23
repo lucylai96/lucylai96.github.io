@@ -16,7 +16,7 @@ It can be hard to know where to even begin…how to decide which schools to appl
 I have broken up this post into short digestible, FAQ-like sections for convinience, in case you didn’t sign up for a wall of text 🙂
 
 <details>
-<summary> <a href=#general-application-tips> <b> General application tips </b> </summary
+  <summary> <a href=#general-application-tips> <b> General application tips </b> </summary>
   
 * [How do I know I want to go to grad school?](#how-do-I-know-i-want-to-go-to-grad-school)
 * [When should I start applying?](#when-should-i-start-applying)
@@ -49,10 +49,13 @@ I have broken up this post into short digestible, FAQ-like sections for convinie
 * [What to wear](#what-to-wear)
 * [What to bring](#what-to-bring)
 * [Structure of the interview](#structure-of-the-interview)
+* [After the interview](#after-the-interview)**
 
-**[After the interview](#after-the-interview)**
-* [What matters: some personal observations]
-* [How to choose a school]
+**[Who gets into grad school?]**
+* [Personal observations as an interviewee]
+* [Personal observations as an interviewer]
+
+**[How to choose a school]**
 
 -----
 
