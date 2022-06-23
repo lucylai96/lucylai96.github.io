@@ -16,7 +16,7 @@ It can be hard to know where to even begin…how to decide which schools to appl
 I have broken up this post into short digestible, FAQ-like sections for convinience, in case you didn’t sign up for a wall of text 🙂
 
 <details>
-<summary> <a href=#general-application-tips> <i> General application tips </i> **[General application tips](#general-application-tips)** </summary
+<summary> <a href=#general-application-tips> <b> General application tips </b> </summary
   
 * [How do I know I want to go to grad school?](#how-do-I-know-i-want-to-go-to-grad-school)
 * [When should I start applying?](#when-should-i-start-applying)
