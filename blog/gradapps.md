@@ -1,4 +1,5 @@
-# All About PhD Applications (Second Edition, Updated July 2022)
+# All About PhD Applications 
+## (Second Edition, Updated July 2022)
 
 Welcome! You may have ended up here because you came across [my popular article](https://lucyblogs.wordpress.com/2018/08/02/all-about-phd-applications)
 
@@ -14,44 +15,43 @@ It can be hard to know where to even begin…how to decide which schools to appl
 
 I have broken up this post into short digestible, FAQ-like sections for convinience, in case you didn’t sign up for a wall of text 🙂
 
-[General application tips](#general-application-tips)
-* [How do I know I want to go to grad school?](#How-do-I-know-I-want-to-go-to-grad-school?)
-* [When should I start applying?](#When-should-I-start-applying?)
+**[General application tips](#general-application-tips)**
+* [How do I know I want to go to grad school?](#how-do-I-know-I-want-to-go-to-grad-school?)
+* [When should I start applying?](#when-should-I-start-applying?)
 * [What kind of programs should I apply to?]
 * [How many schools should I apply to?]
 * [Applying is so expensive! (Fee waivers)]
 * [Should I reach out to PIs before applying?]
 
-Application components
-I need examples of application materials?!?
-The checklist
-Transcript/CV,GRE,Rec Letters
-The Personal Statement
-The Research Statement
-The Diversity/Personal History Statement
+**[Application components](#application-components)**
+* [I need examples of application materials?!?]
+* [The checklist]
+* [Transcript/CV,GRE,Rec Letters]
+* [The Personal Statement]
+* [The Research Statement]
+* [The Diversity/Personal History Statement]
 
-Interviews
-The 101
-Interview weekend schedule
-What to wear
-What to bring
-Structure of the interview
+**[Interviews](#interviews)**
+* [The 101]
+* [Interview weekend schedule]
+* [What to wear]
+* [What to bring]
+* [Structure of the interview]
 
-After the interview
-What matters: some personal observations
-
-How to choose a school
+**[After the interview](#after-the-interview)**
+* [What matters: some personal observations]
+* [How to choose a school]
 
 Here's a simple footnote,[^1].
 
 [^1]: This is the first footnote. [top](https://lucy-lai.com/blog/gradapps/#fnref:1)
 
 
-# General application tips
+## General application tips
 Before I begin this section, I want to say that many great student bloggers and professors have already written extensively on this topic, so a quick Google search in your discipline of choice should lead you to many resources about general advice on preparing and applying for grad school.
 How do I know I want to go to grad school?
 
-## How do I know I want to go to grad school?
+### How do I know I want to go to grad school?
 A resource that really helped me was written by Vael Gates, a Neuroscience PhD student at UC Berkeley. Vael is a friend and someone I greatly look up to. They did so well in the application process, and their advice and website helped me a lot along the way. Vael gives a good summary about what you should think about BEFORE applying to grad school, so I won’t reiterate that here.
 
 One thing I would like to add is to think about taking a gap year(s) if you do not feel your application is yet strong enough for the current application cycle. How do I know if my application is strong enough? One good way to know is to ask your research mentors. These guys have read and interviewed countless researchers and potential grad students and can easily tell you how you might fare in the process, what schools you should shoot for, etc.
@@ -82,7 +82,7 @@ There are always mixed answers to this question, but what I’ve learned from PI
 Disclaimer: If you are applying to programs that do NOT have a rotation program, it is imperative that you contact PIs before applying as to ensure they have sufficient space and funding to take you on as a student. This process could even require several Skype calls to determine if the lab you’re interested in would be a good fit for you. After all, in this case, you’re going to that school for that particular lab.
 Also, don’t feel bad if PIs don’t respond to your emails! Out of the 32 emails I sent, I only received replies to about half of them, and ended up Skyping or calling about 6-7 PIs before Dec 1. But nevertheless, this was extremely helpful for me as I ended up not applying to certain schools because I found out that the lab I was interested in was going in a different research direction than I had expected.
 
-# Application components
+## Application components
 I need examples of application materials?!?
 It helped me immensely to read and model my application essays after other successful applicants’ (mostly friends/recently graduated Rice alumni). To pass along the favor, I am happy to provide my application materials (fellowship, grad school, etc) upon request. You can email me at [my full name] @ g.harvard.edu. I am also happy to chat about specific schools if I familiar with them. Now onto the application components…
 The checklist
@@ -122,7 +122,7 @@ This is the short “backstory” that I mentioned above: keep it short and swee
 
 Side note: Last year there was a small Twitter uprising against a very well known professor in neuroscience who was complaining about how she read too many PSs that began with something like “when I was a child, I was curious,” etc. Although it was insensitive, it’s true that the adcoms read these kinds of things all the time—they’d honestly rather just hear about your research. It’s important to get to the point sooner rather than later. I included about 1-2 unique sentences about my personal background before I just dove right into my previous research history.
 
-What previous research experience have you had?
+### What previous research experience have you had?
 I’d say this is approximately 50% of your entire personal statement, and is the part where you convince the readers that you’ve taken ownership of a project, or shown independence in your work. The (very rough) paragraph recipe that I follow for each research experience I have had is:
 I worked in [PI’s name]’s lab during my [sophomore/junior/etc.] year on a project that investigated [what was the goal or question of the project?]. I used [technique or method] to understand [more about the particular experiment or analysis you ran]. We concluded that [what did you conclude…or not conclude?]. I presented my findings at [conference X], and will be on an upcoming manuscript.
 You can elaborate more than I have here, but the idea is to keep the paragraph with just enough detail to give a sense of what you accomplished/learned in that research experience, but not too much detail as to overwhelm the reader with unnecessary information. If you didn’t present/publish your findings anywhere, don’t worry about it—just wrap up the paragraph by describing possible future directions for the project, or tie it up with the big-picture application/importance of your findings.
@@ -134,7 +134,7 @@ This is the last ~25% of your PS, and is the 1-2 paragraphs that should differ f
 A good rule of thumb to see if you’re being too general is to replace the school’s name with another schools’, and if the paragraph still makes sense, you’re not being particular enough about why one school is any different from others.
 PS’s can seem formulaic (especially how I just described it now), but remember that it’s still possible to insert your own voice into the statement, and weave together a story given the research experiences that you’ve had.
 
-The RS: Research Statement a.k.a.”What?? Another essay?”
+### The RS: Research Statement a.k.a."What?? Another essay?"
 How does the research statement differ from the personal one?!
 Some schools are annoying and ask you to write PS and RS as two separate essays. In my opinion, if a school requires a research statement, your personal statement will look slightly different than how I have outlined it in the above section.In these cases, the PS is more focused on your backstory (there is more space to elaborate about how you became interested in science), whereas the research statement is really reserved for describing the research projects that you’ve worked on in detail.  Here is a research statement prompt I pulled from one of my applications:
 Please describe your research. For each significant experience you have had, describe the scientific context of the problem you addressed, the method you employed, and the conclusion you made from your work.
@@ -144,14 +144,14 @@ The diversity/personal history statement is usually more rare than the research 
 [School X] regards the diversity of its graduate student body as an important factor in serving the educational mission of the university. We encourage you to share unique, personally important, and/or challenging factors in your background, such as work and life experiences, special interests, culture, socioeconomic status, the quality of your early educational environment, gender, sexual orientation, race or ethnicity. Please discuss how such factors would contribute to the diversity of the entering class, and hence to the experience of your [School X] classmates.
 This statement asks you to discuss personal factors that would make you attractive from a diversity point of view. Besides the obvious one (racial diversity), you may draw upon your diversity of experience, economic status, gender, etc. that might make you stand out from the rest of the applicant pool. This would also be great place to elaborate on your story if you’re the first person in your family to go to college or grad school, and to talk about how the experience of higher education has challenged and changed you. I think this is a great space to personalize your application and to give a little bit more flavor to who you are!
 
-Interviews (the fun part)
-The 101
+## Interviews (the fun part)
+### The 101
 Well…now that you’ve submitted your application materials, it’s time to wait for news…Remember: your first goal in the application process is to GET AN INTERVIEW.
 Keep in mind that not all kinds of programs interview! Most of my engineering friends, for example, were straight up accepted or rejected by the schools based on their online application—only those who were admitted were invited to fly out to visit the school. However, those programs that do interview (most biosciences) will want to meet you first before they make the final admissions decision. Keep in mind that this also means that you are interviewing the school as well, in order to determine if you would actually want to spend the next 5-6 years of your life in that city/research environment!
 If you’ve been invited to interview, congratulations! You’ve made it to the next step of the application process, and it might be good news to you that only the top 5-15% (depending on the school) of applicants get invited. You’ll be flown out and put up in a fancy hotel on the school’s dime. Lots of free food, and oh, lets not forget—an abundance of free booze. I heard back from schools about interviews in December, and interviews started mid-January and continued through the beginning of March.
 Now that you’ve passed the paper application stage, it’s time to shine in person! This isn’t as scary as it may sound (although meeting bigshot PIs can be intimidating…). Just tell yourself that you already have everything you need to know (your previous research experience, research interests, and why you want to go to that school—things you should have written in your PS!). Add a sprinkle of genuine enthusiasm and your interview experience will be fine. Many people are much more nervous than they should be (I certainly was), but after your first few interviews, you’ll realize that it really is just a conversation. There are only a handful of PIs that might want to make your life hard and ask annoying questions (e.g. “What do you think about consciousness?”), but the majority of them sincerely want to get to know you better and see if you’re really a good fit for the school.
 I’ll also add that if you are invited to interview at more than 2-3 schools, you’ll soon realize that you are seeing the same people over and over at these interviews. Top applicants tend to apply to the same programs, and these programs all want the top applicants. It can be a really fun experience making interview friends along the way, as they will likely become your science peers throughout grad schools.
-Interview weekend schedule
+### Interview weekend schedule
 Interview weekends are first and foremost an opportunity for you to show the school that you’re even better in person than on paper, and a chance for you to see if you actually vibe with the research environment/PIs/labs that you were interested in.
 The interview schedule is usually broken down over a long weekend, and usually lasts over 3-4 days. You will interview with anywhere between 3-8 PIs, and the schools usually ask who you would like to meet before they curate your personalized schedule. Think about this list carefully, and make sure to include PIs that you’d actually want to work with, instead of just including the 3-4 most famous researchers at that particular school. More often than not, these bigshots aren’t even present during interview weekend…Some schools make your do all your interviews on one day, while other schools spread them out over 2 days.
 I found it hard to get a sense of what interview weekend was going to be like until I actually got my schedule, so here’s an example an of interview schedule that I had:
@@ -174,13 +174,17 @@ Day 3
 8:00pm party at a bar/afterparty at a student’s house
 Day 4
 10:00am depart!
-What to wear
+
+### What to wear
 Business casual was the standard at most of the interviews that I attended, although many programs did not specify any type of dress code and just told interviewees to dress comfortably. Most girls wore nice blouses, shirts with collars, blazers, and slacks, but rarely wore heels (there was too much walking around involved). Most guys wore nice collared shirts, sweaters, blazers, and khakis/slacks, but I rarely saw full suits.
 Personally, I wore a nice top with a blazer, a scarf, and dark/black jeans (instead of slacks, because I found them more comfy). For shoes I wore booties with a block heel that I found stylish yet comfy 🙂 I had fun with my outfits, but to be quite honest, no one really cared what you wore as long as you didn’t look sloppy (stereotypical academics lol).
-What to bring
+
+### What to bring
 Most interviews were a short 30-40 minutes long, and I found that there wasn’t actually much time to get into too much detail about anything. I brought a small notebook just to jot down stuff during or between interviews, or in case I needed to draw stuff to explain something (but most PI’s offices had whiteboards). But other than that, there was no need to bring anything, including printouts of figures/your laptop/your CV (they already have that anyway). It would be overkill, especially because the best kinds of interviews flow organically.
-Structure of the interview
+
+### Structure of the interview
 During an interview, time really flies. You have 30 minutes to shine and make some sort of (hopefully positive) impression while also getting as much information as possible to help make your grad school decision.
+
 Interviews are typically structured like this:
 Tell me about you/your previous research: This is your research spiel—the same one that you wrote about in your personal statement. I found that at best, a PI might have glanced at your application/PS, but likely did not remember any details. In any regard, it helps them to hear about your previous research experience firsthand. They might interject and ask you about some details if they know your subfield well, or ask you about your individual contribution to the work if they’re less familiar with the details. PIs want to see that you are knowledgeable about what you have done and that you understand how your work fits into the bigger picture.
 What do you want to work on in grad school? Or what’s an example of a experiment you’d like to run?:This question is quite telling, as they are now asking you to talk about something you might not yet know much about. The goal isn’t to make you commit to a topic—PIs know that research interests change over time; rather, they want to see if you can think creatively (asking you to explain an experiment you could run), and also to see if you/your research interests would be a good fit in their program/school. It wouldn’t make sense to admit you if the research topic you are interested in is not being investigated by anyone at that school, so they want to make sure you’re not attending the wrong program either.
@@ -196,9 +200,8 @@ Besides these four very common interview questions, I’ve also heard these bein
 What are your plans after grad school?
 Why do you want to come to this school?
 In the end, whatever you’re being asked, it helps to pause for a second to collect your thoughts before answering the question. This strategy also helps with nerves 🙂
-After the interview
-I’ve found that it really helps to jot down your gut feelings about the school after the interview weekend. Recount what you liked/disliked about each place, so that you can use these thoughts later when choosing where to attend.
-Misc.
+
+### Misc.
 How many of a PI’s papers should I read?!
 I started the interview season by reading so many papers by each PI I was interviewing with. By the end of interview season…I was reading 0 papers. Reading PI’s papers helps less than actually listening and interacting with the PI during the interview, although knowing what they work on can give you good context for the interview.
 Please don’t: get wasted the night before your interviews. I had heard that this happens but never really thought I’d see it…well to put it lightly, it wasn’t pretty for that particular guy. At least wait until after your interviews…Also try not to hit on professors— that doesn’t always get you in either lol.
@@ -206,7 +209,10 @@ Don’t knock a school till you’ve been! You’ll probably hear rumors about c
 To conclude…
 Interviews take a long time (the entire Spring semester, basically), and are quite emotionally and physically taxing. But they can also be incredibly rewarding, as it’s a chance to meet some of your future peers and mentors, and to eat and drink tons of free food and booze. Enjoy yourself, and feel privileged that you get to be extravagantly courted by all these schools!
 
-What matters: some personal observations (gathered from PIs on the admissions committee)
+## After the interview
+I’ve found that it really helps to jot down your gut feelings about the school after the interview weekend. Recount what you liked/disliked about each place, so that you can use these thoughts later when choosing where to attend.
+
+### What matters: some personal observations (gathered from PIs on the admissions committee)
 It’s hard to gauge how the admissions decision is made after the interview process, but my gut feeling is that the “magical equation” consists of research fit and general impressions. However, there are several other factors that I also took note of when interviewing that revealed what was truly important to PIs and admissions committees:
 Working with people who are well respected and known (aka. who is it that is rooting for you in your letters?) Many interviewees I met on the road had worked in well-known labs. As a result, they received recommendation letters from these very well-known and well-connected PIs. I had a PI tell me in my interview that he’d admit me in a heartbeat because my rec letters were basically written by his three best friends. While this isn’t the only reason he had a positive impression, it definitely helped to know that his trusted peers had good opinions of me (see section about rec letters). The blunt reality of academia is that having someone well-known back you up is a huge plus in admissions (and in general). If you’ve never had the opportunity to work with someone who is well-known, it’s unclear as to whether its a disadvantage–bias largely depends on who is reading your application.
 Being able to clearly convey your contribution to research projects, and the content of those projects. Several PIs asked me to clarify what exactly I did, as to understand how much ownership I took of the project.
@@ -214,7 +220,7 @@ Being able to carry a dynamic and intriguing conversation about science, be it t
 F I T
 But at the end of the day, I think admissions is really about this vague word called “fit.” I cannot stress enough that the process of applying to graduate school goes in both directions: the program is evaluating YOU to see if you would thrive in their research environment, but YOU are also evaluating THEM to see if you would be happy there. It’s like dating—both parties have to be invested.
 
-How to choose…
+### How to choose…
 If you’ve been fortunate enough to receive an offer of admission, its time to celebrate! But when The Universal D-Day (decision day) of April 15 rolls around, you’ll have to have made a choice about where you will spend the next 5-7 years of your life… no biggie, right? Something that I didn’t expect from the application process was the self growth and reflection that occurred by mulling over my decision. One important question to ask (preferable before you begin interviewing) is: what is most important to you?
 For many, research fit is obviously at the top of the list; after all, that’s what we’re all going to grad school for, right? To study what we love! But what if you’re not terribly certain about your particular topic of interest yet? Then maybe it’s more important for you to choose a place that gives you the most options for labs to explore before you commit the next few years to a particular one. These “important” factors will differ from person to person, and are what makes this decision highly personal.
 Choose for overall happiness and success
@@ -226,7 +232,8 @@ On the subject of gut feelings—I was told a lot during interviews to “go wit
 
 And…that’s it! Kudos to you if you’ve made it all the way to the end of this post—the application process is certainly something that I’ve spent a long time reflecting on, and I hope my thoughts have helped you!. If there’s a topic I have not yet covered, or something in the post that needs more detail, please let me know. I will constantly be updating 🙂
 
-Acknowledgments. I could not have figured all of this out without the unending support of Dr. Michael Domeracki and Dr. Caroline Quenemoen, two invaluable mentors from the Rice Center for Civic Leadership who spent countless hours revising my statements and advising me on application processes (for more than just grad school).
+### Acknowledgments
+I could not have figured all of this out without the unending support of Dr. Michael Domeracki and Dr. Caroline Quenemoen, two invaluable mentors from the Rice Center for Civic Leadership who spent countless hours revising my statements and advising me on application processes (for more than just grad school).
 
 Last but not least, I want to thank my three PIs: Jeff Yau (Baylor College of Medicine), Mehrdad Jazayeri (MIT), and Josh Dudman (Janelia Research Campus) for providing me so much wisdom and advice through this whole application process. I’m thankful for their guidance and for their vouching for me to their vast network of PI friends. Connections matter!
 
