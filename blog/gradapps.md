@@ -7,7 +7,7 @@ Welcome! You may have ended up here because you came across [my popular article]
 
 ------
 
-Hello friends! I’ve been meaning to write this post ever since I completed the entire grad school application cycle, and I’ve finally gotten around to it (in time for the beginning of the next cycle, yay!) 🙂 My earnest hope is for this post to shed some light on the application process, especially since it seems a little black box-y when just getting started.
+***Hello friends!*** I’ve been meaning to write this post ever since I completed the entire grad school application cycle, and I’ve finally gotten around to it (in time for the beginning of the next cycle, yay!) 🙂 My earnest hope is for this post to shed some light on the application process, especially since it seems a little black box-y when just getting started.
 
 It can be hard to know where to even begin…how to decide which schools to apply to, how to find PIs, how to write a personal and/or research statement, etc. I recall about a year ago when I was beginning this process and wishing there were more informative guides/blogs about this on the internet, so this is my attempt to help anyone who is thinking of applying to science grad school. If there are any topics and/or questions that I have not addressed here that you would find helpful, please shoot me an email (lucylai [at] g [dot] harvard [dot] edu), and I will update this page accordingly!
 
@@ -129,9 +129,9 @@ Note: I have not seen a school ask for all 3 (personal, research, AND diversity 
 
 **Rec letters:** I honestly believe that recommendation letters are almost as important, if not more important, than the personal statement. This is what your research mentors and PIs have learned about you, your work ethic, and your ability to succeed in graduate school from watching you work in their lab. Often, the PIs that will be reading your application know and/or are buddies with your PIs/recommendation letter writers. A good recommendation from someone that the application reader personally knows can be incredibly powerful, simply due to trust. It’s like…your friend setting you up on a blind date—though you have no idea who your date will be, you trust that what your friend has told you about him/her is true and that he/she isn’t crazy or a bad person 🙂 
 
-Now the commonly asked question is: who should I ask for recommendation letters?
-* The best case scenario: if you have had 3 different research experiences, that’s ideal—ask for a letter from each of your three PIs.
-* The next best case: In case you didn’t have a chance to work in that many labs, it’s good to have rec letters from 1-2 PIs that know you, your work ethic, and your ability to perform research well. Other letters can come from professors that you’ve had and developed a relationship with (beyond just in-class interactions), or even a prof you’ve TA’ed for (if that’s something you’ve done). While they cannot speak to your ability to perform research, they can highlight other qualities you might have such as curiosity, drive, organization, etc.
+Now the commonly asked question is: **who should I ask for recommendation letters?**
+***The best case scenario:*** if you have had 3 different research experiences, that’s ideal—ask for a letter from each of your three PIs.
+***The next best case:*** In case you didn’t have a chance to work in that many labs, it’s good to have rec letters from 1-2 PIs that know you, your work ethic, and your ability to perform research well. Other letters can come from professors that you’ve had and developed a relationship with (beyond just in-class interactions), or even a prof you’ve TA’ed for (if that’s something you’ve done). While they cannot speak to your ability to perform research, they can highlight other qualities you might have such as curiosity, drive, organization, etc.
 
 Rec letters are sometimes a bit of a black box, and since I’ve never read any of my own letters, I can’t really tell you how you should act to impress your mentors while working in their labs. But what I can say (from what a PI told me during our interview), is that application readers are looking for qualities of a good grad student: resilience, patience, the ability to think critically and creatively, independence, etc.
 
@@ -141,41 +141,55 @@ The Personal Statement is an incredibly important part of your application, and 
 Discuss how your personal background informs your decision to pursue a graduate degree.Include any educational, cultural, economic, family or social experiences, challenges, or opportunities relevant to your academic journey.
 The Statement of Purpose should describe succinctly your reasons for applying to the proposed program at [school name],yourpreparationfor this field of study,research interests,future career plans, andother aspects of your backgroundand interests which may aid the admissions committee in evaluating youraptitude and motivation for graduate study.
 Though it seems like there’s a lot to cover, the PS prompts always boil down to:
-* Why do you want a PhD?
-* What previous research experience have you had?
-* What do you want to do in your PhD?
-* Who are you interested in working with at this school?/Why this particular school?
+* ***Why do you want a PhD?***
+* ***What previous research experience have you had?***
+* ***What do you want to do in your PhD?***
+* ***Who are you interested in working with at this school? / Why this particular school?***
 
 It is very important to realize that the PS is a SCIENCE STORY, not a LIFE STORY. There is no reason to paint a lofty picture of your goals and dreams of curing cancer and solving consciousness that were motivated by a loved one’s passing or philosophical #showerthoughts. Though it’s okay to mention these “motivating factors,” the point of the personal statement is to convince the application readers that you 1) know what you’re getting yourself into for the next 5-6 years, 2) have the experience to prove it, and 3) are a good fit for the school given your research interests (and vice versa).
 Like I said, sometimes the best way to begin writing a statement is to read one, so as I said above, don’t hesitate to reach out if you need examples!
 I will now break down each part of the PS, and how I tackled them.
 
-Why do you want a PhD?
+***Why do you want a PhD?***
+  
 This is the short “backstory” that I mentioned above: keep it short and sweet, but also unique (if possible and true). However, don’t make up some motivating factor if it isn’t true. Sometimes just saying that your first research experience in a lab left you “curious for more,” or that you want to be a tenure-track professor/research scientist is enough of a story.
 
 **Side note:** Last year there was a small Twitter uprising against a very well known professor in neuroscience who was complaining about how she read too many PSs that began with something like “when I was a child, I was curious,” etc. Although it was insensitive, it’s true that the adcoms read these kinds of things all the time—they’d honestly rather just hear about your research. It’s important to get to the point sooner rather than later. I included about 1-2 unique sentences about my personal background before I just dove right into my previous research history.
 
-What previous research experience have you had?
-
+***What previous research experience have you had?***
+  
 I’d say this is approximately 50% of your entire personal statement, and is the part where you convince the readers that you’ve taken ownership of a project, or shown independence in your work. The (very rough) paragraph recipe that I follow for each research experience I have had is:
 I worked in [PI’s name]’s lab during my [sophomore/junior/etc.] year on a project that investigated [what was the goal or question of the project?]. I used [technique or method] to understand [more about the particular experiment or analysis you ran]. We concluded that [what did you conclude…or not conclude?]. I presented my findings at [conference X], and will be on an upcoming manuscript.
+  
 You can elaborate more than I have here, but the idea is to keep the paragraph with just enough detail to give a sense of what you accomplished/learned in that research experience, but not too much detail as to overwhelm the reader with unnecessary information. If you didn’t present/publish your findings anywhere, don’t worry about it—just wrap up the paragraph by describing possible future directions for the project, or tie it up with the big-picture application/importance of your findings.
-What do you want to do in your PhD?
+
+***What do you want to do in your PhD?***
+  
 This part should be ~25% of your PS, and is the part where you give a general sense of the kinds of topics you want to work on. I’d advise to take a “goldilocks” approach in the sense that it’s good to be just broad enough as to not sound like you’re pigeonholing yourself into one particular topic (e.g. “I want to understand the role of the ventral stream in visual object recognition”), but not too broad as to sound like you have no specific subfields in mind (e.g. “I just want to solve the entire brain!!”)
+  
 While your interests will almost certainly change over time, a good application (in my experience) requires a “central thread” or theme that ties it all together and makes your story as a developing scientist memorable. It helps if this theme clearly shows how and why you became interested in a certain topic/labs/PIs.
-Who are you interested in working with at this school?/Why this particular school?
+
+***Who are you interested in working with at this school?/Why this particular school?***
+  
 This is the last ~25% of your PS, and is the 1-2 paragraphs that should differ from school to school. This is the part where you talk about the specific labs you are interested in working in, and why. Here, you may also add some specific reasons as to why that particular school would be a good fit for you, and why it makes sense for you to do you PhD there instead of any other school with a similar ranking program. Is it the specific PI/labs? Is it the resources/opportunities for collaboration?
 A good rule of thumb to see if you’re being too general is to replace the school’s name with another schools’, and if the paragraph still makes sense, you’re not being particular enough about why one school is any different from others.
+  
 PS’s can seem formulaic (especially how I just described it now), but remember that it’s still possible to insert your own voice into the statement, and weave together a story given the research experiences that you’ve had.
 
 ### The Research Statement 
+  
 How does the research statement differ from the personal one?!
+  
 Some schools are annoying and ask you to write PS and RS as two separate essays. In my opinion, if a school requires a research statement, your personal statement will look slightly different than how I have outlined it in the above section.In these cases, the PS is more focused on your backstory (there is more space to elaborate about how you became interested in science), whereas the research statement is really reserved for describing the research projects that you’ve worked on in detail.  Here is a research statement prompt I pulled from one of my applications:
 Please describe your research. For each significant experience you have had, describe the scientific context of the problem you addressed, the method you employed, and the conclusion you made from your work.
+  
 Right off the bat, RS prompts sound much more straightforward than PS prompts. I’d suggest following the same overall structure as the “What previous research experience have you had?” section above, and crafting your PS to reflect more of your research interests and motivation for pursuing a Ph.D.
 The DS: Diversity/Personal History Statement a.k.a.When they actually care about you as a person
+  
 The diversity/personal history statement is usually more rare than the research statement, and only a few schools that I applied to asked for such an essay. Here’s an example prompt:
-[School X] regards the diversity of its graduate student body as an important factor in serving the educational mission of the university. We encourage you to share unique, personally important, and/or challenging factors in your background, such as work and life experiences, special interests, culture, socioeconomic status, the quality of your early educational environment, gender, sexual orientation, race or ethnicity. Please discuss how such factors would contribute to the diversity of the entering class, and hence to the experience of your [School X] classmates.
+  
+> [School X] regards the diversity of its graduate student body as an important factor in serving the educational mission of the university. We encourage you to share unique, personally important, and/or challenging factors in your background, such as work and life experiences, special interests, culture, socioeconomic status, the quality of your early educational environment, gender, sexual orientation, race or ethnicity. Please discuss how such factors would contribute to the diversity of the entering class, and hence to the experience of your [School X] classmates.
+  
 This statement asks you to discuss personal factors that would make you attractive from a diversity point of view. Besides the obvious one (racial diversity), you may draw upon your diversity of experience, economic status, gender, etc. that might make you stand out from the rest of the applicant pool. This would also be great place to elaborate on your story if you’re the first person in your family to go to college or grad school, and to talk about how the experience of higher education has challenged and changed you. I think this is a great space to personalize your application and to give a little bit more flavor to who you are!
 
 ## Interviews (the fun part)
@@ -188,9 +202,11 @@ Now that you’ve passed the paper application stage, it’s time to shine in pe
 I’ll also add that if you are invited to interview at more than 2-3 schools, you’ll soon realize that you are seeing the same people over and over at these interviews. Top applicants tend to apply to the same programs, and these programs all want the top applicants. It can be a really fun experience making interview friends along the way, as they will likely become your science peers throughout grad schools.
 
 ### Interview weekend schedule
+  
 Interview weekends are first and foremost an opportunity for you to show the school that you’re even better in person than on paper, and a chance for you to see if you actually vibe with the research environment/PIs/labs that you were interested in.
 The interview schedule is usually broken down over a long weekend, and usually lasts over 3-4 days. You will interview with anywhere between 3-8 PIs, and the schools usually ask who you would like to meet before they curate your personalized schedule. Think about this list carefully, and make sure to include PIs that you’d actually want to work with, instead of just including the 3-4 most famous researchers at that particular school. More often than not, these bigshots aren’t even present during interview weekend…Some schools make your do all your interviews on one day, while other schools spread them out over 2 days.
 I found it hard to get a sense of what interview weekend was going to be like until I actually got my schedule, so here’s an example an of interview schedule that I had:
+
 School X
 Day 1
 4:00pm arrive/check-in at hotel
@@ -210,6 +226,27 @@ Day 3
 8:00pm party at a bar/afterparty at a student’s house
 Day 4
 10:00am depart!
+  
+| Day     | Event                                                      |
+|---------|------------------------------------------------------------|
+| Day 1   |                                                            |
+| 4:00pm  | arrive/check-in at hotel                                   |
+| 5:00pm  | informal reception/happy hour with faculty and students    |
+| Day 2   |                                                            |
+| 9:00am  | program overview and requirements                          |
+| 10:00am | several 30 minute interviews (with some breaks in between) |
+| 12:00pm | lunch with faculty                                         |
+| 1:00pm  | faculty/student research talks                             |
+| 3:00pm  | poster session/happy hour                                  |
+| 5:00pm  | dinner at faculty house                                    |
+| Day 3   |                                                            |
+| 9:00am  | more interviews (with some breaks in between)              |
+| 12:00pm | lunch with students and faculty                            |
+| 1:00pm  | lab tours                                                  |
+| 5:00pm  | dinner                                                     |
+| 8:00pm  | party at a bar/afterparty at a student’s house             |
+| Day 4   |                                                            |
+| 10:00am | depart!                                                    |
 
 ### What to wear
 Business casual was the standard at most of the interviews that I attended, although many programs did not specify any type of dress code and just told interviewees to dress comfortably. Most girls wore nice blouses, shirts with collars, blazers, and slacks, but rarely wore heels (there was too much walking around involved). Most guys wore nice collared shirts, sweaters, blazers, and khakis/slacks, but I rarely saw full suits.
