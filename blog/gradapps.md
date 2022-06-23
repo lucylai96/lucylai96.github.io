@@ -29,6 +29,7 @@ I have broken up this post into short digestible, FAQ-like sections for convinie
 * [How many schools should I apply to?](#how-many-schools-should-i-apply-to)
 * [Applying is so expensive! (Fee waivers)](#applying-is-so-expensive-how-do-i-get-application-fee-waivers)
 * [Should I reach out to PIs before applying?](#should-i-reach-out-to-pis-before-applying)
+
 **[Application components](#application-components)**
 * [I need examples of application materials?!?](#i-need-examples-of-application-materials)
 * [The checklist](#the-checklist)
@@ -36,6 +37,7 @@ I have broken up this post into short digestible, FAQ-like sections for convinie
 * [The Personal Statement](#the-personal-statement)
 * [The Research Statement](#the-research-statement)
 * [The Diversity/Personal History Statement](#the-diversity-or-personal-history-statement)
+
 **[Interviews](#interviews-the-fun-part)**
 * [The 101](#the-101)
 * [Interview weekend schedule](#interview-weekend-schedule)
@@ -43,10 +45,13 @@ I have broken up this post into short digestible, FAQ-like sections for convinie
 * [What to bring](#what-to-bring)
 * [Structure of the interview](#structure-of-the-interview)
 * [After the interview](#after-the-interview)**
+
 **[Who gets into grad school?](#who-gets-into-grad-school)**
 * [Personal observations as an interviewee](#what-matters-personal-observations-as-an-interviewee)
 * [Personal observations as an interviewer](#personal-observations-as-an-interviewer)
+
 **[How to choose a school](#how-to-choose-a-school)**
+
 **[Additional resources (e.g., international PhD programs, etc.]**(#)
 
 -----
