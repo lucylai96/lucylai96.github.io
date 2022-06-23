@@ -15,30 +15,6 @@ It can be hard to know where to even begin…how to decide which schools to appl
 
 I have broken up this post into short digestible, FAQ-like sections for convinience, in case you didn’t sign up for a wall of text 🙂
 
-<details>
-  <summary> <a href=#general-application-tips> <b> General application tips </b> </summary>
-  
-* [How do I know I want to go to grad school?](#how-do-I-know-i-want-to-go-to-grad-school)
-* [When should I start applying?](#when-should-i-start-applying)
-* [What kind of programs and schools should I apply to?](#what-kind-of-programs-and-schools-should-i-apply-to)
-* [How many schools should I apply to?](#how-many-schools-should-i-apply-to)
-* [Applying is so expensive! (Fee waivers)](#applying-is-so-expensive-how-do-i-get-application-fee-waivers)
-* [Should I reach out to PIs before applying?](#should-i-reach-out-to-pis-before-applying)
-  
-</details>
-  
-<details>
-  <summary> <a href=#application-components> <b> Application components </b> </summary>
-  
-* [I need examples of application materials?!?](#i-need-examples-of-application-materials)
-* [The checklist](#the-checklist)
-* [Transcript, CV, GRE, Rec Letters](#transcript-cv-gre-rec-letters)
-* [The Personal Statement](#the-personal-statement)
-* [The Research Statement](#the-research-statement)
-* [The Diversity/Personal History Statement](#the-diversity-or-personal-history-statement)
-  
-</details> 
-
 **[General application tips](#general-application-tips)**
 * [How do I know I want to go to grad school?](#how-do-I-know-i-want-to-go-to-grad-school)
 * [When should I start applying?](#when-should-i-start-applying)
@@ -268,39 +244,56 @@ During an interview, time really flies. You have 30 minutes to shine and make so
 Interviews are typically structured like this:
 Tell me about you/your previous research: This is your research spiel—the same one that you wrote about in your personal statement. I found that at best, a PI might have glanced at your application/PS, but likely did not remember any details. In any regard, it helps them to hear about your previous research experience firsthand. They might interject and ask you about some details if they know your subfield well, or ask you about your individual contribution to the work if they’re less familiar with the details. PIs want to see that you are knowledgeable about what you have done and that you understand how your work fits into the bigger picture.
 What do you want to work on in grad school? Or what’s an example of a experiment you’d like to run?:This question is quite telling, as they are now asking you to talk about something you might not yet know much about. The goal isn’t to make you commit to a topic—PIs know that research interests change over time; rather, they want to see if you can think creatively (asking you to explain an experiment you could run), and also to see if you/your research interests would be a good fit in their program/school. It wouldn’t make sense to admit you if the research topic you are interested in is not being investigated by anyone at that school, so they want to make sure you’re not attending the wrong program either.
+
 I’ll tell you about my lab/research: What do PI’s love more than hearing about research? Talking about their own research, of course! This is the part where PIs expand upon what their lab is working on. If you’re interested in their lab, this is often a very important and telling part of the interview. Many times PIs will no longer be working on whatever their websites say they are working on (PIs never update those things), and there is no way to know what direction their lab is heading in unless you talk to them/people in their lab directly. Don’t just passively listen—this is a great time to interject, ask questions about their research, and to evaluate whether (as cheesy as it sounds), you two have “chemistry”. If you’re not so interested in the lab for your thesis, or the PI works on a very different topic than what you have experience with, keep an open mind and take this opportunity to learn about really cool science from a very cool researcher. And keep in mind that that’s still an opportunity to be inquisitive and eager—traits of a “good” grad student.
+
 Do you have any questions about the program/school/etc.? As the interview wraps up, the PI will likely ask if they can answer any questions from you. This is your opportunity to ask the questions that will really help you figure out if you want to attend that school over another. This will largely depend on what you consider as important factors for choosing a school, and will vary from person to person. But to give you an example, I found it important for the department to have several PIs that I would want to work with, a healthy culture of collaboration (all schools will say they are collaborative, but your job is to figure out what that looks like in practice), and to be a place where students were happy and felt that they had multiple mentors they could go to besides their PI. Some questions are more informative/revealing than others; I found these to be my favorite go-to questions:
-What’s the culture of the department/students?
-What does a rotation in your lab look like? How do you decide with the student what they will work on?
-How long does it usually take students to graduate from your lab?
-How often do you meet with students?
-How often are students co-mentored?
-In your opinion, what is most important thing to get out of graduate school? What is your training philosophy?
-Besides these four very common interview questions, I’ve also heard these being asked a good amount:
-What are your plans after grad school?
-Why do you want to come to this school?
+
+* What’s the culture of the department/students?
+* What does a rotation in your lab look like? How do you decide with the student what they will work on?
+* How long does it usually take students to graduate from your lab?
+* How often do you meet with students?
+* How often are students co-mentored?
+* In your opinion, what is most important thing to get out of graduate school? What is your training philosophy?
+* Besides these four very common interview questions, I’ve also heard these being asked a good amount:
+* What are your plans after grad school?
+* Why do you want to come to this school?
+
+
 In the end, whatever you’re being asked, it helps to pause for a second to collect your thoughts before answering the question. This strategy also helps with nerves 🙂
 
 ### Misc.
-How many of a PI’s papers should I read?!
-I started the interview season by reading so many papers by each PI I was interviewing with. By the end of interview season…I was reading 0 papers. Reading PI’s papers helps less than actually listening and interacting with the PI during the interview, although knowing what they work on can give you good context for the interview.
-Please don’t: get wasted the night before your interviews. I had heard that this happens but never really thought I’d see it…well to put it lightly, it wasn’t pretty for that particular guy. At least wait until after your interviews…Also try not to hit on professors— that doesn’t always get you in either lol.
-Don’t knock a school till you’ve been! You’ll probably hear rumors about certain schools before you even step foot on their campus. But it’s always important to see and judge for yourself.
-To conclude…
+* How many of a PI’s papers should I read before interviews?! I started the interview season by reading so many papers by each PI I was interviewing with. By the end of interview season…I was reading 0 papers. Reading PI’s papers helps less than actually listening and interacting with the PI during the interview, although knowing what they work on can give you good context for the interview.
+* Please don’t: get wasted the night before your interviews. I had heard that this happens but never really thought I’d see it…well to put it lightly, it wasn’t pretty for that particular guy. At least wait until after your interviews…Also try not to hit on professors— that doesn’t always get you in either lol.
+* Don’t knock a school till you’ve been! You’ll probably hear rumors about certain schools before you even step foot on their campus. But it’s always important to see and judge for yourself.
+
+**To conclude…**
+
 Interviews take a long time (the entire Spring semester, basically), and are quite emotionally and physically taxing. But they can also be incredibly rewarding, as it’s a chance to meet some of your future peers and mentors, and to eat and drink tons of free food and booze. Enjoy yourself, and feel privileged that you get to be extravagantly courted by all these schools!
 
-## After the interview
+### After the interview
 I’ve found that it really helps to jot down your gut feelings about the school after the interview weekend. Recount what you liked/disliked about each place, so that you can use these thoughts later when choosing where to attend.
 
-### What matters: some personal observations (gathered from PIs on the admissions committee)
+## Who gets into grad school?
+
+### What matters: personal observations as an interviewee
 It’s hard to gauge how the admissions decision is made after the interview process, but my gut feeling is that the “magical equation” consists of research fit and general impressions. However, there are several other factors that I also took note of when interviewing that revealed what was truly important to PIs and admissions committees:
+
 Working with people who are well respected and known (aka. who is it that is rooting for you in your letters?) Many interviewees I met on the road had worked in well-known labs. As a result, they received recommendation letters from these very well-known and well-connected PIs. I had a PI tell me in my interview that he’d admit me in a heartbeat because my rec letters were basically written by his three best friends. While this isn’t the only reason he had a positive impression, it definitely helped to know that his trusted peers had good opinions of me (see section about rec letters). The blunt reality of academia is that having someone well-known back you up is a huge plus in admissions (and in general). If you’ve never had the opportunity to work with someone who is well-known, it’s unclear as to whether its a disadvantage–bias largely depends on who is reading your application.
+
 Being able to clearly convey your contribution to research projects, and the content of those projects. Several PIs asked me to clarify what exactly I did, as to understand how much ownership I took of the project.
+
 Being able to carry a dynamic and intriguing conversation about science, be it the PI’s science, your science, or the field in general. This doesn’t mean you have to know everything—in fact, I found that reading a PI’s papers in depth didn’t really help in the interview process (abstracts definitely suffice), but the ability to actively listen and engage in a thoughtful scientific discussion helps them gauge how you think. Actively ask questions.
-F I T
+
+* F I T
 But at the end of the day, I think admissions is really about this vague word called “fit.” I cannot stress enough that the process of applying to graduate school goes in both directions: the program is evaluating YOU to see if you would thrive in their research environment, but YOU are also evaluating THEM to see if you would be happy there. It’s like dating—both parties have to be invested.
 
-### How to choose…
+## Personal observations as an interviewer
+
+## Insight gathered from PIs on admissions committees
+
+
+## How to choose a school
 If you’ve been fortunate enough to receive an offer of admission, its time to celebrate! But when The Universal D-Day (decision day) of April 15 rolls around, you’ll have to have made a choice about where you will spend the next 5-7 years of your life… no biggie, right? Something that I didn’t expect from the application process was the self growth and reflection that occurred by mulling over my decision. One important question to ask (preferable before you begin interviewing) is: what is most important to you?
 For many, research fit is obviously at the top of the list; after all, that’s what we’re all going to grad school for, right? To study what we love! But what if you’re not terribly certain about your particular topic of interest yet? Then maybe it’s more important for you to choose a place that gives you the most options for labs to explore before you commit the next few years to a particular one. These “important” factors will differ from person to person, and are what makes this decision highly personal.
 Choose for overall happiness and success
