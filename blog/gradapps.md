@@ -34,6 +34,10 @@ What matters: some personal observations
 
 How to choose a school
 
+Here's a simple footnote,[^1].
+
+[^1]: This is the first footnote. [top](https://lucy-lai.com/blog/gradapps/#fnref:1)
+
 
 # General application tips!
 Before I begin this section, I want to say that many great student bloggers and professors have already written extensively on this topic, so a quick Google search in your discipline of choice should lead you to many resources about general advice on preparing and applying for grad school.
