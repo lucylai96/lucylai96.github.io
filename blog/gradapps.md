@@ -26,6 +26,18 @@ I have broken up this post into short digestible, FAQ-like sections for convinie
 * [Should I reach out to PIs before applying?](#should-i-reach-out-to-pis-before-applying)
   
 </details>
+  
+<details>
+  <summary> <a href=#application-components> <b> Application components </b> </summary>
+  
+* [I need examples of application materials?!?](#i-need-examples-of-application-materials)
+* [The checklist](#the-checklist)
+* [Transcript, CV, GRE, Rec Letters](#transcript-cv-gre-rec-letters)
+* [The Personal Statement](#the-personal-statement)
+* [The Research Statement](#the-research-statement)
+* [The Diversity/Personal History Statement](#the-diversity-or-personal-history-statement)
+  
+</details> 
 
 **[General application tips](#general-application-tips)**
 * [How do I know I want to go to grad school?](#how-do-I-know-i-want-to-go-to-grad-school)
