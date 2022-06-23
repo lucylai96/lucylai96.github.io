@@ -149,9 +149,13 @@ Rec letters are sometimes a bit of a black box, and since I’ve never read any 
 
 ### The Personal Statement
 #### a.k.a. Your science (not life) story
+  
 The Personal Statement is an incredibly important part of your application, and one that you still have full control over before you apply. Virtually all schools will ask you to write a PS as the main essay. The good news is, PS prompts are virtually all the same, and thus you won’t have to rewrite too much for each school that you’re applying to. Here are two samples that I pulled from different schools:
-Discuss how your personal background informs your decision to pursue a graduate degree.Include any educational, cultural, economic, family or social experiences, challenges, or opportunities relevant to your academic journey.
-The Statement of Purpose should describe succinctly your reasons for applying to the proposed program at [school name],yourpreparationfor this field of study,research interests,future career plans, andother aspects of your backgroundand interests which may aid the admissions committee in evaluating youraptitude and motivation for graduate study.
+  
+> Discuss how your personal background informs your decision to pursue a graduate degree.Include any educational, cultural, economic, family or social experiences, challenges, or opportunities relevant to your academic journey.
+  
+> The Statement of Purpose should describe succinctly your reasons for applying to the proposed program at [school name],your preparation for this field of study, research interests, future career plans, and other aspects of your backgroundand interests which may aid the admissions committee in evaluating youraptitude and motivation for graduate study.
+  
 Though it seems like there’s a lot to cover, the PS prompts always boil down to:
 * ***Why do you want a PhD?***
 * ***What previous research experience have you had?***
@@ -163,17 +167,17 @@ Like I said, sometimes the best way to begin writing a statement is to read one,
 I will now break down each part of the PS, and how I tackled them.
 
 ***Why do you want a PhD?***
-  
-This is the short “backstory” that I mentioned above: keep it short and sweet, but also unique (if possible and true). However, don’t make up some motivating factor if it isn’t true. Sometimes just saying that your first research experience in a lab left you “curious for more,” or that you want to be a tenure-track professor/research scientist is enough of a story.
+* This is the short “backstory” that I mentioned above: keep it short and sweet, but also unique (if possible and true). However, don’t make up some motivating factor if it isn’t true. Sometimes just saying that your first research experience in a lab left you “curious for more,” or that you want to be a tenure-track professor/industry research scientist is enough of a story.
 
-**Side note:** Last year there was a small Twitter uprising against a very well known professor in neuroscience who was complaining about how she read too many PSs that began with something like “when I was a child, I was curious,” etc. Although it was insensitive, it’s true that the adcoms read these kinds of things all the time—they’d honestly rather just hear about your research. It’s important to get to the point sooner rather than later. I included about 1-2 unique sentences about my personal background before I just dove right into my previous research history.
+* **Side note:** Last year there was a small Twitter uprising against a very well known professor in neuroscience who was complaining about how she read too many PSs that began with something like “when I was a child, I was curious,” etc. Although it was insensitive, it’s true that the adcoms read these kinds of things all the time—they’d honestly rather just hear about your research. It’s important to get to the point sooner rather than later. I included about 1-2 unique sentences about my personal background before I just dove right into my previous research history.
 
 ***What previous research experience have you had?***
   
-I’d say this is approximately 50% of your entire personal statement, and is the part where you convince the readers that you’ve taken ownership of a project, or shown independence in your work. The (very rough) paragraph recipe that I follow for each research experience I have had is:
-I worked in [PI’s name]’s lab during my [sophomore/junior/etc.] year on a project that investigated [what was the goal or question of the project?]. I used [technique or method] to understand [more about the particular experiment or analysis you ran]. We concluded that [what did you conclude…or not conclude?]. I presented my findings at [conference X], and will be on an upcoming manuscript.
+* I’d say this is approximately 50% of your entire personal statement, and is the part where you convince the readers that you’ve taken ownership of a project, or shown independence in your work. The (very rough) paragraph recipe that I follow for each research experience I have had is:
   
-You can elaborate more than I have here, but the idea is to keep the paragraph with just enough detail to give a sense of what you accomplished/learned in that research experience, but not too much detail as to overwhelm the reader with unnecessary information. If you didn’t present/publish your findings anywhere, don’t worry about it—just wrap up the paragraph by describing possible future directions for the project, or tie it up with the big-picture application/importance of your findings.
+** I worked in [PI’s name]’s lab during my [sophomore/junior/etc.] year on a project that investigated [what was the goal or question of the project?]. I used [technique or method] to understand [more about the particular experiment or analysis you ran]. We concluded that [what did you conclude…or not conclude?]. I presented my findings at [conference X], and will be on an upcoming manuscript.
+  
+* You can elaborate more than I have here, but the idea is to keep the paragraph with just enough detail to give a sense of what you accomplished/learned in that research experience, but not too much detail as to overwhelm the reader with unnecessary information. If you didn’t present/publish your findings anywhere, don’t worry about it—just wrap up the paragraph by describing possible future directions for the project, or tie it up with the big-picture application/importance of your findings.
 
 ***What do you want to do in your PhD?***
   
