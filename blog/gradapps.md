@@ -1,9 +1,14 @@
 # All About PhD Applications 
 ## (Second Edition, Updated July 2022)
 
-Welcome! You may have ended up here because you came across [my popular article](https://lucyblogs.wordpress.com/2018/08/02/all-about-phd-applications)
+Welcome! You may have ended up here because you came across [my popular article](https://lucyblogs.wordpress.com/2018/08/02/all-about-phd-applications), which has been viewed over 7k times (and growing!). Thank you to all who reached out to me over the years telling me how helpful of a resource it was to you---and it's been super fun meeting some of you in person at conferences, too! :) Since it has been 4 years since I wrote the article, I am doing a "refresh" in this second edition with the following improvements and content additions: 
 
-[Demystifying the grad school application system across countries: UK, USA, Canada & the Netherlands](https://diverseacademia202.wixsite.com/my-site-1/post/int-grad-apps)
+*  hosting it here on my personal website for neater organization and ease of navigation (thanks to [Github-flavored Markdown!](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github))
+*  my application materials are now **[free to download](./files/phd_apps.zip)**. This file contains my Harvard, Stanford, and NYU essays, chosen in particular to illustrate 1) how little they actually differ, and 2) how a diversity/history statement looks like compared to the personal statement (NYU). Previously, I had asked people to email me requesting these materials, but since it has been awhile since my application days, I decided it was time to make them freely available on the internet :)
+* added a section on [Personal observations as an interviewer](#personal-observations-as-an-interviewer) since I became a student interviewer this year for Harvard's PhD  Program in Neuroscience.
+* added a section on [Reflections on my decision 4 years later](#reflections-on-my-decision).
+
+Finally, I want to mention how much of a joy it has been helping people with their PhD applications over the years. I've spent countless hours meeting with people, editing their application essays, and doing mock interviews. However, as the readership on this article grows, I've started to reach my capacity for the number of requests I can handle! So in addition to these free resources (e.g., this article, my essays, etc.), I'm also beginning to offer paid coaching services for a much lower price than industry standard. For more information, please visit my [Consultations] page!
 
 ------
 
@@ -11,7 +16,7 @@ Welcome! You may have ended up here because you came across [my popular article]
 
 It can be hard to know where to even begin…how to decide which schools to apply to, how to find PIs, how to write a personal and/or research statement, etc. I recall about a year ago when I was beginning this process and wishing there were more informative guides/blogs about this on the internet, so this is my attempt to help anyone who is thinking of applying to science grad school. If there are any topics and/or questions that I have not addressed here that you would find helpful, please shoot me an email (lucylai [at] g [dot] harvard [dot] edu), and I will update this page accordingly!
 
-**Small disclaimer:** I will say that most of this information is going to be specific for fully-funded science PhD programs, and some information may be specific to my discipline in particular (neuroscience), as that’s my only reference point.
+**Disclaimer:** I will say that most of this information is going to be specific for fully-funded science PhD programs, and some information may be specific to my discipline in particular (neuroscience), as that’s my only reference point.
 
 I have broken up this post into short digestible, FAQ-like sections for convinience, in case you didn’t sign up for a wall of text 🙂
 
@@ -22,7 +27,6 @@ I have broken up this post into short digestible, FAQ-like sections for convinie
 * [How many schools should I apply to?](#how-many-schools-should-i-apply-to)
 * [Applying is so expensive! (Fee waivers)](#applying-is-so-expensive-how-do-i-get-application-fee-waivers)
 * [Should I reach out to PIs before applying?](#should-i-reach-out-to-pis-before-applying)
-
 **[Application components](#application-components)**
 * [I need examples of application materials?!?](#i-need-examples-of-application-materials)
 * [The checklist](#the-checklist)
@@ -30,7 +34,6 @@ I have broken up this post into short digestible, FAQ-like sections for convinie
 * [The Personal Statement](#the-personal-statement)
 * [The Research Statement](#the-research-statement)
 * [The Diversity/Personal History Statement](#the-diversity-or-personal-history-statement)
-
 **[Interviews](#interviews-the-fun-part)**
 * [The 101](#the-101)
 * [Interview weekend schedule](#interview-weekend-schedule)
@@ -38,12 +41,11 @@ I have broken up this post into short digestible, FAQ-like sections for convinie
 * [What to bring](#what-to-bring)
 * [Structure of the interview](#structure-of-the-interview)
 * [After the interview](#after-the-interview)**
-
 **[Who gets into grad school?](#who-gets-into-grad-school)**
 * [Personal observations as an interviewee](#what-matters-personal-observations-as-an-interviewee)
 * [Personal observations as an interviewer](#personal-observations-as-an-interviewer)
-
 **[How to choose a school](#how-to-choose-a-school)**
+**[Additional resources (e.g., international PhD programs, etc.]**(#)
 
 -----
 
@@ -332,6 +334,12 @@ For many, research fit is obviously at the top of the list; after all, that’s 
 * On the subject of gut feelings—I was told a lot during interviews to “go with your gut,” and in the end, I found that piece of advice very helpful. It wasn’t always easy to distinguish what my gut feeling was, but after recounting my interview experience at each school (often to friends), it became quite apparent (to me as well as my friends), that I was gushing over one school more than the others. In the end, the decision became clear 🙂
 
 __And...that’s it!__ Kudos to you if you’ve made it all the way to the end of this post—the application process is certainly something that I’ve spent a long time reflecting on, and I hope my thoughts have helped you!. If there’s a topic I have not yet covered, or something in the post that needs more detail, please let me know. I will constantly be updating 🙂
+
+### Additional resources
+* [Demystifying the grad school application system across countries: UK, USA, Canada & the Netherlands](https://diverseacademia202.wixsite.com/my-site-1/post/int-grad-apps)
+* [Applying to grad school](https://erickenjilee.github.io/ApplyingToGradSchool.html)
+* [The PhD application post](https://monicagatesblog.wordpress.com/2016/03/14/the-phd-application-post/)
+* [Steve Ramirez's group resource page](https://theramirezgroup.org/resources/)
 
 ------
 ### Acknowledgments
