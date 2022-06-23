@@ -2,4 +2,4 @@
 ***
 scientific musings and advice
 
-* [graduate school advice](www.lucylai.com/blogs/gradapps)
+* [graduate school advice](https://lucylai.com/blogs/gradapps)
