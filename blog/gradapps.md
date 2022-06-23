@@ -279,15 +279,16 @@ Interviews are typically structured like this:
 ***Do you have any questions about the program/school/etc.?*** 
 * As the interview wraps up, the PI will likely ask if they can answer any questions from you. This is your opportunity to ask the questions that will really help you figure out if you want to attend that school over another. This will largely depend on what you consider as important factors for choosing a school, and will vary from person to person. 
 * To give you an example, I found it important for the department to have several PIs that I would want to work with, a healthy culture of collaboration (all schools will say they are collaborative, but your job is to figure out what that looks like in practice), and to be a place where students were happy and felt that they had multiple mentors they could go to besides their PI. Some questions are more informative/revealing than others; I found these to be my favorite go-to questions:
-  * What’s the culture of the department/students?
-  * What does a rotation in your lab look like? How do you decide with the student what they will work on?
-  * How long does it usually take students to graduate from your lab?
-  * How often do you meet with students?
-  * How often are students co-mentored?
-  * In your opinion, what is most important thing to get out of graduate school? What is your training philosophy?
-  * Besides these four very common interview questions, I’ve also heard these being asked a good amount:
-  * What are your plans after grad school?
-  * Why do you want to come to this school?
+  * _What’s the culture of the department/students?_
+  * _What does a rotation in your lab look like? How do you decide with the student what they will work on?_
+  * _How long does it usually take students to graduate from your lab?_
+  * _How often do you meet with students?_
+  * _How often are students co-mentored?_
+  * _In your opinion, what is most important thing to get out of graduate school? What is your training philosophy?_
+ 
+**Besides these four very common interview questions, I’ve also heard these being asked a good amount:**
+* _What are your plans after grad school?_
+* _Why do you want to come to this school?_
 
 In the end, whatever you’re being asked, it helps to pause for a second to collect your thoughts before answering the question. This strategy also helps with nerves 🙂
 
@@ -297,7 +298,6 @@ In the end, whatever you’re being asked, it helps to pause for a second to col
 * Don’t knock a school till you’ve been! You’ll probably hear rumors about certain schools before you even step foot on their campus. But it’s always important to see and judge for yourself.
 
 **To conclude…**
-
 Interviews take a long time (the entire Spring semester, basically), and are quite emotionally and physically taxing. But they can also be incredibly rewarding, as it’s a chance to meet some of your future peers and mentors, and to eat and drink tons of free food and booze. Enjoy yourself, and feel privileged that you get to be extravagantly courted by all these schools!
 
 ### After the interview
@@ -308,38 +308,38 @@ I’ve found that it really helps to jot down your gut feelings about the school
 
 ### What matters: personal observations as an interviewee
 It’s hard to gauge how the admissions decision is made after the interview process, but my gut feeling is that the “magical equation” consists of research fit and general impressions. However, there are several other factors that I also took note of when interviewing that revealed what was truly important to PIs and admissions committees:
-
-Working with people who are well respected and known (aka. who is it that is rooting for you in your letters?) Many interviewees I met on the road had worked in well-known labs. As a result, they received recommendation letters from these very well-known and well-connected PIs. I had a PI tell me in my interview that he’d admit me in a heartbeat because my rec letters were basically written by his three best friends. While this isn’t the only reason he had a positive impression, it definitely helped to know that his trusted peers had good opinions of me (see section about rec letters). The blunt reality of academia is that having someone well-known back you up is a huge plus in admissions (and in general). If you’ve never had the opportunity to work with someone who is well-known, it’s unclear as to whether its a disadvantage–bias largely depends on who is reading your application.
-
-Being able to clearly convey your contribution to research projects, and the content of those projects. Several PIs asked me to clarify what exactly I did, as to understand how much ownership I took of the project.
-
-Being able to carry a dynamic and intriguing conversation about science, be it the PI’s science, your science, or the field in general. This doesn’t mean you have to know everything—in fact, I found that reading a PI’s papers in depth didn’t really help in the interview process (abstracts definitely suffice), but the ability to actively listen and engage in a thoughtful scientific discussion helps them gauge how you think. Actively ask questions.
-
-* F I T
+* Working with people who are well respected and known (aka. who is it that is rooting for you in your letters?) Many interviewees I met on the road had worked in well-known labs. As a result, they received recommendation letters from these very well-known and well-connected PIs. I had a PI tell me in my interview that he’d admit me in a heartbeat because my rec letters were basically written by his three best friends. While this isn’t the only reason he had a positive impression, it definitely helped to know that his trusted peers had good opinions of me (see section about rec letters). The blunt reality of academia is that having someone well-known back you up is a huge plus in admissions (and in general). If you’ve never had the opportunity to work with someone who is well-known, it’s unclear as to whether its a disadvantage–bias largely depends on who is reading your application.
+* Being able to clearly convey your contribution to research projects, and the content of those projects. Several PIs asked me to clarify what exactly I did, as to understand how much ownership I took of the project.
+* Being able to carry a dynamic and intriguing conversation about science, be it the PI’s science, your science, or the field in general. This doesn’t mean you have to know everything—in fact, I found that reading a PI’s papers in depth didn’t really help in the interview process (abstracts definitely suffice), but the ability to actively listen and engage in a thoughtful scientific discussion helps them gauge how you think. Actively ask questions.
+* Fit
 But at the end of the day, I think admissions is really about this vague word called “fit.” I cannot stress enough that the process of applying to graduate school goes in both directions: the program is evaluating YOU to see if you would thrive in their research environment, but YOU are also evaluating THEM to see if you would be happy there. It’s like dating—both parties have to be invested.
 
-### Personal observations as an interviewer
-
 ### Insight gathered from PIs on admissions committees
+
+### Personal observations as an interviewer
+(2022 Update) This year I was invited to be a student interviewer for Harvard's PhD Program in Neuroscience
 
 
 ------
 ## How to choose a school
-If you’ve been fortunate enough to receive an offer of admission, its time to celebrate! But when The Universal D-Day (decision day) of April 15 rolls around, you’ll have to have made a choice about where you will spend the next 5-7 years of your life… no biggie, right? Something that I didn’t expect from the application process was the self growth and reflection that occurred by mulling over my decision. One important question to ask (preferable before you begin interviewing) is: what is most important to you?
-For many, research fit is obviously at the top of the list; after all, that’s what we’re all going to grad school for, right? To study what we love! But what if you’re not terribly certain about your particular topic of interest yet? Then maybe it’s more important for you to choose a place that gives you the most options for labs to explore before you commit the next few years to a particular one. These “important” factors will differ from person to person, and are what makes this decision highly personal.
-Choose for overall happiness and success
-This might seem intuitive, but there are many schools that have prestigious faculty and programs, but unhappy and stressed students. During interviews, take a moment and ask the students what they do on weekends, whether they like the program, whether the faculty care about them, and if they would choose their school again if they had the chance. You’ll be surprised about how brutally honest they are. But also keep in mind that a few grumpy grad students do not represent the program as a whole—so ask multiple people!
-Choose a place where you could see yourself being successful and happy both inside and outside of the lab— after all, there’s more to life than just research.
-Make all those spreadsheets—but then go with your gut
-One good friend of mine told me a good way to decide on a school “objectively,” was to make a spreadsheet of all the schools with scores (0-10) in each decision category (such as research fit, department culture, etc.). This method gives an illusion of objectively by forcing one to assign scores to subjective factors. Doing this helped me realize what I really prioritized in a school/program and showed me that my gut feeling wasn’t irrational.
-On the subject of gut feelings—I was told a lot during interviews to “go with your gut,” and in the end, I found that piece of advice very helpful. It wasn’t always easy to distinguish what my gut feeling was, but after recounting my interview experience at each school (often to friends), it became quite apparent (to me as well as my friends), that I was gushing over one school more than the others. In the end, the decision became clear 🙂
+If you’ve been fortunate enough to receive an offer of admission, its time to celebrate! But when The Universal D-Day (decision day) of April 15 rolls around, you’ll have to have made a choice about where you will spend the next 5-7 years of your life… no biggie, right? Something that I didn’t expect from the application process was the self growth and reflection that occurred by mulling over my decision. One important question to ask (preferable before you begin interviewing) is: **what is most important to you?**
 
-And…that’s it! Kudos to you if you’ve made it all the way to the end of this post—the application process is certainly something that I’ve spent a long time reflecting on, and I hope my thoughts have helped you!. If there’s a topic I have not yet covered, or something in the post that needs more detail, please let me know. I will constantly be updating 🙂
+For many, research fit is obviously at the top of the list; after all, that’s what we’re all going to grad school for, right? To study what we love! But what if you’re not terribly certain about your particular topic of interest yet? Then maybe it’s more important for you to choose a place that gives you the most options for labs to explore before you commit the next few years to a particular one. These “important” factors will differ from person to person, and are what makes this decision highly personal.
+
+**Choose for overall happiness and success**
+* **This might seem intuitive, but there are many schools that have prestigious faculty and programs, but unhappy and stressed students.** During interviews, take a moment and ask the students what they do on weekends, whether they like the program, whether the faculty care about them, and if they would choose their school again if they had the chance. You’ll be surprised about how brutally honest they are. But also keep in mind that a few grumpy grad students do not represent the program as a whole—so ask multiple people!
+* Choose a place where you could see yourself being successful and happy both inside and outside of the lab—--after all, there’s more to life than just research.
+
+**Make all those spreadsheets—but then go with your gut**
+* One good friend of mine told me a good way to decide on a school “objectively,” was to make a spreadsheet of all the schools with scores (0-10) in each decision category (such as research fit, department culture, etc.). This method gives an illusion of objectively by forcing one to assign scores to subjective factors. Doing this helped me realize what I really prioritized in a school/program and showed me that my gut feeling wasn’t irrational.
+* On the subject of gut feelings—I was told a lot during interviews to “go with your gut,” and in the end, I found that piece of advice very helpful. It wasn’t always easy to distinguish what my gut feeling was, but after recounting my interview experience at each school (often to friends), it became quite apparent (to me as well as my friends), that I was gushing over one school more than the others. In the end, the decision became clear 🙂
+
+__And...that’s it!__ Kudos to you if you’ve made it all the way to the end of this post—the application process is certainly something that I’ve spent a long time reflecting on, and I hope my thoughts have helped you!. If there’s a topic I have not yet covered, or something in the post that needs more detail, please let me know. I will constantly be updating 🙂
 
 ------
 ### Acknowledgments
 I could not have figured all of this out without the unending support of Dr. Michael Domeracki and Dr. Caroline Quenemoen, two invaluable mentors from the Rice Center for Civic Leadership who spent countless hours revising my statements and advising me on application processes (for more than just grad school).
 
-Last but not least, I want to thank my three PIs: Jeff Yau (Baylor College of Medicine), Mehrdad Jazayeri (MIT), and Josh Dudman (Janelia Research Campus) for providing me so much wisdom and advice through this whole application process. I’m thankful for their guidance and for their vouching for me to their vast network of PI friends. Connections matter!
+Last but not least, I want to thank my three PIs: [Jeff Yau](https://www.bcm.edu/people-search/jeffrey-yau-33318)(Baylor College of Medicine), [Mehrdad Jazayeri](https://mcgovern.mit.edu/profile/mehrdad-jazayeri/) (MIT), and [Josh Dudman (Janelia Research Campus)](https://www.janelia.org/people/joshua-dudman) for providing me so much wisdom and advice through this whole application process. I’m thankful for their guidance and for their vouching for me to their vast network of PI friends. Connections matter!
 
 Happy application season!!
