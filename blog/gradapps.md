@@ -16,9 +16,9 @@ It can be hard to know where to even begin…how to decide which schools to appl
 I have broken up this post into short digestible, FAQ-like sections for convinience, in case you didn’t sign up for a wall of text 🙂
 
 **[General application tips](#general-application-tips)**
-* [How do I know I want to go to grad school?](#how-do-I-know-I-want-to-go-to-grad-school?)
-* [When should I start applying?](#when-should-I-start-applying?)
-* [What kind of programs should I apply to?]
+* [How do I know I want to go to grad school?](#how-do-I-know-i-want-to-go-to-grad-school?)
+* [When should I start applying?](#when-should-i-start-applying)
+* [What kind of programs should I apply to?](#what-kind-of-programs/schools-should-i-apply-to)
 * [How many schools should I apply to?]
 * [Applying is so expensive! (Fee waivers)]
 * [Should I reach out to PIs before applying?]
