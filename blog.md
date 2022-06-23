@@ -1,5 +1,5 @@
 ## blog
 ***
-scientific musings and advice
+scientific musings
 
-* [graduate school advice](https://lucylai.com/blogs/gradapps)
+* [graduate school advice](https://lucy-lai.com/blogs/gradapps)
