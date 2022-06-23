@@ -1,18 +1,26 @@
+# All About PhD Applications (Second Edition, Updated July 2022)
+
+Welcome! You may have ended up here because you came across [my popular article](https://lucyblogs.wordpress.com/2018/08/02/all-about-phd-applications)
+
+[Demystifying the grad school application system across countries: UK, USA, Canada & the Netherlands](https://diverseacademia202.wixsite.com/my-site-1/post/int-grad-apps)
+
+------
+
 Hello friends! I’ve been meaning to write this post ever since I completed the entire grad school application cycle, and I’ve finally gotten around to it (in time for the beginning of the next cycle, yay!) 🙂 My earnest hope is for this post to shed some light on the application process, especially since it seems a little black box-y when just getting started.
 
 It can be hard to know where to even begin…how to decide which schools to apply to, how to find PIs, how to write a personal and/or research statement, etc. I recall about a year ago when I was beginning this process and wishing there were more informative guides/blogs about this on the internet, so this is my attempt to help anyone who is thinking of applying to science grad school. If there are any topics and/or questions that I have not addressed here that you would find helpful, please shoot me an email (lucylai [at] g [dot] harvard [dot] edu), and I will update this page accordingly!
 
-Small disclaimer: I will say that most of this information is going to be specific for fully-funded science PhD programs, and some information may be specific to my discipline in particular (neuroscience), as that’s my only reference point.
+**Small disclaimer:** I will say that most of this information is going to be specific for fully-funded science PhD programs, and some information may be specific to my discipline in particular (neuroscience), as that’s my only reference point.
 
 I have broken up this post into short digestible, FAQ-like sections for convinience, in case you didn’t sign up for a wall of text 🙂
 
-General application tips
-How do I know I want to go to grad school?
-When should I start applying?
-What kind of programs should I apply to?
-How many schools should I apply to?
-Applying is so expensive! (Fee waivers)
-Should I reach out to PIs before applying?
+[General application tips](#general-application-tips)
+* [How do I know I want to go to grad school?](#How-do-I-know-I-want-to-go-to-grad-school?)
+* [When should I start applying?](#When-should-I-start-applying?)
+* [What kind of programs should I apply to?]
+* [How many schools should I apply to?]
+* [Applying is so expensive! (Fee waivers)]
+* [Should I reach out to PIs before applying?]
 
 Application components
 I need examples of application materials?!?
@@ -39,13 +47,15 @@ Here's a simple footnote,[^1].
 [^1]: This is the first footnote. [top](https://lucy-lai.com/blog/gradapps/#fnref:1)
 
 
-# General application tips!
+# General application tips
 Before I begin this section, I want to say that many great student bloggers and professors have already written extensively on this topic, so a quick Google search in your discipline of choice should lead you to many resources about general advice on preparing and applying for grad school.
 How do I know I want to go to grad school?
 
-A resource that really helped me was written by Monica Gates, a Neuroscience PhD student at UC Berkeley. Monica is a friend and someone I greatly look up to. She did so well in the application process, and her advice and website helped me a lot along the way. She gives a good summary about what you should think about BEFORE applying to grad school, so I won’t reiterate that here.
+## How do I know I want to go to grad school?
+A resource that really helped me was written by Vael Gates, a Neuroscience PhD student at UC Berkeley. Vael is a friend and someone I greatly look up to. They did so well in the application process, and their advice and website helped me a lot along the way. Vael gives a good summary about what you should think about BEFORE applying to grad school, so I won’t reiterate that here.
 
 One thing I would like to add is to think about taking a gap year(s) if you do not feel your application is yet strong enough for the current application cycle. How do I know if my application is strong enough? One good way to know is to ask your research mentors. These guys have read and interviewed countless researchers and potential grad students and can easily tell you how you might fare in the process, what schools you should shoot for, etc.
+How do I know I want to go to grad school?
 
 ### When should I start applying?
 Start really early! Applying takes a long time, and is a lot of effort on top of a full senior year courseload (if you’re still in your undergrad). Personally, I would say that the summer (i.e. right now!) before the application cycle in which you plan to apply is the right time to begin narrowing down the list of schools you want to apply to, and making lists of the principle investigators (PIs) that you are interested in working with. Your personal statement (PS) has to address this in some way, as well as why it makes sense for you to want to work in that lab/with that particular PI. Once you have this sorted out, the process becomes much more concrete/organized, and you can begin crafting your PS for specific schools. More on this in the PS section!
