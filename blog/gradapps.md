@@ -210,7 +210,7 @@ The interview schedule is usually broken down over a long weekend, and usually l
 I found it hard to get a sense of what interview weekend was going to be like until I actually got my schedule, so here’s an example an of interview schedule that I had:
 
 ** School X**  
-| **Day & Time** | **Event**                                                  |
+|   Day & Time   | Event                                                      |
 |----------------|------------------------------------------------------------|
 |    **Day 1**   |                                                            |
 |     4:00pm     | arrive/check-in at hotel                                   |
