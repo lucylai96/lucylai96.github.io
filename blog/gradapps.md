@@ -16,11 +16,11 @@ It can be hard to know where to even begin…how to decide which schools to appl
 I have broken up this post into short digestible, FAQ-like sections for convinience, in case you didn’t sign up for a wall of text 🙂
 
 **[General application tips](#general-application-tips)**
-* [How do I know I want to go to grad school?](#how-do-I-know-i-want-to-go-to-grad-school?)
+* [How do I know I want to go to grad school?](#how-do-I-know-i-want-to-go-to-grad-school)
 * [When should I start applying?](#when-should-i-start-applying)
-* [What kind of programs should I apply to?](#what-kind-of-programs/schools-should-i-apply-to)
-* [How many schools should I apply to?]
-* [Applying is so expensive! (Fee waivers)]
+* [What kind of programs and schools should I apply to?](#what-kind-of-programs-and-schools-should-i-apply-to)
+* [How many schools should I apply to?](#how-many-schools-should-i-apply-to)
+* [Applying is so expensive! (Fee waivers)](#applying-is-so-expensive-how-do-i-get-application-fee-waivers)
 * [Should I reach out to PIs before applying?]
 
 **[Application components](#application-components)**
@@ -62,7 +62,7 @@ Start really early! Applying takes a long time, and is a lot of effort on top of
 
 Applying takes a long time, and is a lot of effort on top of a full senior year courseload (if you’re still in your undergrad). Keep in mind that graduate school fellowship funding applications like the NSF-GRFP, Hertz, NDSEG, etc are also due in the Fall semester. While these fellowships require components that are similar to grad school applications, they also take a lot of time to craft, so make sure you plan your Fall accordingly, and pray for your own sanity 🙂
 
-### What kind of programs/schools should I apply to?
+### What kind of programs and schools should I apply to?
 This is a bit of a hard question to answer, because it really depends on your interests. The only biggest difference between programs that are similar (e.g. psychology vs neuroscience) is the coursework you will take and the kinds of peers you might have. By far, the most defining environment of your PhD is your thesis lab, and so the choice of program might not even matter that much after the first year or two. The only thing you might want to consider/find out is if your PI of choice takes students from that particular program (due to certain programs’ funding structures). Even if they have never taken a student from that program, they are likely open to it, as long as your research interests align—either way, it’s worth a conversation!
 
 Last but not least, ASK YOUR MENTORS (postdocs/PIs/etc.) about what schools/programs they recommend! They are a great resource as they know more about the reputation of certain programs and can recommend PIs/labs you might be interested in. I cannot stress this enough— people who have been in the field for a long time are well connected and can perhaps put in a good word for you before you even apply.
