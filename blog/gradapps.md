@@ -39,11 +39,11 @@ I have broken up this post into short digestible, FAQ-like sections for convinie
 * [Structure of the interview](#structure-of-the-interview)
 * [After the interview](#after-the-interview)**
 
-**[Who gets into grad school?]**
-* [Personal observations as an interviewee]
-* [Personal observations as an interviewer]
+**[Who gets into grad school?](#who-gets-into-grad-school)**
+* [Personal observations as an interviewee](#what-matters-personal-observations-as-an-interviewee)
+* [Personal observations as an interviewer](#personal-observations-as-an-interviewer)
 
-**[How to choose a school]**
+**[How to choose a school](#how-to-choose-a-school)**
 
 -----
 
