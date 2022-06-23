@@ -340,6 +340,8 @@ __And...that’s it!__ Kudos to you if you’ve made it all the way to the end o
 ### Acknowledgments
 I could not have figured all of this out without the unending support of Dr. Michael Domeracki and Dr. Caroline Quenemoen, two invaluable mentors from the Rice Center for Civic Leadership who spent countless hours revising my statements and advising me on application processes (for more than just grad school).
 
-Last but not least, I want to thank my three PIs: [Jeff Yau](https://www.bcm.edu/people-search/jeffrey-yau-33318)(Baylor College of Medicine), [Mehrdad Jazayeri](https://mcgovern.mit.edu/profile/mehrdad-jazayeri/) (MIT), and [Josh Dudman (Janelia Research Campus)](https://www.janelia.org/people/joshua-dudman) for providing me so much wisdom and advice through this whole application process. I’m thankful for their guidance and for their vouching for me to their vast network of PI friends. Connections matter!
+Last but not least, I want to thank my three PIs: [Jeff Yau](https://www.bcm.edu/people-search/jeffrey-yau-33318) (Baylor College of Medicine), [Mehrdad Jazayeri](https://mcgovern.mit.edu/profile/mehrdad-jazayeri/) (MIT), and [Josh Dudman](https://www.janelia.org/people/joshua-dudman) (Janelia Research Campus) for providing me so much wisdom and advice through this whole application process. I’m thankful for their guidance and for their vouching for me to their vast network of PI friends. Connections matter!
 
-Happy application season!!
+***Happy application season!!***
+
+Lucy
