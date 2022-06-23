@@ -90,7 +90,7 @@ Also, don’t feel bad if PIs don’t respond to your emails! Out of the 32 emai
 ## Application components
 
 ### I need examples of application materials?!?
-It helped me immensely to read and model my application essays after other successful applicants’ (mostly friends/recently graduated Rice alumni). (2022 Update) To pass along the favor, I am providing **three (3)*** examples: my Harvard, Stanford, and NYU essays, in particular to illustrate 1) how little they actually differ, and 2) how a diversity/history statement looks like compared to the personal statement (NYU).
+It helped me immensely to read and model my application essays after other successful applicants’ (mostly friends/recently graduated Rice alumni). (2022 Update) To pass along the favor, I am providing three examples: [my Harvard, Stanford, and NYU essays](./files/phd_apps.zip), in particular to illustrate 1) how little they actually differ, and 2) how a diversity/history statement looks like compared to the personal statement (NYU).
 
 Now onto the application components…
 
