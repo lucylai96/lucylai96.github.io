@@ -96,11 +96,24 @@ There are always mixed answers to this question, but what I’ve learned from PI
 **Disclaimer:** If you are applying to programs that do NOT have a rotation program, it is imperative that you contact PIs before applying as to ensure they have sufficient space and funding to take you on as a student. This process could even require several Skype calls to determine if the lab you’re interested in would be a good fit for you. After all, in this case, you’re going to that school for that particular lab.
 Also, don’t feel bad if PIs don’t respond to your emails! Out of the 32 emails I sent, I only received replies to about half of them, and ended up Skyping or calling about 6-7 PIs before Dec 1. But nevertheless, this was extremely helpful for me as I ended up not applying to certain schools because I found out that the lab I was interested in was going in a different research direction than I had expected.
 
+(2022 Update): I've often been asked to provide a template to contact PIs. What do I say? What should I ask? It's generally good to keep it relatively short. I would say the best way to get a response is to ask **specific question(s)**, whether it's about taking students or about what research directions or projects they are currently entertaining. Sometimes I attached my CV and other times I didn't. Sometimes PIs would respond, and we would even video call to talk about it (a sign of a very interested PI)! And sometimes I get no reply — It's a shot in the dark, but it’s worth trying!
+
+> Dear Dr. XX,
+> I’m Lucy, a senior undergraduate student at Rice University studying neuroscience and applied math and applying to PhD programs next Fall. I’m interested in your lab’s work in auditory learning, and in particular how neural algorithms code for complex auditory sounds like speech and music. I'm contacting you because I’m interested in your lab for graduate school and think that it would be a good fit. **Are you taking students next Fall?**
+> 
+> I currently work under Jeffrey Yau at Baylor College of Medicine. My research uses human psychophysics and computational modeling to understand how the brain uses belief resetting and causal inference to produce flexible multisensory percepts. Two summers ago, I went to MIT to work with Mehrdad Jazayeri on testing Bayesian models for a time perception task, and eventually became interested in the neural circuits that give rise to perception and sensorimotor behavior. Seeking to learn physiology, I went to Janelia last summer to work with Josh Dudman on action selection in the striatum. Thanks to these diverse opportunities, I’ve had experience in psychophysics, computational modeling, and electrophysiology, and hope to continue working at the intersection of experiments and theory to elucidate the neural coding principles that allow for such complex perceptual experiences. **I'm wondering what the future research directions for your lab are, as that would help me get a better sense of if our interests align.**
+> 
+> Hope to hear from you soon!
+> 
+> Best,
+> Lucy
+
+
 ------
 ## Application components
 
 ### I need examples of application materials?!?
-It helped me immensely to read and model my application essays after other successful applicants’ (mostly friends/recently graduated Rice alumni). (2022 Update) To pass along the favor, I am providing three examples: [my Harvard, Stanford, and NYU essays](https://lucy-lai.com/files/phd_apps.zip), in particular to illustrate 1) how little they actually differ, and 2) how a diversity/history statement looks like compared to the personal statement (NYU).
+It helped me immensely to read and model my application essays after other successful applicants’ (mostly friends/recently graduated Rice alumni). (2022 Update) To pass along the favor, I am providing my CV at time of application along with three example personal statements: [my Harvard, Stanford, and NYU essays](https://lucy-lai.com/files/phd_apps.zip), in particular to illustrate 1) how little they actually differ, and 2) how a diversity/history statement looks like compared to the personal statement (NYU).
 
 Now onto the application components…
 
