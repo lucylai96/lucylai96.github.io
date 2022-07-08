@@ -6,6 +6,8 @@ I’m broadly interested in theories of learning: how do our <a href="http://mit
 
 Outside the lab, I enjoy <a href="http://lucy-lai.com/teaching" target="_blank">teaching</a>, playing the piano, running, <a href="http://lucyblogs.wordpress.com/" target="_blank">writing</a> <a href="http://subcorticalsongs.wordpress.com/" target="_blank">stuff</a>, moral philosophy, coffee, and classical music. I am also a <a href="https://quincy.harvard.edu/people/lucy-lai" target="_blank">Resident Tutor</a> at <a href="https://quincy.harvard.edu/" target="_blank">Quincy House</a>, where I live with and advise Harvard College students!
 
+**[All About PhD Applications Blog Post (Second Edition, Updated July 2022)](https://lucy-lai.com/blog/gradapps)**
+
 Email me at lucylai (at) g (dot) harvard (dot) edu.
 
 **[CV](./files/lai_cv.pdf)**
