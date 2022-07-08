@@ -1,8 +1,9 @@
 # All About PhD Applications 
 ## (Second Edition, Updated July 2022)
 
-Welcome! You may have ended up here because you came across [my popular article](https://lucyblogs.wordpress.com/2018/08/02/all-about-phd-applications), which has been viewed over **7k times** (and growing!). Thank you to all who reached out to me over the years telling me how helpful of a resource it was to you, and it's been super fun meeting some of you in person at conferences, too! :) Since it has been 4 years since I wrote the article, I am doing a "refresh" in this second edition (written July 2022) with the following improvements and content additions: 
+Welcome! You may have ended up here because you came across [my popular article](https://lucyblogs.wordpress.com/2018/08/02/all-about-phd-applications), which has been viewed over **7k times** (and growing!). Thank you to all who reached out to me over the years telling me how helpful of a resource it was to you / how it helped you get into grad school, and it's been super fun meeting some of you in person at conferences, too! 🙂
 
+Since it has been 4 years since I wrote the article, I am doing a "refresh" in this second edition (written July 2022) with the following improvements and content additions: 
 *  hosting it here on my personal website for neater organization and ease of navigation (thanks to [Github-flavored Markdown!](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github))
 *  my application materials are now **[free to download](https://lucy-lai.com/files/phd_apps.zip)**. This file contains **my CV at time of application** and my **Harvard, Stanford, and NYU essays,** chosen in particular to illustrate 1) how little they actually differ, and 2) how a diversity/history statement looks like compared to the personal statement (NYU). Previously, I had asked people to email me requesting these materials, but since it has been awhile since my application days, I decided it was time to make them freely available on the internet :)
 *  added a [template email](https://lucy-lai.com/blog/gradapps#should-i-reach-out-to-pis-before-applying) for how to contact PIs before applying.
@@ -19,9 +20,9 @@ It can be hard to know where to even begin…how to decide which schools to appl
 
 **Disclaimer:** I will say that most of this information is going to be specific for fully-funded science PhD programs, and some information may be specific to my discipline in particular (neuroscience), as that’s my only reference point.
 
-I have broken up this post into short digestible, FAQ-like sections for convinience, in case you didn’t sign up for a wall of text 🙂
+I have broken up this post into short, digestible, FAQ-like sections for your convenience, with links from the Table of Contents:
 
-## TOC
+## Table of Contents
 **[General application tips](#general-application-tips)**
 * [How do I know I want to go to grad school?](#how-do-i-know-i-want-to-go-to-grad-school)
 * [When should I start applying?](#when-should-i-start-applying)
@@ -52,33 +53,37 @@ I have broken up this post into short digestible, FAQ-like sections for convinie
 
 **[How to choose a school](#how-to-choose-a-school)**
 
-**[Additional resources (including advice on UK/Europe PhD programs)]**(#additional-resources)
+**[Additional resources (including advice on UK/Europe PhD programs)](#additional-resources)**
 
 -----
 
 ## General application tips
 Before I begin this section, I want to say that many great student bloggers and professors have already written extensively on this topic, so a quick Google search in your discipline of choice should lead you to many resources about general advice on preparing and applying for grad school.
-How do I know I want to go to grad school?
+<div style="text-align: right"><a href="https://lucy-lai.com/blog/gradapps#table-of-contents">back to top</a> </div>
 
 ### How do I know I want to go to grad school?
 A resource that really helped me was [this blog post](https://monicagatesblog.wordpress.com/2016/03/14/the-phd-application-post/) written by Vael Gates. Vael gives a good summary about what you should think about BEFORE applying to grad school, so I won’t reiterate that here.
 
 One thing I would like to add is to think about taking a gap year(s) if you do not feel your application is yet strong enough for the current application cycle. _How do I know if my application is strong enough?_ One good way to know is to ask your research mentors. They have read and interviewed countless researchers and potential grad students and can easily tell you how you might fare in the process, what schools you should shoot for, etc.
+<div style="text-align: right"><a href="https://lucy-lai.com/blog/gradapps#table-of-contents">back to top</a> </div>
 
 ### When should I start applying?
 Start really early! Applying takes a long time, and is a lot of effort on top of a full senior year courseload (if you’re still in your undergrad). Personally, I would say that the summer (i.e. right now!) before the application cycle in which you plan to apply is the right time to begin narrowing down the list of schools you want to apply to, and making lists of the principle investigators (PIs) that you are interested in working with. Your personal statement (PS) has to address this in some way, as well as why it makes sense for you to want to work in that lab/with that particular PI. Once you have this sorted out, the process becomes much more concrete/organized, and you can begin crafting your PS for specific schools. More on this in the PS section!
 
 Applying takes a long time, and is a lot of effort on top of a full senior year courseload (if you’re still in your undergrad). Keep in mind that graduate school fellowship funding applications like the [NSF-GRFP](https://nsfgrfp.org/), [Hertz](https://www.hertzfoundation.org/), [NDSEG](https://ndseg.sysplus.com/), etc. are also due in the Fall semester. While these fellowships require components that are similar to grad school applications, they also take a lot of time to craft, so make sure you plan your Fall accordingly, and pray for your own sanity 🙂
+<div style="text-align: right"><a href="https://lucy-lai.com/blog/gradapps#table-of-contents">back to top</a> </div>
 
 ### What kind of programs and schools should I apply to?
 This is a bit of a hard question to answer, because it really depends on your interests. The only biggest difference between programs that are similar (e.g. psychology vs neuroscience) is the coursework you will take and the kinds of peers you might have. By far, the most defining environment of your PhD is your thesis lab, and so the choice of program might not even matter that much after the first year or two. The only thing you might want to consider/find out is if your PI of choice takes students from that particular program (due to certain programs’ funding structures). Even if they have never taken a student from that program, they are likely open to it, as long as your research interests align—either way, it’s worth a conversation!
 
 Last but not least, ASK YOUR MENTORS (postdocs/PIs/etc.) about what schools/programs they recommend! They are a great resource as they know more about the reputation of certain programs and can recommend PIs/labs you might be interested in. I cannot stress this enough— people who have been in the field for a long time are well connected and can perhaps put in a good word for you before you even apply.
+<div style="text-align: right"><a href="https://lucy-lai.com/blog/gradapps#table-of-contents">back to top</a> </div>
 
 ### How many schools should I apply to?
 This will depend on the number of labs you are interested in! As a go-to rule that I’ve heard, it’s important for you to apply to schools that have at least 2-3 PIs you’d be interested in working with. This is important so that you have alternative options in case the lab you were really interested in doesn’t end up working out for you. For programs that require rotations (most bioscience programs), it’s even more important to have several people you’d want to work with in order to experience a variety of rotations and be able to pick a thesis lab that you’ll be able to thrive in.
 
 I’d personally suggest somewhere between 6-10 schools— enough to give you options, yet not too many as to overwhelm you with application fees (see next section) and essays. I personally applied to 14 which was o v e r k i l l, and ended up turning down interviews because there just weren’t enough days to visit all the schools.
+<div style="text-align: right"><a href="https://lucy-lai.com/blog/gradapps#table-of-contents">back to top</a> </div>
 
 ### Applying is so expensive! How do I get application fee waivers?
 
@@ -103,16 +108,15 @@ Also, don’t feel bad if PIs don’t respond to your emails! Out of the 32 emai
 > 
 > Best,
 > Lucy
-
-<div style="text-align: right"><a href="https://lucy-lai.com/blog/gradapps#toc)">back to top</a> </div>
-[back to top](#toc)
+<div style="text-align: right"><a href="https://lucy-lai.com/blog/gradapps#table-of-contents">back to top</a> </div>
 ------
 ## Application components
 
 ### I need examples of application materials?!?
 It helped me immensely to read and model my application essays after other successful applicants’ (mostly friends/recently graduated Rice alumni). (2022 Update) To pass along the favor, I am providing my CV at time of application along with three example personal statements: [my Harvard, Stanford, and NYU essays](https://lucy-lai.com/files/phd_apps.zip), in particular to illustrate 1) how little they actually differ, and 2) how a diversity/history statement looks like compared to the personal statement (NYU).
 
-Now onto the application components…
+Now onto the application components...
+<div style="text-align: right"><a href="https://lucy-lai.com/blog/gradapps#table-of-contents">back to top</a> </div>
 
 ### The checklist
 Virtually all schools will require the following:
@@ -127,6 +131,7 @@ Some schools will require the following:
 * A Diversity/Personal History Statement 
 Note: I have not seen a school ask for all 3 (personal, research, AND diversity statement)
 * Other random short answer questions
+<div style="text-align: right"><a href="https://lucy-lai.com/blog/gradapps#table-of-contents">back to top</a> </div>
 
 ### Transcript/CV, GRE, Rec Letters
 
@@ -142,6 +147,7 @@ Now a commonly asked question is: **who should I ask for recommendation letters?
 * ***The next best case:*** In case you didn’t have a chance to work in that many labs, it’s good to have rec letters from 1-2 PIs that know you, your work ethic, and your ability to perform research well. Other letters can come from professors that you’ve had and developed a relationship with (beyond just in-class interactions), or even a prof you’ve TA’ed for (if that’s something you’ve done). While they cannot speak to your ability to perform research, they can highlight other qualities you might have such as curiosity, drive, resilience, organization, etc.
 
 Rec letters are sometimes a bit of a black box, and since I’ve never read any of my own letters, I can’t really tell you how you should act to impress your mentors while working in their labs. But what I can say (from what a PI told me during our interview), is that application readers are looking for qualities of a good grad student: curiosity, passion, resilience, patience, the ability to think critically and creatively, independence, etc.
+<div style="text-align: right"><a href="https://lucy-lai.com/blog/gradapps#table-of-contents">back to top</a> </div>
 
 ### The Personal Statement
 #### a.k.a. your science (not life) story
@@ -187,6 +193,7 @@ I will now break down each part of the PS, and how I tackled them.
 A good rule of thumb to see if you’re being too general is to replace the school’s name with another schools’, and if the paragraph still makes sense, you’re not being particular enough about why one school is any different from others.
   
 * PS’s can seem formulaic (especially how I just described it now), but remember that it’s still possible to insert your own voice into the statement, and weave together a story given the research experiences that you’ve had.
+<div style="text-align: right"><a href="https://lucy-lai.com/blog/gradapps#table-of-contents">back to top</a> </div>
 
 ### The Research Statement 
 ### a.k.a. the details of what you've actually done
@@ -198,6 +205,7 @@ Some schools are annoying and ask you to write PS and RS as two separate essays.
 > Please describe your research. For each significant experience you have had, describe the scientific context of the problem you addressed, the method you employed, and the conclusion you made from your work.
   
 Right off the bat, RS prompts sound much more straightforward than PS prompts. I’d suggest following the same overall structure as the “What previous research experience have you had?” section above, and crafting your PS to reflect more of your research interests and motivation for pursuing a Ph.D.
+<div style="text-align: right"><a href="https://lucy-lai.com/blog/gradapps#table-of-contents">back to top</a> </div>
   
 ### The Diversity or Personal History Statement 
 #### a.k.a. when they actually care about who you are as a person
@@ -207,6 +215,7 @@ The diversity/personal history statement is usually more rare than the research 
 > [School X] regards the diversity of its graduate student body as an important factor in serving the educational mission of the university. We encourage you to share unique, personally important, and/or challenging factors in your background, such as work and life experiences, special interests, culture, socioeconomic status, the quality of your early educational environment, gender, sexual orientation, race or ethnicity. Please discuss how such factors would contribute to the diversity of the entering class, and hence to the experience of your [School X] classmates.
   
 This statement asks you to discuss personal factors that would make you attractive from a diversity point of view. Besides the obvious one (racial diversity), you may draw upon your diversity of experience, economic status, gender, etc. that might make you stand out from the rest of the applicant pool. This would also be great place to elaborate on your story if you’re the first person in your family to go to college or grad school, and to talk about how the experience of higher education has challenged and changed you. I think this is a great space to personalize your application and to give a little bit more flavor to who you are! Personally, I talked about being a woman in computational science and my life experience dealing with a chronic illness.
+<div style="text-align: right"><a href="https://lucy-lai.com/blog/gradapps#table-of-contents">back to top</a> </div>
 
 ------
 ## Interviews (the fun part)
@@ -221,6 +230,7 @@ If you’ve been invited to interview, congratulations! You’ve made it to the 
 Now that you’ve passed the paper application stage, it’s time to shine in person! This isn’t as scary as it may sound (although meeting bigshot PIs can be intimidating…). Just tell yourself that you already have everything you need to know (your previous research experience, research interests, and why you want to go to that school—things you should have written in your PS!). Add a sprinkle of genuine enthusiasm and your interview experience will be fine. Many people are much more nervous than they should be (I certainly was), but after your first few interviews, you’ll realize that it really is just a conversation. There are only a handful of PIs that might want to make your life hard and ask annoying questions (e.g. “What do you think about consciousness?”), but the majority of them sincerely want to get to know you better and see if you’re really a good fit for the school.
   
 I’ll also add that if you are invited to interview at more than 2-3 schools, you’ll soon realize that you are seeing the same people over and over at these interviews. Top applicants tend to apply to the same programs, and these programs all want the top applicants. It can be a really fun experience making interview friends along the way, as they will likely become your science peers throughout grad schools.
+<div style="text-align: right"><a href="https://lucy-lai.com/blog/gradapps#table-of-contents">back to top</a> </div>
 
 ### Interview weekend schedule
   
@@ -272,14 +282,17 @@ I found it hard to get a sense of what interview weekend was going to be like un
 |     8:00pm     | party at a bar/afterparty at a student’s house             |
 |      Day 4     |                                                            |
 |     10:00am    | depart!                                                    |
+<div style="text-align: right"><a href="https://lucy-lai.com/blog/gradapps#table-of-contents">back to top</a> </div>
 
 ### What to wear
 Business casual was the standard at most of the interviews that I attended, although many programs did not specify any type of dress code and just told interviewees to dress comfortably. Most girls wore nice blouses, shirts with collars, blazers, and slacks, but rarely wore heels (there was too much walking around involved). Most guys wore nice collared shirts, sweaters, blazers, and khakis/slacks, but I rarely saw full suits.
 
 Personally, I wore a nice top with a blazer, a scarf, and dark/black jeans (instead of slacks, because I found them more comfy). For shoes I wore ankle boots with a block heel that I found stylish yet comfy 🙂 I had fun with my outfits, but to be quite honest, no one really cared what you wore as long as you didn’t look sloppy (stereotypical academics lol).
+<div style="text-align: right"><a href="https://lucy-lai.com/blog/gradapps#table-of-contents">back to top</a> </div>
 
 ### What to bring
 Most interviews were a short 30-40 minutes long, and I found that there wasn’t actually much time to get into too much detail about anything. I brought a small notebook just to jot down stuff during or between interviews, or in case I needed to draw stuff to explain something (but most PI’s offices had whiteboards). But other than that, there was no need to bring anything, including printouts of figures/your laptop/your CV (they already have that anyway). It would be overkill, especially because the best kinds of interviews flow organically.
+<div style="text-align: right"><a href="https://lucy-lai.com/blog/gradapps#table-of-contents">back to top</a> </div>
 
 ### Structure of the interview
 During an interview, time really flies. You have 30 minutes to shine and make some sort of (hopefully positive) impression while also getting as much information as possible to help make your grad school decision.
@@ -311,6 +324,7 @@ Interviews are typically structured like this:
 * _Why do you want to come to this school?_
 
 In the end, whatever you’re being asked, it helps to pause for a second to collect your thoughts before answering the question. This strategy also helps with nerves 🙂
+<div style="text-align: right"><a href="https://lucy-lai.com/blog/gradapps#table-of-contents">back to top</a> </div>
 
 ### Misc.
 * **How many of a PI’s papers should I read before interviews?!** I started the interview season by reading so many papers by each PI I was interviewing with. By the end of interview season…I was reading 0 papers. Reading PI’s papers helps less than actually listening and interacting with the PI during the interview, although knowing what they work on can give you good context for the interview.
@@ -319,9 +333,11 @@ In the end, whatever you’re being asked, it helps to pause for a second to col
 
 **To conclude…**
 Interviews take a long time (the entire Spring semester, basically), and are quite emotionally and physically taxing. But they can also be incredibly rewarding, as it’s a chance to meet some of your future peers and mentors, and to eat and drink tons of free food and booze. Enjoy yourself, and feel privileged that you get to be extravagantly courted by all these schools!
+<div style="text-align: right"><a href="https://lucy-lai.com/blog/gradapps#table-of-contents">back to top</a> </div>
 
 ### After the interview
 I’ve found that it really helps to jot down your gut feelings about the school after the interview weekend. Recount what you liked/disliked about each place, so that you can use these thoughts later when choosing where to attend.
+<div style="text-align: right"><a href="https://lucy-lai.com/blog/gradapps#table-of-contents">back to top</a> </div>
 
 ------
 ## Who gets into grad school?
@@ -332,16 +348,30 @@ It’s hard to gauge how the admissions decision is made after the interview pro
 * **Being able to clearly convey your contribution to research projects, and the content of those projects.** Several PIs asked me to clarify what exactly I did, as to understand how much ownership I took of the project.
 * **Being able to carry a dynamic and intriguing conversation about science,** be it the PI’s science, your science, or the field in general. This doesn’t mean you have to know everything--in fact, I found that reading a PI’s papers in depth didn’t really help in the interview process (abstracts definitely suffice), but the ability to actively listen and engage in a thoughtful scientific discussion helps them gauge how you think. Actively ask questions.
 * **Fit.** At the end of the day, I think admissions is really about this vague word called "fit." I cannot stress enough that the process of applying to graduate school goes in both directions: the program is evaluating YOU to see if you would thrive in their research environment, but YOU are also evaluating THEM to see if you would be happy there. It’s like dating--both parties have to be invested.
-
-### Insight gathered from PIs on admissions committees
+<div style="text-align: right"><a href="https://lucy-lai.com/blog/gradapps#table-of-contents">back to top</a> </div>
 
 ### Personal observations as an interviewer
-(2022 Update) This year I was invited to be a student interviewer for Harvard's PhD Program in Neuroscience
+(2022 Update) This past application cycle, I was invited to be a student interviewer for Harvard's PhD Program in Neuroscience. As a part of this, I interviewed 5 students. As an interviewer, I definitely echo everything I said above about "what matters" for getting into grad school, but below, I'll detail what I _personally_ looked for in applicants, and what kind of person I think should get into grad school. 
 
+I crafted a rather unique interview format, which consist of a selection of the following questions (along with why I ask them / what I look for in the answers): 
+* ***Tell me about your research or favorite project to date***: I ask this question to get a sense of whether people can explain their research from both a broad high-level perspective, as well as the details of what they actually did. I gauge individual contribution and passion from this question too.
+* ***What is something you wish you did differently in your research?***: Everyone has regrets or mistakes, especially when starting out in research. I look to see how the individual learned from their past research experiences and if they really questioned the method or project they were working on.
+* ***What do you want to work on in graduate school?***: This is a pretty standard question that I described above. I ask this to get a sense of how the student would in our program and what labs they could join if they came here. I also use this to suggest to them labs they may not have heard of before!
+* ***What do you think you will (1) thrive at and (2) struggle with in your PhD?***: This is a much more introspective question than usually asked during PhD interviews, but I like it because it helps me get a sense of this person's strengths and weaknesses, which I think are very important to know before one enters a PhD program. This influences the kind of advisor and mentoring style one chooses (hands-on vs hands-off), expectations of grad school, and awareness of how to get help. Everyone struggles at some point in a PhD, so it's important to know yourself as best as possible! (This is my personal plug for proactive therapy, of which the Harvard insurance covers 8 free sessions of---high recommmend for anyone and everyone 🙂)
+* * ***Do you have any questions about the program, specific labs, Boston, Harvard?***: I end with a good chunk of time for the interviewee to ask me questions! I think this is really important especially as a student interviewer because I'm the only student they get to talk to (in the interviews) and can often provide a different perspective than the faculty. I really emphasize that they can ask _whatever_ they wish! So go for it!
+
+Besides these explicit questions, I also look for certain character qualities in how they answer their questions. These include: **humility, curiousity, ingenuity, resilience, diligence, kindness, and integrity**. I look for these things because they are important qualities to being a good scientist, and are also qualities that I desire in peers and colleagues. 
+
+After the interview, when I'm writing up my report, I summarize our conversation and then give a sense of whether this person has "done their research" about our program and how well I think they would fit at Harvard (both in research interests and in the Program in Neuroscience student body). I'd like to say that our student body really cares about community, and contrary to what many people think of when they think of Harvard (or at least what I thought would be a group of pretentious pricks), my classmates and program-mates are some of the smartest, hard-working, caring, kind, and fun people I know. So we definitely want to preserve that culture here in PiN!
+
+I will say that my impression of students matched pretty well with the facultys' impressions: the students that I thought should be admitted were given an offer, and the ones that I thought had a slightly weaker application and interview were not given one. So take whatever you will from that!
+
+There you go, that's my take on "who gets into grad school" in all my transparency as an interviewer! If you happen to be interviewed by me in the future and you "study" this list of questions beforehand, feel free to let me know :)
+<div style="text-align: right"><a href="https://lucy-lai.com/blog/gradapps#table-of-contents">back to top</a> </div>
 
 ------
 ## How to choose a school
-If you’ve been fortunate enough to receive an offer of admission, **CONGRATULATIONS!** 🎉 It's time to celebrate! But when **The Universal D-Day (decision day) of April 15** rolls around, you’ll have to have made a choice about where you will spend the next 5-7 years of your life… no biggie, right? Something that I didn’t expect from the application process was the self growth and reflection that occurred by mulling over my decision. One important question to ask (preferable before you begin interviewing) is: **what is most important to you?**
+If you’ve been fortunate enough to receive an offer of admission, **CONGRATULATIONS!** 🎉 It's time to celebrate! But when The Universal D-Day ("decision day") of **April 15** rolls around, you’ll have to have made a choice about where you will spend the next 5-7 years of your life… no biggie, right? Something that I didn’t expect from the application process was the self growth and reflection that occurred by mulling over my decision. One important question to ask (preferable before you begin interviewing) is: ***what is most important to you?***
 
 For many, research fit is obviously at the top of the list; after all, that’s what we’re all going to grad school for, right? To study what we love! But what if you’re not terribly certain about your particular topic of interest yet? Then maybe it’s more important for you to choose a place that gives you the most options for labs to explore before you commit the next few years to a particular one. These important factors will differ from person to person, and are what makes this decision highly personal.
 
@@ -354,14 +384,23 @@ For many, research fit is obviously at the top of the list; after all, that’s 
 * On the subject of gut feelings--I was told a lot during interviews to “go with your gut,” and in the end, I found that piece of advice very helpful. It wasn’t always easy to distinguish what my gut feeling was, but after recounting my interview experience at each school (often to friends), it became quite apparent (especially to my friends), that I was gushing over one school more than the others. In the end, the decision became clear 🙂
 
 __And...that’s it!__ Kudos to you if you’ve made it all the way to the end of this post—the application process is certainly something that I’ve spent a long time reflecting on, and I hope my thoughts have helped you!. If there’s a topic I have not yet covered, or something in the post that needs more detail, please let me know. I will constantly be updating 🙂
+<div style="text-align: right"><a href="https://lucy-lai.com/blog/gradapps#table-of-contents">back to top</a> </div>
 
+### Reflections on my decision
+It's been four years since I moved to Cambridge to start my PhD. At the expense of sounding sappy, these four years have simultaneously been the hardest and most fulfilling four years of my life. The PhD has been really challenging (especially during the COVID lockdowns), but I have to say that four years later, the biggest factors that influenced my decision were well taken into account. These factors were: 
+* **Location:** I love Cambridge and Boston. Sure, the winters suck (dark and cold), and I'm from Texas, but the seasons are amazing, and there's so much to do without the overwhelming chaos of places like New York City. I'm a big foodie, so the restaurant, coffee shop, and bar scene here has been so fun to explore over the years. I also love running, and the Charles River has become one of my favorite things about the city. I also love classical music and art, and there's a ton of that here (plus we get major discounts to the Boston Symphony Orchestra, Boston Ballet, and various museums!) Cambridge has truly become my home. 
+* **Friends / classmates / students:** My cohort is awesome. Four years into our PhDs, we still hang out quite a bit! Some have become my closest friends. I still remember meeting everyone and traveling across the US to all the grad school interviews together, and then being so excited when we all decided to go to Harvard. Without the collective commiserating and mutual support of my classmates, grad school would be a lot harder than it is. And the other students in PiN are also awesome, and contribute to a fun and welcoming student environment. That's why I emphasize how important it is to get to know the students at the school you interview at, to get a good sense of the community culture there!
+* **Sam Gershman (my PI):** If I'm to be completely honest, probably the biggest reason I came to Harvard was to work with Sam. Harvard didn't really have many PIs that really matched my research interests at all, so in a sense it would have been "safer" to go to another school that was better known for computational cognitive neuroscience (like Princeton). But I really loved Sam's work and his vibe and it's turned out to be the best decision--the lab is awesome and incredibly supportive and collaborative, and Sam is the best mentor I could have asked for. So no regrets!
+* 
+<div style="text-align: right"><a href="https://lucy-lai.com/blog/gradapps#table-of-contents">back to top</a> </div>
+
+------
 ### Additional resources
 * Much of what I've written about applies more to US PhD programs. For programs in Europe, this well-written article may be more helpful! [Demystifying the grad school application system across countries: UK, USA, Canada & the Netherlands](https://diverseacademia202.wixsite.com/my-site-1/post/int-grad-apps)
 * [Applying to grad school](https://erickenjilee.github.io/ApplyingToGradSchool.html)
 * [The PhD application post](https://monicagatesblog.wordpress.com/2016/03/14/the-phd-application-post/)
 * [Steve Ramirez's group resource page](https://theramirezgroup.org/resources/)
 
-------
 ### Acknowledgments
 I could not have figured all of this out without the unending support of Dr. Michael Domeracki and Dr. Caroline Quenemoen, two invaluable mentors from the Rice Center for Civic Leadership who spent countless hours revising my statements and advising me on application processes (for more than just grad school).
 
