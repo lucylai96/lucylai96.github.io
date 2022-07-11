@@ -1,21 +1,12 @@
 # Lessons learned from Head TF-ing at Harvard
 ## Course design, problem sets, and teaching GenEd 1125: Artificial and Natural Intelligence (Spring 2021, 2022)
 
-This post is about my experience 
+This post is about my experience as a teaching fellow for 2 semesters of Harvard's GenEd 1125: Artificial and Natural Intelligence, which was a new course introduced by Prof. Venkatesh Murthy in Spring 2021
 
+**[A bit of history](#a-bit-of-history)**
+* [Teaching](#teaching)
 
-------
-## Table of Contents
-**[Course feedback](#general-application-tips)**
-* [How do I know I want to go to grad school?](#how-do-i-know-i-want-to-go-to-grad-school)
-
-**[Application components](#application-components)**
-* [I need examples of application materials?!?](#i-need-examples-of-application-materials)
-* [The checklist](#the-checklist)
-* [Transcript, CV, GRE, Rec Letters](#transcript-cv-gre-rec-letters)
-* [The Personal Statement](#the-personal-statement)
-* [The Research Statement](#the-research-statement)
-* [The Diversity/Personal History Statement](#the-diversity-or-personal-history-statement)
+**[Course feedback](#course-feedback)**
 
 -----
 ## A bit of history
