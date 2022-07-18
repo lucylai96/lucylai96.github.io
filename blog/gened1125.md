@@ -50,4 +50,12 @@ More feedback
 * In your opinion, what preparation or background is necessary to take this course?
 * What did you take away from your experience in this course? What did you learn? How did this course change you?
 
+incorporate reading into section discussion, have students read before section and make notes using Perusall to generate and guide discussion
+
+Grading
+attendance being graded is good or bad?
+choose your own grading? to accommodate for different learners 
+either 80% exam and optional psets or psets + participation counts 
+psets are completion grades / you grade yourself
+
 
