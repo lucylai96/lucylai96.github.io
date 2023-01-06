@@ -262,28 +262,6 @@ I found it hard to get a sense of what interview weekend was going to be like un
 |    **Day 4**   |                                                            |
 |     10:00am    | depart!                                                    |
 
-
-|   Day & Time   | Event                                                      |
-|----------------|------------------------------------------------------------|
-|      Day 1     |                                                            |
-|     4:00pm     | arrive/check-in at hotel                                   |
-|     5:00pm     | informal reception/happy hour with faculty and students    |
-|      Day 2     |                                                            |
-|     9:00am     | program overview and requirements                          |
-|     10:00am    | several 30 minute interviews (with some breaks in between) |
-|     12:00pm    | lunch with faculty                                         |
-|     1:00pm     | faculty/student research talks                             |
-|     3:00pm     | poster session/happy hour                                  |
-|     5:00pm     | dinner at faculty house                                    |
-|      Day 3     |                                                            |
-|     9:00am     | more interviews (with some breaks in between)              |
-|     12:00pm    | lunch with students and faculty                            |
-|     1:00pm     | lab tours                                                  |
-|     5:00pm     | dinner                                                     |
-|     8:00pm     | party at a bar/afterparty at a student’s house             |
-|      Day 4     |                                                            |
-|     10:00am    | depart!                                                    |
-
 <div style="text-align: right"><a href="https://lucy-lai.com/blog/gradapps#table-of-contents">back to top</a> </div>
 
 ### What to wear
