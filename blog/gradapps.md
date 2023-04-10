@@ -1,7 +1,7 @@
 # All About PhD Applications 
 ## (Second Edition, Updated July 2022)
 
-Welcome! You may have ended up here because you came across [my popular article](https://lucyblogs.wordpress.com/2018/08/02/all-about-phd-applications), which has been viewed over **7k times** (and growing!). Thank you to all who reached out to me over the years telling me how helpful of a resource it was to you / how it helped you get into grad school, and it's been super fun meeting some of you in person at conferences, too! 🙂
+Welcome! You may have ended up here because you came across [my popular article](https://lucyblogs.wordpress.com/2018/08/02/all-about-phd-applications), which has been viewed over **17k times** (as of April 2023). Thank you to all who reached out to me over the years telling me how helpful of a resource it was to you / how it helped you get into grad school, and it's been super fun meeting some of you in person at conferences, too! 🙂
 
 Since it has been 4 years since I wrote the article, I am doing a "refresh" in this second edition (written July 2022) with the following improvements and content additions: 
 *  hosting it here on my personal website for neater organization and ease of navigation (thanks to [Github-flavored Markdown!](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github))
