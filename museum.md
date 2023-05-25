@@ -1,7 +1,7 @@
-
 ---
 layout: full
 ---
+
 ## the love museum
 ***
 > "the boy who learned that love is patient, and the girl who learned to love again" 
