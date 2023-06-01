@@ -7,42 +7,39 @@ layout: full
 > "The boy who learned that love is patient, and the girl who learned to love again..." 
 
 ### Friendship (Library Room)
-Here’s the story of how we met…
-Ethan & Lucy first at Rice University on August 16, 2014, where they first laid eyes on each other in freshman poetry class. 
+Ethan & Lucy first met at Rice University on Monday, August 18, 2014 in a freshman year poetry class. This room tells the story of their first 6.5 years of friendship.
 
 #### Exhibit A
 **FWIS 185: Contemporary American Poetry** is where Ethan was first introduced and drawn to the depth of Lucy’s heart & mind. See the bookmarks in our class poem booklet to find several poems that Ethan and Lucy wrote! 
 
 #### Exhibit B
-Some (very early) college memories...learning to “adult” as college kids, going to campus events, and taking the Sunday bus to church :) 
+**Some (very early) college memories...** learning to “adult” as college kids, going to campus events, and taking the Sunday bus to church :) 
 
 #### Exhibit C
 **Cornerstone Christian Fellowship** is where Ethan & Lucy were first able to observe each other’s relationship with God. Ethan still remembers the first time he heard Lucy’s life story, and was struck by how she grew in faith through life’s hardships. And although Lucy was not yet attracted to Ethan, she knew he was “solid” in how consistently he pursued God and discipled other guys. 
 
 #### Exhibit D
-**Ethan and other Rice friends support Lucy’s fundraiser for the Lupus 5K.** This is where Lucy. Here, Ethan learned of Lucy’s passion for making a difference.
-
+**Ethan and other Rice friends support Lucy’s fundraiser for the Lupus 5K.** Here, Ethan learned of Lucy’s passion for gathering community together to make a difference.
 
 #### Exhibit E
-**Ethan takes Lucy’s class “How Music Plays the Brain."** One of Ethan’s first steps toward increasing Lucy’s exposure to him after she became single again. We’ll never know if this actually helped Lucy eventually fall for him 😉
+**Ethan takes Lucy’s class “How Music Plays the Brain."** This was one of Ethan’s first steps toward increasing Lucy’s exposure to him after she became single again. We’ll never know if this actually helped Lucy eventually fall for him 😉
 
 #### Exhibit F
+**One afternoon, Ethan & Lucy had fun recording songs together.** Tune in to our rendition of our favorite worship song “This Is Living.” These recording sessions allowed Ethan to seduce Lucy with his amazing singing voice. Even though he was a better singer, Ethan was willing to let Lucy take the spotlight and be the supporting harmony instead of the solo...She took note. 
 
-One afternoon, Ethan & Lucy had fun recording songs together. Tune in to our rendition of our favorite worship song “This Is Living.” These recording sessions allowed Ethan to seduce Lucy with his amazing singing voice, and also showed her how even though he was a better singer, he was willing to let her take the spotlight and be the supporting harmony instead of the solo…
-QR CODE
+[Click here for the song if the QR code doesn't work!](https://lucy-lai.com/files/thisisliving.mp3)
 
 #### Exhibit F
-Senior year | Lucy becomes single | Ethan asks her out | Rejection #1
-April 26, 2018: Ethan makes a ~romantic~ dinner for Lucy (one week before he asked her out). Here you can read the graduation letter that Ethan wrote to Lucy -- and see how he hinted at romance. 
+**Senior year | Lucy becomes single | Ethan asks her out | Rejection #1**
+April 26, 2018: Ethan makes a ~romantic~ dinner for Lucy (one week before he asked her out). Here you can read the graduation letter that Ethan wrote to Lucy--and see how he hinted at romance. 
 
 #### *Lucy and ethan graduate from Rice and begin their journey anew at Harvard*
-This is the story of how we met…again! We somehow both ended up at Harvard, still just friends. In August 2018, Ethan begins dental school and Lucy starts her PhD in neuroscience.
+This is the story of how we met...again! We somehow both ended up at Harvard, still just friends. In August 2018, Ethan begins dental school and Lucy starts her PhD in neuroscience.
 
 #### Exhibit G
-**A prophecy over dim sum.** Shortly after they both moved to Boston, Lucy invited Ethan to have dim sum with her family at the Windsor Cafe in Chinatown (like come on, Lucy, how could you invite the guy who just rejected?!). After the meal, the Lai family and Ethan went for a walk in Boston commons; there, a prophetic moment occurred. They were walking past some pigeons, when Ethan interestingly told Lucy’s mom the random fact that birds are monogamous. In that moment, Lucy’s mom was struck by a prophetic vision of Ethan & Lucy ending up together someday. From that day forward, Lucy’s mom prayed for Ethan & Lucy—and kept it a secret until they actually got engaged...FOUR YEARS LATER.
+**A prophecy over dim sum.** Shortly after they both moved to Boston, Lucy invited Ethan to have dim sum with her family at the Windsor Cafe in Chinatown (like come on, Lucy, how could you invite the guy you just rejected?!) After the meal, Ethan and the Lai family went for a walk in Boston Common; there, a prophetic moment occurred. They were walking past some pigeons, when Ethan interestingly told Lucy’s mom the random fact that birds are monogamous. Lucy’s mom was struck by that statement and had a sudden vision of Ethan & Lucy ending up together someday. From that day forward, Lucy’s mom prayed for Ethan & Lucy—-and kept it a secret until they actually got engaged...**FOUR YEARS LATER.**
 
 Here is the photo Lucy’s mom snuck of Lucy & Ethan looking at the monogamous pigeons. Little did they know, it was indeed a prophetic vision of their future.
-
 
 #### Exhibit H
 **Sweet memories Ethan & Lucy’s friendship in Boston.** It’s funny to see in retrospect how “date-y” their hangouts had always been...Notice Lucy’s hand position in the photo of them on Ethan’s D1 boat cruise. What about Ethan’s hand-drawn birthday card to Lucy? Ah, what a romantic.
@@ -54,16 +51,13 @@ Here is the photo Lucy’s mom snuck of Lucy & Ethan looking at the monogamous p
 **Lucy buys Ethan birthday tickets to see Daniel Caesar.** Ethan once again wondered what Lucy’s intentions were, looking this hot and taking him out to a concert. Daniel Caesar’s “Best Part” now has a special place in their relationship. 
 
 #### Exhibit K
-**Lucy invites Ethan to run the Cambridge Half Marathon with her “and 20 other friends.”** Ethan jumped at the invitation and also invited his “always down” friend Michael, who is now a groomsman! Lucy made sure Ethan knew he didn’t get a “special” invite by inviting 20 other friends from her PhD program.
+**Lucy invites Ethan to run the Cambridge Half Marathon with her “and 20 other friends.”** Ethan jumped at the invitation and also invited his friend Michael, who is now a groomsman! Lucy made sure Ethan knew he didn’t get a “special” invite by inviting 20 other friends from her PhD program.
 
 #### Exhibit L
-**September 16, 2020: A birthday hiking trip to the White Mountains** during COVID era is what finally changed Lucy’s mind about Ethan. She realized how much she missed their conversations and kept sheepishly asking her two other guys friends “You don’t think I would be good with Ethan right? RIGHT??”
-
-
-#### Exhibit M
+**A birthday hiking trip to the White Mountains** in September 2020 is what finally changed Lucy’s mind about Ethan. She realized how much she missed their conversations and kept sheepishly asking Nicky and Aaron (her two other guys friends on the trip): “You don’t think I would be good together with Ethan right? RIGHT??”
 
 ### Dating (The Den)
-On October 22, 2020, Lucy ran 3.5 miles in the house in cold, drizzling rain, to deliver a 6-page handwritten letter confessing her feelings to Ethan. A few days later, on October 26, 2020 they officially started dating! 
+**On October 22, 2020,** Lucy ran 3.5 miles in the house in cold, drizzling rain, to deliver a 6-page handwritten letter confessing her feelings to Ethan. A few days later, on October 26, 2020 they officially started dating! 
 
 #### Exhibit A
 **Ethan and Lucy’s first “real date”** was a wintery walk through Jamaica Pond and breakfast at at diner near Middlesex Fells reservation! They reflected on all their "friend" interactions and Lucy admitted that she had ignored the "vibes" all along. 
