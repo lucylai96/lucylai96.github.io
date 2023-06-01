@@ -30,8 +30,7 @@ Ethan & Lucy first met at Rice University on Monday, August 18, 2014 in a freshm
 [Click here for the song if the QR code doesn't work!](https://lucy-lai.com/files/thisisliving.mp3)
 
 #### Exhibit F
-**Senior year | Lucy becomes single | Ethan asks her out | Rejection #1**
-April 26, 2018: Ethan makes a ~romantic~ dinner for Lucy (one week before he asked her out). Here you can read the graduation letter that Ethan wrote to Lucy--and see how he hinted at romance. 
+**A dinner together before graduation.** On April 26, 2018, Ethan makes a romantic dinner for Lucy (one week before he asked her out for the first time). Here you can read the graduation letter that Ethan wrote to Lucy--and see how he hinted at romance. 
 
 #### *Lucy and ethan graduate from Rice and begin their journey anew at Harvard*
 This is the story of how we met...again! We somehow both ended up at Harvard, still just friends. In August 2018, Ethan begins dental school and Lucy starts her PhD in neuroscience.
@@ -45,7 +44,7 @@ Here is the photo Lucy’s mom snuck of Lucy & Ethan looking at the monogamous p
 **Sweet memories Ethan & Lucy’s friendship in Boston.** It’s funny to see in retrospect how “date-y” their hangouts had always been...Notice Lucy’s hand position in the photo of them on Ethan’s D1 boat cruise. What about Ethan’s hand-drawn birthday card to Lucy? Ah, what a romantic.
 
 #### Exhibit I
-**May 14, 2019, Ethan spontaneously asks Lucy to bike to Middlesex Fells Reservation.** As Lucy biked behind Ethan, she wondered what it’d be like to join Ethan in the adventure of life. At Middlesex Fells, they had a pseudo-picnic date.
+**May 14, 2019, Ethan spontaneously asks Lucy to bike to Middlesex Fells Reservation.** Lucy thought they were going to die when Ethan led them onto a highway with a lot of fast cars. But at the same time she As Lucy biked behind Ethan, a thought crossed her mind--she wondered what it’d be like to join Ethan in the thrilling adventure of life. However, she At Middlesex Fells, they had a pseudo-picnic date.
 
 #### Exhibit J
 **Lucy buys Ethan birthday tickets to see Daniel Caesar.** Ethan once again wondered what Lucy’s intentions were, looking this hot and taking him out to a concert. Daniel Caesar’s “Best Part” now has a special place in their relationship. 
