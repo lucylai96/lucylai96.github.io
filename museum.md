@@ -82,6 +82,7 @@ Buckle up for a story, kids!
 
 #### Exhibit A
 **How did Ethan propose?**
+
 *Ethan*: When Lucy finally signaled to me that she was ready to be engaged, we only had 2 weeks left together in Boston before I left for Naval Officer School and Lucy left to London for the summer. Since surprise was my number priority, I knew it was stupid to propose in those 2 weeks. But I also didn’t have any military leave yet...I decided I was going to ask the US government for permission to go to London...in the middle of officer training. With that dream in mind, I began to make the plan.
 
 Phase 1 involved setting up the surprise in London. It was extremely difficult to plan, because I had no idea when and if the Navy would let me go, and Lucy was constantly traveling throughout Europe. So I just had to randomly pick some dates and hope that Lucy was in London. I googled the email of the professor Lucy was working with in London, emailed him and he replied! (You can read the actual emails here!)
