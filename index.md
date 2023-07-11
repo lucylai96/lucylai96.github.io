@@ -10,4 +10,4 @@ Outside the lab, I enjoy <a href="http://lucy-lai.com/teaching" target="_blank">
 
 Email me at lucylai (at) g (dot) harvard (dot) edu.
 
-**[CV](./files/lai_cv.pdf)**
+**[CV](./files/lai_cv.pdf)** | **[Teaching Philosophy](./files/philosophy.pdf)** | **[Teaching Reviews](./files/reviews.pdf)** 
