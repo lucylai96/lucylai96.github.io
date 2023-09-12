@@ -5,7 +5,7 @@
 
 Teaching is one of my greatest joys :-)
 
-### recent 
+### recently
 #### [MAHPING Pedagogy Fellows Program](https://projects.iq.harvard.edu/mahping/pedagogy-fellows-program){:target="_blank"}
 A collaboration between Harvard Medical School and Morehouse School of Medicine, the [MAHPING Pedagogy Fellows program](https://projects.iq.harvard.edu/mahping/pedagogy-fellows-program){:target="_blank"} trains graduate students and postdocs at HMS and MSM in theoretical and applied knowledge of evidence-based, inclusive teaching practices. With our team of 7, we developed and co-taught a nanocourse [*"From Bench to Bedside: Entraining Policy to Science"*](https://mahpingfellows.github.io/course/){:target="_blank"} in Fall 2022 at both Harvard and Morehouse.
 
