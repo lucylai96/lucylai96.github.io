@@ -10,6 +10,7 @@ I am a grad student in the [Computational Cognitive Neuroscience Lab](http://ger
 From September 2023, I am a [TSVP Visiting Scholar](https://groups.oist.jp/tsvp){:target="_blank"} with [Gail Tripp](https://groups.oist.jp/hdnu){:target="_blank"} and [Kenji Doya](https://groups.oist.jp/ncu){:target="_blank"} at the beautiful [Okinawa Institute of Science and Technology](https://oist.jp){:target="_blank"}.
 
 #### publications
+- **Lai, L.**, & Gershman, S.J. (submitted). [Human decision making balances reward maximization and policy compression](https://psyarxiv.com/rnz72){:target="_blank"}.
 - **Lai, L.**, Huang, A.Z.X., & Gershman, S.J. (submitted). [Action chunking as policy compression](https://psyarxiv.com/z8yrv){:target="_blank"}.
 - **Lai, L.** & Gershman, S.J. (2021). [Policy compression: an information bottleneck in action selection](./pubs/LaiGershman2021.pdf){:target="_blank"}. _Psychology of Learning and Motivation._
 - Gershman, S.J. & **Lai, L.** (2021). [The reward-complexity trade-off in schizophrenia](./pubs/GershmanLai2021.pdf){:target="_blank"}. _Computational Psychiatry._
