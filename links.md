@@ -3,7 +3,6 @@
 ### applications
 a few of my favorite application/fellowship-writing advice resources:
 * [NSF-GRFP application guide](http://www.alexhunterlang.com/nsf-fellowship){:target="_blank"} by Alex Lang
-* [Advice for science fellowship applications: NSF, NDSEG, Hertz](http://www.pgbovine.net/fellowship-tips.htm){:target="_blank"} by Phillip Guo
 * ["How to apply to grad school" blog post](https://monicagatesblog.wordpress.com/2016/03/14/the-phd-application-post/){:target="_blank"} by Vael Gates
 * [All About PhD Applications](https://lucy-lai.com/blog/gradapps){:target="_blank"} by yours truly :-)
 
@@ -20,9 +19,6 @@ In 2016, I attended [Cosyne](http://cosyne.org){:target="_blank"} for the first 
 * A [short blurb](https://www.janelia.org/you-janelia/students-and-postdocs/advice-girls-stem-our-janelia-undergraduate-scholars){:target="_blank"} by me and other [JUS](https://www.janelia.org/you-janelia/students-postdocs/undergraduate-scholars-program){:target="_blank"} girls about being in STEM. Also, [this](https://www.janelia.org/meet-2017-janelia-undergraduate-scholars){:target="_blank"}.
 * On [my time in the JazLab](http://www.csne-erc.org/engage-enable/post/reu-program-participants-mit-and-sdsu){:target="_blank"} at MIT.
 * [Advocating for the creation of a rigorous neuroscience curriculum](http://www.ricethresher.org/article/2017/11/fac-senate-neuroscience-major-vote){:target="_blank"} at Rice.
-
-### personal
-* I [run](https://www.lupus.org/action/walk-to-end-lupus-now){:target="_blank"} to raise awareness about lupus and fundraise for the [Lupus Foundation of America](https://lupus.org/){:target="_blank"}.
 
 ***
 [back](./)
