@@ -6,7 +6,7 @@ I’m broadly interested in theories of learning: how do our <a href="http://mit
 
 Outside the lab, I enjoy <a href="http://lucy-lai.com/teaching" target="_blank">teaching</a>, running along the Charles, hosting dinner parties, <a href="http://lucyblogs.wordpress.com/" target="_blank">writing</a> <a href="http://subcorticalsongs.wordpress.com/" target="_blank">stuff</a>, and dancing bachata. From 2021-2023, I was a Resident Tutor at <a href="https://quincy.harvard.edu/" target="_blank">Quincy House</a>, where I lived with and advised Harvard College students.
 
-**[All About PhD Applications Blog Post (Second Edition, Updated July 2022)](https://lucy-lai.com/blog/gradapps)**
+My popular guide on applying to grad school: **[All About PhD Applications Blog Post (Second Edition, Updated July 2022)](https://lucy-lai.com/blog/gradapps)**
 
 Email me at lucylai (at) g (dot) harvard (dot) edu.
 
