@@ -15,8 +15,8 @@ Email me at lucylai (at) g (dot) harvard (dot) edu.
 ***
 
 ## recent happenings
-* July 2024: Teaching COGS 180: Decision Making in the Brain for [UCSD Summer Session](https://summersession.ucsd.edu/) 
-* June 2024: Teaching at the [OCNC Summer School](https://groups.oist.jp/ocnc) in Okinawa, Japan
-* May 2024: Gave a spotlight talk at the [Mathematics of Neuroscience and AI Conference](https://neuromonster.org/) in Rome, Italy
-* April 2024: Successfully defended my Ph.D. thesis!
-* January 2024: Gave a [TSVP Talk](https://www.youtube.com/watch?v=HRle-fddpYo) on my research at OIST
+* **July 2024:** Teaching COGS 180: Decision Making in the Brain for [UCSD Summer Session](https://summersession.ucsd.edu/) 
+* **June 2024:** Teaching at the [OIST Computational Neuroscience Course (OCNC)](https://groups.oist.jp/ocnc) in Okinawa, Japan
+* **May 2024:** Gave a spotlight talk at the [Mathematics of Neuroscience and AI Conference](https://neuromonster.org/) in Rome, Italy
+* **April 2024:** Successfully defended my Ph.D. thesis!
+* **January 2024:** Gave a [TSVP Talk](https://www.youtube.com/watch?v=HRle-fddpYo) on my research at OIST
