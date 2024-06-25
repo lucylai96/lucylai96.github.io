@@ -11,8 +11,10 @@ My popular guide on applying to grad school: **[All About PhD Applications (Seco
 Email me at lucylai (at) g (dot) harvard (dot) edu.
 
 **[CV](./files/lai_cv.pdf)** / **[Google Scholar](https://scholar.google.com/citations?user=TEpclyYAAAAJ&hl=en)** 
+
 ***
-### recent happenings
+
+## recent happenings
 * July 2024: Teaching COGS 180: Decision Making in the Brain for [UCSD Summer Session](https://summersession.ucsd.edu/) 
 * June 2024: Teaching at the [OCNC Summer School](https://groups.oist.jp/ocnc) in Okinawa, Japan
 * May 2024: Gave a spotlight talk at the [Mathematics of Neuroscience and AI Conference](https://neuromonster.org/) in Rome, Italy
