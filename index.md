@@ -15,7 +15,7 @@ Email me at lucylai (at) g (dot) harvard (dot) edu.
 ***
 
 ### recent happenings
-* **July 2024:** Teaching [COGS 180: Decision Making in the Brain](https://cogs180.github.io/su24/) for [UCSD Summer Session](https://summersession.ucsd.edu/) | [Syllabus](https://docs.google.com/document/d/1YbU2V1225l-x12fQKUVlMM4-4mK96GNLAb7WUcLVrbA/edit?usp=sharing)
+* **July 2024:** Teaching [COGS 180: Decision Making in the Brain](https://cogs180.github.io/su24/) for [UCSD Summer Session](https://summersession.ucsd.edu/) / [Course syllabus](https://docs.google.com/document/d/1YbU2V1225l-x12fQKUVlMM4-4mK96GNLAb7WUcLVrbA/edit?usp=sharing)
 * **June 2024:** Teaching at the [OIST Computational Neuroscience Course (OCNC)](https://groups.oist.jp/ocnc) in Okinawa, Japan
 * **May 2024:** Gave a spotlight talk at the [Mathematics of Neuroscience and AI Conference](https://neuromonster.org/) in Rome, Italy
 * **April 2024:** Successfully defended my Ph.D. thesis!
