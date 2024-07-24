@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Redirecting...</title>
-    <link rel="canonical" href="https://lucyonsabbatical.substack.com/" />
-    <meta charset="utf-8" />
-    <meta http-equiv="refresh" content="0; url=https://lucyonsabbatical.substack.com/" />
-  </head>
-  <body>
-    <p>Redirecting...</p>
-  </body>
-</html>
+---
+layout: forward
+target: https://lucyonsabbatical.substack.com/](https://open.substack.com/pub/lucyonsabbatical/p/sowhats-next?r=9k5v1&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+---
+
