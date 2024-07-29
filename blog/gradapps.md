@@ -1,3 +1,7 @@
+---
+layout: full
+---
+
 # All About PhD Applications 
 ## (Second Edition, Updated July 2022)
 
