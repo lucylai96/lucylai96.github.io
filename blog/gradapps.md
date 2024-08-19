@@ -1,5 +1,6 @@
 ---
 layout: full
+class: wide
 ---
 
 # All About PhD Applications 
