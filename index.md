@@ -8,10 +8,6 @@ Outside of research, I enjoy teaching, writing <a href="http://subcorticalsongs.
 
 My popular guide on applying to grad school: **[All About PhD Applications (Second Edition, Updated July 2022)](https://lucylai.com/blog/gradapps)**
 
-Email me at lucylai (at) g (dot) harvard (dot) edu.
-
-**[CV](./files/lai_cv.pdf)** / **[Google Scholar](https://scholar.google.com/citations?user=TEpclyYAAAAJ&hl=en)** 
-[<kbd> <br> CV <br> </kbd>][./files/lai_cv.pdf]
 ***
 
 ### recent happenings
