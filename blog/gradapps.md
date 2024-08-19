@@ -1,6 +1,5 @@
 ---
-layout: full
-class: wide
+layout: default
 ---
 
 # All About PhD Applications 
