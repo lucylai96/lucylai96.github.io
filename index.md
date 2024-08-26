@@ -7,7 +7,8 @@ I am lucky enough to spend my sabbatical as a [TSVP Visiting Scholar](https://gr
 Outside of research, I enjoy teaching, writing <a href="http://subcorticalsongs.wordpress.com/" target="_blank">poetry</a>, running, hosting dinner parties, and latin dancing. From 2021-2023, I was a Resident Tutor at <a href="https://quincy.harvard.edu/" target="_blank">Quincy House</a>, where I lived with and advised Harvard College students.
 
 My popular guide on applying to grad school: **[All About PhD Applications (Second Edition, Updated July 2022)](https://lucylai.com/blog/gradapps)**
-**For this year only,** I am available for academic coaching and application review at the graduate school level (Master's, PhD). I will work with you to develop a strong application strategy and materials (CV, SoP). Please email me for more information! 
+
+**For the 2024-2025 application cycle only,** I am available for academic coaching and application review at the graduate school level (Master's, PhD). I will work with you to develop a strong application strategy and materials (CV, SoP). Please email me for more information! 
 
 ***
 
