@@ -8,7 +8,7 @@ Outside of research, I enjoy teaching, writing <a href="http://subcorticalsongs.
 
 My popular guide on applying to grad school: **[All About PhD Applications (Second Edition, Updated July 2022)](https://lucylai.com/blog/gradapps)**
 
-**For the 2024-2025 application cycle only,** I am available for academic coaching and application review at the graduate school level (Master's, PhD). I will work with you to develop a strong application strategy and materials (CV, SoP). **Please email me for more information!**
+**For the 2024-2025 application cycle only,** I am available for PhD application coaching and review. I can work with you to develop a strong application strategy and materials (CV, SoP), do mock interviews, and more. ! **Please email me at [lucylai@g.harvard.edu](mailto:lucylai@g.harvard.edu) for more information!**
 
 ***
 
