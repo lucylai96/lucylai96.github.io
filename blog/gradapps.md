@@ -131,7 +131,7 @@ Virtually all schools will require the following:
 * Transcript
 * CV
 * 3 Letters of Recommendation
-* A Personal Statement
+* A Statement of Purpose
 
 Some schools will require the following:
 * A Research Statement
