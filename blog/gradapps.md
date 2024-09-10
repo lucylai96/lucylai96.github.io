@@ -163,20 +163,20 @@ The Statement of Purpose (SoP) is an incredibly important part of your applicati
   
 > The Statement of Purpose should describe succinctly your reasons for applying to the proposed program at [school name],your preparation for this field of study, research interests, future career plans, and other aspects of your backgroundand interests which may aid the admissions committee in evaluating your aptitude and motivation for graduate study.
   
-Though it seems like there’s a lot to cover, the PS prompts always boil down to:
+Though it seems like there’s a lot to cover, the SoP prompts always boil down to:
 * ***Why do you want a PhD?***
 * ***What previous research experience have you had?***
 * ***What do you want to do in your PhD?***
 * ***Who are you interested in working with at this school? / Why this particular school?***
 
-It is very important to realize that the PS is a SCIENCE STORY, not a LIFE STORY. There is no reason to paint a lofty picture of your goals and dreams of curing cancer and solving consciousness that were motivated by a loved one’s passing or philosophical #showerthoughts. Though it’s okay to mention these “motivating factors,” the point of the personal statement is to convince the application readers that you 1) know what you’re getting yourself into for the next 5-6 years, 2) have the experience to prove it, and 3) are a good fit for the school given your research interests (and vice versa).
-Like I said, sometimes the best way to begin writing a statement is to read one, so as I said above, don’t hesitate to reach out if you need examples!
-I will now break down each part of the PS, and how I tackled them.
+It is very important to realize that the SoP is a SCIENCE STORY, not a LIFE STORY. There is no reason to paint a lofty picture of your goals and dreams of curing cancer and solving consciousness that were motivated by a loved one’s passing or philosophical #showerthoughts. Though it’s okay to mention these “motivating factors,” the point of the personal statement is to convince the application readers that you 1) know what you’re getting yourself into for the next 5-6 years, 2) have the experience to prove it, and 3) are a good fit for the school given your research interests (and vice versa). Like I said, sometimes the best way to begin writing a statement is to read one, so as I said above, don’t hesitate to reach out if you need examples!
+
+I will now break down each part of the SoP, and how I tackled them.
 
 ***Why do you want a PhD?***
 * This is the short “backstory” that I mentioned above: keep it short and sweet, but also unique (if possible and true). However, don’t make up some motivating factor if it isn’t true. Sometimes just saying that your first research experience in a lab left you “curious for more,” or that you want to be a tenure-track professor/industry research scientist is enough of a story.
 
-* **Side note:** In 2017, there was a small Twitter uprising against a very well known professor in neuroscience who was complaining about how she read too many PSs that began with something like "when I was a child, I was curious," etc. Although it was insensitive (plus the prompts are usually vague), it’s true that the adcoms read these kinds of things all the time--they’d honestly rather just hear about your research. It’s important to get to the point sooner rather than later. I included about 1-2 unique sentences about my personal background before I just dove right into my previous research history.
+* **Side note:** In 2017, there was a small Twitter uprising against a very well known professor in neuroscience who was complaining about how she read too many SoPs that began with something like "when I was a child, I was curious," etc. Although it was insensitive (plus the prompts are usually vague), it’s true that the adcoms read these kinds of things all the time--they’d honestly rather just hear about your research. It’s important to get to the point sooner rather than later. I included about 1-2 unique sentences about my personal background before I just dove right into my previous research history.
 
 ***What previous research experience have you had?***
   
@@ -188,16 +188,16 @@ I will now break down each part of the PS, and how I tackled them.
 
 ***What do you want to do in your PhD?***
   
-* This part should be ~25% of your PS, and is the part where you give a general sense of the kinds of topics you want to work on. I’d advise to take a “goldilocks” approach in the sense that it’s good to be just broad enough as to not sound like you’re pigeonholing yourself into one particular topic (e.g. “I want to understand the role of the ventral stream in visual object recognition”), but not too broad as to sound like you have no specific subfields in mind (e.g. “I just want to solve the entire brain!!”)
+* This part should be ~25% of your SoP, and is the part where you give a general sense of the kinds of topics you want to work on. I’d advise to take a “goldilocks” approach in the sense that it’s good to be just broad enough as to not sound like you’re pigeonholing yourself into one particular topic (e.g. “I want to understand the role of the ventral stream in visual object recognition”), but not too broad as to sound like you have no specific subfields in mind (e.g. “I just want to solve the entire brain!!”)
   
 * While your interests will almost certainly change over time, a good application (in my experience) requires a “central thread” or theme that ties it all together and makes your story as a developing scientist memorable. It helps if this theme clearly shows how and why you became interested in a certain topic/labs/PIs.
 
 ***Who are you interested in working with at this school?/Why this particular school?***
   
-* This is the last ~25% of your PS, and is the 1-2 paragraphs that should differ from school to school. This is the part where you talk about the specific labs you are interested in working in, and why. Here, you may also add some specific reasons as to why that particular school would be a good fit for you, and why it makes sense for you to do you PhD there instead of any other school with a similar ranking program. Is it the specific PI/labs? Is it the resources/opportunities for collaboration?
+* This is the last ~25% of your SoP, and is the 1-2 paragraphs that should differ from school to school. This is the part where you talk about the specific labs you are interested in working in, and why. Here, you may also add some specific reasons as to why that particular school would be a good fit for you, and why it makes sense for you to do you PhD there instead of any other school with a similar ranking program. Is it the specific PI/labs? Is it the resources/opportunities for collaboration?
 A good rule of thumb to see if you’re being too general is to replace the school’s name with another schools’, and if the paragraph still makes sense, you’re not being particular enough about why one school is any different from others.
   
-* PS’s can seem formulaic (especially how I just described it now), but remember that it’s still possible to insert your own voice into the statement, and weave together a story given the research experiences that you’ve had.
+* SoP’s can seem formulaic (especially how I just described it now), but remember that it’s still possible to insert your own voice into the statement, and weave together a story given the research experiences that you’ve had.
 <div style="text-align: right"><a href="https://lucylai.com/blog/gradapps#table-of-contents">back to top</a> </div>
 
 ### The Research Statement 
