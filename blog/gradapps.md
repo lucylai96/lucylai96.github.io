@@ -5,9 +5,11 @@ layout: default
 # All About PhD Applications 
 ## (Second Edition, Updated July 2022)
 
-Welcome! You may have ended up here because you came across [my popular article](https://lucyblogs.wordpress.com/2018/08/02/all-about-phd-applications), which has been viewed over **30k times** (as of December 2023). Thank you to all who reached out to me over the years telling me how helpful of a resource it was to you / how it helped you get into grad school, and it's been super fun meeting some of you in person at conferences, too! 🙂
+Welcome! This popular guide on how to apply to grad school has been visited over **60k times** (as of September 2024). Thank you to all who reached out to me over the years telling me how helpful of a resource it was to you / how it helped you get into grad school, and it's been super fun meeting some of you in person at conferences, too! 🙂
 
-Since it has been 4 years since I wrote the article, I am doing a "refresh" in this second edition (written July 2022) with the following improvements and content additions: 
+**For the 2024-2025 application cycle only**, I am available for PhD application coaching and review. I can work with you to develop a strong application strategy and materials (CV, SoP), do mock interviews, and more. Please email me at [lucylai@g.harvard.edu](mailto:lucylai@g.harvard.edu) for more information!
+
+In this second edition (written July 2022), I have added the following improvements and content additions: 
 *  hosting it here on my personal website for neater organization and ease of navigation (thanks to [Github-flavored Markdown!](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github))
 *  my application materials are now **[free to download](https://lucylai.com/files/phd_apps.zip)**. This file contains **my CV at time of application** and my **Harvard, Stanford, and NYU essays,** chosen in particular to illustrate 1) how little they actually differ, and 2) how a diversity/history statement looks like compared to the personal statement (NYU). Previously, I had asked people to email me requesting these materials, but since it has been awhile since my application days, I decided it was time to make them freely available on the internet :)
 *  added a [template email](https://lucylai.com/blog/gradapps#should-i-reach-out-to-pis-before-applying) for how to contact PIs before applying.
@@ -39,7 +41,7 @@ I have broken up this post into short, digestible, FAQ-like sections for your co
 * [I need examples of application materials?!?](#i-need-examples-of-application-materials)
 * [The checklist](#the-checklist)
 * [Transcript, CV, GRE, Rec Letters](#transcript-cv-gre-rec-letters)
-* [The Personal Statement](#the-personal-statement)
+* [The Statement of Purpose](#the-statement-of-purpose)
 * [The Research Statement](#the-research-statement)
 * [The Diversity/Personal History Statement](#the-diversity-or-personal-history-statement)
 
@@ -154,12 +156,10 @@ Now a commonly asked question is: **who should I ask for recommendation letters?
 Rec letters are sometimes a bit of a black box, and since I’ve never read any of my own letters, I can’t really tell you how you should act to impress your mentors while working in their labs. But what I can say (from what a PI told me during our interview), is that application readers are looking for qualities of a good grad student: curiosity, passion, resilience, patience, the ability to think critically and creatively, independence, etc.
 <div style="text-align: right"><a href="https://lucylai.com/blog/gradapps#table-of-contents">back to top</a> </div>
 
-### The Personal Statement
+### The Statement of Purpose
 #### a.k.a. your science (not life) story
   
-The Personal Statement is an incredibly important part of your application, and one that you still have full control over before you apply. Virtually all schools will ask you to write a PS as the main essay. The good news is, PS prompts are virtually all the same, and thus you won’t have to rewrite too much for each school that you’re applying to. Here are two samples that I pulled from different schools:
-  
-> Discuss how your personal background informs your decision to pursue a graduate degree. Include any educational, cultural, economic, family or social experiences, challenges, or opportunities relevant to your academic journey.
+The Statement of Purpose (SoP) is an incredibly important part of your application, and one that you still have full control over before you apply. Virtually all schools will ask you to write a SoP as the main essay. The good news is, SoP prompts are virtually all the same, and thus you won’t have to rewrite too much for each school that you’re applying to. Here is a sample that I pulled from a school I applied to:
   
 > The Statement of Purpose should describe succinctly your reasons for applying to the proposed program at [school name],your preparation for this field of study, research interests, future career plans, and other aspects of your backgroundand interests which may aid the admissions committee in evaluating your aptitude and motivation for graduate study.
   
@@ -203,23 +203,25 @@ A good rule of thumb to see if you’re being too general is to replace the scho
 ### The Research Statement 
 ### a.k.a. the details of what you've actually done
   
-How does the research statement differ from the personal one?!
+How does the research statement (RS) differ from the SoP?!
   
-Some schools are annoying and ask you to write PS and RS as two separate essays. In my opinion, if a school requires a research statement, your personal statement will look slightly different than how I have outlined it in the above section. In these cases, the PS is more focused on your backstory (there is more space to elaborate about how you became interested in science), whereas the research statement is really reserved for describing the research projects that you’ve worked on in detail. Here is a research statement prompt I pulled from one of my applications:
+Some schools ask you to write both a SoP and RS as two separate essays. In my opinion, if a school requires a research statement, your SoP will look slightly different than how I have outlined it in the above section. In these cases, there is more space in your SoP to elaborate about how you became interested in science, whereas the research statement is really reserved for describing the research projects that you’ve worked on in detail. Here is a research statement prompt I pulled from one of my applications:
   
 > Please describe your research. For each significant experience you have had, describe the scientific context of the problem you addressed, the method you employed, and the conclusion you made from your work.
   
-Right off the bat, RS prompts sound much more straightforward than PS prompts. I’d suggest following the same overall structure as the “What previous research experience have you had?” section above, and crafting your PS to reflect more of your research interests and motivation for pursuing a Ph.D.
+Right off the bat, RS prompts will sound much more straightforward than SoP prompts. I’d suggest following the same overall structure as the “What previous research experience have you had?” section above, and crafting your SoP to reflect more of your research interests and motivation for pursuing a Ph.D.
 <div style="text-align: right"><a href="https://lucylai.com/blog/gradapps#table-of-contents">back to top</a> </div>
   
 ### The Diversity or Personal History Statement 
 #### a.k.a. when they actually care about who you are as a person
   
-The diversity/personal history statement is usually more rare than the research statement, and only a few schools that I applied to asked for such an essay. Here’s an example prompt:
+The diversity/personal history statement is becoming more common these days. Here are two example prompts:
   
 > [School X] regards the diversity of its graduate student body as an important factor in serving the educational mission of the university. We encourage you to share unique, personally important, and/or challenging factors in your background, such as work and life experiences, special interests, culture, socioeconomic status, the quality of your early educational environment, gender, sexual orientation, race or ethnicity. Please discuss how such factors would contribute to the diversity of the entering class, and hence to the experience of your [School X] classmates.
   
-This statement asks you to discuss personal factors that would make you attractive from a diversity point of view. Besides the obvious one (racial diversity), you may draw upon your diversity of experience, economic status, gender, etc. that might make you stand out from the rest of the applicant pool. This would also be great place to elaborate on your story if you’re the first person in your family to go to college or grad school, and to talk about how the experience of higher education has challenged and changed you. I think this is a great space to personalize your application and to give a little bit more flavor to who you are! Personally, I talked about being a woman in computational science and my life experience dealing with a chronic illness.
+> Discuss how your personal background informs your decision to pursue a graduate degree. Include any educational, cultural, economic, family or social experiences, challenges, or opportunities relevant to your academic journey.
+  
+This statement asks you to discuss personal factors that would make you attractive from a diversity point of view. Besides racial diversity, you may draw upon your diversity of experience, socioeconomic status, gender, etc. that might make you stand out from the rest of the applicant pool. This would also be great place to elaborate on your story if you’re the first person in your family to go to college or grad school, and to talk about how the experience of higher education has challenged and changed you. I think this is a great space to personalize your application and to give a little bit more flavor to who you are! Personally, I talked about being a woman in computational science and my life experience dealing with a chronic illness.
 <div style="text-align: right"><a href="https://lucylai.com/blog/gradapps#table-of-contents">back to top</a> </div>
 
 ------
