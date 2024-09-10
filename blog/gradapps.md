@@ -5,7 +5,7 @@ layout: default
 # All About PhD Applications 
 ## (Second Edition, Updated July 2022)
 
-Welcome! This popular guide on how to apply to grad school has been visited over **60k times** (as of September 2024). Thank you to all who reached out to me over the years telling me how helpful of a resource it was to you / how it helped you get into grad school, and it's been super fun meeting some of you in person at conferences, too! 🙂
+Welcome! This popular guide on how to apply to PhD programs in STEM has been visited over **60k times** (as of September 2024). Thank you to all who reached out to me over the years telling me how helpful of a resource it was to you / how it helped you get into grad school, and it's been super fun meeting some of you in person at conferences, too! 🙂
 
 **For the 2024-2025 application cycle only**, I am available for PhD application coaching and review. I can work with you to develop a strong application strategy and materials (CV, SoP), do mock interviews, and more. Please email me at [lucylai@g.harvard.edu](mailto:lucylai@g.harvard.edu) for more information!
 
