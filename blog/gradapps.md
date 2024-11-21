@@ -7,6 +7,8 @@ layout: default
 
 Welcome! This popular guide on how to apply to PhD programs in STEM has been visited over **60k times** (as of September 2024). Thank you to all who reached out to me over the years telling me how helpful of a resource it was to you / how it helped you get into grad school, and it's been super fun meeting some of you in person at conferences, too! 🙂
 
+**(Nov 2024) This guide now has a [video companion](https://youtu.be/fQP1rXzZbbQ)!**
+
 In this second edition (written July 2022), I have added the following improvements and content additions: 
 *  hosting it here on my personal website for neater organization and ease of navigation (thanks to [Github-flavored Markdown!](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github))
 *  my application materials are now **[free to download](https://lucylai.com/files/phd_apps.zip)**. This file contains **my CV at time of application** and my **Harvard, Stanford, and NYU essays,** chosen in particular to illustrate 1) how little they actually differ, and 2) how a diversity/history statement looks like compared to the personal statement (NYU). Previously, I had asked people to email me requesting these materials, but since it has been awhile since my application days, I decided it was time to make them freely available on the internet :)
