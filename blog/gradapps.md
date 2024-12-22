@@ -5,7 +5,9 @@ layout: default
 # All About PhD Applications 
 ## (Second Edition, Updated July 2022)
 
-Welcome! This popular guide on how to apply to PhD programs in STEM has been visited over **60k times** (as of September 2024). Thank you to all who reached out to me over the years telling me how helpful of a resource it was to you / how it helped you get into grad school, and it's been super fun meeting some of you in person at conferences, too! 🙂
+Welcome! This popular guide on how to apply to PhD programs in STEM has been visited over **100k times** (as of December 2024). Thank you to all who reached out to me over the years telling me how helpful of a resource it was to you / how it helped you get into grad school, and it's been super fun meeting some of you in person at conferences, too! 🙂
+
+**I am offering PhD mock interviews and coaching from Jan-Feb 2025!** Taking from my 2 years of experience on the Harvard PhD Program in Neuroscience interview committee, I know exactly what differentiates successful applicants. Please email me at [lucylai@g.harvard.edu](mailto:lucylai@g.harvard.edu) if you are interested!
 
 **(Nov 2024) This guide now has a [video companion](https://youtu.be/fQP1rXzZbbQ)!**
 
@@ -226,6 +228,8 @@ This statement asks you to discuss personal factors that would make you attracti
 
 ------
 ## Interviews (the fun part)
+
+**I am offering PhD mock interviews and coaching from Jan-Feb 2025!** Taking from my 2 years of experience on the Harvard PhD Program in Neuroscience interview committee, I know exactly what differentiates successful applicants. Please email me at [lucylai@g.harvard.edu](mailto:lucylai@g.harvard.edu) if you are interested!
 
 ### The 101
   
