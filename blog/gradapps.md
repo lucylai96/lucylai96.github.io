@@ -233,7 +233,7 @@ This statement asks you to discuss personal factors that would make you attracti
 
 **I am offering PhD mock interviews and coaching from Jan-Feb 2025!** Taking from my 2 years of experience on the Harvard PhD Program in Neuroscience interview committee, I know exactly what differentiates successful applicants. Please email me at [lucylai@g.harvard.edu](mailto:lucylai@g.harvard.edu) if you are interested!
 
-**(Dec 2024 Update)**: This year, I wrote an even more detailed [STEM PhD interview prep guide](https://buy.stripe.com/28o7tSftldbE5yw4gg) containing insider advice that is _not_ currently available on this blog post. This 9-paged prep guide contains: (1) 19 commonly asked interview questions AND how to best answer them, (2) how admissions decisions are made, and (3) a detailed explanation of the qualities and factors that the admissions committee looks for. This is the same prep guide you would receive if you were to do mock interviews with me.
+**(Dec 2024 Update)**: This year, I wrote an even more detailed **[STEM PhD interview prep guide]**(https://buy.stripe.com/28o7tSftldbE5yw4gg) containing insider advice that is _not_ currently available on this blog post. This 9-paged prep guide contains: (1) 19 commonly asked interview questions AND how to best answer them, (2) how admissions decisions are made, and (3) a detailed explanation of the qualities and factors that the admissions committee looks for. This is the same prep guide you would receive if you were to do mock interviews with me.
 
 ### The 101
   
