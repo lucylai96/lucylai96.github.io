@@ -16,8 +16,8 @@ Outside of research, I enjoy teaching, writing <a href="http://subcorticalsongs.
 ### recent and upcoming
 * **Apr 2025:** Helping organize the [Algorithmic Innovation and Entreupreneurship Spring Summit](https://www.algopreneurship.ai/) in Tokyo, Japan
 * **Feb 2025:** Giving a talk at the [National University of Singapore](https://nus.edu.sg/) / [SfN Singapore](https://sfn.sg/) Cognitive Science, Psychology & AI Seminar Series 
-* **Oct 2025:** Visited Rice University (my alma mater!) to give a lecture and alumni panel Q&A for [Rice Omega Psi](https://www.instagram.com/riceomegapsi/)
-* **Jul 2024:** Taught [COGS 180: Decision Making in the Brain](https://cogs180.github.io/su24/) for [UCSD Summer Session](https://summersession.ucsd.edu/) --- [Course syllabus](https://docs.google.com/document/d/1YbU2V1225l-x12fQKUVlMM4-4mK96GNLAb7WUcLVrbA/edit?usp=sharing)
+* **Oct 2024:** Visited Rice University (my alma mater!) to give a lecture and alumni panel Q&A for [Rice Omega Psi](https://www.instagram.com/riceomegapsi/)
+* **Jul 2024:** Taught [COGS 180: Decision Making in the Brain](https://cogs180.github.io/su24/) for [UCSD Summer Session](https://summersession.ucsd.edu/) — [Course syllabus](https://docs.google.com/document/d/1YbU2V1225l-x12fQKUVlMM4-4mK96GNLAb7WUcLVrbA/edit?usp=sharing)
 * **Jun 2024:** Taught at the [OIST Computational Neuroscience Course (OCNC)](https://groups.oist.jp/ocnc) in Okinawa, Japan
 * **May 2024:** Gave a spotlight talk at the [Mathematics of Neuroscience and AI Conference](https://neuromonster.org/) in Rome, Italy
 * **Apr 2024:** Successfully defended my Ph.D.!
