@@ -10,6 +10,7 @@ I completed my B.A. at Rice University, where I worked with [Jeff Yau](http://ya
 
 ## publications
 ^ denotes co-first authorship
+
 ***
 ### in preparation
 - **Lai, L.**, Hauser, TU., Huys, QJM. (in prep). A computational account of egodystonia.
