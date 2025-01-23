@@ -1,4 +1,4 @@
-## [home](https://lucylai.com) | [research](https://lucylai.com/research) 
+## [home](https://lucylai.com) | [research](https://lucylai.com/research) | [art](https://lucylai.com/art) 
 
 ### hello!
 **I am currently on a year-long "sabbatical" from formal academic work,** where I will be writing, traveling, and tinkering with some creative side projects. If you're interested, you can [follow along my sabbatical journey here](https://sabbatical.lucylai.com/)!
