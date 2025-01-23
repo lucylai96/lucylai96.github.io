@@ -1,4 +1,4 @@
-## [home](https://lucylai.com) | [research](https://lucylai.com/research) | [art](https://lucylai.com/art) 
+## [home](https://lucylai.com) | [publications](https://lucylai.com/pubs) | [art](https://lucylai.com/art) 
 
 ***
 ### hello!
