@@ -9,15 +9,15 @@ I completed my Ph.D. at with [Sam Gershman](http://gershmanlab.com/index.html){:
 I completed my B.A. at Rice University, where I worked with [Jeff Yau](http://yaulab.com/){:target="_blank"} at [Baylor College of Medicine](http://www.bcm.edu/){:target="_blank"} on causal inference in multisensory perception. I've also spent time at MIT with [Mehrdad Jazayeri](https://mcgovern.mit.edu/principal-investigators/mehrdad-jazayeri){:target="_blank"}, at [Janelia Research Campus](https://www.janelia.org){:target="_blank"} with [Josh Dudman](https://www.dudmanlab.org){:target="_blank"}, and at the [Max Planck UCL Centre for Computational Psychiatry](https://www.mps-ucl-centre.mpg.de/){:target="_blank"} with [Tobias Hauser](https://devcompsy.org/){:target="_blank"} and [Quentin Huys](https://acplab.org/){:target="_blank"}. The best part about science is truly all the wonderful people I get to work with :-)
 
 ### publications
-## in preparation
+#### in preparation
 - **Lai, L.**, Hauser, TU., Huys, QJM. (in prep). A computational account of egodystonia.
 - **Lai, L.**, Bhatia, C., Hardcastle, K., Mizes, K., Ölveczky, BP., Gershman, SJ. (in prep). Policy regularization enables robustness and flexibility in motor sequence learning.
 
-## preprints 
+#### preprints 
 - Liu, S., **Lai, L.**, Gershman, S.J., & Bari, B.A. (submitted). [Time and memory costs jointly determine a speed-accuracy trade-off and set-size effects](https://psyarxiv.com/fupvy){:target="_blank"}.
 - **Lai, L.**, Huang, A.Z.X., & Gershman, S.J. (submitted). [Action chunking as policy compression](https://psyarxiv.com/z8yrv){:target="_blank"}.
 - 
-## published
+#### published
 - **Lai, L.**, & Gershman, S.J. (2024). [Human decision making balances reward maximization and policy compression](./pubs/LaiGershman2024.pdf){:target="_blank"}. _PLOS Computational Biology_
 - **Lai, L.** & Gershman, S.J. (2021). [Policy compression: an information bottleneck in action selection](./pubs/LaiGershman2021.pdf){:target="_blank"}. _Psychology of Learning and Motivation._
 - Gershman, S.J. & **Lai, L.** (2021). [The reward-complexity trade-off in schizophrenia](./pubs/GershmanLai2021.pdf){:target="_blank"}. _Computational Psychiatry._
