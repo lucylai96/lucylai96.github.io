@@ -1,6 +1,6 @@
 ## publications
 ***
-^ denotes co-first authorship
+[Google Scholar](https://scholar.google.com/citations?user=TEpclyYAAAAJ&hl=en) | ^ denotes co-first authorship
 
 ### in preparation
 - **Lai, L.**, Hauser, TU., Huys, QJM. (in prep). A computational account of egodystonia.
