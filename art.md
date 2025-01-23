@@ -38,11 +38,6 @@ i hope you enjoy :-)
 </details>
 
 <details>
-<summary> <a href="https://www.instagram.com/looshylay/" target="_blank"> <i> snapshots </i> // photos </a> </summary>
-<br>
-</details>
-
-<details>
 <summary> <i> sounds </i> // compositions </summary>
 <p style="text-align:right"> <i> in a previous life... </i> </p>
 <i><b> Reflections (2013)</b></i> / an EP I wrote in high school
@@ -63,17 +58,13 @@ i hope you enjoy :-)
 <i><b> I C the End (2015)</b> </i> / <a href="http://lucy-lai.com/compositions/ctheend_score.pdf" target="_blank">score</a> / <a href="http://lucy-lai.com/compositions/ctheend_live.wav" target="_blank">live recording</a> / an experiment in monotony
 <br>
 <br>
-
-<i><b> Misc. </b> </i> / a couple months into grad school, an idea came to me after listening to music while learning about Dirichlet Processes on YouTube...
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/639832068&color=%23000000&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lucy_lai" title="Lucy Lai" target="_blank" style="color: #cccccc; text-decoration: none;">Lucy Lai</a> · <a href="https://soundcloud.com/lucy_lai/dj-dirichlet" title="dj dirichlet" target="_blank" style="color: #cccccc; text-decoration: none;">dj dirichlet</a></div>
 <br>
 </details>
 
 
 <details>
 <summary> <i> structures </i> // places and spaces </summary>
-<div style="text-align:right"> <i>places that hold special space for me</i> </div>
+<div style="text-align:right"> <i>special places</i> </div>
 
 <ul>
   <li>   <a href="http://rothkochapel.org/" target="_blank">Rothko Chapel</a> </li>
