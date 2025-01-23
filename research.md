@@ -7,17 +7,17 @@
 ### currently
 I completed my Ph.D. in the [Computational Cognitive Neuroscience Lab](http://gershmanlab.com/index.html){:target="_blank"} in May 2024, where I worked on computational theories of learning and decision making under cognitive resource constraints. I’m curious about how cognitive constraints can both benefit and limit our behavioral repertoire, and how the trade-off between reward and cognitive effort is compromised in psychiatric disease. I am also interested more broadly in the limitations of human reasoning and thought, and in the collaboration between artificial and natural intelligence. My thesis, _Policy compression: Acting with limited cognitive resources_, can be found <a href="https://dash.harvard.edu/handle/1/37378979" target="_blank">here</a>.
 
-From September 2023, I am a [TSVP Visiting Scholar](https://groups.oist.jp/tsvp){:target="_blank"} with [Gail Tripp](https://groups.oist.jp/hdnu){:target="_blank"} and [Kenji Doya](https://groups.oist.jp/ncu){:target="_blank"} at the beautiful [Okinawa Institute of Science and Technology](https://oist.jp){:target="_blank"}.
+From September 2023, I am a [TSVP Visiting Scholar](https://groups.oist.jp/tsvp){:target="_blank"} at the beautiful [Okinawa Institute of Science and Technology](https://oist.jp){:target="_blank"}.
 
 #### publications
-- Liu, S., **Lai, L.**, Gershman, S.J., & Bari, B.A. (submitted). [Time and memory costs jointly determine a speed-accuracy trade-off and set-size effects](https://osf.io/preprints/psyarxiv/fupvy){:target="_blank"}.
-- **Lai, L.**, & Gershman, S.J. (2024). [Human decision making balances reward maximization and policy compression](https://gershmanlab.com/pubs/LaiGershman24.pdf){:target="_blank"}. _PLOS Computational Biology_
+- Liu, S., **Lai, L.**, Gershman, S.J., & Bari, B.A. (submitted). [Time and memory costs jointly determine a speed-accuracy trade-off and set-size effects](https://psyarxiv.com/fupvy){:target="_blank"}.
+- **Lai, L.**, & Gershman, S.J. (2024). [Human decision making balances reward maximization and policy compression](./pubs/LaiGershman24.pdf){:target="_blank"}. _PLOS Computational Biology_
 - **Lai, L.**, Huang, A.Z.X., & Gershman, S.J. (submitted). [Action chunking as policy compression](https://psyarxiv.com/z8yrv){:target="_blank"}.
-- **Lai, L.** & Gershman, S.J. (2021). [Policy compression: an information bottleneck in action selection](./pubs/LaiGershman2021.pdf){:target="_blank"}. _Psychology of Learning and Motivation._
-- Gershman, S.J. & **Lai, L.** (2021). [The reward-complexity trade-off in schizophrenia](./pubs/GershmanLai2021.pdf){:target="_blank"}. _Computational Psychiatry._
-- Bhui, R., **Lai, L.**, Gershman, S.J. (2021). [Resource-rational decision making](./pubs/BhuiLaiGershman2021.pdf){:target="_blank"}. _Current Opinion in Behavioral Sciences._
-- Mikhael, J.G., **Lai, L.**, & Gershman, S.J. (2021). [Rational inattention and tonic dopamine](./pubs/MikhaelLaiGershman2021.pdf){:target="_blank"}. _PLOS Computational Biology._
-- **Lai, L.**, Magnotti, J.F., & Yau, J.M. (2017). [Multisensory context warps time perception](./pubs/LaiMagnottiYau2017.pdf){:target="_blank"}. _2017 Conference on Cognitive Computational Neuroscience._
+- **Lai, L.** & Gershman, S.J. (2021). [Policy compression: an information bottleneck in action selection](./pubs/LaiGershman21.pdf){:target="_blank"}. _Psychology of Learning and Motivation._
+- Gershman, S.J. & **Lai, L.** (2021). [The reward-complexity trade-off in schizophrenia](./pubs/GershmanLai21.pdf){:target="_blank"}. _Computational Psychiatry._
+- Bhui, R., **Lai, L.**, Gershman, S.J. (2021). [Resource-rational decision making](./pubs/BhuiLaiGershman21.pdf){:target="_blank"}. _Current Opinion in Behavioral Sciences._
+- Mikhael, J.G., **Lai, L.**, & Gershman, S.J. (2021). [Rational inattention and tonic dopamine](./pubs/MikhaelLaiGershman21.pdf){:target="_blank"}. _PLOS Computational Biology._
+- **Lai, L.**, Magnotti, J.F., & Yau, J.M. (2017). [Multisensory context warps time perception](./pubs/LaiMagnottiYau17.pdf){:target="_blank"}. _2017 Conference on Cognitive Computational Neuroscience._
 
 ### previously
 My undergraduate research days were spent in the [Yau Lab](http://yaulab.com/){:target="_blank"} at [Baylor College of Medicine](http://www.bcm.edu/){:target="_blank"}. There I worked on developing a Bayesian inference model for understanding multisensory time distortions.
