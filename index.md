@@ -6,10 +6,9 @@ I am lucky enough to spend my sabbatical as a [TSVP Visiting Scholar](https://gr
 
 Outside of research, I enjoy teaching, writing <a href="http://subcorticalsongs.wordpress.com/" target="_blank">poetry</a>, running, hosting dinner parties, and latin dancing. From 2021-2023, I was a Resident Tutor at <a href="https://quincy.harvard.edu/" target="_blank">Quincy House</a>, where I lived with and advised Harvard College students.
 
-### phd advice
-* My popular guide on applying to grad school: **[All About PhD Applications (Second Edition, Updated July 2022)](https://lucylai.com/blog/gradapps)**
-* [My r/gradadmissions AMA on PhD applications](https://www.reddit.com/r/gradadmissions/comments/1ewl6z1/phd_application_guide_mainly_for_us_stem_phds_and/)
-* [My r/gradadmissions AMA on PhD interviews](https://www.reddit.com/r/gradadmissions/comments/1hkichr/ama_how_to_ace_your_phd_interviews_from_a_former)
+### quick links
+* Here's a [fun interview](https://brain.harvard.edu/hbi_humans/lucy-lai/) I did with Humans of HBI back in 2022!
+* My popular guide on applying to grad school: **[All About PhD Applications](https://lucylai.com/blog/gradapps)**
 
 ***
 
