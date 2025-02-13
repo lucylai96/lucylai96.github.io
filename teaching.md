@@ -5,7 +5,7 @@ layout: default
 ***
 > "Docendo discimus...By teaching, we learn."  - Seneca
 
-Teaching is one of my greatest joys :-) Below are courses that I've developed and taught over the years, with relevant course materials and teaching evaluations. 
+Teaching is one of my greatest joys :-) Below are courses that I've developed and taught over the years, with relevant course materials and teaching evaluations. (Click the arrow on the left to see the course description.)
 
 ### UCSD
 
