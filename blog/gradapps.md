@@ -3,20 +3,18 @@ layout: default
 ---
 
 # All About PhD Applications 
-## (Second Edition, Updated July 2022)
+## (Last updated: July 2022)
 
 Welcome! This popular guide on how to apply to PhD programs in STEM has been visited over **100k times** (as of December 2024). Thank you to all who reached out to me over the years telling me how helpful of a resource it was to you / how it helped you get into grad school, and it's been super fun meeting some of you in person at conferences, too! 🙂
 
-**(Nov 2024) This guide now has a [video companion](https://youtu.be/fQP1rXzZbbQ)!**
-
-In this second edition (written July 2022), I have added the following improvements and content additions: 
-*  hosting it here on my personal website for neater organization and ease of navigation (thanks to [Github-flavored Markdown!](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github))
-*  my application materials are now **[free to download](https://lucylai.com/files/phd_apps.zip)**. This file contains **my CV at time of application** and my **Harvard, Stanford, and NYU essays,** chosen in particular to illustrate 1) how little they actually differ, and 2) how a diversity/history statement looks like compared to the personal statement (NYU). Previously, I had asked people to email me requesting these materials, but since it has been awhile since my application days, I decided it was time to make them freely available on the internet :)
-*  added a [template email](https://lucylai.com/blog/gradapps#should-i-reach-out-to-pis-before-applying) for how to contact PIs before applying.
-* added a section on [Personal observations as an interviewer](#personal-observations-as-an-interviewer) since I became a student interviewer this year for Harvard's PhD  Program in Neuroscience.
-* added a section on [Reflections on my grad school decision 4 years later](#reflections-on-my-decision).
-
-Now with all that said, let's get to it!
+### Quick links
+* This guide now has a [video companion](https://youtu.be/fQP1rXzZbbQ)!**
+* My application materials are **[free to download](https://lucylai.com/files/phd_apps.zip)**. This file contains:
+  * my CV at time of application (Fall 2017)
+  * my Harvard, Stanford, and NYU essays, chosen in particular to illustrate (1) how little they differ, and (2) what a diversity / personal history statement looks like (NYU) 
+* I did a [Reddit AMA on PhD applications](https://www.reddit.com/r/gradadmissions/comments/1ewl6z1/phd_application_guide_mainly_for_us_stem_phds_and/) in August 2024.
+* I did another [Reddit AMA on PhD interviews](https://www.reddit.com/r/gradadmissions/comments/1hkichr/ama_how_to_ace_your_phd_interviews_from_a_former) in December 2024.
+* In 2025, I created a **[STEM PhD interview prep guide](https://buy.stripe.com/28o7tSftldbE5yw4gg)**. This 9-paged prep guide contains: (1) 19 commonly-asked PhD interview questions and how to best answer them, (2) how admissions decisions are made, and (3) a detailed explanation of the qualities and factors that the admissions committee looks for. All of the insider information in this guide is taken from my 2 years of experience interviewing for Harvard's PhD Program in Neuroscience. I've chosen to charge for this guide for now in order to support all the efforts I have put into creating free PhD application guide material (with more coming soon!). Thanks for your support :-) 
 
 ------
 
@@ -226,9 +224,6 @@ This statement asks you to discuss personal factors that would make you attracti
 
 ------
 ## Interviews (the fun part)
-
-### Interview coaching and prep guide
-**(Dec 2024 Update)**: I have written a more detailed **[STEM PhD interview prep guide](https://buy.stripe.com/28o7tSftldbE5yw4gg)** containing insider advice that is _not_ currently available on this blog post. This 9-paged prep guide contains: (1) 19 commonly asked interview questions AND how to best answer them, (2) how admissions decisions are made, and (3) a detailed explanation of the qualities and factors that the admissions committee looks for. 
 
 ### The 101
   
