@@ -10,11 +10,11 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 ### UCSD
 
 <details style="margin-bottom: 20px;">
-<summary><strong>COGS 180: Decision Making in the Brain</strong></summary>
+<summary><strong>COGS 180: Decision Making in the Brain</strong> ·
 <a href="https://cogs180.github.io/su24/" target="_blank">course website</a> · 
 <a href="https://docs.google.com/document/d/1YbU2V1225l-x12fQKUVlMM4-4mK96GNLAb7WUcLVrbA/edit?tab=t.0" target="_blank">syllabus</a> · 
 <a href="./files/cogs180_set.pdf" target="_blank">SET evals</a> · 
-<a href="./files/cogs180_survey.pdf" target="_blank">course survey</a>
+<a href="./files/cogs180_survey.pdf" target="_blank">course survey</a> </summary>
 
 <p>This interdisciplinary course aims to unravel the complexities behind human decision making by integrating insights from psychology, economics, neuroscience, psychiatry, design, and machine learning. We will explore everything from the cognitive biases and heuristics that shape our everyday decisions, to how decision making is impaired in various psychiatric disorders. We will also discuss why it's so hard to make rational decisions, and how we can use AI to improve our decision making.</p>
 
