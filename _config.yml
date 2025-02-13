@@ -3,4 +3,5 @@ logo: '/files/lai_headshot.png'
 show_downloads: false
 description: neuroscientist & educator
 theme: jekyll-theme-minimal
+markdown: kramdown
 google_analytics: UA-121197020-1
