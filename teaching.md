@@ -6,10 +6,10 @@
 Teaching is one of my greatest joys :-) Below are courses that I've developed and taught over the years, with relevant syllabi and teaching evaluations. (I) indicates instructor of record, (TA) indicates a teaching assistant role.
 
 ### UCSD
-* (I) [COGS180: Decision Making in the Brain](https://cogs180.github.io/su24/){:target="_blank"} · [syllabus](https://docs.google.com/document/d/1YbU2V1225l-x12fQKUVlMM4-4mK96GNLAb7WUcLVrbA/edit?tab=t.0){:target="_blank"}
-  * [SET evals](./files/cogs180_set.pdf){:target="_blank"}
-  * [Course survey](./files/cogs180_survey.pdf){:target="_blank"}
-  
+**COGS180: Decision Making in the Brain** · [course website](https://cogs180.github.io/su24/){:target="_blank"} · [syllabus](https://docs.google.com/document/d/1YbU2V1225l-x12fQKUVlMM4-4mK96GNLAb7WUcLVrbA/edit?tab=t.0){:target="_blank"} · [SET evals](./files/cogs180_set.pdf){:target="_blank"} · [course survey](./files/cogs180_survey.pdf){:target="_blank"}
+
+This interdisciplinary course aims to unravel the complexities behind human decision making by integrating insights from psychology, economics, neuroscience, psychiatry, design, and machine learning. We will explore everything from the cognitive biases and heuristics that shape our everyday decisions, to how decision making is impaired in various psychiatric disorders. We will also discuss why it's so hard to make rational decisions, and how we can use AI to improve our decision making. **Prerequisites:** [COGS 14A] and [BILD 12 or COGS 17] and [COGS 18] or permission of instructor.
+
 ### Harvard University
 **From Bench to Bedside: Entraining Policy to Science** · [course website](https://mahpingfellows.github.io/course/){:target="_blank"} 
 Circadian rhythms have a profound impact on our health and well being. Beyond regulating our sleep, they influence cognitive alertness, gastric motility, and cardiovascular health and many other body processes. Yet, our industrialized, 24/7 world often brings us out of sync with these rhythms leading to pervasive but addressable health consequences. Students will learn about the molecular and circuit mechanisms that sync our circadian rhythms to environmental cues like light and food, how our everyday activities and societal issues impact these rhythms, and how we can make policies to keep our circadian health intact without sacrificing all the amenities of modern life. Course through the [Morehouse and Harvard Partnership in Neuroscience Growth (MAHPING) Pedagogy Fellows Program](https://mahping.hsites.harvard.edu/pedagogy-fellows-program){:target="_blank"}
@@ -17,7 +17,9 @@ Circadian rhythms have a profound impact on our health and well being. Beyond re
 **GENED 1125: Artificial and Natural Intelligence** · [course website](https://gened1125.github.io/spring2024/){:target="_blank"} · [S2022 evals](./files/gened1125_s22.pdf){:target="_blank"} · [S2021 evals](./files/gened1125_s21.pdf){:target="_blank"} 
 
 What is intelligence? An inquiry into the nature of intelligence can take different forms – philosophical, biological, mathematical or technological. In this course, we will use machine intelligence (everything from voice recognizing smartphones to game-playing computers) as a handle to think about natural intelligence (brains and behavior of animals). Although we will start with big, general questions, we will quickly move to concrete queries about brains and computers. This approach, rather than just starting with brains of animals, may be useful in framing more universal questions independent of the specific architecture of brains of animals. As machines increasingly perform tasks that were once thought to be solely in the domain of humans, there is an urgent need for discussions of the moral and societal implications of artificial intelligence. 
-* Guest lectures: [Reinforcement learning in the brain](https://www.youtube.com/watch?v=qIjEKWftu0A&ab_channel=LucyLai){:target="_blank"} · [What is consciousness? And can machines have it?](https://www.youtube.com/watch?v=kle1uBIW8dM&ab_channel=LucyLai){:target="_blank"}
+**Guest lectures:**
+* [Reinforcement learning in the brain](https://www.youtube.com/watch?v=qIjEKWftu0A&ab_channel=LucyLai){:target="_blank"} 
+* [What is consciousness? And can machines have it?](https://www.youtube.com/watch?v=kle1uBIW8dM&ab_channel=LucyLai){:target="_blank"}
 
 **NB314QC/NB212: Math Tools for Neuroscience** · [website](https://ebatty.github.io/MathToolsforNeuroscience/intro.html){:target="_blank"}  · [syllabus](https://docs.google.com/document/d/15kfaz1kyhHrSDlMr_YHbdG58HQfPUHnDL4xzD3m74rg/edit?usp=sharing){:target="_blank"} · [github](https://github.com/ebatty/MathToolsforNeuroscience) · [JTerm2020 evals](./files/nb314qc_evals.pdf){:target="_blank"} · [F2020 evals](./files/nb212_evals.pdf){:target="_blank"}
 
