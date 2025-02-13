@@ -6,11 +6,13 @@
 Teaching is one of my greatest joys :-) Below are courses that I've developed and taught over the years, with relevant course materials and teaching evaluations. 
 
 ### UCSD
-  
-**COGS 180: Decision Making in the Brain** · [course website](https://cogs180.github.io/su24/){:target="_blank"} · [syllabus](https://docs.google.com/document/d/1YbU2V1225l-x12fQKUVlMM4-4mK96GNLAb7WUcLVrbA/edit?tab=t.0){:target="_blank"} · [SET evals](./files/cogs180_set.pdf){:target="_blank"} · [course survey](./files/cogs180_survey.pdf){:target="_blank"}
+
+<details>
+<summary><strong>COGS 180: Decision Making in the Brain</strong></summary>
+[course website](https://cogs180.github.io/su24/){:target="_blank"} · [syllabus](https://docs.google.com/document/d/1YbU2V1225l-x12fQKUVlMM4-4mK96GNLAb7WUcLVrbA/edit?tab=t.0){:target="_blank"} · [SET evals](./files/cogs180_set.pdf){:target="_blank"} · [course survey](./files/cogs180_survey.pdf){:target="_blank"}
 
 This interdisciplinary course aims to unravel the complexities behind human decision making by integrating insights from psychology, economics, neuroscience, psychiatry, design, and machine learning. We will explore everything from the cognitive biases and heuristics that shape our everyday decisions, to how decision making is impaired in various psychiatric disorders. We will also discuss why it's so hard to make rational decisions, and how we can use AI to improve our decision making. **Prerequisites:** [COGS 14A] and [BILD 12 or COGS 17] and [COGS 18] or permission of instructor.
-
+</details>
 
 ### Harvard University
 **From Bench to Bedside: Entraining Policy to Science** · [course website](https://mahpingfellows.github.io/course/){:target="_blank"} 
