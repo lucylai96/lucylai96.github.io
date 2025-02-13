@@ -8,7 +8,7 @@
 
 ### preprints 
 - Liu, S., **Lai, L.**, Gershman, S.J., & Bari, B.A. (submitted). [Time and memory costs jointly determine a speed-accuracy trade-off and set-size effects](https://psyarxiv.com/fupvy){:target="_blank"}.
-- **Lai, L.^**, Huang, A.Z.X.^, & Gershman, S.J. (submitted). [Action chunking as conditional policy compression](https://psyarxiv.com/z8yrv){:target="_blank"}.
+- **Lai, L.<sup>*</sup>**, Huang, A.Z.X.<sup>*</sup>, & Gershman, S.J. (submitted). [Action chunking as conditional policy compression](https://psyarxiv.com/z8yrv){:target="_blank"}.
   
 ### published
 - **Lai, L.**, & Gershman, S.J. (2024). [Human decision making balances reward maximization and policy compression](./pubs/LaiGershman2024.pdf){:target="_blank"}. _PLOS Computational Biology_
