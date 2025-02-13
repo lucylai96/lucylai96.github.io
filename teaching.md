@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 ## teaching
 ***
 > "Docendo discimus...By teaching, we learn."  - Seneca
