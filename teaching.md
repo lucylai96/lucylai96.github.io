@@ -12,7 +12,7 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 <details>
 <summary><strong>COGS 180: Decision Making in the Brain</strong></summary>
 
-  <a href="https://cogs180.github.io/su24/" target="_blank">course website</a> · 
+<a href="https://cogs180.github.io/su24/" target="_blank">course website</a> · 
 <a href="https://docs.google.com/document/d/1YbU2V1225l-x12fQKUVlMM4-4mK96GNLAb7WUcLVrbA/edit?tab=t.0" target="_blank">syllabus</a> · 
 <a href="./files/cogs180_set.pdf" target="_blank">SET evals</a> · 
 <a href="./files/cogs180_survey.pdf" target="_blank">course survey</a>
@@ -21,18 +21,23 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 
 <p><strong>Prerequisites:</strong> <a href="#">COGS 14A</a> and <a href="#">BILD 12 or COGS 17</a> and <a href="#">COGS 18</a> or permission of instructor.</p>
 
-[course website](https://cogs180.github.io/su24/){:target="_blank"} · [syllabus](https://docs.google.com/document/d/1YbU2V1225l-x12fQKUVlMM4-4mK96GNLAb7WUcLVrbA/edit?tab=t.0){:target="_blank"} · [SET evals](./files/cogs180_set.pdf){:target="_blank"} · [course survey](./files/cogs180_survey.pdf){:target="_blank"}
-
-This interdisciplinary course aims to unravel the complexities behind human decision making by integrating insights from psychology, economics, neuroscience, psychiatry, design, and machine learning. We will explore everything from the cognitive biases and heuristics that shape our everyday decisions, to how decision making is impaired in various psychiatric disorders. We will also discuss why it's so hard to make rational decisions, and how we can use AI to improve our decision making. **Prerequisites:** [COGS 14A] and [BILD 12 or COGS 17] and [COGS 18] or permission of instructor.
-
+<p> </p>
 
 </details>
 
 
 ### Harvard University
-**From Bench to Bedside: Entraining Policy to Science** · [course website](https://mahpingfellows.github.io/course/){:target="_blank"} 
 
-Circadian rhythms have a profound impact on our health and well being. Beyond regulating our sleep, they influence cognitive alertness, gastric motility, and cardiovascular health and many other body processes. Yet, our industrialized, 24/7 world often brings us out of sync with these rhythms leading to pervasive but addressable health consequences. Students will learn about the molecular and circuit mechanisms that sync our circadian rhythms to environmental cues like light and food, how our everyday activities and societal issues impact these rhythms, and how we can make policies to keep our circadian health intact without sacrificing all the amenities of modern life. Course developed and offered through the [MAHPING Pedagogy Fellows Program](https://mahping.hsites.harvard.edu/pedagogy-fellows-program){:target="_blank"}
+<details>
+<summary><strong>From Bench to Bedside: Entraining Policy to Science</strong></summary>
+
+<a href="https://mahpingfellows.github.io/course/" target="_blank">course website</a>
+
+<p>Circadian rhythms have a profound impact on our health and well being. Beyond regulating our sleep, they influence cognitive alertness, gastric motility, and cardiovascular health and many other body processes. Yet, our industrialized, 24/7 world often brings us out of sync with these rhythms leading to pervasive but addressable health consequences. Students will learn about the molecular and circuit mechanisms that sync our circadian rhythms to environmental cues like light and food, how our everyday activities and societal issues impact these rhythms, and how we can make policies to keep our circadian health intact without sacrificing all the amenities of modern life. Course developed and offered through the <a href="https://mahping.hsites.harvard.edu/pedagogy-fellows-program" target="_blank">MAHPING Pedagogy Fellows Program</a> </p>
+
+<p> </p>
+
+</details>
 
 
 **GENED 1125: Artificial and Natural Intelligence** · [course website](https://gened1125.github.io/spring2024/){:target="_blank"} · [S2022 evals](./files/gened1125_s22.pdf){:target="_blank"} · [S2021 evals](./files/gened1125_s21.pdf){:target="_blank"} 
