@@ -3,7 +3,7 @@
 ***
 > "Docendo discimus...By teaching, we learn."  - Seneca
 
-Teaching is one of my greatest joys :-) Below are courses that I've taught over the years, with relevant syllabi and teaching evaluations. (I) indicates instructor of record, (TA) indicates a teaching assistant role.
+Teaching is one of my greatest joys :-) Below are courses that I've developed and taught over the years, with relevant syllabi and teaching evaluations. (I) indicates instructor of record, (TA) indicates a teaching assistant role.
 
 ### UCSD
 * (I) [COGS180: Decision Making in the Brain](https://cogs180.github.io/su24/){:target="_blank"} · [syllabus](https://docs.google.com/document/d/1YbU2V1225l-x12fQKUVlMM4-4mK96GNLAb7WUcLVrbA/edit?tab=t.0){:target="_blank"}
@@ -22,15 +22,9 @@ Teaching is one of my greatest joys :-) Below are courses that I've taught over 
   * [Fall 2020 evals](./files/nb212_evals.pdf){:target="_blank"}
 
 ### Rice University
-* [COLL 158: How Music Plays the Brain](https://courses.rice.edu/admweb/!SWKSCAT.cat?p_action=CATALIST&p_acyr_code=2019&p_crse_numb=158&p_subj=COLL){:target="_blank"} · [syllabus](https://docs.google.com/document/d/16q9Pa99eruEe2GDdR0uwwedANzm61h8XbWsXU7DSy7M/edit?usp=sharing){:target="_blank"}
-  * Recipient of the 2017 Rice University [Student-Taught Course Teaching Award](https://cte.rice.edu/stc#award){:target="_blank"}!
-  * [Course evals](./files/coll158_evals.pdf){:target="_blank"}
-  * [Teaching evals](./files/coll158_teaching.pdf){:target="_blank"}
-* (TA) Cognitive Neuroscience
-* (TA) Neural Computation
-* (TA) Fundamentals of Neuroscience
-* (TA) Probability and Statistics
-* (TA) Intro to Cognitive Psychology
+* COLL 158: How Music Plays the Brain · [syllabus](https://docs.google.com/document/d/16q9Pa99eruEe2GDdR0uwwedANzm61h8XbWsXU7DSy7M/edit?usp=sharing){:target="_blank"} · [course evals](./files/coll158_evals.pdf){:target="_blank"} · [teaching evals](./files/coll158_teaching.pdf){:target="_blank"}
+  
+> Why do we love music? Why do certain songs get stuck in our head, or remind us of certain events in our life? What can music teach us about the human brain? This course examines the ways in which music has shaped the human brain and how it continues to shape the way we act, think, and create into the modern age. Students will discuss and critique the various ongoing topics of music cognition and neuroscience research that aim to delve into the biology of this universal human obsession. Recipient of the 2017 Rice University [Student-Taught Course Teaching Award](https://cte.rice.edu/stc#award){:target="_blank"}!
 
 ***
 [back](./)
