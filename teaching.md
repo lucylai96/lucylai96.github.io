@@ -6,9 +6,9 @@
 Teaching is one of my greatest joys :-) Below are courses that I've taught over the years, with relevant syllabi and teaching evaluations. (I) indicates instructor of record, (TA) indicates a teaching assistant role.
 
 ### UCSD
-* (I) [COGS180: Decision Making in the Brain](https://cogs180.github.io/su24/) | [syllabus](https://docs.google.com/document/d/1YbU2V1225l-x12fQKUVlMM4-4mK96GNLAb7WUcLVrbA/edit?tab=t.0)
-  * [SET evals](./files/cogs180_set.pdf)
-  * [Course survey](./files/cogs180_survey.pdf)
+- (I) [COGS180: Decision Making in the Brain](https://cogs180.github.io/su24/) | [syllabus](https://docs.google.com/document/d/1YbU2V1225l-x12fQKUVlMM4-4mK96GNLAb7WUcLVrbA/edit?tab=t.0)
+  - [SET evals](./files/cogs180_set.pdf)
+  - [Course survey](./files/cogs180_survey.pdf)
   
 ### Harvard University
 * (I) [From Bench to Bedside: Entraining Policy to Science](https://mahpingfellows.github.io/course/){:target="_blank"} for the [MAHPING Pedagogy Fellows Program](https://mahping.hsites.harvard.edu/pedagogy-fellows-program)
