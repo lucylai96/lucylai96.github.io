@@ -9,7 +9,7 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 
 ### UCSD
 
-<details>
+<details style="margin-bottom: 20px;">
 <summary><strong>COGS 180: Decision Making in the Brain</strong></summary>
 
 <a href="https://cogs180.github.io/su24/" target="_blank">course website</a> · 
