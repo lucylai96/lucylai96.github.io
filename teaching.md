@@ -19,9 +19,6 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 <p>This interdisciplinary course aims to unravel the complexities behind human decision making by integrating insights from psychology, economics, neuroscience, psychiatry, design, and machine learning. We will explore everything from the cognitive biases and heuristics that shape our everyday decisions, to how decision making is impaired in various psychiatric disorders. We will also discuss why it's so hard to make rational decisions, and how we can use AI to improve our decision making.</p>
 
 <p><strong>Prerequisites:</strong> <a href="#">COGS 14A</a> and <a href="#">BILD 12 or COGS 17</a> and <a href="#">COGS 18</a> or permission of instructor.</p>
-
-<p> </p>
-
 </details>
 
 ### Harvard University
@@ -31,9 +28,6 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 <a href="https://mahpingfellows.github.io/course/" target="_blank">course website</a>
 
 <p>Circadian rhythms have a profound impact on our health and well being. Beyond regulating our sleep, they influence cognitive alertness, gastric motility, and cardiovascular health and many other body processes. Yet, our industrialized, 24/7 world often brings us out of sync with these rhythms leading to pervasive but addressable health consequences. Students will learn about the molecular and circuit mechanisms that sync our circadian rhythms to environmental cues like light and food, how our everyday activities and societal issues impact these rhythms, and how we can make policies to keep our circadian health intact without sacrificing all the amenities of modern life. Course developed and offered through the <a href="https://mahping.hsites.harvard.edu/pedagogy-fellows-program" target="_blank">MAHPING Pedagogy Fellows Program</a>. </p>
-
-<p> </p>
-
 </details>
 
 
@@ -50,7 +44,6 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
   <li><a href="https://www.youtube.com/watch?v=qIjEKWftu0A&ab_channel=LucyLai" target="_blank">Reinforcement learning in the brain</a></li>
   <li><a href="https://www.youtube.com/watch?v=kle1uBIW8dM&ab_channel=LucyLai" target="_blank">What is consciousness? And can machines have it?</a></li>
 </ul>
-
 </details>
 
 
@@ -67,9 +60,14 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 
 
 ### Rice University
-**COLL 158: How Music Plays the Brain** · [syllabus](https://docs.google.com/document/d/16q9Pa99eruEe2GDdR0uwwedANzm61h8XbWsXU7DSy7M/edit?usp=sharing){:target="_blank"} · [course evals](./files/coll158_evals.pdf){:target="_blank"} · [teaching evals](./files/coll158_teaching.pdf){:target="_blank"}
-  
-Why do we love music? Why do certain songs get stuck in our head, or remind us of certain events in our life? What can music teach us about the human brain? This course examines the ways in which music has shaped the human brain and how it continues to shape the way we act, think, and create into the modern age. Students will discuss and critique the various ongoing topics of music cognition and neuroscience research that aim to delve into the biology of this universal human obsession. Recipient of the 2017 Rice University [Student-Taught Course Teaching Award](https://cte.rice.edu/stc#award){:target="_blank"}.
+<details style="margin-bottom: 20px;">
+<summary><strong>COLL 158: How Music Plays the Brain</strong></summary>
+<a href="https://docs.google.com/document/d/16q9Pa99eruEe2GDdR0uwwedANzm61h8XbWsXU7DSy7M/edit?usp=sharing" target="_blank">syllabus</a> · 
+<a href="./files/coll158_evals.pdf" target="_blank">course evals</a> · 
+<a href="./files/coll158_teaching.pdf" target="_blank">teaching evals</a></p>
+
+<p>Why do we love music? Why do certain songs get stuck in our head, or remind us of certain events in our life? What can music teach us about the human brain? This course examines the ways in which music has shaped the human brain and how it continues to shape the way we act, think, and create into the modern age. Students will discuss and critique the various ongoing topics of music cognition and neuroscience research that aim to delve into the biology of this universal human obsession. Recipient of the 2017 Rice University <a href="https://cte.rice.edu/stc#award" target="_blank">Student-Taught Course Teaching Award</a>.</p>
+</details>
 
 ***
 [back](./)
