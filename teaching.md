@@ -32,7 +32,7 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 
 
 <details style="margin-bottom: 10px;">
-<summary><strong>GENED 1125: Artificial and Natural Intelligence</strong> · </summary>
+<summary><strong>GENED 1125: Artificial and Natural Intelligence</strong> ·
 <a href="https://gened1125.github.io/spring2024/" target="_blank">course website</a> · 
 <a href="./files/gened1125_s22.pdf" target="_blank">S2022 evals</a> · 
 <a href="./files/gened1125_s21.pdf" target="_blank">S2021 evals</a> </summary>
