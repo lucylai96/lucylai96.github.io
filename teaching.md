@@ -11,7 +11,6 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 
 <details style="margin-bottom: 20px;">
 <summary><strong>COGS 180: Decision Making in the Brain</strong></summary>
-
 <a href="https://cogs180.github.io/su24/" target="_blank">course website</a> · 
 <a href="https://docs.google.com/document/d/1YbU2V1225l-x12fQKUVlMM4-4mK96GNLAb7WUcLVrbA/edit?tab=t.0" target="_blank">syllabus</a> · 
 <a href="./files/cogs180_set.pdf" target="_blank">SET evals</a> · 
@@ -30,7 +29,6 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 
 <details>
 <summary><strong>From Bench to Bedside: Entraining Policy to Science</strong></summary>
-
 <a href="https://mahpingfellows.github.io/course/" target="_blank">course website</a>
 
 <p>Circadian rhythms have a profound impact on our health and well being. Beyond regulating our sleep, they influence cognitive alertness, gastric motility, and cardiovascular health and many other body processes. Yet, our industrialized, 24/7 world often brings us out of sync with these rhythms leading to pervasive but addressable health consequences. Students will learn about the molecular and circuit mechanisms that sync our circadian rhythms to environmental cues like light and food, how our everyday activities and societal issues impact these rhythms, and how we can make policies to keep our circadian health intact without sacrificing all the amenities of modern life. Course developed and offered through the <a href="https://mahping.hsites.harvard.edu/pedagogy-fellows-program" target="_blank">MAHPING Pedagogy Fellows Program</a>. </p>
@@ -39,6 +37,20 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 
 </details>
 
+
+<details>
+<summary><strong>GENED 1125: Artificial and Natural Intelligence</strong></summary>
+<a href="https://gened1125.github.io/spring2024/" target="_blank">course website</a> · 
+<a href="./files/gened1125_s22.pdf" target="_blank">S2022 evals</a> · 
+<a href="./files/gened1125_s21.pdf" target="_blank">S2021 evals</a></p>
+
+<p>What is intelligence? An inquiry into the nature of intelligence can take different forms – philosophical, biological, mathematical or technological. In this course, we will use machine intelligence (everything from voice recognizing smartphones to game-playing computers) as a handle to think about natural intelligence (brains and behavior of animals). Although we will start with big, general questions, we will quickly move to concrete queries about brains and computers. This approach, rather than just starting with brains of animals, may be useful in framing more universal questions independent of the specific architecture of brains of animals. As machines increasingly perform tasks that were once thought to be solely in the domain of humans, there is an urgent need for discussions of the moral and societal implications of artificial intelligence.</p>
+
+<p><strong>Guest lectures:</strong></p>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=qIjEKWftu0A&ab_channel=LucyLai" target="_blank">Reinforcement learning in the brain</a></li>
+  <li><a href="https://www.youtube.com/watch?v=kle1uBIW8dM&ab_channel=LucyLai" target="_blank">What is consciousness? And can machines have it?</a></li>
+</ul>
 
 **GENED 1125: Artificial and Natural Intelligence** · [course website](https://gened1125.github.io/spring2024/){:target="_blank"} · [S2022 evals](./files/gened1125_s22.pdf){:target="_blank"} · [S2021 evals](./files/gened1125_s21.pdf){:target="_blank"} 
 
