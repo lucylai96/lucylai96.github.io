@@ -14,7 +14,7 @@ Outside of research, I enjoy teaching, writing <a href="http://subcorticalsongs.
 
 ### recent and upcoming
 * **Apr 2025:** Organizing the [Algorithmic Innovation and Entrepreneurship Summit](https://www.algopreneurship.ai/) in Tokyo, Japan
-* **Feb 2025:** Giving a talk at the [National University of Singapore](https://nus.edu.sg/) / [SfN Singapore](https://sfn.sg/) [Cognitive Science, Psychology & AI Seminar Series](https://sfn.sg/cognitive-science-psychology-ai-seminar-series-3/) 
+* **Feb 2025:** Giving a talk at the National University of Singapore / SfN Singapore [Cognitive Science, Psychology & AI Seminar Series](https://sfn.sg/cognitive-science-psychology-ai-seminar-series-3/) 
 * **Oct 2024:** Visited Rice University (my alma mater!) to give a lecture and alumni panel Q&A for [Rice Omega Psi](https://www.instagram.com/riceomegapsi/)
 * **Jul 2024:** Taught [COGS 180: Decision Making in the Brain](https://cogs180.github.io/su24/) for [UCSD Summer Session](https://summersession.ucsd.edu/) — [Course syllabus](https://docs.google.com/document/d/1YbU2V1225l-x12fQKUVlMM4-4mK96GNLAb7WUcLVrbA/edit?usp=sharing)
 * **Jun 2024:** Taught at the [OIST Computational Neuroscience Course (OCNC)](https://groups.oist.jp/ocnc) in Okinawa, Japan
