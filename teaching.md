@@ -22,7 +22,7 @@ Teaching is one of my greatest joys :-) Below are courses that I've taught over 
   * [Fall 2020 evals](./files/nb212_evals.pdf){:target="_blank"}
 
 ### Rice University
-* [COLL 158: How Music Plays the Brain](https://courses.rice.edu/admweb/!SWKSCAT.cat?p_action=CATALIST&p_acyr_code=2019&p_crse_numb=158&p_subj=COLL){:target="_blank"} • [syllabus](https://docs.google.com/document/d/16q9Pa99eruEe2GDdR0uwwedANzm61h8XbWsXU7DSy7M/edit?usp=sharing){:target="_blank"}
+* [COLL 158: How Music Plays the Brain](https://courses.rice.edu/admweb/!SWKSCAT.cat?p_action=CATALIST&p_acyr_code=2019&p_crse_numb=158&p_subj=COLL){:target="_blank"} · [syllabus](https://docs.google.com/document/d/16q9Pa99eruEe2GDdR0uwwedANzm61h8XbWsXU7DSy7M/edit?usp=sharing){:target="_blank"}
   * Recipient of the 2017 Rice University [Student-Taught Course Teaching Award](https://cte.rice.edu/stc#award){:target="_blank"}!
   * [Course evals](./files/coll158_evals.pdf){:target="_blank"}
   * [Teaching evals](./files/coll158_teaching.pdf){:target="_blank"}
