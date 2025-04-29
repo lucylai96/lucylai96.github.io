@@ -3,7 +3,6 @@
 ***
 here, a collection of my <br>
 creations and contemplations. <br>
-i hope you enjoy :-)
 
 <details>
 <summary> <i> soliloquy </i> // poetry </summary>
@@ -23,17 +22,17 @@ i hope you enjoy :-)
 </details>
 
 <details>
-<summary> <i> stories </i> // personal writing </summary>
+<summary> <i> stories </i> // personal writings </summary>
 <p style="text-align:right"> <i> on life and growing up </i> </p>
 
 <ul>
-  <li>   <a href="https://lucyblogs.wordpress.com/2019/11/28/a-letter-from-the-past/" target="_blank">  <i> a letter from the past </i> </a> / receiving a letter from my 16-year-old self </li>
-  <li>   <a href="https://lucyblogs.wordpress.com/2018/12/27/antoine-from-chicago/" target="_blank"> <i> Antoine, from Chicago </i> </a> / an unlikely encounter </li>
+  <li>   <a href="https://lucyblogs.wordpress.com/2019/11/28/a-letter-from-the-past/" target="_blank">  <i> a letter from the past </i> </a> / a letter from my 16-year-old self </li>
+  <li>   <a href="https://lucyblogs.wordpress.com/2020/08/09/it-is-rare/" target="_blank"> <i> everything is limited by time </i> </a> / an unexpected conversation </li>
+  <li>   <a href="https://lucyblogs.wordpress.com/2021/08/22/a-home-a-haven-my-room/" target="_blank"> <i> a home, a haven </i> </a> / attempting interior design </li>
   <li>   <a href="https://lucyblogs.wordpress.com/2018/08/09/a-world-without-sound/" target="_blank"> <i> a world without sound </i> </a> / a tribute to my deaf uncle </li>
-  <li>   <a href="https://lucyblogs.wordpress.com/2019/12/31/growing-pains-2019/" target="_blank"> <i> growing pains, 2019 </i> </a> / on therapy </li>
   <li>   <a href="https://lucyblogs.wordpress.com/2019/08/13/on-childlike-passion/" target="_blank"> <i> on childlike passion </i> </a> / my earliest memory </li>
+  <li>   <a href="https://lucyblogs.wordpress.com/2021/02/09/the-value-of-mentors/" target="_blank"> <i> the value of mentors </i> </a> / about oppourtunity </li>
 </ul>
-<p style="text-align:right"> more stories <a href="https://lucyblogs.wordpress.com/" target="_blank"> <i> here </i> </a> </p>
 
 </details>
 
@@ -51,7 +50,7 @@ i hope you enjoy :-)
 
 <br>
 <br>
-<i><b> Father Eradicates House Fly (2015)</b> </i> / <a href="http://lucy-lai.com/compositions/housefly_score.pdf" target="_blank">score</a> / <a href="http://lucy-lai.com/compositions/housefly_live.m4a" target="_blank">live recording</a> / for my father, in honor of his fly-snatching talents...
+<i><b> Father Eradicates House Fly (2015)</b> </i> / <a href="http://lucy-lai.com/compositions/housefly_score.pdf" target="_blank">score</a> / <a href="http://lucy-lai.com/compositions/housefly_live.m4a" target="_blank">live recording</a> / for my father
 <br>
 <br>
 
@@ -64,7 +63,7 @@ i hope you enjoy :-)
 
 <details>
 <summary> <i> structures </i> // places and spaces </summary>
-<div style="text-align:right"> <i>special places</i> </div>
+<div style="text-align:right"> <i>where i find inspiration</i> </div>
 
 <ul>
   <li>   <a href="http://rothkochapel.org/" target="_blank">Rothko Chapel</a> </li>
