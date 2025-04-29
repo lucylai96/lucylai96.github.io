@@ -8,7 +8,7 @@ creations and contemplations. <br>
 <summary> <i> soliloquy </i> // poetry </summary>
 <p style="text-align:right"> <i> an attempt to capture fleeting thoughts </i> </p>
 <ul>
-  <li>   <a href="https://subcorticalsongs.wordpress.com/2020/01/21/and-now-we-see-in-20-20/" target="_blank"> <i> and now we see in 20/20 </i> </a> / about forgiveness </li>
+  <li>   <a href="https://subcorticalsongs.wordpress.com/2020/01/21/and-now-we-see-in-20-20/" target="_blank"> <i> and now we see in 20/20 </i> </a> / on forgiveness </li>
   <li>   <a href="https://subcorticalsongs.wordpress.com/2020/12/07/the-dentist/" target="_blank"> <i> the dentist </i> </a> / a routine visit </li>
   <li>   <a href="https://subcorticalsongs.wordpress.com/2021/03/04/subtly/" target="_blank">  <i> subtly </i> </a> / phenomenological experiences </li>
   <li>   <a href="https://subcorticalsongs.wordpress.com/2019/06/08/summertime/" target="_blank"> <i> summertime </i> </a> / the best month</li>
