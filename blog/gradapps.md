@@ -3,7 +3,7 @@ layout: default
 ---
 
 # All About PhD Applications 
-## (Last updated: Feb 2025)
+## Written: Jun 2018, Last updated: Feb 2025)
 
 Welcome! This popular guide on how to apply to PhD programs in STEM has been visited over **100k times** (as of December 2024). Thank you to all who reached out to me over the years telling me how helpful of a resource it was to you / how it helped you get into grad school, and it's been super fun meeting some of you in person at conferences, too! 🙂
 
