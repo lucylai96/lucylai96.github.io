@@ -47,9 +47,11 @@ With all that being said, let's get started!
 -----
 ## Introduction
 ### What are teaching track positions?
-There are a wide variety of teaching-focused roles that vary in their (1) job security (2) pay and (3) teaching load (or expected time distribution of teaching, research, and service). These roles typically come under the following titles: "lecturer," "teaching professor," "professor of instruction," or even "clinical professor" (I know, confusing). As Ashley mentioned in her article, even jobs with the same title can vary in their degree of job security, pay, and teaching load, so it's very important to read the job description and even talk to people currently in the role at the school to uncover how that particular job treats the three key elements that I listed up front. Knowing this, I will instead discuss what to look for when it comes to these three main elements of a teaching-focused faculty position. 
+Many teaching-focused positions at universities have been created in recent years in order to fulfill teaching needs created by higher student enrollment, or to relieve other, research-focused professors from becoming overwhelmbed by a large teaching load. 
 
-### Types of institutions
+There are a wide variety of teaching-focused roles that vary in their (1) job security (2) pay and (3) teaching load (or expected time distribution of teaching, research, and service). These roles typically come under the following titles: "lecturer," "teaching professor," "professor of instruction," or even ["clinical professor"](https://as.nyu.edu/administrative-resources/office/office-of-faculty-advancement/policies-and-procedures/clinical-assistant-professor--clinical-associate-professor--and-.html) (I know, confusing). As Ashley mentioned in her article, even jobs with the same title can vary in their degree of job security, pay, and teaching load, so it's very important to read the job description and even talk to people currently in the role at the school to uncover how that particular job treats the three key elements that I listed up front. Knowing this, I will instead discuss what to look for when it comes to these three main elements of a teaching-focused faculty position. 
+
+#### Types of institutions
 But before I talk about that, I think it's important to highlight that there are many different types of institutions of higher education in the U.S. While many ambitious high school students are vying for Harvard, Stanford, MIT, etc., the majority of students in U.S. do not attend R1 institutions. In fact, about **95% of 4-year degree granting institutions in the U.S. are _NOT_ R1 research universities!** 
 
 In case you are unfamiliar with [Carnegie Classifications](https://en.wikipedia.org/wiki/Carnegie_Classification_of_Institutions_of_Higher_Education), R1 universities are doctoral-granting schools with "very high research activities." Harvard, Stanford, etc. and other well-known top schools fall into this category. But besides these well-known schools, there are also many R2 and R3 universities with "high" and "moderate" research activity, respectively. Some examples include California State Universities, Chapman University, Stevens Institute of Technology, and Wake Forest University. 
@@ -59,16 +61,28 @@ Beyond those, there are also Primarily Undergraduate Institutions (PUI), which a
 My main point here is, all of these types of institutions are potential places to establish a teaching-focused career.
 
 #### Job security
-Academic "tenure" was first established in the U.S. in the early 1900s as a means of defending academic freedom and ensuring job security for faculty members who expressed unpopular or controversial views. In modern practice, a newly hired faculty member must prove that they deserve the life-long job security of tenure by publishing high-impact research within the first 6-7 years of their job. At most R1 institutions, tenure is awarded almost entirely on research output, and therefore teaching-focused faculty (usually called "lecturers" within R1 institutions) do not have the oppourtunity to get tenure.
+Academic "tenure" was first established in the U.S. in the early 1900s as a means of defending academic freedom and ensuring job security for faculty members who expressed unpopular or controversial views. In modern practice, a newly hired faculty member must prove that they deserve the life-long job security of tenure by publishing high-impact research within the first 6-7 years of their job. At most R1 institutions, tenure is awarded almost entirely on research output, and therefore teaching-focused faculty (usually called "lecturers" within R1 institutions) do not have the oppourtunity to earn tenure. I will refer to this as the "traditional tenure-track model."
 
-In recent decades, 
+Many research-focused schools may hire faculty to teach courses based on enrollment demands and or to free up teaching duties for traditional tenure-track faculty (or fill in a teaching need when a faculty member goes on sabbatical). These teaching contracts may only be 1 semester or 1 year long, and if there is no longer a need for a course to be taught, the teaching faculty is out of a job.
 
-Historically, universities have relied on professors to do both research and teaching and this is how the tenure-track a structured career path for academics, began in the United States in the early 20th century. It evolved from a need to protect academic freedom and ensure long-term job security for professors. 
+However, in recent decades, longer contracts for teaching-focused faculty have become more common, with universities intending to keep instructors around for many years. There may even be a parallel promoting process for teaching-focused faculty. For example, at John Hopkins, a teaching-focused faculty member starts off as a "Lecturer" and can then be promoted to "Senior Lecturer." Contracts may be longer, renewing every 3-5 years instead of yearly. Still, in these cases, contracts may be terminated for any reason, such as budget cuts or lower enrollment.
+
+In the University of California system, there is a separate "tenure" track system for teaching-focused faculty that begins with a position called "Lecturer with Potential Security of Employment (LPSOE)" or more commonly referred to as "Assistant Teaching Professor." The LPSOE series parallels that of the research-focused series but with emphasis on excellence in teaching. Teaching Professors can achieve job security analogous to tenure through a similar review process that focuses on teaching excellence, scholarly contributions (that include research), professional achievements, and university and public service. The goal in creating such a position was to help fulfill the long-term instructional needs of a university that could not be best fulfilled by traditional tenure-track, research-focused professors. The result is research faculty focosed on doing their best research and teaching faculty developing and delivering high-quality courses (win-win for everyone!). 
+
+In summary, job security for teaching-focused positions may range from 1 semester all the way to tenure. Be sure to read the job description of positions that you are applying to and better yet, speak to current teaching faculty at the institution you are interested in applying. Sometimes the job description won't even give information about the level of job security that comes with the position, but I think this is one of the most important things to consider!
+
+#### Pay
+Just as there can be a wide varaiability in job security, there is also huge variability in compensation for these kinds of positions! Not all job descriptions will post salary range information, but I've seen teaching faculty jobs that pay anywhere from $50k-$140k/year. The compensation will vary by state, institution, and even department. In most states, public universities are generally required to release salary information for their employees, so I have no problem disclosing that my starting offer was $140k (which I recognize is on the far, far right of the salary distribution). 
+
+Unfortunately, not every state, institution, or depratment pays teaching faculty that much, and most of the potisions I've seen are extremely underpaid for the amount of work that they requrie (in my opinion)!.
+
 
 ### Who should consider these types of positions?
 
 ### Where do I find these positions?
 65% teaching 25% research 10% service
+
+https://cirtl.net/category/job/
 
 <div style="text-align: right"><a href="https://lucylai.com/blog/profapps#table-of-contents">back to top</a> </div>
 
