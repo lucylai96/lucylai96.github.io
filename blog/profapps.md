@@ -47,23 +47,28 @@ With all that being said, let's get started!
 -----
 ## Introduction
 ### What are teaching track positions?
-There are a wide variety of teaching-focused roles that vary in their (1) job security (2) pay and (3) teaching load (or expected time distribution of teaching, research, and service). These roles typically come under the following titles: "lecturer," "teaching professor," "professor of instruction," or even "clinical professor" (I know, confusing). As Ashley mentioned in her article, even jobs with the same title can vary in their degree of job security, pay, and teaching load, so it's very important to read the job description and even talk to people currently in the role at the school to uncover how that particular job treats the three key elements that I listed up front. Knowing this, I will instead discuss what to look for when it comes to these three main elements of a teaching-focused faculty position. But before I talk about that, I think it's important to h
+There are a wide variety of teaching-focused roles that vary in their (1) job security (2) pay and (3) teaching load (or expected time distribution of teaching, research, and service). These roles typically come under the following titles: "lecturer," "teaching professor," "professor of instruction," or even "clinical professor" (I know, confusing). As Ashley mentioned in her article, even jobs with the same title can vary in their degree of job security, pay, and teaching load, so it's very important to read the job description and even talk to people currently in the role at the school to uncover how that particular job treats the three key elements that I listed up front. Knowing this, I will instead discuss what to look for when it comes to these three main elements of a teaching-focused faculty position. 
+
+### Types of institutions
+But before I talk about that, I think it's important to highlight that there are many different types of institutions of higher education in the U.S. While many ambitious high school students are vying for Harvard, Stanford, MIT, etc., the majority of students in U.S. do not attend R1 institutions. In fact, about **95% of 4-year degree granting institutions in the U.S. are _NOT_ R1 research universities!** 
+
+In case you are unfamiliar with [Carnegie Classifications](https://en.wikipedia.org/wiki/Carnegie_Classification_of_Institutions_of_Higher_Education), R1 universities are doctoral-granting schools with "very high research activities." Harvard, Stanford, etc. and other well-known top schools fall into this category. But besides these well-known schools, there are also many R2 and R3 universities with "high" and "moderate" research activity, respectively. Some examples include California State Universities, Chapman University, Stevens Institute of Technology, and Wake Forest University. 
+
+Beyond those, there are also Primarily Undergraduate Institutions (PUI), which are, as they sound, colleges that primarily enroll undergraduates and have little to no graduate programs. These include Liberal Arts Colleges (LACs) such as Williams, Swarthmore, Amherst, Wellesley, Bowdoin, the Claremont Colleges (Pomona, Harvey Mudd, Claremont McKenna, etc.), as well as Community Colleges (CCs). 
+
+My main point here is, all of these types of institutions are potential places to establish a teaching-focused career.
 
 #### Job security
-Historically, universities have relied on professors to do research and teaching 
+Academic "tenure" was first established in the U.S. in the early 1900s as a means of defending academic freedom and ensuring job security for faculty members who expressed unpopular or controversial views. In modern practice, a newly hired faculty member must prove that they deserve the life-long job security of tenure by publishing high-impact research within the first 6-7 years of their job. At most R1 institutions, tenure is awarded almost entirely on research output, and therefore teaching-focused faculty (usually called "lecturers" within R1 institutions) do not have the oppourtunity to get tenure.
 
-Here, I’ll use “teaching professor” to describe jobs that include a significant amount of college teaching and a potential for job security.
+In recent decades, 
 
-In recruiting for these tenure-track jobs, some universities are looking almost exclusively for a candidate to teach, while others also want someone who can direct discipline-based education research or fill a leadership role in the department. Whatever the position’s particular mix of teaching, research, and service, the priority in hiring is almost always the department’s teaching needs.
-
-Some science departments hire faculty members with formal training in an education field (often a doctorate or postdoctoral work) and embed them in the department. These faculty members — coined “science faculty with education specialities” (SFES), and often on the tenure track — teach and work on a variety of educational projects, such as curricular reform.
-
-While the typical tenure track at a large university evaluates people mostly on their research, faculty members on the teaching tenure track have different job expectations. Besides teaching, we focus on developing pedagogical methods and understanding how students learn. We serve on campus committees alongside our research-focused colleagues. In the UC system, teaching takes up about two thirds of our time. The remainder is devoted to service and scholarly work.
+Historically, universities have relied on professors to do both research and teaching and this is how the tenure-track a structured career path for academics, began in the United States in the early 20th century. It evolved from a need to protect academic freedom and ensure long-term job security for professors. 
 
 ### Who should consider these types of positions?
 
 ### Where do I find these positions?
-60% teaching 30% research 10% service
+65% teaching 25% research 10% service
 
 <div style="text-align: right"><a href="https://lucylai.com/blog/profapps#table-of-contents">back to top</a> </div>
 
