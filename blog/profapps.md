@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/18bb7461-d4f8-46c3-afee-43a7d413fd54)---
 layout: default
 ---
 
@@ -15,9 +14,9 @@ First things first, here are all of my **application materials** at the time of 
 
 Please feel free to reach out via email if you want to chat about the process. I benefitted immensely from talking to others who went down this path, as well as those who publically shared their application materials, such as [Suraj Rampure](https://rampure.org/tf-app-materials) and [Sam Lau](https://lau.ucsd.edu/). This is how I pay it forward!
 
-_**A quick disclaimer:**_ For a variety of personal reasons, I went on the job market in Jan 2023 and only applied to 1 job. Please keep that in mind as you read this guide, as I'll be the first to admit that my single data point may not representative of the overall process of applying to teaching-focused positions at other schools. So for context, [this was the specific job posting](https://apol-recruit.ucsd.edu/JPF03424) that I applied to.
+_**A quick disclaimer:**_ For a variety of personal reasons, I went on the job market in Jan 2023 and only applied to 1 job. Please keep that in mind as you read this guide, as I'll be the first to admit that my single data point may not representative of the overall process of applying to teaching-focused positions at other schools. So for extra context, [this was the specific job posting](https://apol-recruit.ucsd.edu/JPF03424) that I applied to.
 
-Before I start, I also want to put in a plug for [this excellent article](https://www.chronicle.com/article/on-the-teaching-tenure-track) written by [Ashley Juavinett](), which covers many of the same topics as well as her personal experience applying to teaching-focused jobs. Ashley is a tenured Associate Teaching Professor of Neurobiology at UCSD School of Biological Sciences and was an instrumental resource for me when I first started exploring these types of jobs. Ashley, if you're reading this, thank you for being the first person to encourage me to go down this path!
+Before I start, I want to put in a plug for [this excellent article](https://www.chronicle.com/article/on-the-teaching-tenure-track) written by [Ashley Juavinett](https://ashleyjuavinett.com/), an tenured Associate Teaching Professor of Neurobiology at UCSD School of Biological Sciences. Ashley's article covers many of the same topics as this guide as well as her personal experience applying to teaching-focused jobs. Ashley, if you're reading this, thank you for being the first person to encourage me to go down this path!--you were an instrumental resource for me when I first started exploring these types of jobs. 
 
 With all that being said, let's get started!
 
@@ -48,11 +47,10 @@ With all that being said, let's get started!
 -----
 ## Introduction
 ### What are teaching track positions?
-There are a wide variety of teaching-focused roles that vary in their (1) job security (2) pay and (3) teaching load (or expected time distribution of teaching, research, and service). These roles typically come under the following titles: "lecturer," "teaching professor," "professor of instruction," or even "clinical professor" (I know, confusing). As Ashley mentioned in her article, even jobs with the same title can vary in their degree of job security, pay, and teaching load, so it's very important to read the job description and even talk to people currently in the role at the school to uncover how the particular role treats the three key elements that I listed up front. Knowing this, I will instead discuss what to look for when it comes to these three main elements of a teaching-focused faculty position. 
+There are a wide variety of teaching-focused roles that vary in their (1) job security (2) pay and (3) teaching load (or expected time distribution of teaching, research, and service). These roles typically come under the following titles: "lecturer," "teaching professor," "professor of instruction," or even "clinical professor" (I know, confusing). As Ashley mentioned in her article, even jobs with the same title can vary in their degree of job security, pay, and teaching load, so it's very important to read the job description and even talk to people currently in the role at the school to uncover how that particular job treats the three key elements that I listed up front. Knowing this, I will instead discuss what to look for when it comes to these three main elements of a teaching-focused faculty position. But before I talk about that, I think it's important to h
 
 #### Job security
-
-
+Historically, universities have relied on professors to do research and teaching 
 
 Here, I’ll use “teaching professor” to describe jobs that include a significant amount of college teaching and a potential for job security.
 
