@@ -1,8 +1,20 @@
-## hello UCSD! 
+## hello, UCSD COGS! 
 ***
-I'm super excited to be starting as an Assistant Teaching Professor at UCSD this Fall! If you're a current UCSD student who is interested in taking a course with me, you're in the right place :) As a new professor, I understand 
+I'm super excited to be joining the UCSD Department of Cognitive Science as an Assistant Teaching Professor this coming Fall (2025)! If you're a current UCSD student who is interested in taking a course with me, you're in the right place :) As a student, I remember feeling apprehensive about taking a course from a brand new professor---how would I know if they were any good at teaching? (Very fair question, as many professors show up on their first day without any teaching experience!) 
 
+So I thought I'd introduce myself here and talk about what you can expect from me as an instructor and professor.
 
+### basic information
+
+## FAQs
+- Can I do research with you?
+- For my first year at UCSD, I will be developing and teaching certain courses for the very first time, and I want to make sure they are well-prepped and high-quality. As a result, I will not be recruiting research assistants for the 2025-2026 academic year just yet (although, stay tuned in case that changes). I hope to start taking students
+- I am a PhD student, can you be my main supervisor?
+- As a teaching-focused faculty member, my first priority is high-quality teaching for the department. However, I do maintain an active research agenda working on computational models of learning, decision making, belief change, and human-AI collaboration (please go here to read more about my research). While I will be focusing my first year solely on teaching, I will be open to taking PhD students in the future through the [UCSD Cognitive Science Ph.D. Program](https://cogsci.ucsd.edu/graduates/phd-program/index.html). I am also able (and prefer) to co-advise Ph.D. students and sit on dissertation committees. 
+- 
+-   
+- 
+- 
 [TSVP Visiting Scholar](https://groups.oist.jp/tsvp){:target="_blank"} at the [Okinawa Institute of Science and Technology](https://oist.jp){:target="_blank"} in Japan. I'm broadly interested in computational theories of learning and decision making, belief formation and change, and disordered behavior in psychiatric disease. More recently, I've become interested in the collaboration between artificial and natural intelligence and how we can leverage AI while preserving human ingenuity and intellectual agency.
 
 I completed my Ph.D. at Harvard with [Sam Gershman](http://gershmanlab.com/index.html){:target="_blank"}, where I studied decision making under cognitive resource constraints. My dissertation, _Policy compression: Acting with limited cognitive resources_, can be found <a href="https://dash.harvard.edu/handle/1/37378979" target="_blank">here</a>. A précis (summary) of my dissertation is <a href="https://lucylai.com/files/lai_precis.pdf" target="_blank">here</a>.
