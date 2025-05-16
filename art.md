@@ -1,7 +1,8 @@
 
 ## art
 ***
-here, a collection of my <br>
+here, <br>
+a collection of my <br>
 creations and contemplations. <br>
 
 <details>
