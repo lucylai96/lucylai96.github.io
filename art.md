@@ -6,7 +6,6 @@ creations and contemplations. <br>
 
 <details>
 <summary> <i> soliloquy </i> // poetry </summary>
-<p style="text-align:right"> <i> an attempt to capture fleeting thoughts </i> </p>
 <ul>
   <li>   <a href="https://subcorticalsongs.wordpress.com/2020/01/21/and-now-we-see-in-20-20/" target="_blank"> <i> and now we see in 20/20 </i> </a> / on forgiveness </li>
   <li>   <a href="https://subcorticalsongs.wordpress.com/2020/12/07/the-dentist/" target="_blank"> <i> the dentist </i> </a> / a routine visit </li>
@@ -24,7 +23,6 @@ creations and contemplations. <br>
 
 <details>
 <summary> <i> stories </i> // personal writings </summary>
-<p style="text-align:right"> <i> on life and growing up </i> </p>
 
 <ul>
   <li>   <a href="https://lucyblogs.wordpress.com/2019/11/28/a-letter-from-the-past/" target="_blank">  <i> a letter from the past </i> </a> / a letter from my 16-year-old self </li>
@@ -39,7 +37,6 @@ creations and contemplations. <br>
 
 <details>
 <summary> <i> sounds </i> // compositions </summary>
-<p style="text-align:right"> <i> in a previous life... </i> </p>
 <i><b> Reflections (2013)</b></i> / an EP I wrote in high school
 <br>
 <iframe width="100%" height="350" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/39690369&color=%23000000&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lucy_lai" title="Lucy Lai" target="_blank" style="color: #cccccc; text-decoration: none;">Lucy Lai</a> · <a href="https://soundcloud.com/lucy_lai/sets/reflections" title="Reflections" target="_blank" style="color: #cccccc; text-decoration: none;">Reflections</a></div>
@@ -64,7 +61,6 @@ creations and contemplations. <br>
 
 <details>
 <summary> <i> structures </i> // places and spaces </summary>
-<div style="text-align:right"> <i>where i find inspiration</i> </div>
 
 <ul>
   <li>   <a href="http://rothkochapel.org/" target="_blank">Rothko Chapel</a> </li>
