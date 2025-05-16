@@ -1,15 +1,25 @@
 ## hello, UCSD COGS! 
 ***
-I'm super excited to be starting as an Assistant Teaching Professor in the Department of Cognitive Science at UCSD this coming Fall (2025)! If you're a current UCSD student who is interested in taking a course with me, you're in the right place :) I hope this page gives you the information you need to decide whther On this page, I'll give you a consolitaed summary of who I am as a 
+I'm super excited to be starting as an Assistant Teaching Professor in the Department of Cognitive Science at UCSD this coming Fall (2025)! If you're a current UCSD student who is interested in taking a course with me, you're in the right place :) 
 
-As a student, I remember feeling apprehensive about taking a course from a brand new professor---how would I know if they were any good at teaching? (Very fair question, as many professors show up on their first day without any teaching experience!) 
+As a college student, I remember feeling apprehensive about taking a course from a brand new professor---how would I know if they were any good at teaching? (Very fair question, as many professors show up on their first day without any teaching experience!). So now, as a new professor, I find it important to introduce myself and let you know what you can expect from me as an instructor and researcher. 
 
-So I thought I'd introduce myself here and talk about what you can expect from me as an instructor and professor.
+### who am I?
+In case you didn't catch it on my home page, I got my Ph.D. in Neuroscience from Harvard in May 2024, where I worked on developing computational theories of learning and decision making. I've taught over 
 
-### basic information
-who am I?
+### my teaching philosophy
+If you're curious about all the details, you can read my entire teaching statement that I used when applying to this job!
 
 ## FAQs
+#### Do you require attendence in your courses? 
+- I don't require attendence in any of my courses, but I promise that attending class with me will almost always save you time when it comes to learning and remembering. I make an effort to make my classes as interactive as possible to promote active learning. Not only is this high-yield when it comes to learning, it also means that you don't need to figure out what's going on.
+- 
+- 
+#### What will you be teaching? 
+
+#### Are you going to be designing any new courses? 
+- Yes! I love designing new courses
+- 
 #### Can I do research with you?
 - For my first year at UCSD, I will be developing and teaching certain courses for the very first time, and I want to make sure they are well-prepped and high-quality. As a result, I will not be recruiting research assistants for the 2025-2026 academic year just yet (although, stay tuned in case that changes). I hope to start taking students
 #### I am a PhD student, can you be my main supervisor?
