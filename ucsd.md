@@ -2,7 +2,7 @@
 ***
 I'm super excited to be starting as an Assistant Teaching Professor in the Department of Cognitive Science at UCSD this coming Fall (2025)! If you're a current UCSD student who is interested in taking a course with me, you're in the right place :) 
 
-As a college student, I remember feeling apprehensive about taking a course from a brand new professor---how would I know if they were any good at teaching? (Very fair question, as many professors show up on their first day without any teaching experience!). So now, as a new professor, I find it important to introduce myself and let you know what you can expect from me as an instructor and researcher. 
+As a college student, I remember feeling apprehensive about taking a course from a brand new professor---how would I know if they were any good at teaching? (Very fair question, as many professors show up on their first day with 0 teaching experience!). So now, as a new professor, I find it important to introduce myself and let you know what you can expect from me as an instructor and researcher. 
 
 ### who am I?
 In case you didn't catch it on my home page, I got my Ph.D. in Neuroscience from Harvard in May 2024, where I worked on developing computational theories of learning and decision making. I've taught over 
