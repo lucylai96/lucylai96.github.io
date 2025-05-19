@@ -1,18 +1,19 @@
 ## hello, UCSD COGS! 
 ***
+![Geisel Library](https://lucylai.com/files/ucsd/geisel.png)
+
 I'm super excited to be starting as an Assistant Teaching Professor in the [Department of Cognitive Science at UCSD](https://cogsci.ucsd.edu/) this July 2025! If you're a current UCSD student wondering who I am and whether you should take a course with me, you're in the right place :) 
 
 As a college student, I remember feeling apprehensive about taking a course from a brand new professor---how would I know if they were any good at teaching? (Very fair question, as some professors really do show up on their first day with 0 teaching experience 😮) So as that new professor, I find it important to introduce myself and let you know what you can expect from me as an instructor.
 
-### tl;dr
-If you want to cut the fluff, 
+### quick links
+- Since I'm new, 
+[My Teaching Philosophy](https://lucylai.com/files/ucsd/lai_teaching_statement.pdf)
 
 ### who am I?
 In case you didn't catch it on my home page, I recieved my Ph.D. in Neuroscience from [Harvard](https://pinphd.hms.harvard.edu/) in May 2024, where I worked on [developing computational theories of learning and decision making](https://lucylai.com/files/lai_precis.pdf). Before that, I got my B.A. in Cognitive Science from [Rice University](https://cogsci.rice.edu/)---I'd like to think that this means I've been a true cognitive scientist from the beginning, which is why I'm ecstatic to be starting my career at the [first cognitive science department in the world](https://cogsci.ucsd.edu/about/dept-history.html)! 
 
 As an Assistant Teaching Professor, I'm primarily responsible for developing and teaching high-quality courses that will give you a fundamental skill acros several subdomains of cognitive science (see this [great FAQ on teaching professors](https://wstyler.ucsd.edu/teachingprof/)). Specifically, my [teaching background](https://lucylai.com/teaching.html) spans neuroscience, psychology, psychiatry, machine learning, and behavioral economics. I'm passionate about developing inclusive and innovative pedagogy, active learning in the classroom, and how we can best leverage AI to augment (but not replace) our learning experiences. To develop as an educator, I pursued a [Teaching Certificate from the Derek Bok Center for Teaching and Learning](https://bokcenter.harvard.edu/teaching-certificate) and have also been trained in evidence-based, inclusive teaching practices via the [MAHPING Pedagogy Fellowship](https://mahping.hsites.harvard.edu/pedagogy-fellows-program). I have also won multiple teaching awards, including the _Harvard Certificate of Distinction in Teaching_ and _Rice Student-Taught Course Teaching Award_.
-
-As a researcher, I use ideas from machine learning to build models of human behavior. In the past, I've studied how limits on our cognitive resources influence our decision making behavior, and how the brain balances flexible behavior with automatized habits. At UCSD, I plan to expand my research agenda to study belief change and how beliefs lead to disordered behavior in psychiatric disease and the role of AI in belief change.  I've given talks around the globe, from the US to Singapore and Japan, and my work has been published in journals such as _PLOS Computational Biology_ and _Computational Psychiatry_. To learn more about my research, see my [publications here](https://lucylai.com/research.html).
 
 ### my teaching philosophy
 I love teaching and I pour my heart and soul into it---it's the reason I pursued a teaching-focused career. I've been teaching in college classrooms for over 10 years (ever since I was a sophomore in undergrad). Over these years, I've had a chance to think critically about what it means to be a good teacher and mentor, what constitutes effective pedagogy, and what my personal values and beliefs are about higher education (in other words, what my teaching _philosophy_ is). Below, I summarize a few points that define my teaching philosophy:
@@ -36,21 +37,24 @@ In Fall 2025, I will be teaching COGS. In the future, I plan to also teach:
 - COGS 180: Decision Making in the Brain
 - COGS 182: Introduction to Reinforcement Learning
 - COGS 118D: Computational Modeling of Behavior _(as a revamped course)_
+  
 _**I will update this page again once I receive my full teaching schedule for the 2025-2026 academic year.**_
 
 #### Are you going to be designing any new courses? 
 Yes! I love designing new courses and hope to share some of my expertise in the form of new courses. In particular, I am currently designing two new courses:
-- **COGS 19: Living and learning with AI**| Course description: Advancements in artificial intelligence (AI) are transforming the way we live, work, and learn. How can we leverage AI’s potential while preserving human ingenuity and intellectual agency? This course equips students to critically engage with and creatively utilize AI through hands-on experimentation. Students will evaluate AI’s capabilities and limitations, examine its impact on work, education, and creativity, and develop strategies for its responsible use. 
-- **COGS 113: Cognitive Science of Belief** | Course description: Beliefs motivate our behaviors: they influence who we vote for, whether we take action against climate change, and what we think happens when we die. How do beliefs form, and how are they influenced by social and cognitive factors? Why do some beliefs persist despite conflicting evidence, while others change? This course explores the mechanisms of belief formation and change through experimental and theoretical perspectives.
+
+| **Course** | **Description** |
+| **COGS 19: Living and learning with AI** | Advancements in artificial intelligence (AI) are transforming the way we live, work, and learn. How can we leverage AI’s potential while preserving human ingenuity and intellectual agency? This course equips students to critically engage with and creatively utilize AI through hands-on experimentation. Students will evaluate AI’s capabilities and limitations, examine its impact on work, education, and creativity, and develop strategies for its responsible use. |
+| **COGS 113: Cognitive Science of Belief** | Beliefs motivate our behaviors: they influence who we vote for, whether we take action against climate change, and what we think happens when we die. How do beliefs form, and how are they influenced by social and cognitive factors? Why do some beliefs persist despite conflicting evidence, while others change? This course explores the mechanisms of belief formation and change through experimental and theoretical perspectives. |
 
 #### Do you require attendence? 
-- I don't require attendence in my courses, but I always strive to make class a worthwhile use of your time. I make an effort to make my classes as interactive as possible to promote active learning. Not only is this high-yield when it comes to learning, it also means that you don't need to spend time figuring out what's going on when you've missed class. At the same time, I recognize that flexibility is important when it comes to courses, so lectures will be recorded and podcasted when possible
+I don't require attendence in my courses, but I always strive to make class a worthwhile use of your time. I make an effort to make my classes as interactive as possible to promote active learning. Not only is this high-yield when it comes to learning, it also means that you don't need to spend time figuring out what's going on when you've missed class. At the same time, I recognize that flexibility is important when it comes to courses, so lectures will be recorded and podcasted when possible
  
 #### Can I do research with you?
-- For my first year at UCSD, I will be developing and teaching many courses for the very first time, and I want to make sure they are well-prepped and high-quality. As a result, I will not be recruiting research assistants for the 2025-2026 academic year just yet (although, stay tuned in case that changes). I hope to start taking students
+For my first year at UCSD, I will be developing and teaching many courses for the very first time, and I want to make sure they are well-prepped and high-quality. As a result, I will not be recruiting research assistants for the 2025-2026 academic year just yet (although, stay tuned in case that changes). I hope to start taking students
 
 #### I am a PhD student, can you be my main supervisor?
-- As a teaching-focused faculty member, my first priority is high-quality teaching for the department. However, I do maintain an active research agenda working on computational models of learning, decision making, belief change, and human-AI collaboration (please go [here](https://lucylai.com/research.html) to read more about my research). While I will be focusing my first year solely on teaching, I am open to taking a very limited number of PhD students in the future through the [UCSD Cognitive Science Ph.D. Program](https://cogsci.ucsd.edu/graduates/phd-program/index.html). I am also able (and prefer) to co-advise Ph.D. students and sit on dissertation committees. 
+As a teaching-focused faculty member, my first priority is high-quality teaching for the department. However, I do maintain an active research agenda working on computational models of learning, decision making, belief change, and human-AI collaboration (please go [here](https://lucylai.com/research.html) to read more about my research). While I will be focusing my first year solely on teaching, I am open to taking a very limited number of PhD students in the future through the [UCSD Cognitive Science Ph.D. Program](https://cogsci.ucsd.edu/graduates/phd-program/index.html). I am also able (and prefer) to co-advise Ph.D. students and sit on dissertation committees. 
   
 ***
 [back](./)
