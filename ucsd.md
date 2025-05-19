@@ -1,14 +1,32 @@
 ## hello, UCSD COGS! 
 ***
-I'm super excited to be starting as an Assistant Teaching Professor in the Department of Cognitive Science at UCSD this coming Fall (2025)! If you're a current UCSD student who is interested in taking a course with me, you're in the right place :) 
+I'm super excited to be starting as an Assistant Teaching Professor in the Department of Cognitive Science at UCSD this July 2025! If you're a current UCSD student wondering who I am and whether you should take a course with me, you're in the right place :) 
 
-As a college student, I remember feeling apprehensive about taking a course from a brand new professor---how would I know if they were any good at teaching? (Very fair question, as many professors show up on their first day with 0 teaching experience!). So now, as a new professor, I find it important to introduce myself and let you know what you can expect from me as an instructor and researcher. 
+As a college student, I remember feeling apprehensive about taking a course from a brand new professor---how would I know if they were any good at teaching? (Very fair question, as some professors really do show up on their first day with 0 teaching experience 😮) So as that new professor, I find it important to introduce myself and let you know what you can expect from me as an instructor.
 
 ### who am I?
-In case you didn't catch it on my home page, I got my Ph.D. in Neuroscience from Harvard in May 2024, where I worked on developing computational theories of learning and decision making. I've taught over 
+In case you didn't catch it on my home page, I recieved my Ph.D. in Neuroscience from Harvard in May 2024, where I worked on developing computational theories of learning and decision making. Before that, I got my B.A. in Cognitive Science from Rice University---I'd like to think that this means I've been a true cognitive scientist from the beginning, which is why I'm so ecstatic to be starting my career at the [first cognitive science department in the world](https://cogsci.ucsd.edu/about/dept-history.html)! 
+
+As an Assistant Teaching Professor, I'm primarily responsible for developing and teaching high-quality courses that will give you a fundamental skill acros several subdomains of cognitive science. Specifically, my research and teaching background spans neuroscience, psychology, psychiatry, machine learning, and behavioral economics. I'm passionate about developing inclusive and innovative pedagogy, active learning in the classroom, and how we can best leverage AI to augment (but not replace) our learning experiences. 
+
+As a researcher, I use ideas from machine learning to build models of human behavior. In the past, I've studied how limits on our cognitive resources influence our decision making behavior, and how the brain balances flexible behavior with automatized habits. At UCSD, I plan to expand my research agenda to study belief change and how beliefs lead to disordered behavior in psychiatric disease and the role of AI in belief change.  I've given talks around the globe, from the US to Singapore and Japan, and my work has been published in journals such as _PLOS Computational Biology_ and _Computational Psychiatry_. To learn more about my research, see my [publications here](https://lucylai.com/research.html).
 
 ### my teaching philosophy
+I love teaching and I pour my heart and soul into it---it's the reason I pursued a teaching-focused career. I've been teaching in college classrooms for over 10 years (ever since I was a sophomore in undergrad). Over these years, I've had a chance to think critically about what it means to be a good teacher and mentor, what constitutes effective pedagogy, and what my personal values and beliefs are about higher education (in other words, what my teaching _philosophy_ is). Below, I summarize a few points that define my teaching philosophy:
+
+- **Creating a structured learning experience** — I design my courses to be clear, well-organized, and fair so that you can focus on learning. You’ll always know what’s expected, when assignments are due, and when to expect feedback. I won't always be perfect 
+- **I value rigor and intellectual agency** — I want you to leave my class not just knowing things, but knowing how to think critically, ask better questions, and drive your own learning.
+- **Skill-based learning** — No matter the subject, I’ll connect the material to real-world problems and diverse perspectives.
+- **Curiosity comes first** — I often start class with a puzzle or surprising question, and I’ll always encourage you to keep wondering and asking.
+- **Class is active and collaborative** — Get ready to think, talk, write, and work with your peers. I believe we learn best by doing and discussing.
+- **Feedback goes both ways** — You’ll get meaningful feedback on your work, and I’ll ask for your feedback to keep making the course better.
+- **You belong here** — No matter your educational background, socioeconomic status, I want every student to feel welcome, heard, and supported in class, and I am committed to doing whatever I can to support your learning.
+  
+Often times, it's more useful to hear what I'm like as an instructor and teacher directly from my students. 
+
 If you're curious about all the details, you can read my entire teaching statement that I used when applying to this job!
+
+
 
 ## FAQs
 #### Do you require attendence in your courses? 
