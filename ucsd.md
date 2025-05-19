@@ -43,7 +43,7 @@ _**I will update this page again once I receive my full teaching schedule for th
 #### Are you going to be designing any new courses? 
 Yes! I love designing new courses and hope to share some of my expertise in the form of new courses. In particular, I am currently designing two new courses:
 
-| **Course** | **Description** |
+|                 **Course**              | **Description** |
 | **COGS 19: Living and learning with AI** | Advancements in artificial intelligence (AI) are transforming the way we live, work, and learn. How can we leverage AI’s potential while preserving human ingenuity and intellectual agency? This course equips students to critically engage with and creatively utilize AI through hands-on experimentation. Students will evaluate AI’s capabilities and limitations, examine its impact on work, education, and creativity, and develop strategies for its responsible use. |
 | **COGS 113: Cognitive Science of Belief** | Beliefs motivate our behaviors: they influence who we vote for, whether we take action against climate change, and what we think happens when we die. How do beliefs form, and how are they influenced by social and cognitive factors? Why do some beliefs persist despite conflicting evidence, while others change? This course explores the mechanisms of belief formation and change through experimental and theoretical perspectives. |
 
