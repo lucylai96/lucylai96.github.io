@@ -15,7 +15,7 @@ In case you missed it on my homepage, I earned my Ph.D. in Neuroscience from [Ha
 
 As an Assistant Teaching Professor[^1], my primary responsibility is to design and teach high-quality courses that will equip you with fundamental knowledge and skills across several subfields of cognitive science. My research and teaching background spans neuroscience, psychology, psychiatry, machine learning, and behavioral economics. I'm especially passionate about developing inclusive and innovative pedagogy, active learning in the classroom, and using AI to augment (but not replace!) our learning experiences. 
 
-To grow as an educator, I earned a Teaching Certificate from the [Derek Bok Center for Teaching and Learning](https://bokcenter.harvard.edu/teaching-certificate) and have trained in evidence-based, inclusive teaching methods through the [MAHPING Pedagogy Fellowship](https://mahping.hsites.harvard.edu/pedagogy-fellows-program). I've also receieved several teaching awards, including the _Harvard Certificate of Distinction in Teaching_ and _Rice Student-Taught Course Teaching Award_.
+To grow as an educator, I pursued a Teaching Certificate from the [Derek Bok Center for Teaching and Learning](https://bokcenter.harvard.edu/teaching-certificate) and trained in evidence-based, inclusive teaching methods through the [MAHPING Pedagogy Fellowship](https://mahping.hsites.harvard.edu/pedagogy-fellows-program). I've also receieved several teaching awards, including the _Harvard Certificate of Distinction in Teaching_ and _Rice Student-Taught Course Teaching Award_.
 
 [^1]: see this [great FAQ about teaching professors](https://wstyler.ucsd.edu/teachingprof/)
 
