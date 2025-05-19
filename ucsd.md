@@ -1,6 +1,6 @@
 ## hello, UCSD COGS! 
 ***
-![Geisel Library](https://lucylai.com/files/ucsd/geisel.png)
+<img src="https://lucylai.com/files/ucsd/geisel.png" alt="geisel library" width="200"/>
 
 I'm super excited to be starting as an Assistant Teaching Professor in the [Department of Cognitive Science at UCSD](https://cogsci.ucsd.edu/) this July 2025! If you're a current UCSD student wondering who I am and whether you should take a course with me, you're in the right place :) 
 
