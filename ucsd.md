@@ -12,8 +12,8 @@ As a student, I remember feeling hesitant about taking a course with a brand new
 
 ### quick links 🔗
 It’s one thing to hear about my teaching from me, but it's often more helpful to hear from students who’ve taken my classes! If you want to skip the rest of this page and go straight to the receipts 🧾, here are some recent teaching evaluations from my former students:
-- [SET evaluations](https://lucylai.com/files/cogs180_set.pdf) (formerly CAPEs) and [additional student feedback](https://lucylai.com/files/cogs180_survey.pdf) from COGS 180: Decision Making in the Brain (UCSD)
-- [Teaching evaluations](https://lucylai.com/files/gened1125_teaching.pdf) from GENED 1125: Artificial and Natural Intelligence (Harvard), a course I helped teach as Head Teaching Fellow (mostly via guest lectures and discussion sections).
+- [SET evaluations](https://lucylai.com/files/cogs180_set.pdf) (formerly CAPEs) and [additional student feedback](https://lucylai.com/files/cogs180_survey.pdf) from [COGS 180: Decision Making in the Brain](https://cogs180.github.io/su24/) (UCSD)
+- [Teaching evaluations](https://lucylai.com/files/gened1125_teaching.pdf) from [GENED 1125: Artificial and Natural Intelligence](https://gened1125.github.io/spring2024/) (Harvard), a course I helped teach as Head Teaching Fellow (mostly via guest lectures and discussion sections).
 - A full list of courses I've taught and their descriptions can be found [here](https://lucylai.com/teaching.html).
 
 ### who am I? 🎓
