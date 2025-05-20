@@ -4,7 +4,9 @@
 <img src="https://lucylai.com/files/ucsd/geisel.png" alt="geisel library" width="550"/>
 </p>
 
-I’m super excited to be joining the [Department of Cognitive Science at UCSD](https://cogsci.ucsd.edu/) as an **Assistant Teaching Professor** starting **July 2025!** 👩🏻‍🏫 If you’re a current UCSD student wondering who I am and whether you should take a course with me, you’re in the right place 😊 (If you're interested in the process of applying to teaching-focused faculty positions, stay tuned for an elaborate guide on that very soon!)
+I’m super excited to be joining the [Department of Cognitive Science at UCSD](https://cogsci.ucsd.edu/) as an **Assistant Teaching Professor** starting **July 2025!** 👩🏻‍🏫 
+
+If you’re a current UCSD student wondering who I am and whether you should take a course with me, you’re in the right place 😊 (If you're interested in the process of applying to teaching-focused faculty positions, stay tuned for an elaborate guide on that very soon!)
 
 As a student, I remember feeling hesitant about taking a course with a brand new professor--- _How would I know if they’re any good at teaching?_ So now that I’m the new professor, I want to introduce myself and let you know what you can expect from me as an instructor.
 
