@@ -4,7 +4,7 @@
 <img src="https://lucylai.com/files/ucsd/geisel.png" alt="geisel library" width="550"/>
 </p>
 
-I’m super excited to be joining the [Department of Cognitive Science at UCSD](https://cogsci.ucsd.edu/) as an **Assistant Teaching Professor** starting **July 2025!** If you’re a current UCSD student wondering who I am and whether you should take a course with me, you’re in the right place 😊 
+I’m super excited to be joining the [Department of Cognitive Science at UCSD](https://cogsci.ucsd.edu/) as an **Assistant Teaching Professor** starting **July 2025!** 👩🏻‍🏫 If you’re a current UCSD student wondering who I am and whether you should take a course with me, you’re in the right place 😊 (If you're interested in the process of applying to teaching-focused faculty positions, stay tuned for an elaborate guide on that very soon!)
 
 As a student, I remember feeling hesitant about taking a course with a brand new professor--- _How would I know if they’re any good at teaching?_ So now that I’m the new professor, I want to introduce myself and let you know what you can expect from me as an instructor.
 
@@ -23,13 +23,13 @@ To grow as an educator, I pursued a Teaching Certificate from the [Derek Bok Cen
 ### my teaching philosophy
 I love teaching and I pour my heart and soul into it---it's the reason I pursued a teaching-focused career. I've been teaching in college classrooms for the last 10 years (ever since I was a sophomore in undergrad!), and have spent a lot of time thinking about what it means to be a good teacher, what effective learning looks like, and what I kind of classroom environment I want to build (in other words, what my teaching _philosophy_ is). Here's what you can expect if you take a course with me:
 
-- **A structured learning experience** — I design my courses to be clear in their objectives, organized, and fair so that you can focus on learning and not logistics. I strive to be transparent in what's expected of you, when assignments are due, and when to expect feedback.
-- **Rigor and intellectual agency** — I want you to leave my class not just knowing more facts, but knowing how to think critically, ask questions, and drive your own learning.
-- **Curiosity comes first** —  Too often, science is taught like a list of facts to memorize. But real scientists are motivated by questions and puzzles! I aim to foster that spirit throughout the course, whether it's in lectures, assignments, or even exams.
-- **Skill-based learning** — It's more important to me that you develop useful, domain-general skills in my courses over memorizing facts for exams. No matter the subject, I strive to connect class material to real-world problems and practical skills such as critical thinking, meta-learning, collaboration, and communicating complex ideas.
-- **Class is active and collaborative** — Get ready to think, talk, write, and work with your peers. We often learn better when we learn together---through doing, discussing, and reflecting.
-- **Feedback goes both ways** — You’ll receive meaningful feedback on your work, and I’ll ask for your feedback to keep improving the course.
-- **You belong here** — No matter your background or identity, I want you to feel welcome, heard, and supported in class. I'm committed to doing whatever I can to help every student succeed and grow.
+- **A structured learning experience** 📚 — I design my courses to be clear in their objectives, organized, and fair so that you can focus on learning and not logistics. I strive to be transparent in what's expected of you, when assignments are due, and when to expect feedback.
+- **Rigor and intellectual agency** 🤔 — I want you to leave my class not just knowing more facts, but knowing how to think critically, ask questions, and drive your own learning.
+- **A spirit of curiosity** 🔍 —  Too often, science is taught like a list of facts to memorize. But real scientists are motivated by questions and puzzles! I aim to foster that spirit throughout the course, whether it's in lectures, assignments, or even exams.
+- **Skill-based learning** 🛠️ — It's more important to me that you develop useful, domain-general skills in my courses over memorizing facts for exams. No matter the subject, I strive to connect class material to real-world problems and practical skills such as critical thinking, meta-learning, collaboration, and communicating complex ideas.
+- **Learning is active and collaborative** 🤝 — Get ready to think, talk, write, and work with your peers. We often learn better when we learn together---through doing, discussing, and reflecting.
+- **Feedback goes both ways** 🔁 — You’ll receive meaningful feedback on your work, and I’ll ask for your feedback to keep improving the course.
+- **You belong here** 🌈 — No matter your background or identity, I want you to feel welcome, heard, and supported in class. I'm committed to doing whatever I can to help every student succeed and grow.
   
 It’s one thing to hear about my teaching from me, but it's often more helpful to hear from my students themselves! [Here’s a summary of my official teaching evaluations and student comments](https://lucylai.com/files/ucsd/lai_teaching_excellence.pdf) from every course I've taught or TA'ed.
 
