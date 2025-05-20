@@ -6,7 +6,7 @@
 
 I’m super excited to be joining the [Department of Cognitive Science at UCSD](https://cogsci.ucsd.edu/) as an **Assistant Teaching Professor** starting **July 2025!** If you’re a current UCSD student wondering who I am and whether you should take a course with me, you’re in the right place 😊 
 
-As a student, I remember feeling hesitant about taking a course with a brand new professor--- _How would I know if they’re any good at teaching?_ So now that I’m the new professor, I want to introduce myself and let you know what you can expect if you end up in one of my classes! (from me as an instructor.)
+As a student, I remember feeling hesitant about taking a course with a brand new professor--- _How would I know if they’re any good at teaching?_ So now that I’m the new professor, I want to introduce myself and let you know what you can expect from me as an instructor.
 
 ### quick links
 [My Teaching Philosophy](https://lucylai.com/files/ucsd/lai_teaching_statement.pdf)
@@ -16,24 +16,24 @@ In case you missed it on my homepage, I earned my Ph.D. in Neuroscience from [Ha
 
 As an Assistant Teaching Professor[^1], my primary responsibility is to design and teach high-quality courses that will equip you with fundamental knowledge and skills across several subfields of cognitive science. My research and teaching background spans neuroscience, psychology, psychiatry, machine learning, and behavioral economics. I'm especially passionate about developing inclusive and innovative pedagogy, active learning in the classroom, and using AI to augment (but not replace!) our learning experiences. 
 
-To grow as an educator, I pursued a Teaching Certificate from the [Derek Bok Center for Teaching and Learning](https://bokcenter.harvard.edu/teaching-certificate) and trained in evidence-based, inclusive teaching methods through the [MAHPING Pedagogy Fellowship](https://mahping.hsites.harvard.edu/pedagogy-fellows-program). I've also receieved several teaching awards, including the _Harvard Certificate of Distinction in Teaching_ and _Rice Student-Taught Course Teaching Award_.
+To grow as an educator, I pursued a Teaching Certificate from the [Derek Bok Center for Teaching and Learning](https://bokcenter.harvard.edu/teaching-certificate) and trained in evidence-based, inclusive teaching methods through the [MAHPING Pedagogy Fellowship](https://mahping.hsites.harvard.edu/pedagogy-fellows-program). I've also received several teaching awards, including the Harvard Certificate of Distinction in Teaching and the [Rice Student-Taught Course Teaching Award](https://cte.rice.edu/awards/stc-teaching-award)
 
 [^1]: see this [great FAQ about teaching professors](https://wstyler.ucsd.edu/teachingprof/)
 
 ### my teaching philosophy
-I love teaching and I pour my heart and soul into it---it's the reason I pursued a teaching-focused career. I've been teaching in college classrooms for over 10 years (ever since I was a sophomore in undergrad). Over these years, I've had a chance to think critically about what it means to be a good teacher and mentor, what constitutes effective pedagogy, and what my personal values and beliefs are about higher education (in other words, what my teaching _philosophy_ is). Below, I summarize a few points that define my teaching philosophy:
+I love teaching and I pour my heart and soul into it---it's the reason I pursued a teaching-focused career. I've been teaching in college classrooms for the last 10 years (ever since I was a sophomore in undergrad!), and have spent a lot of time thinking about what it means to be a good teacher, what effective learning looks like, and what I kind of classroom environment I want to build (in other words, what my teaching _philosophy_ is). Here's what you can expect if you take a course with me:
 
-- **Creating a structured learning experience** — I design my courses to be well-organized and fair so that you can focus on learning. I strive to be clear in what you can expect of me, what is expected of you, when assignments are due, and when to expect feedback. 
-- **I value rigor and intellectual agency** — I want you to leave my class not just knowing things, but knowing how to think critically, ask better questions, and drive your own learning.
-- **Skill-based learning** — It's more important to me that you develop useful, domain-general skills in my courses than just memorizing facts for exams. No matter the subject, I strive to connect the material to real-world problems and practical skills such as critical thinking, meta-learning, collaboration, and distilling and communicating complex ideas.
-- **Curiosity comes first** — Unfortunately, much of science is taught as memorization, but real scientists are motivated by puzzles and questions. I encourage you to keep asking questions.
-- **Class is active and collaborative** — Get ready to think, talk, write, and work with your peers. I believe we learn best by learning together doing and discussing.
-- **Feedback goes both ways** — You’ll get meaningful feedback on your work, and I’ll ask for your feedback to keep making the course better.
-- **You belong here** — No matter your educational background, socioeconomic status, I want every student to feel welcome, heard, and supported in class, and I am committed to doing whatever I can to support your learning.
+- **A structured learning experience** — I design my courses to be clear in their objectives, organized, and fair so that you can focus on learning and not logistics. I strive to be transparent in what's expected of you, when assignments are due, and when to expect feedback.
+- **Rigor and intellectual agency** — I want you to leave my class not just knowing more facts, but knowing how to think critically, ask questions, and drive your own learning.
+- **Curiosity comes first** —  Too often, science is taught like a list of facts to memorize. But real scientists are motivated by questions and puzzles! I aim to foster that spirit throughout the course, whether it's in lectures, assignments, or even exams.
+- **Skill-based learning** — It's more important to me that you develop useful, domain-general skills in my courses over memorizing facts for exams. No matter the subject, I strive to connect class material to real-world problems and practical skills such as critical thinking, meta-learning, collaboration, and communicating complex ideas.
+- **Class is active and collaborative** — Get ready to think, talk, write, and work with your peers. We often learn better when we learn together---through doing, discussing, and reflecting.
+- **Feedback goes both ways** — You’ll receive meaningful feedback on your work, and I’ll ask for your feedback to keep improving the course.
+- **You belong here** — No matter your background or identity, I want you to feel welcome, heard, and supported in class. I'm committed to doing whatever I can to help every student succeed and grow.
   
-Often times, it's more useful to hear what I'm like as an instructor and teacher directly from my students. [This document](https://lucylai.com/files/ucsd/lai_teaching_excellence.pdf) summarizes my official course evaluations and comments received for every course I've taught or TA'ed.
+It’s one thing to hear about my teaching from me, but it's often more helpful to hear from my students themselves! [Here’s a summary of my official teaching evaluations and student comments](https://lucylai.com/files/ucsd/lai_teaching_excellence.pdf) from every course I've taught or TA'ed.
 
-If you're curious about all the details, you can read [my teaching statement](https://lucylai.com/files/ucsd/lai_teaching_statement.pdf) that describes this philosophy in detail (it's also the statement I submitted when applying to this job!)
+If you're curious about all the details of my teaching philosophy, you can check out my full [teaching statement](https://lucylai.com/files/ucsd/lai_teaching_statement.pdf) (which is what I used to apply to this job!)
 
 ## FAQs
    
