@@ -6,16 +6,15 @@
 
 I’m super excited to be joining the [Department of Cognitive Science at UCSD](https://cogsci.ucsd.edu/) as an **Assistant Teaching Professor** starting **July 2025!** 👩🏻‍🏫 
 
-If you’re a current UCSD student wondering who I am and whether you should take a course with me, you’re in the right place 😊 (If you're interested in the process of applying to teaching-focused faculty positions, stay tuned for an elaborate guide on that very soon!)
+If you’re a current UCSD student wondering who I am or whether you should take a course with me, you’re in the right place 😊 (If you're interested in the process of applying to teaching-focused faculty positions, stay tuned for an elaborate guide on that very soon!)
 
 As a student, I remember feeling hesitant about taking a course with a brand new professor--- _How would I know if they’re any good at teaching?_ So now that I’m the new professor, I want to introduce myself and let you know what you can expect from me as an instructor.
 
 ### quick links 🔗
-You could skip the rest of this page and just hear from my previous students themselves. Here are my most recent teaching evaluations and student comments from courses I taught most recently:
-- [SET evaluations](https://lucylai.com/files/cogs180_set.pdf) (formerly CAPEs) and [additional student feedback](https://lucylai.com/files/cogs180_survey.pdf) for COGS 180: Decision Making in the Brain, a course I previously taught at UCSD.
-- [Teaching evaluations](https://lucylai.com/files/gened1125_teaching.pdf) for GENED 1125: Artificial and Natural Intelligence, a course I helped teach at Harvard University as Head Teaching Fellow (guest lectures and weekly discussion sections).
-- A full list of courses I've taught and their descriptions can be found [here](https://lucylai.com/teaching.html)
-- Read my [full teaching statement](https://lucylai.com/files/ucsd/lai_teaching_statement.pdf)
+It’s one thing to hear about my teaching from me, but it's often more helpful to hear from students who’ve taken my classes! If you want to skip the rest of this page and go straight to the receipts, here are some recent teaching evaluations from my former students:
+- [SET evaluations](https://lucylai.com/files/cogs180_set.pdf) (formerly CAPEs) and [additional student feedback](https://lucylai.com/files/cogs180_survey.pdf) from COGS 180: Decision Making in the Brain (UCSD)
+- [Teaching evaluations](https://lucylai.com/files/gened1125_teaching.pdf) from GENED 1125: Artificial and Natural Intelligence (Harvard), a course I helped teach as Head Teaching Fellow (mostly via guest lectures and discussion sections).
+- A full list of courses I've taught and their descriptions can be found [here](https://lucylai.com/teaching.html).
 
 ### who am I? 🎓
 I earned my Ph.D. in [Neuroscience](https://pinphd.hms.harvard.edu/) from Harvard in 2024, where I worked on [developing computational theories of learning and decision making](https://lucylai.com/files/lai_precis.pdf). Before that, I got my B.A. in [Cognitive Science](https://cogsci.rice.edu/) from Rice University---I'd like to think that I've been a cognitive scientist from the start, which is why I'm ecstatic to be starting my career at the [first cognitive science department in the world](https://cogsci.ucsd.edu/about/dept-history.html)! 
@@ -37,8 +36,6 @@ I love teaching and I pour my heart and soul into it---it's why I pursued a teac
 - **Feedback goes both ways** 🔁 — You’ll receive meaningful feedback on your work, and I’ll ask for your feedback to keep improving the course.
 - **You belong here** 🌈 — No matter your background or identity, I want you to feel welcome, heard, and supported in class. I'm committed to doing whatever I can to help every student succeed and grow.
   
-It’s one thing to hear about my teaching from me, but it's often more helpful to hear from my students themselves! [Here’s a summary of my teaching evaluations and student comments](https://lucylai.com/files/ucsd/lai_teaching_excellence.pdf) from courses I've taught or TA'ed.
-
 If you're curious about all the details of my teaching philosophy, you can check out my full [teaching statement](https://lucylai.com/files/ucsd/lai_teaching_statement.pdf) (which is what I used to apply to this job!)
 
 ## FAQs
