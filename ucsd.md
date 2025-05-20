@@ -10,9 +10,9 @@ If you’re a current UCSD student wondering who I am and whether you should tak
 
 As a student, I remember feeling hesitant about taking a course with a brand new professor--- _How would I know if they’re any good at teaching?_ So now that I’m the new professor, I want to introduce myself and let you know what you can expect from me as an instructor.
 
-### quick links
-🔗 [See what students have said about my teaching (course evals + comments)](https://lucylai.com/files/ucsd/lai_teaching_excellence.pdf)
-🔗 [Read my full teaching statement](https://lucylai.com/files/ucsd/lai_teaching_statement.pdf)
+### quick links 🔗
+- [See what students have said about my teaching (course evals + comments)](https://lucylai.com/files/ucsd/lai_teaching_excellence.pdf)
+- [Read my full teaching statement](https://lucylai.com/files/ucsd/lai_teaching_statement.pdf)
 
 ### who am I? 🎓
 I earned my Ph.D. in [Neuroscience](https://pinphd.hms.harvard.edu/) from Harvard in 2024, where I worked on [developing computational theories of learning and decision making](https://lucylai.com/files/lai_precis.pdf). Before that, I got my B.A. in [Cognitive Science](https://cogsci.rice.edu/) from Rice University---I'd like to think that I've been a cognitive scientist from the start, which is why I'm ecstatic to be starting my career at the [first cognitive science department in the world](https://cogsci.ucsd.edu/about/dept-history.html)! 
