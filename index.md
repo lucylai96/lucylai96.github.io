@@ -1,7 +1,7 @@
 ## hello!
 ***
 
-📢🚨 I'm starting as a tenure-track **Assistant Teaching Professor** 👩🏻‍🏫 in the [Department of Cognitive Science](https://cogsci.ucsd.edu/) at **UC San Diego**! ☀️ Outside the classroom, my research will explore open questions in **decision making, belief change, intellectual humility,** and **human-AI collaboration** to address real-world challenges. I wrote [a little personal reflection](https://sabbatical.lucylai.com/p/becoming-professor-lai) about my journey towards a teaching-focused career.
+📢🚨 I'm starting as a tenure-track **Assistant Teaching Professor** 👩🏻‍🏫 in the [Department of Cognitive Science](https://cogsci.ucsd.edu/) at **UC San Diego**! ☀️ Outside the classroom, my research will explore open questions in **decision making, belief change, intellectual humility,** and **human-AI collaboration** to address real-world challenges. In case you're interested, I wrote [a little personal reflection](https://sabbatical.lucylai.com/p/becoming-professor-lai) about my journey towards a teaching-focused career.
 
 From 2024-2025, I took a year-long "sabbatical," where I spent some time traveling and writing. I shared some of those writings on [this blog](https://sabbatical.lucylai.com/). I was lucky to spend my sabbatical as a [TSVP Visiting Scholar](https://groups.oist.jp/tsvp){:target="_blank"} at the beautiful [Okinawa Institute of Science and Technology](https://oist.jp){:target="_blank"} in Okinawa, Japan. 
 
