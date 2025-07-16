@@ -9,7 +9,7 @@ From 2024-2025, I took a year-long "sabbatical," where I spent some time traveli
 
 Before that, I recieved my Ph.D. in <a href="https://pinphd.hms.harvard.edu/" target="_blank">Neuroscience</a> from Harvard, where I was advised by <a href="http://gershmanlab.com/people/sam.html" target="_blank">Sam Gershman</a> and supported by the <a href="https://www.nsfgrfp.org/" target="_blank">NSF Graduate Research Fellowship</a> and a <a href="https://www.28twelvefoundation.org/" target="_blank">Harvey Fellowship</a>. I received my B.A. in [Cognitive Science](https://cogsci.rice.edu/){:target="_blank"} from Rice University.
 
-Outside of research, I enjoy teaching, writing <a href="http://subcorticalsongs.wordpress.com/" target="_blank">poetry</a>, good coffee, and latin dancing. From 2021-2023, I was a Resident Tutor at <a href="https://quincy.harvard.edu/" target="_blank">Quincy House</a>, where I lived with and advised Harvard College students.
+Outside of work, I enjoy writing <a href="http://subcorticalsongs.wordpress.com/" target="_blank">poetry</a>, good coffee, and latin dancing. From 2021-2023, I was a Resident Tutor at <a href="https://quincy.harvard.edu/" target="_blank">Quincy House</a>, where I lived with and advised Harvard College students.
 
 ### quick links
 * Here's a [fun interview](https://brain.harvard.edu/hbi_humans/lucy-lai/) I did with Humans of HBI back in 2022
