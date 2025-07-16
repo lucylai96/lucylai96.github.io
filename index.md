@@ -18,9 +18,8 @@ Outside of research, I enjoy teaching, writing <a href="http://subcorticalsongs.
 ***
 
 ### recent and upcoming
-* **Aug 2025:** Attending [CCN 2025](https://2025.ccneuro.org/) in Amsterdam, Netherlands 🇳🇱
 * **Jul 2025:** Attending [CogSci 2025](https://cognitivesciencesociety.org/cogsci-2025/) in San Francisco, CA 🇺🇸
-* **Jul 2025:** I'm joining the **[Department of Cognitive Science](https://cogsci.ucsd.edu/)** at **UC San Diego** as an **Assistant Teaching Professor** 👩🏻‍🏫☀️
+* **Jul 2025:** I joined the **[Department of Cognitive Science](https://cogsci.ucsd.edu/)** at **UC San Diego** as an **Assistant Teaching Professor** 👩🏻‍🏫☀️
 * **Jun 2025:** Gave talks at [Araya Research](https://research.araya.org/), [RIKEN Advanced Intelligence Project](https://www.riken.jp/en/research/labs/aip/), and [RIKEN Center for Brain Science](https://cbs.riken.jp/en/) in Tokyo, Japan 🇯🇵
 * **Apr 2025:** Organized the [Global Summit on Open Problems for AI](https://www.algopreneurship.ai/) in Tokyo, Japan 🇯🇵
 * **Feb 2025:** Gave a talk at the National University of Singapore / SfN Singapore [Cognitive Science, Psychology & AI Seminar Series](https://sfn.sg/cognitive-science-psychology-ai-seminar-series-3/) 🇸🇬
