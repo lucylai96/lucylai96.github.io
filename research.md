@@ -10,11 +10,11 @@ I completed my B.A. at Rice University, where I worked with [Jeff Yau](http://ya
 ## publications
 [Google Scholar](https://scholar.google.com/citations?user=TEpclyYAAAAJ&hl=en) | <sup>*</sup>denotes co-first authorship
 
-### in preparation
+### in progress
 - **Lai, L.**, Hauser, TU., Huys, QJM. (in prep). Towards a computational account of egodystonia.
 - **Lai, L.**, Bhatia, C., Hardcastle, K., Mizes, K., Ölveczky, BP., Gershman, SJ. (in prep). Policy regularization enables robustness and flexibility in motor sequence learning.
 
-### preprints 
+### in press
 - **Lai, L.<sup>*</sup>**, Huang, A.Z.X.<sup>*</sup>, & Gershman, S.J. (in press). [Action chunking as conditional policy compression](./pubs/lai25.pdf){:target="_blank"}. _Cognition_
 - Liu, S., **Lai, L.**, Gershman, S.J., & Bari, B.A. (in press). [Time and memory costs jointly determine a speed-accuracy trade-off and set-size effects](./pubs/liu25.pdf){:target="_blank"}. _Journal of Experimental Psychology: General_
   
