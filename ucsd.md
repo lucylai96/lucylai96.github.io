@@ -11,6 +11,7 @@ I’m super excited to be joining the [Department of Cognitive Science at UCSD](
 - COGS 180: Decision Making in the Brain (Wi26)
 - COGS 9: Intro to Data Science (Wi26, Sp26)
 - COGS 118D: Computational Modeling of Behavior _(_Sp26 _as a revamped course)_
+(In the future, I plan to also teach COGS 182: Introduction to Reinforcement Learning)
 
 If you’re a current UCSD student wondering who I am or whether you should one of the above courses with me, you’re in the right place 😊 (If you're interested in the process of applying to teaching-focused faculty positions, stay tuned for an elaborate guide on that very soon!)
 
@@ -48,13 +49,6 @@ If you're curious about all the details of my teaching philosophy, you can check
 * [Can I do research with you?](#can-i-do-research-with-you)
 * [I am a PhD student, can you be my main supervisor?](#i-am-a-phd-student-can-you-be-my-main-supervisor)
   
-#### What will you be teaching? 
-In Fall 2025, I will be teaching COGS. 
-In the future, I plan to also teach:
-- COGS 180: Decision Making in the Brain
-- COGS 182: Introduction to Reinforcement Learning
-- COGS 118D: Computational Modeling of Behavior _(as a revamped course)_
-
 #### Are you going to be designing any new courses? 
 Yes! I'm currently in the process of designing two new COGS courses: 
 
