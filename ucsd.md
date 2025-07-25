@@ -4,9 +4,15 @@
 <img src="https://lucylai.com/files/ucsd/geisel.png" alt="geisel library" width="550"/>
 </p>
 
-I’m super excited to be joining the [Department of Cognitive Science at UCSD](https://cogsci.ucsd.edu/) as an **Assistant Teaching Professor** starting **July 2025!** 👩🏻‍🏫 
+I’m super excited to be joining the [Department of Cognitive Science at UCSD](https://cogsci.ucsd.edu/) as an **Assistant Teaching Professor** 👩🏻‍🏫 
 
-If you’re a current UCSD student wondering who I am or whether you should take a course with me, you’re in the right place 😊 (If you're interested in the process of applying to teaching-focused faculty positions, stay tuned for an elaborate guide on that very soon!)
+**For the 2025-2026 academic year, I will be teaching:**
+- COGS 109: Modeling and Data Analysis (Fa25)
+- COGS 180: Decision Making in the Brain (Wi26)
+- COGS 9: Intro to Data Science (Wi26, Sp26)
+- COGS 118D: Computational Modeling of Behavior _(_Sp26 _as a revamped course)_
+
+If you’re a current UCSD student wondering who I am or whether you should one of the above courses with me, you’re in the right place 😊 (If you're interested in the process of applying to teaching-focused faculty positions, stay tuned for an elaborate guide on that very soon!)
 
 As a student, I remember feeling hesitant about taking a course with a brand new professor--- _How would I know if they’re any good at teaching?_ So now that I’m the new professor, I want to introduce myself and let you know what you can expect from me as an instructor.
 
@@ -20,23 +26,20 @@ It’s one thing to hear about my teaching from me, but it's often more helpful 
 I earned my Ph.D. in [Neuroscience](https://pinphd.hms.harvard.edu/) from Harvard in 2024, where I worked on [developing computational theories of learning and decision making](https://lucylai.com/files/lai_precis.pdf). Before that, I got my B.A. in [Cognitive Science](https://cogsci.rice.edu/) from Rice University---I'd like to think that I've been a cognitive scientist from the start, which is why I'm ecstatic to be starting my career at the [first cognitive science department in the world](https://cogsci.ucsd.edu/about/dept-history.html)! 
 
 As an Assistant Teaching Professor[^1], I focus on designing and teaching high-quality courses that will equip you with fundamental knowledge and skills across several subfields of cognitive science. My [research](https://lucylai.com/research) and [teaching](https://lucylai.com/teaching) background spans neuroscience, psychology, psychiatry, machine learning, and behavioral economics. I'm especially passionate about inclusive and innovative pedagogy, active learning, and using AI to augment (but not replace!) how we learn.
-
-To grow as an educator, I have pursued training in evidence-based, inclusive teaching methods through the [Derek Bok Center for Teaching and Learning](https://bokcenter.harvard.edu/teaching-certificate) and the [MAHPING Pedagogy Fellowship](https://mahping.hsites.harvard.edu/pedagogy-fellows-program).
-
 [^1]: see this [great FAQ about teaching professors](https://wstyler.ucsd.edu/teachingprof/)
 
 ### my teaching philosophy 👩🏻‍🏫
-I love teaching and I pour my heart and soul into it---it's why I pursued a teaching-focused career! I've been teaching in college classrooms for the last 10 years (ever since I was a sophomore in undergrad!), and have spent a lot of time thinking about what it means to be a good teacher, what effective learning looks like, and what I kind of classroom environment I want to build (in other words, what my teaching _philosophy_ is). Here's what you can expect if you take a course with me:
+I've been teaching in college classrooms for the last 10 years, and have spent a lot of time thinking about what it means to be a good teacher, what effective learning looks like, and what kind of classroom environment I want to build. Here's what you can expect if you take a course with me:
 
 - **A structured learning experience** 📚 — I design my courses to be organized, fair, and clear in their objectives so that you can focus on learning and not logistics. I strive to be transparent in what's expected of you, when assignments are due, and when to expect feedback.
-- **A spirit of curiosity** 🔍 —  Too often, science is taught like a list of facts to memorize. But real scientists are motivated by questions and puzzles! I aim to foster that spirit throughout the course, whether it's in lectures, assignments, or even exams.
+- **A spirit of curiosity** 🔍 —  Too often, science is taught like a list of facts to memorize. But real scientists are motivated by questions and puzzles! I aim to foster that spirit throughout the course, in my lectures, assignments, and even exams.
 - **Rigor and intellectual agency** 🤔 — I want you to leave my courses knowing how to think critically, ask questions, and drive your own learning.
-- **Skill-based learning** 🛠️ — It's more important to me that you develop useful, domain-general skills in my courses over memorizing facts for exams. No matter the subject, I strive to connect class material to real-world problems and practical skills such as critical thinking, meta-learning, collaboration, and communicating complex ideas.
-- **Learning is active and collaborative** 🤝 — Get ready to think, talk, write, and work with your peers. We often learn better when we learn together---through doing, discussing, and reflecting.
+- **Skill-based learning** 🛠️ — It's more important to me that you develop useful, domain-general skills in my courses over memorizing facts for exams. I strive to connect class material to real-world problems and practical skills such as critical thinking, meta-learning, collaboration, and communicating complex ideas.
+- **Learning is active and collaborative** 🤝 — Get ready to think, talk, write, and work with your peers. We often learn better when we learn together!
 - **Feedback goes both ways** 🔁 — You’ll receive meaningful feedback on your work, and I’ll ask for your feedback to keep improving the course.
 - **You belong here** 🌈 — No matter your background or identity, I want you to feel welcome, heard, and supported in class. I'm committed to doing whatever I can to help every student succeed and grow.
   
-If you're curious about all the details of my teaching philosophy, you can check out my full [teaching statement](https://lucylai.com/files/ucsd/lai_teaching_statement.pdf) (which is what I used to apply to this job!)
+If you're curious about all the details of my teaching philosophy, you can check out my full [teaching statement](https://lucylai.com/files/ucsd/lai_teaching_statement.pdf).
 
 ## FAQs
 * [What will you be teaching?](#what-will-you-be-teaching)
@@ -46,12 +49,11 @@ If you're curious about all the details of my teaching philosophy, you can check
 * [I am a PhD student, can you be my main supervisor?](#i-am-a-phd-student-can-you-be-my-main-supervisor)
   
 #### What will you be teaching? 
-In Fall 2025, I will be teaching COGS. In the future, I plan to also teach:
+In Fall 2025, I will be teaching COGS. 
+In the future, I plan to also teach:
 - COGS 180: Decision Making in the Brain
 - COGS 182: Introduction to Reinforcement Learning
 - COGS 118D: Computational Modeling of Behavior _(as a revamped course)_
-
-_I will update this section once my teaching schedule for 2025-2026 is finalized._
 
 #### Are you going to be designing any new courses? 
 Yes! I'm currently in the process of designing two new COGS courses: 
