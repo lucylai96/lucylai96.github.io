@@ -43,7 +43,6 @@ I've been teaching in college classrooms for the last 10 years, and have spent a
 If you're curious about all the details of my teaching philosophy, you can check out my full [teaching statement](https://lucylai.com/files/ucsd/lai_teaching_statement.pdf).
 
 ## FAQs
-* [What will you be teaching?](#what-will-you-be-teaching)
 * [Are you going to be designing any new courses?](#are-you-going-to-be-designing-any-new-courses)
 * [Do you require attendence?](#do-you-require-attendence)
 * [Can I do research with you?](#can-i-do-research-with-you)
