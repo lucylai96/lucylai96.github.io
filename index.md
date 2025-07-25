@@ -3,13 +3,11 @@
 
 📢🚨 I'm starting as a tenure-track **Assistant Teaching Professor** 👩🏻‍🏫 in the [Department of Cognitive Science](https://cogsci.ucsd.edu/){:target="_blank"} at **UC San Diego**! ☀️ Outside the classroom, my research will explore open questions in **decision making, belief change, intellectual humility,** and **human-AI collaboration** to address real-world challenges. I wrote [this short reflection](https://sabbatical.lucylai.com/p/becoming-professor-lai){:target="_blank"} about my personal journey towards a teaching-focused academic career.
 
-If you are also interested in teaching faculty positions and would like to learn more, please reach out at anytime. I’ll be sharing a guide on how to apply for such positions very soon, so stay tuned! 🔔 
-
-From 2024-2025, I took a year-long "sabbatical," where I spent some time traveling and writing. I shared some of those writings on [this blog](https://sabbatical.lucylai.com/). I was lucky to spend my sabbatical as a [TSVP Visiting Scholar](https://groups.oist.jp/tsvp){:target="_blank"} at the beautiful [Okinawa Institute of Science and Technology](https://oist.jp){:target="_blank"} in Okinawa, Japan. 
+From 2024-2025, I took a year-long "sabbatical" as a [TSVP Visiting Scholar](https://groups.oist.jp/tsvp){:target="_blank"}  at the beautiful [Okinawa Institute of Science and Technology](https://oist.jp){:target="_blank"} in Japan.
 
 Before that, I recieved my Ph.D. in <a href="https://pinphd.hms.harvard.edu/" target="_blank">Neuroscience</a> from Harvard, where I was advised by <a href="http://gershmanlab.com/people/sam.html" target="_blank">Sam Gershman</a> and supported by the <a href="https://www.nsfgrfp.org/" target="_blank">NSF Graduate Research Fellowship</a> and a <a href="https://www.28twelvefoundation.org/" target="_blank">Harvey Fellowship</a>. I received my B.A. in [Cognitive Science](https://cogsci.rice.edu/){:target="_blank"} from Rice University.
 
-Outside of work, I enjoy writing <a href="http://subcorticalsongs.wordpress.com/" target="_blank">poetry</a>, good coffee, and latin dancing. From 2021-2023, I was a Resident Tutor at <a href="https://quincy.harvard.edu/" target="_blank">Quincy House</a>, where I lived with and advised Harvard College students.
+In my free time, I enjoy writing <a href="http://subcorticalsongs.wordpress.com/" target="_blank">poetry</a>, classical music, good coffee, and latin dancing. From 2021-2023, I was a Resident Tutor at <a href="https://quincy.harvard.edu/" target="_blank">Quincy House</a>, where I lived with and advised Harvard College students.
 
 ### quick links
 * Here's a [fun interview](https://brain.harvard.edu/hbi_humans/lucy-lai/) I did with Humans of HBI back in 2022
