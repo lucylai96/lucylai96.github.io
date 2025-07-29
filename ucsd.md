@@ -5,6 +5,7 @@
 </p>
 
 I’m super excited to be starting as **Assistant Teaching Professor** 👩🏻‍🏫 in the [Department of Cognitive Science at UCSD](https://cogsci.ucsd.edu/)!
+
 **For the 2025-2026 academic year, I will be teaching:**
 - **COGS 109**: Modeling and Data Analysis (Fa25)
 - **COGS 180**: Decision Making in the Brain (Wi26)
