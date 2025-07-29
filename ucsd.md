@@ -12,7 +12,7 @@ I’m super excited to be starting as **Assistant Teaching Professor** 👩🏻�
 - **COGS 9**: Intro to Data Science (Wi26, Sp26)
 - **COGS 118D**: Computational Modeling of Behavior _(_Sp26, _as a revamped course)_
 
-In the future, I plan to also teach **COGS 182**: Introduction to Reinforcement Learning, as well as two _**new**_ courses (see below).
+In the future, I plan to also teach **COGS 182**: Introduction to Reinforcement Learning, as well as two _**new**_ courses, one about AI and one about the cognitive science of beliefs (see below).
 
 If you’re a current UCSD student wondering who I am or whether you should take one of the above courses with me, you’re in the right place 😊 As a student, I remember feeling hesitant about taking a course with a brand new professor--- _How would I know if they’re any good at teaching?_ So now that I’m the new professor, I want to introduce myself and let you know what you can expect from me as an instructor.
 
