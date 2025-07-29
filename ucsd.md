@@ -4,7 +4,7 @@
 <img src="https://lucylai.com/files/ucsd/geisel.png" alt="geisel library" width="550"/>
 </p>
 
-I’m super excited to be starting as **Assistant Teaching Professor** 👩🏻‍🏫 in the [Department of Cognitive Science at UCSD](https://cogsci.ucsd.edu/)!
+I’m super excited to be starting as **Assistant Teaching Professor** 👩🏻‍🏫 in the [Department of Cognitive Science](https://cogsci.ucsd.edu/) at UCSD!
 
 **For the 2025-2026 academic year, I will be teaching:**
 - **COGS 109**: Modeling and Data Analysis (Fa25)
