@@ -4,18 +4,15 @@
 <img src="https://lucylai.com/files/ucsd/geisel.png" alt="geisel library" width="550"/>
 </p>
 
-I’m super excited to be joining the [Department of Cognitive Science at UCSD](https://cogsci.ucsd.edu/) as an **Assistant Teaching Professor** 👩🏻‍🏫 
-
+I’m super excited to be starting as **Assistant Teaching Professor** 👩🏻‍🏫 in the [Department of Cognitive Science at UCSD](https://cogsci.ucsd.edu/)!
 **For the 2025-2026 academic year, I will be teaching:**
 - COGS 109: Modeling and Data Analysis (Fa25)
 - COGS 180: Decision Making in the Brain (Wi26)
 - COGS 9: Intro to Data Science (Wi26, Sp26)
-- COGS 118D: Computational Modeling of Behavior _(_Sp26 _as a revamped course)_
-(In the future, I plan to also teach COGS 182: Introduction to Reinforcement Learning)
+- COGS 118D: Computational Modeling of Behavior _(_ Sp26, _as a revamped course)_
+In the future, I plan to also teach COGS 182: Introduction to Reinforcement Learning
 
-If you’re a current UCSD student wondering who I am or whether you should one of the above courses with me, you’re in the right place 😊 (If you're interested in the process of applying to teaching-focused faculty positions, stay tuned for an elaborate guide on that very soon!)
-
-As a student, I remember feeling hesitant about taking a course with a brand new professor--- _How would I know if they’re any good at teaching?_ So now that I’m the new professor, I want to introduce myself and let you know what you can expect from me as an instructor.
+If you’re a current UCSD student wondering who I am or whether you should take one of the above courses with me, you’re in the right place 😊 As a student, I remember feeling hesitant about taking a course with a brand new professor--- _How would I know if they’re any good at teaching?_ So now that I’m the new professor, I want to introduce myself and let you know what you can expect from me as an instructor.
 
 ### quick links 🔗
 It’s one thing to hear about my teaching from me, but it's often more helpful to hear from students who’ve taken my classes! If you want to skip the rest of this page and go straight to the receipts 🧾, here are some recent teaching evaluations from my former students:
