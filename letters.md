@@ -6,9 +6,9 @@ Hi there! If you've asked me or are thinking of asking me for a letter of recomm
 Helping students succeed and take advantage of oppourtunities (whether it's an internship, grad school, etc.) is one of my greatest joys. However, writing quality LORs takes a lot of time and effort on my part, so I strive to only write letters that will be strong, specific, and meaningful to your application.
 
 ### who I write letters for
-If you have served on my course staff as a TA or PLA (IA), or have worked with me as a research assistant, **I would be more than happy to write you a recommendation letter**. If you took one of my classes and did well, I will consider writing a letter if you can demonstrate aspects where you went above and beyond in some way (e.g., in your final project), and are certain that there's not another better person for you to ask. If you're not sure whether you fit that description, I encourage you to send me an email ([lai@ucsd.edu](mailto:lai@ucsd.edu)) and briefly tell me (1) what you are applying for, and (2) who else you are considering asking for a letter.
+If you have served on my course staff as a TA or PLA (IA), or have worked with me as a research assistant, **I would be more than happy to write you a recommendation letter**. If you took one of my classes and did well, I will consider writing a letter if you can demonstrate aspects where you went above and beyond in some way (e.g., in your final project), and are certain that there's not another better person for you to ask. If you're not sure whether you fit that description, I encourage you to send me an email ([lai@ucsd.edu](mailto:lai@ucsd.edu)) and briefly tell me what you are applying for, and what you would like me to highlight.
 
-**NOTE:** If you are applying for an oppourtunity that requires a recommendation that is *NOT* a letter (sometimes it's just a portal asking me to answer a couple of questions), please send me an email with information about whats needed.
+**NOTE:** If you are applying for an opportunity that requires a recommendation that is *NOT* a traditional letter (e.g., a portal that asks me to answer a few questions about you), please email me with the relevant details.
 
 ### how to request a letter
 Here's how you can request your LOR and help me write the best letter possible for you:
