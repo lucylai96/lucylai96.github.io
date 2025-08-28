@@ -10,8 +10,9 @@ If you have served on my course staff as a TA or PLA (IA), or have worked with m
 
 ### how to request a letter
 Here's how you can request your LOR and help me write the best letter possible for you:
-(1) If you meet the above criteria, give me a heads up **ASAP** via email after deciding that you want me to write you a letter, and let me know what your first deadline is (e.g., "Would you be willing to write me a letter? My first deadline is X." will suffice.) The sooner you let me know, the better so I can make a mental note. 
-(2) Then, start working on your Recommendation Letter Request. Everything you write in this document helps me help you have the highest chances of getting your desired oppourtunity. I have read dozens of LORs from being on applications coaching experience, and . Once you are finished, email this document to me at lai@ucsd.edu (either link the document in your email, or attach it as a PDF). Note that I need at _**at least**_ 2 weeks notice 
+
+1. If you meet the above criteria, give me a heads up **ASAP** via email after deciding that you want me to write you a letter, and let me know what your first deadline is (e.g., "Would you be willing to write me a letter? My first deadline is X." will suffice.) The sooner you let me know, the better so I can make a mental note.
+2. 2. Then, start working on your Recommendation Letter Request. Everything you write in this document helps me help you have the highest chances of getting your desired oppourtunity. I have read dozens of LORs from being on applications coaching experience, and . Once you are finished, email this document to me at lai@ucsd.edu (either link the document in your email, or attach it as a PDF). Note that I need at _**at least**_ 2 weeks notice 
 
 
 Once you
