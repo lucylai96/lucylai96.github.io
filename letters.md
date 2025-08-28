@@ -19,6 +19,7 @@ Here's how you can request your LOR and help me write the best letter possible f
 ### tips and reminders
 
 If you need to provide my information, you can use the following:
+
 Lucy Lai<br>
 Assistant Teaching Professor <br>
 Department of Cognitive Science<br>
@@ -30,8 +31,8 @@ Cognitive Science Building 244<br>
 9500 Gilman Drive<br>
 La Jolla, CA 92093<br>
 
-- Make sure to waive your right to view recommendation letters submitted for you. This will allow me (and your other writers) to speak more honestly. If I’ve agreed to write you a letter it’ll likely be quite strong, so there’s nothing to be worried about!
-- Please try and send me a reminder one week before your application is due! I’m pretty good at keeping track of things but we all make mistakes sometimes :-) You are never bothering me by sending me more reminders.
-- Finally, please keep in touch and let me know how things go! I love to celebrate my students’ successes, and also want to know if things don’t turn out the way you hoped. I myself have been on the receiving end of many, many rejections, and I truly believe that the earlier you get used to it, the less it will affect you :) Good luck!
+- Make sure to **waive your right** to view recommendation letters submitted on your behalf. This will allow me (and your other writers) to speak more honestly. If I’ve agreed to write you a letter, it will likely be strong, so there’s nothing to be worried about!
+- Please try to send me a reminder(s) **one week before your application(s) is due!** I’m usually good at keeping track of things, but we all make mistakes sometimes :-) You are never bothering me by sending me more reminders.
+- Finally, please keep in touch and let me know how things go! I love celebrating my students’ successes, and I also want to know if things don’t turn out the way you hoped. I’ve been on the receiving end of many rejections myself, and I truly believe that the earlier you get used to it, the easier it becomes to handle. Good luck!
 
 ***
