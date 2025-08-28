@@ -23,7 +23,7 @@ It’s one thing to hear about my teaching from me, but it's often more helpful 
 - A full list of courses I've taught and their descriptions can be found [here](https://lucylai.com/teaching.html).
 
 ### who am I? 🎓
-I earned my Ph.D. in [Neuroscience](https://pinphd.hms.harvard.edu/) from Harvard in 2024, where I worked on [developing computational theories of learning and decision making](https://lucylai.com/files/lai_precis.pdf). Before that, I got my B.A. in [Cognitive Science](https://cogsci.rice.edu/) from Rice University.
+I earned my Ph.D. in [Neuroscience](https://pinphd.hms.harvard.edu/) from Harvard in 2024, where I worked on [developing computational theories of learning and decision making](https://lucylai.com/files/lai_precis.pdf). Before that, I got my B.A. in [Cognitive Science](https://cogsci.rice.edu/) from Rice University. I was born in New England ☃️, but mainly grew up in Texas 🤠.
 
 As an Assistant Teaching Professor[^1], I focus on designing and teaching high-quality courses that will equip you with fundamental knowledge and skills across several subfields of cognitive science. My [research](https://lucylai.com/research) and [teaching](https://lucylai.com/teaching) background spans neuroscience, psychology, psychiatry, machine learning, and behavioral economics. I'm especially passionate about inclusive and innovative pedagogy, active learning, and using AI to augment (but not replace!) how we learn.
 [^1]: see this [great FAQ about teaching professors](https://wstyler.ucsd.edu/teachingprof/)
