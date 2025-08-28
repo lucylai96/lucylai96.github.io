@@ -1,4 +1,4 @@
-## letters of recommendation
+## letters of recommendation ✉️
 ***
 
 Hi there! If you've asked me or are thinking of asking me for a letter of recommendation (LOR), **please read this page in its entirety.**
