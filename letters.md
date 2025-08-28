@@ -19,16 +19,16 @@ Here's how you can request your LOR and help me write the best letter possible f
 ### tips and reminders
 
 If you need to provide my information, you can use the following:
-Lucy Lai
-Assistant Teaching Professor 
-Department of Cognitive Science
-University of California San Diego
-(936)-978-0836
+Lucy Lai<br>
+Assistant Teaching Professor <br>
+Department of Cognitive Science<br>
+University of California San Diego<br>
+(936)-978-0836<br>
 lai@ucsd.edu
 
-Cognitive Science Building 244
-9500 Gilman Drive
-La Jolla, CA 92093
+Cognitive Science Building 244<br>
+9500 Gilman Drive<br>
+La Jolla, CA 92093<br>
 
 - Make sure to waive your right to view recommendation letters submitted for you. This will allow me (and your other writers) to speak more honestly. If I’ve agreed to write you a letter it’ll likely be quite strong, so there’s nothing to be worried about!
 - Please try and send me a reminder one week before your application is due! I’m pretty good at keeping track of things but we all make mistakes sometimes :-) You are never bothering me by sending me more reminders.
