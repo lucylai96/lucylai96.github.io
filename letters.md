@@ -14,7 +14,9 @@ If you have served on my course staff as a TA or PLA, or have worked with me as 
 Here's how you can request your LOR:
 
 1. If you meet the above criteria, give me a heads up **ASAP** via email after deciding that you want a letter from me, and let me know when your first deadline is. The sooner you let me know, the better (so I can make a mental note of it).
-2. Then, start working on this [Recommendation Letter Request](https://docs.google.com/document/d/1RBUO8wjLI1xRICTzjUuHDo1dj7VglI4wkSYNaKaDtN8/edit?usp=sharing) document. Everything you write in this document helps me help you have the highest chances of getting your desired oppourtunity. Once you are finished, email this document to me at [lai@ucsd.edu](mailto:lai@ucsd.edu) (either link the document in your email, or attach it as a PDF). Note that I need this document from you at _**at least**_ 2 weeks before your first deadline.
+2. Then, start working on your [Recommendation Letter Request](https://docs.google.com/document/d/1RBUO8wjLI1xRICTzjUuHDo1dj7VglI4wkSYNaKaDtN8/edit?usp=sharing). Everything you include in this document helps me write you the strongest possible letter! Once you are finished, email this document to me at [lai@ucsd.edu](mailto:lai@ucsd.edu) (either link a Google Doc in your email, or attach it as a PDF).
+  
+**Please note** that I need this document from you at _**at least 2 weeks**_ before your first deadline.
 
 ### tips and reminders
 
