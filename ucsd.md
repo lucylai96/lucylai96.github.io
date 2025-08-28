@@ -23,7 +23,7 @@ It’s one thing to hear about my teaching from me, but it's often more helpful 
 - A full list of courses I've taught and their descriptions can be found [here](https://lucylai.com/teaching.html).
 
 ### who am I? 🎓
-I earned my Ph.D. in [Neuroscience](https://pinphd.hms.harvard.edu/) from Harvard in 2024, where I worked on [developing computational theories of learning and decision making](https://lucylai.com/files/lai_precis.pdf). Before that, I got my B.A. in [Cognitive Science](https://cogsci.rice.edu/) from Rice University---I'd like to think that I've been a cognitive scientist from the start, which is why I'm ecstatic to be starting my career at the [first cognitive science department in the world](https://cogsci.ucsd.edu/about/dept-history.html)! 
+I earned my Ph.D. in [Neuroscience](https://pinphd.hms.harvard.edu/) from Harvard in 2024, where I worked on [developing computational theories of learning and decision making](https://lucylai.com/files/lai_precis.pdf). Before that, I got my B.A. in [Cognitive Science](https://cogsci.rice.edu/) from Rice University.
 
 As an Assistant Teaching Professor[^1], I focus on designing and teaching high-quality courses that will equip you with fundamental knowledge and skills across several subfields of cognitive science. My [research](https://lucylai.com/research) and [teaching](https://lucylai.com/teaching) background spans neuroscience, psychology, psychiatry, machine learning, and behavioral economics. I'm especially passionate about inclusive and innovative pedagogy, active learning, and using AI to augment (but not replace!) how we learn.
 [^1]: see this [great FAQ about teaching professors](https://wstyler.ucsd.edu/teachingprof/)
@@ -57,12 +57,12 @@ Yes! I'm currently in the process of designing two new COGS courses:
 I expect these courses to be offered for the first time starting in the 2026-2027 academic year.
 
 #### Do you require attendence? 
-I don't require attendence in my courses, but I strive to make class a valuable use of your time. I put effort into designing interactive, engaging lectures that promote active learning. Not only is this approach more effective for understanding the material, it also means you won’t need to play catch-up as much if you miss class. That said, I also value flexibility, so all lectures will be recorded and podcasted when possible!
-
+I don't require lecture attendence in my courses (it's often extra credit), but I strive to make class a valuable use of your time. I put effort into designing interactive, engaging lectures that promote **active learning** (there is a plethora of [scientific evidence](https://citl.indiana.edu/teaching-resources/evidence-based/active-learning.html) showing how this approach is more effective for retaining and understanding material). Attending lecture will help you stay on top of the course and reduce the need to play catch-up later. That said, I also value flexibility, so all lectures will be recorded and podcasted!
+ 
 #### Can I do research with you?
 Not just yet---but hopefully soon! During my first year at UCSD, I’ll be focused on developing and teaching several courses for the first time, and I want to make sure they are well-prepped and high-quality. As a result, **I will not be recruiting research assistants for the 2025–2026 academic year** (but stay tuned in case that changes!).
 
 #### I am a PhD student, can you be my main supervisor?
-As a teaching-focused faculty member, my first priority is providing high-quality undergraduate instruction. That said, I do maintain an active research agenda working on computational models of learning, decision making, belief change, and human-AI collaboration (you can read more about my research [here](https://lucylai.com/research.html)). While I will be focusing my first year at UCSD on teaching, I'm open to advising or co-advising a very limited number of Ph.D. students in the future through the [Cognitive Science Ph.D. Program](https://cogsci.ucsd.edu/graduates/phd-program/index.html). I’m also happy to serve on dissertation committees where there’s a good research fit.
+As a teaching-focused faculty member, my first priority is providing high-quality undergraduate instruction. That said, I do maintain an active research agenda working on computational models of learning, decision making, and belief change (you can read more about my research [here](https://lucylai.com/research.html)). While I will be focusing my first year at UCSD on teaching, I'm open to advising or co-advising a very limited number of Ph.D. students in the future through the [Cognitive Science Ph.D. Program](https://cogsci.ucsd.edu/graduates/phd-program/index.html). I’m also happy to serve on dissertation committees where there’s a good research fit.
 
 ***
