@@ -19,16 +19,16 @@ Here's how you can request your LOR:
 
 ### tips and reminders
 - If you need to provide my information, you can use the following: <br>
-    Lucy Lai<br>
-    Assistant Teaching Professor <br>
-    Department of Cognitive Science<br>
-    University of California San Diego<br>
-    (936)-978-0836<br>
-    lai@ucsd.edu
+        Lucy Lai<br>
+        Assistant Teaching Professor <br>
+        Department of Cognitive Science<br>
+        University of California San Diego<br>
+        (936)-978-0836<br>
+        lai@ucsd.edu
 
-    Cognitive Science Building 244<br>
-    9500 Gilman Drive<br>
-    La Jolla, CA 92093
+        Cognitive Science Building 244<br>
+        9500 Gilman Drive<br>
+        La Jolla, CA 92093
 
 - Make sure to **waive your right** to view recommendation letters submitted on your behalf. This will allow me (and your other writers) to speak more honestly. If I’ve agreed to write you a letter, it will likely be strong, so there’s nothing to be worried about!
 - Finally, please keep in touch and let me know how things go! I love celebrating my students’ successes, and I also want to know if things don’t turn out the way you hoped. I’ve been on the receiving end of many rejections myself, and I truly believe that the earlier you get used to it, the easier it becomes to handle. Good luck!
