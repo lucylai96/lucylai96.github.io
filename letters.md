@@ -15,17 +15,17 @@ Here's how you can request your LOR:
 2. Then, start working on your [Recommendation Letter Request](https://docs.google.com/document/d/1RBUO8wjLI1xRICTzjUuHDo1dj7VglI4wkSYNaKaDtN8/edit?usp=sharing). Everything you include in this document helps me write you the strongest possible letter! Once you are finished, email this document to me at [lai@ucsd.edu](mailto:lai@ucsd.edu) (either link a Google Doc in your email, or attach it as a PDF).
     * **Please note:** I need this document from you at _**at least 2 weeks**_ before your first deadline.
     * **If you are applying for an opportunity that requires a recommendation that is *NOT* a traditional letter** (e.g., a portal that asks me to answer a few questions about you), please email me with the relevant details.
-4. Please try to send me a reminder **one week before your application(s) is due!** I’m usually good at keeping track of things, but we all make mistakes sometimes :-) You are never bothering me by sending me more reminders.
+3. Please try to send me a reminder **one week before your application(s) is due!** I’m usually good at keeping track of things, but we all make mistakes sometimes :-) You are never bothering me by sending me more reminders.
 
 ### tips and reminders
 - If you need to provide my information, you can use the following:
 
-Lucy Lai<br>
-Assistant Teaching Professor <br>
-Department of Cognitive Science<br>
-University of California San Diego<br>
-(936)-978-0836<br>
-lai@ucsd.edu
+    Lucy Lai<br>
+    Assistant Teaching Professor <br>
+    Department of Cognitive Science<br>
+    University of California San Diego<br>
+    (936)-978-0836<br>
+    lai@ucsd.edu
 
 Cognitive Science Building 244<br>
 9500 Gilman Drive<br>
