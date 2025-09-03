@@ -10,6 +10,19 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 ### UCSD
 
 <details style="margin-bottom: 20px;">
+<summary><strong>COGS 109: Modeling and Data Analysis</strong> ·
+<a href="https://cogs109.github.io/fa25/" target="_blank">course website</a> · 
+<a href="https://docs.google.com/document/d/1SdpRRqtwHRpUCxthoSMRfS8kZEPTlqgsQaZ8pjTMwKE/edit?usp=sharing" target="_blank">syllabus (draft)</a> · 
+
+<p>**Understanding data is key to understanding the world around us.** This course introduces core concepts in analyzing and interpreting data, including prediction, inference, model complexity, and data dimensionality. You will learn about data analysis techniques such as regression, clustering, and principal component analysis, and apply them to real-world datasets. We will focus on examples relevant to cognitive science, but the skills you gain will be broadly applicable across various domains.
+
+**This could be a good course for you** if you want to strengthen your ability to think critically about data, apply statistical tools to real-world problems, and communicate data insights clearly.</p>
+
+<p><strong>Prerequisites:</strong> <a href="#">COGS 14B</a> and <a href="#">MATH 18 or 31AH</a> and <a href="#"> COGS18 or CSE 7 or CSE 8A or CSE 11</a> or permission of instructor.</p>
+</details>
+
+
+<details style="margin-bottom: 20px;">
 <summary><strong>COGS 180: Decision Making in the Brain</strong> ·
 <a href="https://cogs180.github.io/su24/" target="_blank">course website</a> · 
 <a href="https://docs.google.com/document/d/1YbU2V1225l-x12fQKUVlMM4-4mK96GNLAb7WUcLVrbA/edit?tab=t.0" target="_blank">syllabus</a> · 
