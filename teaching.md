@@ -9,10 +9,10 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 
 ### UCSD
 **For the 2025-2026 academic year, I am teaching:**
-- COGS 109: Modeling and Data Analysis (Fall)
-- COGS 180: Decision Making in the Brain (Winter)
-- COGS 9: Decision Making in the Brain (Winter & Spring)
-- COGS 118D: Computational Modeling of Behavior (Spring)
+| **Fall** | **Winter** | **Spring** |
+|:--------:|:----------:|:----------:|
+| COGS 109 |  COGS 180  |  COGS 118D |
+|          |   COGS 9   |   COGS 9   |
 
 <details style="margin-bottom: 20px;">
 <summary><strong>COGS 109: Modeling and Data Analysis</strong> ·
