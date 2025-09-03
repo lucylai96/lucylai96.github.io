@@ -18,8 +18,8 @@ Here's how you can request your LOR:
 3. Please try to send me a reminder **one week before your application(s) is due!** I’m usually good at keeping track of things, but we all make mistakes sometimes :-) You are never bothering me by sending me more reminders.
 
 ### tips and reminders
-- If you need to provide my information, you can use the following: <br>
-        Lucy Lai<br>
+- If you need to provide my information, you can use the following:
+    > Lucy Lai<br>
         Assistant Teaching Professor <br>
         Department of Cognitive Science<br>
         University of California San Diego<br>
