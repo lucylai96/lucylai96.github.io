@@ -13,22 +13,22 @@ Here's how you can request your LOR:
 
 1. If you meet the above criteria, give me a heads up **ASAP** via email after deciding that you want a letter from me, and let me know when your first deadline is. The sooner you let me know, the better (so I can make a mental note of it).
 2. Then, start working on your [Recommendation Letter Request](https://docs.google.com/document/d/1RBUO8wjLI1xRICTzjUuHDo1dj7VglI4wkSYNaKaDtN8/edit?usp=sharing). Everything you include in this document helps me write you the strongest possible letter! Once you are finished, email this document to me at [lai@ucsd.edu](mailto:lai@ucsd.edu) (either link a Google Doc in your email, or attach it as a PDF).
-    * **Please note:** I need this document from you at _**at least 2 weeks**_ before your first deadline.
-    * **If you are applying for an opportunity that requires a recommendation that is *NOT* a traditional letter** (e.g., a portal that asks me to answer a few questions about you), please email me with the relevant details.
+    * **Please note:** I need this document from you at **at least 2 weeks** before your first deadline.
+    * **If you are applying for an opportunity that requires a recommendation that is NOT a traditional letter** (e.g., a portal that asks me to answer a few questions about you), please email me with the relevant details.
 3. Please try to send me a reminder **one week before your application(s) is due!** I’m usually good at keeping track of things, but we all make mistakes sometimes :-) You are never bothering me by sending me more reminders.
 
 ### tips and reminders
 - If you need to provide my information, you can use the following:
     > Lucy Lai<br>
-        Assistant Teaching Professor <br>
-        Department of Cognitive Science<br>
-        University of California San Diego<br>
-        (936)-978-0836<br>
-        lai@ucsd.edu
+      Assistant Teaching Professor <br>
+      Department of Cognitive Science<br>
+      University of California San Diego<br>
+      (936)-978-0836<br>
+      lai@ucsd.edu
 
-        Cognitive Science Building 244<br>
-        9500 Gilman Drive<br>
-        La Jolla, CA 92093
+    > Cognitive Science Building 244<br>
+      9500 Gilman Drive<br>
+      La Jolla, CA 92093
 
 - Make sure to **waive your right** to view recommendation letters submitted on your behalf. This will allow me (and your other writers) to speak more honestly. If I’ve agreed to write you a letter, it will likely be strong, so there’s nothing to be worried about!
 - Finally, please keep in touch and let me know how things go! I love celebrating my students’ successes, and I also want to know if things don’t turn out the way you hoped. I’ve been on the receiving end of many rejections myself, and I truly believe that the earlier you get used to it, the easier it becomes to handle. Good luck!
