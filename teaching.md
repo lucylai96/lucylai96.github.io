@@ -14,7 +14,19 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 | COGS 109 |  COGS 180  |  COGS 118D |
 |          |   COGS 9   |   COGS 9   |
 
-<details style="margin-bottom: 20px;">
+<details style="margin-bottom: 10px;">
+<summary><strong>COGS 118D: Computational Modeling and Analysis of Behavior</strong> ·
+<a href="https://cogs118d.github.io/sp26/" target="_blank">course website (in dev)</a> · 
+<a href="https://docs.google.com/" target="_blank">syllabus (draft)</a></summary> 
+
+<p>Behavioral data is everywhere—revealing how we think, learn, and act. This course equips you to analyze, model, and predict behavior using tools from machine learning. We will explore a variety of computational models, including Bayesian models, latent variable models, and time series analysis, and apply them to real-world datasets. A practical course for students interested in behavioral data science or computational research in human behavior.
+
+This could be a good course for you if you are interested in applying machine learning concepts to analyze real behavioral datasets and/or learning to generate new research questions at the frontier of computational cognitive science. The course will rely on interactive discussion and collaboration, and will offer a chance to hone your research, presentation, and communication skills.</p>
+
+<p><strong>Prerequisites:</strong> <a href="#">TBD</a> and <a href="#">TBD</a> and <a href="#">TBD</a> or permission of instructor.</p>
+</details>
+
+<details style="margin-bottom: 10px;">
 <summary><strong>COGS 109: Modeling and Data Analysis</strong> ·
 <a href="https://cogs109.github.io/fa25/" target="_blank">course website</a> · 
 <a href="https://docs.google.com/document/d/1SdpRRqtwHRpUCxthoSMRfS8kZEPTlqgsQaZ8pjTMwKE/edit?usp=sharing" target="_blank">syllabus (draft)</a></summary> 
@@ -23,7 +35,6 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 
 <p><strong>Prerequisites:</strong> <a href="#">COGS 14B</a> and <a href="#">MATH 18 or 31AH</a> and <a href="#"> COGS18 or CSE 7 or CSE 8A or CSE 11</a> or permission of instructor.</p>
 </details>
-
 
 <details style="margin-bottom: 20px;">
 <summary><strong>COGS 180: Decision Making in the Brain</strong> ·
