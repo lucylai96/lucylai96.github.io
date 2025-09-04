@@ -22,7 +22,7 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 <a href="https://docs.google.com/" target="_blank">syllabus (draft)</a></summary> 
 
 <p>Behavioral data is everywhere—revealing how we think, learn, and act. This course equips you to analyze, model, and predict human behavior using tools from machine learning. We will explore a variety of computational models, including Bayesian models, latent variable models, and time series analysis, and apply them to real-world datasets. A practical course for students interested in behavioral data science or computational research in human behavior.
-<br>
+<br><br>
 <strong>This could be a good course for you</strong> if you are interested in applying machine learning concepts to analyze real behavioral datasets and/or learning to generate new research questions at the frontier of computational cognitive science. The course will rely on interactive discussion and collaboration, and will offer a chance to hone your research, presentation, and communication skills.</p>
 
 <p><strong>Prerequisites:</strong> <a href="#">TBD</a> and <a href="#">TBD</a> and <a href="#">TBD</a> or permission of instructor.</p>
@@ -33,11 +33,11 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 <a href="https://cogs9.github.io/" target="_blank">course website (in dev)</a> · 
 <a href="https://docs.google.com/" target="_blank">syllabus (draft)</a></summary> 
 
-<p>Behavioral data is everywhere—revealing how we think, learn, and act. This course equips you to analyze, model, and predict behavior using tools from machine learning. We will explore a variety of computational models, including Bayesian models, latent variable models, and time series analysis, and apply them to real-world datasets. A practical course for students interested in behavioral data science or computational research in human behavior.
+<p>Data shapes the news we read, the decisions we make, and the products we use. This course is a friendly introduction to the world of data science, where you’ll learn how to ask good questions about data, make sense of patterns, and share insights through clear and engaging visualizations. We’ll also explore issues of privacy, fairness, and the ways data can be misused. 
+<br><br>
+<strong>This could be a good course for you</strong>  if you’re curious about how data influences science and industry, and you want to practice thinking critically and responsibly about data in the context of real-world problems.</p>
 
-This could be a good course for you if you are interested in applying machine learning concepts to analyze real behavioral datasets and/or learning to generate new research questions at the frontier of computational cognitive science. The course will rely on interactive discussion and collaboration, and will offer a chance to hone your research, presentation, and communication skills.</p>
-
-<p><strong>Prerequisites:</strong> <a href="#">TBD</a> and <a href="#">TBD</a> and <a href="#">TBD</a> or permission of instructor.</p>
+<p><strong>Prerequisites:</strong> <a href="#">None! Everyone is welcome!</a> </p>
 </details>
 
 <details style="margin-bottom: 10px;">
