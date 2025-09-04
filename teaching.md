@@ -11,8 +11,8 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 **For the 2025-2026 academic year, I am teaching:**
 | Fall '25 | Winter '26 | Spring '26 |
 | -------- | ---------- | ---------- |
-| COGS 109 | COGS 180   | COGS 118D  |
-|          | COGS 9     | COGS 9     |
+| COGS 109 |  COGS 180  |  COGS 118D |
+|          |   COGS 9   |   COGS 9   |
 
 ### UCSD
 <details style="margin-bottom: 10px;">
