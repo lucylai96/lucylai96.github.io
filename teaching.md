@@ -35,7 +35,7 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 
 <p>Data shapes the news we read, the decisions we make, and the products we use. This course is a friendly introduction to the world of data science, where you’ll learn how to ask good questions about data, make sense of patterns, and share insights through clear and engaging visualizations. We’ll also explore issues of privacy, fairness, and the ways data can be misused. 
 <br><br>
-<strong>This could be a good course for you</strong>  if you’re curious about how data influences science and industry, and you want to practice thinking critically and responsibly about data in the context of real-world problems.</p>
+<strong>This could be a good course for you</strong> if you’re curious about how data influences science and industry, and you want to practice thinking critically and responsibly about data in the context of real-world problems.</p>
 
 <p><strong>Prerequisites:</strong> <a href="#">None! Everyone is welcome!</a> </p>
 </details>
@@ -45,7 +45,9 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 <a href="https://cogs109.github.io/fa25/" target="_blank">course website</a> · 
 <a href="https://docs.google.com/document/d/1SdpRRqtwHRpUCxthoSMRfS8kZEPTlqgsQaZ8pjTMwKE/edit?usp=sharing" target="_blank">syllabus (draft)</a></summary> 
 
-<p> Understanding data is key to understanding the world around us. This course introduces core concepts in analyzing and interpreting data, including prediction, inference, model complexity, and data dimensionality. You will learn about data analysis techniques such as regression, clustering, and principal component analysis, and apply them to real-world datasets. We will focus on examples relevant to cognitive science, but the skills you gain will be broadly applicable across various domains.</p>
+<p> Understanding data is key to understanding the world around us. This course introduces core concepts in analyzing and interpreting data, including prediction, inference, model complexity, and data dimensionality. You will learn about data analysis techniques such as regression, clustering, and principal component analysis, and apply them to real-world datasets. We will focus on examples relevant to cognitive science, but the skills you gain will be broadly applicable across various domains.
+<br><br>
+<strong>This could be a good course for you</strong> if you want to strengthen your ability to think critically about data, apply statistical tools to real-world problems, and communicate insights from data clearly. </p>
 
 <p><strong>Prerequisites:</strong> <a href="#">COGS 14B</a> and <a href="#">MATH 18 or 31AH</a> and <a href="#"> COGS18 or CSE 7 or CSE 8A or CSE 11</a> or permission of instructor.</p>
 </details>
