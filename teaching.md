@@ -3,14 +3,15 @@ layout: default
 ---
 ## teaching
 ***
-> "Docendo discimus...By teaching, we learn."  - Seneca
+> _"Docendo discimus...By teaching, we learn."_  - Seneca
 
 Teaching is one of my greatest joys :-) Below are courses that I've developed and taught over the years, with relevant course materials and teaching evaluations. (Click the arrow on the left to see the course description.)
 ### Current course offerings
 
 **For the 2025-2026 academic year, I am teaching:**
-| Fall '25 | Winter '26 | Spring '26 |
-| -------- | ---------- | ---------- |
+
+| Fall | Winter | Spring |
+| :-------: | :--------: | :--------: |
 | COGS 109 |  COGS 180  |  COGS 118D |
 |          |   COGS 9   |   COGS 9   |
 
