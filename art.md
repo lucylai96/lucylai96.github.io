@@ -11,7 +11,6 @@ creations and contemplations. <br>
   <li>   <a href="https://subcorticalsongs.wordpress.com/2020/01/21/and-now-we-see-in-20-20/" target="_blank"> <i> and now we see in 20/20 </i> </a> / on forgiveness </li>
   <li>   <a href="https://subcorticalsongs.wordpress.com/2020/12/07/the-dentist/" target="_blank"> <i> the dentist </i> </a> / a routine visit </li>
   <li>   <a href="https://subcorticalsongs.wordpress.com/2021/03/04/subtly/" target="_blank">  <i> subtly </i> </a> / phenomenological experiences </li>
-  <li>   <a href="https://subcorticalsongs.wordpress.com/2019/06/08/summertime/" target="_blank"> <i> summertime </i> </a> / the best month</li>
   <li>   <a href="https://subcorticalsongs.wordpress.com/2018/08/06/getting-intimate-with-a-crab/" target="_blank">  <i> getting intimate with a crab </i> </a>/ thoughts before a satisfying meal </li>
   <li>   <a href="https://subcorticalsongs.wordpress.com/2018/06/24/the-orange/" target="_blank">  <i>  the orange </i></a> / reconsidering the ordinary  </li>
   <li>   <a href="https://subcorticalsongs.wordpress.com/2018/06/22/sliced-pears/" target="_blank"> <i> sliced pears </i></a> / a father's love </li>
@@ -26,6 +25,7 @@ creations and contemplations. <br>
 <summary> <i> stories </i> // personal writings </summary>
 
 <ul>
+  <li>   <a href="https://sabbatical.lucylai.com/p/becoming-professor-lai" target="_blank">  <i> becoming professor lai </i> </a> / fulfilling my childhood dreams </li>
   <li>   <a href="https://lucyblogs.wordpress.com/2019/11/28/a-letter-from-the-past/" target="_blank">  <i> a letter from the past </i> </a> / a letter from my 16-year-old self </li>
   <li>   <a href="https://lucyblogs.wordpress.com/2020/08/09/it-is-rare/" target="_blank"> <i> everything is limited by time </i> </a> / an unexpected conversation </li>
   <li>   <a href="https://lucyblogs.wordpress.com/2021/08/22/a-home-a-haven-my-room/" target="_blank"> <i> a home, a haven </i> </a> / attempting interior design </li>
@@ -38,7 +38,7 @@ creations and contemplations. <br>
 
 <details>
 <summary> <i> sounds </i> // compositions </summary>
-<i><b> Reflections (2013)</b></i> / an EP I wrote in high school
+<i><b> Reflections (2013)</b></i> / some songs I wrote in high school
 <br>
 <iframe width="100%" height="350" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/39690369&color=%23000000&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lucy_lai" title="Lucy Lai" target="_blank" style="color: #cccccc; text-decoration: none;">Lucy Lai</a> · <a href="https://soundcloud.com/lucy_lai/sets/reflections" title="Reflections" target="_blank" style="color: #cccccc; text-decoration: none;">Reflections</a></div>
 
