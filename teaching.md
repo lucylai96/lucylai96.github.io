@@ -18,20 +18,20 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 ### UCSD
 <details style="margin-bottom: 10px;">
 <summary><strong>COGS 118D: Computational Modeling and Analysis of Human Behavior</strong> ·
-<a href="https://cogs118d.github.io/sp26/" target="_blank">course website (in dev)</a> · 
-<a href="https://docs.google.com/" target="_blank">syllabus (draft)</a></summary> 
+<a href=" " target="_blank">course website (in dev)</a> · 
+<a href=" " target="_blank">syllabus (in dev)</a></summary> 
 
 <p>Behavioral data is everywhere—revealing how we think, learn, and act. This course equips you to analyze, model, and predict human behavior using tools from machine learning. We will explore a variety of computational models, including Bayesian models, latent variable models, and time series analysis, and apply them to real-world datasets. A practical course for students interested in behavioral data science or computational research in human behavior.
 <br><br>
 <strong>This could be a good course for you</strong> if you are interested in applying machine learning concepts to analyze real behavioral datasets and/or learning to generate new research questions at the frontier of computational cognitive science. The course will rely on interactive discussion and collaboration, and will offer a chance to hone your research, presentation, and communication skills.</p>
 
-<p><strong>Prerequisites:</strong> <a href="#">TBD</a> and <a href="#">TBD</a> and <a href="#">TBD</a> or permission of instructor.</p>
+<p><strong>Prerequisites:</strong> <a href="#">Programming: BILD 62 or COGS 18 or CSE 11 or CSE 8B</a> and <a href="#">Linear algebra: MATH 18 or MATH 31AH</a> and <a href="#">Probability & statistics: ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 183 or MATH 186</a> and <a href="#">Data science & ML: COGS 108 or COGS 109 or COGS 118A or COGS 118B or COGS 188 or CSE 150A or CSE 151A or CSE 158 or CSE 158R or DSC 148 or ECE 174 or ECE 175A</a> or permission of instructor. **NOTE:** These are different than the old prereqs! I am in the process of updating the official course description and reqs, so please ensure that you have these core skills before enrolling.</p>
 </details>
 
 <details style="margin-bottom: 10px;">
 <summary><strong>COGS 9: Intro to Data Science</strong> ·
-<a href="https://cogs9.github.io/" target="_blank">course website (in dev)</a> · 
-<a href="https://docs.google.com/" target="_blank">syllabus (draft)</a></summary> 
+<a href=" " target="_blank">course website (in dev)</a> · 
+<a href=" " target="_blank">syllabus (in dev)</a></summary> 
 
 <p>Data shapes the news we read, the decisions we make, and the products we use. This course is a friendly introduction to the world of data science, where you’ll learn how to ask good questions about data, make sense of patterns, and share insights through clear and engaging visualizations. We’ll also explore issues of privacy, fairness, and the ways data can be misused. 
 <br><br>
