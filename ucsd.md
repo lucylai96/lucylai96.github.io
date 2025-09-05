@@ -7,7 +7,7 @@
 I’m super excited to be starting as **Assistant Teaching Professor** 👩🏻‍🏫 in the [Department of Cognitive Science](https://cogsci.ucsd.edu/){:target="_blank"} at UCSD!
 
 **For the 2025-2026 academic year, I will be teaching:**
-- **COGS 109**: Modeling and Data Analysis (Fa25) | Currently [looking for PLAs](https://lucylai.com/opps){:target="_blank"}!
+- **COGS 109**: Modeling and Data Analysis (Fa25) | 🚨📢 Currently [looking for PLAs](https://lucylai.com/opps){:target="_blank"}!
 - **COGS 180**: Decision Making in the Brain (Wi26)
 - **COGS 9**: Intro to Data Science (Wi26, Sp26)
 - **COGS 118D**: Computational Modeling and Analysis of Human Behavior (Sp26, _as a revamped course_)
