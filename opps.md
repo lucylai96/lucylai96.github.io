@@ -8,7 +8,7 @@ On this page, I'll post any current open oppourtunities to work with me as a TA,
 
 Whether you end up in academia or industry, you will likely encounter opportunities to teach, mentor, or support others. The PLA role a structured way to practice these skills. Under my guidance, you will gain hands-on experience in evidence-based pedagogy, course facilitation, and academic mentorship by helping shape an effective learning environment for one of my courses. You will also deepen your understanding of the course material (the best way to learn is to teach!), strengthen your communication and leadership skills, and see firsthand how courses are intentionally designed and taught with students in mind. 
 
-**Basic requirements:**
+**Basic requirements:** (see the [official COGS PLA site](https://cogsci.ucsd.edu/undergraduates/student-resources/ia.html) for more info)
 * Upper-division standing (90+ units completed)
 * GPA > 3.0
 * Earned **at least an A-** in the course. 
@@ -16,8 +16,6 @@ Whether you end up in academia or industry, you will likely encounter opportunit
 * **Cannot** serve as a PLA for the **same course twice**.
 * **Cannot** be a PLA **more than twice** in your entire academic career.
 * **Instructor approval required** (see #2 below)
-
-See the [official COGS PLA site](https://cogsci.ucsd.edu/undergraduates/student-resources/ia.html) for more info.
 
 **NOTE: PLA applications in COGS are now course-based and require my approval.** If you’d like to be considered for a PLA position for COGS 109 this Fall, please do the following:
 1. Read this [PLA "syllabus"](https://docs.google.com/document/d/15gANVvomvQle8RsERJd59eQBw42BnHl-q4xsdVKCUc4/edit?usp=sharing) in its entirety to get a sense of the role and responsibilities of working with me.
