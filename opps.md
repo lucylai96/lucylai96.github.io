@@ -15,7 +15,7 @@ Whether you end up in academia or industry, you will likely encounter opportunit
 * Can only serve as a PLA for **one course per quarter**.
 * **Cannot** serve as a PLA for the **same course twice**.
 * **Cannot** be a PLA **more than twice** in your entire academic career.
-* **Instructor approval required** (see #2 below)
+* **Instructor approval required** (see #2 below)<br>
 See the [official COGS PLA site](https://cogsci.ucsd.edu/undergraduates/student-resources/ia.html) for more info.
 
 **NOTE: PLA applications in COGS are now course-based and require my approval.** If you’d like to be considered for a PLA position for COGS 109 this Fall, please do the following:
