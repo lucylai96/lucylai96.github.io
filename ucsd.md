@@ -14,9 +14,11 @@ I’m super excited to be starting as **Assistant Teaching Professor** 👩🏻�
 
 In the future, I plan to also teach **COGS 182**: Introduction to Reinforcement Learning, as well as two _**new**_ courses, one about AI and one about the cognitive science of beliefs (see below).
 
+I am also looking for PLAs for Fall 2025! 
+
 If you’re a current UCSD student wondering who I am or whether you should take one of the above courses with me, you’re in the right place 😊 As a student, I remember feeling hesitant about taking a course with a brand new professor--- _How would I know if they’re any good at teaching?_ So now that I’m the new professor, I want to introduce myself and let you know what you can expect from me as an instructor.
 
-### quick links 🔗
+### recent teaching evaluations 🔗
 It’s one thing to hear about my teaching from me, but it's often more helpful to hear from students who’ve taken my classes! If you want to skip the rest of this page and go straight to the receipts 🧾, here are some recent teaching evaluations from my former students:
 - [SET evaluations](https://lucylai.com/files/cogs180_set.pdf) (formerly CAPEs) and [additional student feedback](https://lucylai.com/files/cogs180_survey.pdf) from [COGS 180: Decision Making in the Brain](https://cogs180.github.io/su24/) (UCSD)
 - [Teaching evaluations](https://lucylai.com/files/gened1125_teaching.pdf) from [GENED 1125: Artificial and Natural Intelligence](https://gened1125.github.io/spring2024/) (Harvard), a course I helped teach as Head Teaching Fellow (mostly via guest lectures and discussion sections).
@@ -25,7 +27,8 @@ It’s one thing to hear about my teaching from me, but it's often more helpful 
 ### who am I? 🎓
 I earned my Ph.D. in [Neuroscience](https://pinphd.hms.harvard.edu/) from Harvard in 2024, where I worked on [developing computational theories of learning and decision making](https://lucylai.com/files/lai_precis.pdf). Before that, I got my B.A. in [Cognitive Science](https://cogsci.rice.edu/) from Rice University. I was born in New England ☃️, but mainly grew up in Texas 🤠.
 
-As an Assistant Teaching Professor[^1], I focus on designing and teaching high-quality courses that will equip you with fundamental knowledge and skills across several subfields of cognitive science. My [research](https://lucylai.com/research) and [teaching](https://lucylai.com/teaching) background spans neuroscience, psychology, psychiatry, machine learning, and behavioral economics. I'm especially passionate about inclusive and innovative pedagogy, active learning, and using AI to augment (but not replace!) how we learn.
+As an Assistant Teaching Professor [^1], I focus on designing and teaching high-quality courses that will equip you with fundamental knowledge and skills across several subfields of cognitive science. My [research](https://lucylai.com/research) and [teaching](https://lucylai.com/teaching) background spans neuroscience, psychology, psychiatry, machine learning, and behavioral economics. I'm especially passionate about inclusive and innovative pedagogy, active learning, and using AI to augment (but not replace!) how we learn.
+
 [^1]: see this [great FAQ about teaching professors](https://wstyler.ucsd.edu/teachingprof/)
 
 ### my teaching philosophy 👩🏻‍🏫
@@ -60,9 +63,10 @@ I expect these courses to be offered for the first time starting in the 2026-202
 I don't require lecture attendence in my courses (it's often extra credit), but I strive to make class a valuable use of your time. I put effort into designing interactive, engaging lectures that promote **active learning** (there is a plethora of [scientific evidence](https://citl.indiana.edu/teaching-resources/evidence-based/active-learning.html) showing how this approach is more effective for retaining and understanding material). Attending lecture will help you stay on top of the course and reduce the need to play catch-up later. That said, I also value flexibility, so all lectures will be recorded and podcasted!
  
 #### Can I do research with you?
-Not just yet---but hopefully soon! During my first year at UCSD, I’ll be focused on developing and teaching several courses for the first time, and I want to make sure they are well-prepped and high-quality. As a result, **I will not be recruiting research assistants for the 2025–2026 academic year** (but stay tuned in case that changes!).
+Not yet---but hopefully soon! During my first year at UCSD, I’ll be focused on developing and teaching several courses for the first time, and I want to make sure they are well-prepped and high-quality. As a result, **I will not be recruiting research assistants for the 2025–2026 academic year** (but stay tuned in case that changes!).
 
 #### I am a PhD student, can you be my main supervisor?
 As a teaching-focused faculty member, my first priority is providing high-quality undergraduate instruction. That said, I do maintain an active research agenda working on computational models of learning, decision making, and belief change (you can read more about my research [here](https://lucylai.com/research.html)). While I will be focusing my first year at UCSD on teaching, I'm open to advising or co-advising a very limited number of Ph.D. students in the future through the [Cognitive Science Ph.D. Program](https://cogsci.ucsd.edu/graduates/phd-program/index.html). I’m also happy to serve on dissertation committees where there’s a good research fit.
 
 ***
+[back](./)
