@@ -19,7 +19,7 @@ Whether you end up in academia or industry, you will likely encounter opportunit
 
 **NOTE: PLA applications in COGS are now course-based and require my approval.** If you’d like to be considered for a PLA position for COGS 109 this Fall, please do the following:
 1. Read this [PLA "syllabus"](https://docs.google.com/document/d/15gANVvomvQle8RsERJd59eQBw42BnHl-q4xsdVKCUc4/edit?usp=sharing){:target="_blank"} in its entirety to get a sense of the role and responsibilities.
-3. Fill out [my PLA application](https://docs.google.com/forms/d/e/1FAIpQLSept59lwQhmjiuiqTEeHwgudheXXVRg6NShJYThDWoa9Kbjjg/viewform?usp=sharing&ouid=113612539407126073694){:target="_blank"} by **Fri, Sep 12**. Note: This is the "instructor approval" step, and is different from the COGS PLA application.
+3. Fill out [my PLA application](https://docs.google.com/forms/d/e/1FAIpQLSept59lwQhmjiuiqTEeHwgudheXXVRg6NShJYThDWoa9Kbjjg/viewform?usp=sharing&ouid=113612539407126073694){:target="_blank"} by **Fri, Sep 19**. Note: This is the "instructor approval" step, and is different from the COGS PLA application.
 4. You will hear from me within a week. If offered a PLA position, please fill out the [official COGS PLA "application"](https://academicaffairs.ucsd.edu/Modules/ASES/Admin/ManageCampaign.aspx?id=6219){:target="_blank"} and I will set up a meeting with you. If you are not offered a position, you may still have the opportunity to work as a paid reader (grader) for the course (though you will be less involved in the course itself).
 
 ### teaching assistants (TAs) 
