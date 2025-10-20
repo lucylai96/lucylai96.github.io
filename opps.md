@@ -4,8 +4,6 @@
 On this page, I'll post any current open oppourtunities to work with me as a TA, PLA (formerly IA), or RA (research assistants).
 
 ### peer learning assistants (PLAs) 
-🚨📢 **I am looking for up to 3 PLAs this Fall '25 quarter for [COGS 109: Modeling and Data Analysis](https://docs.google.com/document/d/1SdpRRqtwHRpUCxthoSMRfS8kZEPTlqgsQaZ8pjTMwKE/edit?usp=sharing){:target="_blank"}.**
-
 Whether you end up in academia or industry, you will likely encounter opportunities to teach, mentor, or support others. The PLA role a structured way to practice these skills. Under my guidance, you will gain hands-on experience in evidence-based pedagogy, course facilitation, and academic mentorship by helping shape an effective learning environment for one of my courses. You will also deepen your understanding of the course material (the best way to learn is to teach!), strengthen your communication and leadership skills, and see firsthand how courses are intentionally designed and taught with students in mind. 
 
 **Basic requirements** (see the [official COGS PLA site](https://cogsci.ucsd.edu/undergraduates/student-resources/ia.html){:target="_blank"} for more info)**:**
@@ -17,10 +15,10 @@ Whether you end up in academia or industry, you will likely encounter opportunit
 * **Cannot** be a PLA **more than twice** in your entire academic career
 * **Instructor approval** (see #2 below)
 
-**NOTE: PLA applications in COGS are now course-based and require my approval.** If you’d like to be considered for a PLA position for COGS 109 this Fall, please do the following:
-1. Read this [PLA "syllabus"](https://docs.google.com/document/d/15gANVvomvQle8RsERJd59eQBw42BnHl-q4xsdVKCUc4/edit?usp=sharing){:target="_blank"} in its entirety to get a sense of the role and responsibilities.
-3. Fill out [my PLA application](https://docs.google.com/forms/d/e/1FAIpQLSept59lwQhmjiuiqTEeHwgudheXXVRg6NShJYThDWoa9Kbjjg/viewform?usp=sharing&ouid=113612539407126073694){:target="_blank"} by **Fri, Sep 19**. Note: This is the "instructor approval" step, and is different from the COGS PLA application.
-4. You will hear from me within a week. If offered a PLA position, please fill out the [official COGS PLA "application"](https://academicaffairs.ucsd.edu/Modules/ASES/Admin/ManageCampaign.aspx?id=6219){:target="_blank"} and I will set up a meeting with you. If you are not offered a position, you may still have the opportunity to work as a paid reader (grader) for the course (though you will be less involved in the course itself).
+**NOTE: PLA applications in COGS are now course-based and require my approval.** If you’d like to be considered for a PLA position, please do the following:
+1. Read this [PLA "syllabus"](https://docs.google.com/document/d/15gANVvomvQle8RsERJd59eQBw42BnHl-q4xsdVKCUc4/edit?usp=sharing){:target="_blank"} in its entirety to get a sense of the general role and responsibilities (may vary depending on the course you are PLAing for).
+3. Fill out [my PLA application](https://docs.google.com/forms/d/e/1FAIpQLSept59lwQhmjiuiqTEeHwgudheXXVRg6NShJYThDWoa9Kbjjg/viewform?usp=sharing&ouid=113612539407126073694){:target="_blank"} anytime before the end of **Week 7** in the quarter prior. Note: This is the "instructor approval" step, and is different from the COGS PLA application.
+4. You will hear from me within a week. If offered a PLA position, please fill out the [official COGS PLA "application"](https://academicaffairs.ucsd.edu/Modules/ASES/Admin/ManageCampaign.aspx?id=6219){:target="_blank"}. If you are not offered a position, you may still have the opportunity to work as a paid reader (grader) for the course (though you will be less involved in the course itself).
 
 ### teaching assistants (TAs) 
 If you are interested in being a TA for [one of the courses that I teach](https://lucylai.com/teaching.html){:target="_blank"}, please do the following:
@@ -30,7 +28,7 @@ If you are interested in being a TA for [one of the courses that I teach](https:
   - Do you have any prior teaching experience? If so, briefly describe your role and responsibilities.
 2. Please apply through the [official TA application](https://cogsci.ucsd.edu/graduates/teaching-assistants/index.html){:target="_blank"}, which opens several weeks before the start of each quarter.
 
-Please note that priority is always given to **COGS grad students**. 
+Please note that priority is always given to **COGS grad students** and excellent TAs who have worked with me in the past. 
 
 ### research assistants (RAs)
 I am not recruiting research assistants at the moment (but stay tuned in case that changes!).
