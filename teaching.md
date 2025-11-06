@@ -30,7 +30,7 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 <p><strong>Prerequisites:</strong> Programming: <a href="#">BILD 62 or COGS 18 or CSE 11 or CSE 8B</a> and Linear algebra: <a href="#">MATH 18 or MATH 31AH</a> and Probability & statistics: <a href="#">ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 183 or MATH 186</a> and Data science & ML: <a href="#">COGS 108 or COGS 109 or COGS 118A or COGS 118B or COGS 188 or CSE 150A or CSE 151A or CSE 158 or CSE 158R or DSC 148 or ECE 174 or ECE 175A</a> or permission of instructor. <strong>NOTE:</strong> These are different than the old prereqs! I am in the process of updating the official course description and reqs, so please ensure that you have these core skills before enrolling.</p>
 </details>
 
-<details style="margin-bottom: 20px;">
+<details style="margin-bottom: 10px;">
 <summary><strong>COGS 180: Decision Making in the Brain</strong> ·
 <a href="https://cogs180.github.io/su24/" target="_blank">course website (su24)</a> · 
 <a href="https://docs.google.com/document/d/1G8SD9n54daiYbeYOqWQfL4beGwLJiq4AFJvM7zNcmX0/edit?usp=sharing" target="_blank">syllabus (draft)</a> · 
@@ -54,7 +54,7 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 <p><strong>Prerequisites:</strong> <a href="#">None! Everyone is welcome!</a> </p>
 </details>
 
-<details style="margin-bottom: 10px;">
+<details style="margin-bottom: 20px;">
 <summary><strong>COGS 109: Modeling and Data Analysis</strong> ·
 <a href="https://cogs109.github.io/fa25/" target="_blank">course website</a> · 
 <a href="https://docs.google.com/document/d/1SdpRRqtwHRpUCxthoSMRfS8kZEPTlqgsQaZ8pjTMwKE/edit?usp=sharing" target="_blank">syllabus</a></summary> 
