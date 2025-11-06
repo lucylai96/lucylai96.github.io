@@ -33,7 +33,7 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 <details style="margin-bottom: 20px;">
 <summary><strong>COGS 180: Decision Making in the Brain</strong> ·
 <a href="https://cogs180.github.io/su24/" target="_blank">course website (su24)</a> · 
-<a href="https://docs.google.com/document/d/1YbU2V1225l-x12fQKUVlMM4-4mK96GNLAb7WUcLVrbA/edit?tab=t.0" target="_blank">syllabus (su24)</a> · 
+<a href="https://docs.google.com/document/d/1G8SD9n54daiYbeYOqWQfL4beGwLJiq4AFJvM7zNcmX0/edit?usp=sharing" target="_blank">syllabus (draft)</a> · 
 <a href="./files/cogs180_set.pdf" target="_blank">SET evals</a> · 
 <a href="./files/cogs180_survey.pdf" target="_blank">course survey</a> </summary>
 
