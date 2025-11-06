@@ -30,6 +30,18 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 <p><strong>Prerequisites:</strong> Programming: <a href="#">BILD 62 or COGS 18 or CSE 11 or CSE 8B</a> and Linear algebra: <a href="#">MATH 18 or MATH 31AH</a> and Probability & statistics: <a href="#">ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 183 or MATH 186</a> and Data science & ML: <a href="#">COGS 108 or COGS 109 or COGS 118A or COGS 118B or COGS 188 or CSE 150A or CSE 151A or CSE 158 or CSE 158R or DSC 148 or ECE 174 or ECE 175A</a> or permission of instructor. <strong>NOTE:</strong> These are different than the old prereqs! I am in the process of updating the official course description and reqs, so please ensure that you have these core skills before enrolling.</p>
 </details>
 
+<details style="margin-bottom: 20px;">
+<summary><strong>COGS 180: Decision Making in the Brain</strong> ·
+<a href="https://cogs180.github.io/su24/" target="_blank">course website (su24)</a> · 
+<a href="https://docs.google.com/document/d/1YbU2V1225l-x12fQKUVlMM4-4mK96GNLAb7WUcLVrbA/edit?tab=t.0" target="_blank">syllabus (su24)</a> · 
+<a href="./files/cogs180_set.pdf" target="_blank">SET evals</a> · 
+<a href="./files/cogs180_survey.pdf" target="_blank">course survey</a> </summary>
+
+<p>This interdisciplinary course aims to unravel the complexities behind human decision making by integrating insights from psychology, economics, neuroscience, psychiatry, design, and machine learning. We will explore everything from the cognitive biases and heuristics that shape our everyday decisions, to how decision making is impaired in various psychiatric disorders. We will also discuss why it's so hard to make rational decisions, and how we can use AI to improve our decision making.</p>
+
+<p><strong>Prerequisites:</strong> <a href="#">COGS 14A</a> and <a href="#">BILD 12 or COGS 17</a> and <a href="#">COGS 18</a> or permission of instructor.</p>
+</details>
+
 <details style="margin-bottom: 10px;">
 <summary><strong>COGS 9: Intro to Data Science</strong> ·
 <a href=" " target="_blank">course website (in dev)</a> · 
@@ -44,26 +56,14 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 
 <details style="margin-bottom: 10px;">
 <summary><strong>COGS 109: Modeling and Data Analysis</strong> ·
-<a href="https://cogs109.github.io/fa25/" target="_blank">course website (in dev)</a> · 
-<a href="https://docs.google.com/document/d/1SdpRRqtwHRpUCxthoSMRfS8kZEPTlqgsQaZ8pjTMwKE/edit?usp=sharing" target="_blank">syllabus (draft)</a></summary> 
+<a href="https://cogs109.github.io/fa25/" target="_blank">course website</a> · 
+<a href="https://docs.google.com/document/d/1SdpRRqtwHRpUCxthoSMRfS8kZEPTlqgsQaZ8pjTMwKE/edit?usp=sharing" target="_blank">syllabus</a></summary> 
 
 <p> Understanding data is key to understanding the world around us. This course introduces core concepts in analyzing and interpreting data, including prediction, inference, model complexity, and data dimensionality. You will learn about data analysis techniques such as regression, clustering, and principal component analysis, and apply them to real-world datasets. We will focus on examples relevant to cognitive science, but the skills you gain will be broadly applicable across various domains.
 <br><br>
 <strong>This could be a good course for you</strong> if you want to strengthen your ability to think critically about data, apply statistical tools to real-world problems, and communicate insights from data clearly. </p>
 
 <p><strong>Prerequisites:</strong> <a href="#">COGS 14B</a> and <a href="#">MATH 18 or 31AH</a> and <a href="#"> COGS18 or CSE 7 or CSE 8A or CSE 11</a> or permission of instructor.</p>
-</details>
-
-<details style="margin-bottom: 20px;">
-<summary><strong>COGS 180: Decision Making in the Brain</strong> ·
-<a href="https://cogs180.github.io/su24/" target="_blank">course website</a> · 
-<a href="https://docs.google.com/document/d/1YbU2V1225l-x12fQKUVlMM4-4mK96GNLAb7WUcLVrbA/edit?tab=t.0" target="_blank">syllabus</a> · 
-<a href="./files/cogs180_set.pdf" target="_blank">SET evals</a> · 
-<a href="./files/cogs180_survey.pdf" target="_blank">course survey</a> </summary>
-
-<p>This interdisciplinary course aims to unravel the complexities behind human decision making by integrating insights from psychology, economics, neuroscience, psychiatry, design, and machine learning. We will explore everything from the cognitive biases and heuristics that shape our everyday decisions, to how decision making is impaired in various psychiatric disorders. We will also discuss why it's so hard to make rational decisions, and how we can use AI to improve our decision making.</p>
-
-<p><strong>Prerequisites:</strong> <a href="#">COGS 14A</a> and <a href="#">BILD 12 or COGS 17</a> and <a href="#">COGS 18</a> or permission of instructor.</p>
 </details>
 
 ### Harvard University
