@@ -16,8 +16,8 @@ Whether you end up in academia or industry, you will likely encounter opportunit
 * **Instructor approval** (see #2 below)
 
 **NOTE: PLA applications in COGS are now course-based and require my approval.** If you’d like to be considered for a PLA position, please do the following:
-1. Read this [PLA "syllabus"](https://docs.google.com/document/d/15gANVvomvQle8RsERJd59eQBw42BnHl-q4xsdVKCUc4/edit?usp=sharing){:target="_blank"} in its entirety to get a sense of the general role and responsibilities (may vary depending on the course you are PLAing for).
-3. Fill out [my PLA application](https://docs.google.com/forms/d/e/1FAIpQLSept59lwQhmjiuiqTEeHwgudheXXVRg6NShJYThDWoa9Kbjjg/viewform?usp=sharing&ouid=113612539407126073694){:target="_blank"} anytime before the end of **Week 7** in the quarter prior (**Nov 14th** for Wi26 & **Feb 20** for Sp26). Note: This is the "instructor approval" step, and is different from the COGS PLA application.
+1. Read my [PLA "syllabus"](https://docs.google.com/document/d/15gANVvomvQle8RsERJd59eQBw42BnHl-q4xsdVKCUc4/edit?usp=sharing){:target="_blank"} in its entirety to get a sense of the general role and responsibilities (may vary depending on the course you are PLAing for).
+3. Fill out my [PLA application](https://docs.google.com/forms/d/e/1FAIpQLSept59lwQhmjiuiqTEeHwgudheXXVRg6NShJYThDWoa9Kbjjg/viewform?usp=sharing&ouid=113612539407126073694){:target="_blank"} anytime before the end of **Week 7** in the quarter prior (**Nov 14th** for Wi26 & **Feb 20** for Sp26). 
 4. You will hear from me **by the end of the quarter**. If offered a PLA position, you will be contacted by the COGS advising team to **enroll in COGS 195P** (you'll recieve a 4-unit course credit for being a PLA). If you are not offered a position, you may still have the opportunity to work as a paid reader (grader) for the course (though you will be less involved in the course itself).
 
 ### teaching assistants (TAs) 
