@@ -21,6 +21,8 @@ Whether you end up in academia or industry, you will likely encounter opportunit
 4. You will hear from me **by the end of the quarter**. If offered a PLA position, you will be contacted by the COGS advising team to **enroll in COGS 195P** (you'll recieve a 4-unit course credit for being a PLA). If you are not offered a position, you may still have the opportunity to work as a paid reader (grader) for the course (though you will be less involved in the course itself).
 
 ### teaching assistants (TAs) 
+**UPDATE**: I have already chosen all my TAs for Wi26.
+
 If you are interested in being a TA for [one of the courses that I teach](https://lucylai.com/teaching.html){:target="_blank"}, please do the following:
 1. Send me an email with **brief** answers to the following: 
   - Tell me a little about yourself and your academic background
