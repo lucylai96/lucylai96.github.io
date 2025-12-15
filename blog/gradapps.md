@@ -3,9 +3,16 @@ layout: default
 ---
 
 # All About PhD Applications 
-## Written: Jun 2018, Last updated: Feb 2025
+## Written: Jun 2018, Last updated: Dec 2025
 
-Welcome! This popular guide on how to apply to PhD programs in STEM has been visited over **100k times** (as of December 2024). Thank you to all who reached out to me over the years telling me how helpful of a resource it was to you / how it helped you get into grad school, and it's been super fun meeting some of you in person at conferences, too! 🙂
+Welcome! This popular guide on how to apply to PhD programs in STEM has been visited over **100k times** (as of December 2024). 
+
+🚨🚨🚨 I'm currently offering my **[STEM PhD interview prep guide for FREE](https://buy.stripe.com/28o7tSftldbE5yw4gg)** for the **first 20 people** who use the promo code **PHD2025**, then **50% off until Dec 31** (use code **HALF2025**)! This **9-page** prep guide contains: 
+* 19 commonly-asked PhD interview questions and how to best answer them
+* how admissions decisions are made, and
+* a detailed explanation of the qualities and factors that the admissions committee looks for.
+
+All of the insider information in this guide is taken from my 2 years of experience interviewing applicants for Harvard's PhD Program in Neuroscience and >7 years of conducting mock interviews. I've chosen to charge for this guide for now in order to support all the efforts I have put into creating free PhD application guide material (with more coming soon!). Thanks for your support :-) 
 
 ### Quick links
 * This guide now has a [video companion](https://youtu.be/fQP1rXzZbbQ)!
@@ -14,8 +21,7 @@ Welcome! This popular guide on how to apply to PhD programs in STEM has been vis
   * my Harvard, Stanford, and NYU essays, chosen in particular to illustrate (1) how little they differ, and (2) what a diversity / personal history statement looks like (NYU) 
 * In August 2024, I did a [Reddit AMA on PhD applications](https://www.reddit.com/r/gradadmissions/comments/1ewl6z1/phd_application_guide_mainly_for_us_stem_phds_and/) for frequently-asked questions about the application process.
 * In December 2024, I did another [Reddit AMA on PhD interviews](https://www.reddit.com/r/gradadmissions/comments/1hkichr/ama_how_to_ace_your_phd_interviews_from_a_former).
-* In January 2025, I wrote a detailed **[STEM PhD interview prep guide](https://buy.stripe.com/28o7tSftldbE5yw4gg)**. This 9-paged prep guide contains: (1) 19 commonly-asked PhD interview questions and how to best answer them, (2) how admissions decisions are made, and (3) a detailed explanation of the qualities and factors that the admissions committee looks for. All of the insider information in this guide is taken from my 2 years of experience interviewing for Harvard's PhD Program in Neuroscience. I've chosen to charge for this guide for now in order to support all the efforts I have put into creating free PhD application guide material (with more coming soon!). Thanks for your support :-) 
-
+  
 ------
 
 ***Hello friends!*** I’ve been meaning to write this post ever since I completed the entire grad school application cycle, and I’ve finally gotten around to it (in time for the beginning of the next cycle, yay!) 🙂 My earnest hope is for this post to shed some light on the application process, especially since it seems a little black box-y when just getting started.
