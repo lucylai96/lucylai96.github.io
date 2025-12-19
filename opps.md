@@ -35,5 +35,8 @@ Please note that priority is always given to **COGS grad students** and excellen
 ### research assistants (RAs)
 I am not recruiting research assistants at the moment (but stay tuned in case that changes!).
 
+### SGTS
+I am more than happy to mentor COGS PhD students interested in teaching and pedagogy through the [Summer Graduate Teaching Scholars program](https://undergrad.ucsd.edu/faculty-support/sgts.html). SGTS is a great oppourtunity to gain mentored teaching experience as an instructor-of-record for a UCSD Summer Session course. The deadline is in December of each year.
+
 ***
 [back](./)
