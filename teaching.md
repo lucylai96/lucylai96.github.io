@@ -31,9 +31,9 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 </details>
 
 <details style="margin-bottom: 10px;">
-<summary><strong>COGS 180: Decision Making in the Brain</strong> ·
-<a href="https://cogs180.github.io/su24/" target="_blank">course website (su24)</a> · 
-<a href="https://docs.google.com/document/d/1G8SD9n54daiYbeYOqWQfL4beGwLJiq4AFJvM7zNcmX0/edit?usp=sharing" target="_blank">syllabus (draft)</a> · 
+<summary><strong>COGS 180: Decision Making</strong> ·
+<a href="https://cogs180.github.io/wi26" target="_blank">course website</a> · 
+<a href="https://docs.google.com/document/d/1G8SD9n54daiYbeYOqWQfL4beGwLJiq4AFJvM7zNcmX0/edit?usp=sharing" target="_blank">syllabus</a> · 
 <a href="./files/cogs180_set.pdf" target="_blank">SET evals</a> · 
 <a href="./files/cogs180_survey.pdf" target="_blank">course survey</a> </summary>
 
@@ -44,8 +44,8 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 
 <details style="margin-bottom: 10px;">
 <summary><strong>COGS 9: Intro to Data Science</strong> ·
-<a href=" " target="_blank">course website (in dev)</a> · 
-<a href="https://docs.google.com/document/d/1wNoespOvpfwMG5H4839B1Ap2KSnDMXlp3jQ-fbNBmWk/edit?tab=t.0" target="_blank">syllabus (draft)</a></summary> 
+<a href="https://cogs9.github.io/wi26" target="_blank">course website</a> · 
+<a href="https://docs.google.com/document/d/1wNoespOvpfwMG5H4839B1Ap2KSnDMXlp3jQ-fbNBmWk/edit?tab=t.0" target="_blank">syllabus</a></summary> 
 
 <p>Data shapes the news we read, the decisions we make, and the products we use. This course is a friendly introduction to the world of data science, where you’ll learn how to ask good questions about data, make sense of patterns, and share insights through clear and engaging visualizations. We’ll also explore issues of privacy, fairness, and the ways data can be misused. 
 <br><br>
