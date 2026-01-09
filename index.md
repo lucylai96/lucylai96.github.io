@@ -12,6 +12,7 @@ In my free time, I enjoy writing <a href="http://subcorticalsongs.wordpress.com/
 ### quick links
 * Here's a [fun interview](https://brain.harvard.edu/hbi_humans/lucy-lai/) I did with Humans of HBI back in 2022
 * My popular guide on applying to grad school: **[All About PhD Applications](https://lucylai.com/blog/gradapps)**
+* ["_Do oysters have thoughts?"](https://lucylai.com/files/oysters.pdf), to appear in [_Meter_, Scientific American](https://www.scientificamerican.com/meter-poems/)
 
 ***
 
