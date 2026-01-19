@@ -11,7 +11,7 @@ I completed my B.A. at Rice University, where I worked with [Jeff Yau](http://ya
 [Google Scholar](https://scholar.google.com/citations?user=TEpclyYAAAAJ&hl=en) | <sup>*</sup>denotes co-first authorship
 
 ### in progress
-- - **Lai, L.**, Hauser, TU., Huys, QJM. (in prep). Towards a computational account of egodystonia.
+- **Lai, L.**, Hauser, TU., Huys, QJM. (in prep). Towards a computational account of egodystonia.
 - **Lai, L.**, Bhatia, C., Hardcastle, K., Mizes, K., Ölveczky, BP., Gershman, SJ. (in prep). Policy regularization enables robustness and flexibility in motor sequence learning.
 
 ### published
