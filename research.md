@@ -11,14 +11,12 @@ I completed my B.A. at Rice University, where I worked with [Jeff Yau](http://ya
 [Google Scholar](https://scholar.google.com/citations?user=TEpclyYAAAAJ&hl=en) | <sup>*</sup>denotes co-first authorship
 
 ### in progress
-- **Lai, L.**, Hauser, TU., Huys, QJM. (in prep). Towards a computational account of egodystonia.
+- - **Lai, L.**, Hauser, TU., Huys, QJM. (in prep). Towards a computational account of egodystonia.
 - **Lai, L.**, Bhatia, C., Hardcastle, K., Mizes, K., Ölveczky, BP., Gershman, SJ. (in prep). Policy regularization enables robustness and flexibility in motor sequence learning.
 
-### in press
-- **Lai, L.<sup>*</sup>**, Huang, A.Z.X.<sup>*</sup>, & Gershman, S.J. (in press). [Action chunking as conditional policy compression](./pubs/lai25.pdf){:target="_blank"}. _Cognition_
-- Liu, S., **Lai, L.**, Gershman, S.J., & Bari, B.A. (in press). [Time and memory costs jointly determine a speed-accuracy trade-off and set-size effects](./pubs/liu25.pdf){:target="_blank"}. _Journal of Experimental Psychology: General_
-  
 ### published
+- **Lai, L.<sup>*</sup>**, Huang, A.Z.X.<sup>*</sup>, & Gershman, S.J. (2025). [Action chunking as conditional policy compression](./pubs/lai25.pdf){:target="_blank"}. _Cognition_
+- Liu, S., **Lai, L.**, Gershman, S.J., & Bari, B.A. (2025). [Time and memory costs jointly determine a speed-accuracy trade-off and set-size effects](./pubs/liu25.pdf){:target="_blank"}.
 - **Lai, L.**, & Gershman, S.J. (2024). [Human decision making balances reward maximization and policy compression](./pubs/laigershman24.pdf){:target="_blank"}. _PLOS Computational Biology_
 - **Lai, L.** & Gershman, S.J. (2021). [Policy compression: an information bottleneck in action selection](./pubs/laigershman21.pdf){:target="_blank"}. _Psychology of Learning and Motivation._
 - Gershman, S.J. & **Lai, L.** (2021). [The reward-complexity trade-off in schizophrenia](./pubs/gershmanlai21.pdf){:target="_blank"}. _Computational Psychiatry._
