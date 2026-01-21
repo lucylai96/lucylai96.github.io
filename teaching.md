@@ -58,7 +58,7 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 <summary><strong>COGS 109: Modeling and Data Analysis</strong> ·
 <a href="https://cogs109.github.io/fa25/" target="_blank">course website</a> · 
 <a href="https://docs.google.com/document/d/1SdpRRqtwHRpUCxthoSMRfS8kZEPTlqgsQaZ8pjTMwKE/edit?usp=sharing" target="_blank">syllabus</a> · 
-<a href="./files/cogs180_set.pdf" target="_blank">SET evals</a></summary> 
+<a href="./files/cogs109_set.pdf" target="_blank">SET evals</a></summary> 
 
 <p> Understanding data is key to understanding the world around us. This course introduces core concepts in analyzing and interpreting data, including prediction, inference, model complexity, and data dimensionality. You will learn about data analysis techniques such as regression, clustering, and principal component analysis, and apply them to real-world datasets. We will focus on examples relevant to cognitive science, but the skills you gain will be broadly applicable across various domains.
 <br><br>
