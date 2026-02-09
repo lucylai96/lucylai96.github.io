@@ -15,7 +15,7 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 | COGS 109 |  COGS 180  |  ~~COGS 118D~~\* |
 |          |   COGS 9   |   COGS 9   |
 
-\* **(Update: Feb 2026)** I regret to announce that COGS 118D will be **cancelled** for Spring 2026 quarter due to a personal medical situation. I look forward to offering it in the 2026-2027 academic year.
+\***(Update: Feb 2026)** I regret to announce that COGS 118D will be **cancelled** for Spring 2026 quarter due to a personal medical situation. I look forward to offering it in the 2026-2027 academic year.
 
 🚨📢 **I am currently [looking for PLAs](https://lucylai.com/opps)!**
 
