@@ -10,7 +10,7 @@ I’m super excited to be starting as **Assistant Teaching Professor** 👩🏻�
 - **COGS 109**: Modeling and Data Analysis (Fa25) 
 - **COGS 180**: Decision Making in the Brain (Wi26)
 - **COGS 9**: Intro to Data Science (Wi26, Sp26)
-~~- **COGS 118D**: Computational Modeling and Analysis of Human Behavior (Sp26, _as a revamped course_)~~
+- ~~**COGS 118D**: Computational Modeling and Analysis of Human Behavior (Sp26, _as a revamped course_)~~
   - **(Update: Feb 2026)** I regret to announce that COGS 118D will be cancelled for Spring 2026 quarter due to a personal medical situation. I look forward to offering it in the 2026-2027 academic year.
 
 In the future, I plan to also teach **COGS 182**: Introduction to Reinforcement Learning, as well as two _**new**_ courses, one about AI and one about the cognitive science of beliefs (see below).
