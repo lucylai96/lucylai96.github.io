@@ -36,8 +36,7 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 <summary><strong>COGS 180: Decision Making</strong> ·
 <a href="https://cogs180.github.io/wi26" target="_blank">course website</a> · 
 <a href="https://docs.google.com/document/d/1G8SD9n54daiYbeYOqWQfL4beGwLJiq4AFJvM7zNcmX0/edit?usp=sharing" target="_blank">syllabus</a> · 
-<a href="./files/cogs180_set.pdf" target="_blank">SET evals</a> · 
-<a href="./files/cogs180_survey.pdf" target="_blank">course survey</a> </summary>
+<a href="./files/cogs180_set.pdf" target="_blank">SET evals</a> </summary>
 
 <p>This interdisciplinary course aims to unravel the complexities behind human decision making by integrating insights from psychology, economics, neuroscience, psychiatry, design, and machine learning. We will explore everything from the cognitive biases and heuristics that shape our everyday decisions, to how decision making is impaired in various psychiatric disorders. We will also discuss why it's so hard to make rational decisions, and how we can use AI to improve our decision making.</p>
 
@@ -46,8 +45,9 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 
 <details style="margin-bottom: 10px;">
 <summary><strong>COGS 9: Intro to Data Science</strong> ·
-<a href="https://cogs9.github.io/wi26" target="_blank">course website</a> · 
-<a href="https://docs.google.com/document/d/1wNoespOvpfwMG5H4839B1Ap2KSnDMXlp3jQ-fbNBmWk/edit?tab=t.0" target="_blank">syllabus</a></summary> 
+<a href="https://cogs9.github.io/sp26" target="_blank">course website</a> · 
+<a href="https://docs.google.com/document/d/1i3c8oN-QEdW7sisnoAQkgKoKgPBzV5TmuyMYZFJyl_A/edit?usp=sharing" target="_blank">syllabus</a> · 
+<a href="./files/cogs9_set.pdf" target="_blank">SET evals</a></summary> 
 
 <p>Data shapes the news we read, the decisions we make, and the products we use. This course is a friendly introduction to the world of data science, where you’ll learn how to ask good questions about data, make sense of patterns, and share insights through clear and engaging visualizations. We’ll also explore issues of privacy, fairness, and the ways data can be misused. 
 <br><br>
