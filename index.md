@@ -10,9 +10,13 @@ From 2024-2025, I took a year-long sabbatical as a [TSVP Visiting Scholar](https
 In my free time, I enjoy writing <a href="http://subcorticalsongs.wordpress.com/" target="_blank">poetry</a>, classical music, good coffee, and latin dancing. From 2021-2023, I was a Resident Tutor at <a href="https://quincy.harvard.edu/" target="_blank">Quincy House</a>, where I lived with and advised Harvard College students.
 
 ### quick links
-* Here's a [fun interview](https://brain.harvard.edu/hbi_humans/lucy-lai/) I did with Humans of HBI back in 2022
 * My popular guide on applying to grad school: **[All About PhD Applications](https://lucylai.com/blog/gradapps)**
 * _[Do oysters have thoughts?](https://lucylai.com/files/oysters.pdf)_, to appear in [_Meter_, Scientific American](https://www.scientificamerican.com/meter-poems/)
+* Here are some fun interviews I have done:
+  * [UCSD DS3 Podcast - Apr 2026](https://www.youtube.com/watch?v=jE9bAQfLao0&t=1451s)
+  * [Beyond Neuro PhD - Jan 2026](https://beyondneurophd.substack.com/p/dr-lucy-lais-journey-from-music-to)
+  * [UCSD CSSA Blog - Jan 2026](https://cssa-ucsd.medium.com/cognitive-science-faculty-spotlight-meet-professor-lucy-lai-cb637c2a09af)
+  * [Humans of HBI - Apr 2022](https://brain.harvard.edu/hbi_humans/lucy-lai/)
 
 ***
 
