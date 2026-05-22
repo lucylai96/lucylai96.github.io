@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>UCSD COGS Prerequisite Graph</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg: #f8f7f4;
+    --surface: #ffffff;
+    --border: rgba(0,0,0,0.12);
+    --border-hover: rgba(0,0,0,0.25);
+    --text-primary: #1a1a18;
+    --text-secondary: #5f5e5a;
+    --text-tertiary: #888780;
+    --radius: 10px;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1a1a18;
+      --surface: #242422;
+      --border: rgba(255,255,255,0.12);
+      --border-hover: rgba(255,255,255,0.28);
+      --text-primary: #e8e6df;
+      --text-secondary: #b4b2a9;
+      --text-tertiary: #666460;
+    }
+  }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text-primary);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  header {
+    padding: 20px 24px 0;
+  }
+  header h1 {
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: -0.3px;
+  }
+  header p {
+    font-size: 13px;
+    color: var(--text-secondary);
+    margin-top: 3px;
+  }
+
+  #controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 14px 24px 10px;
+    align-items: center;
+  }
+
+  #search {
+    flex: 1;
+    min-width: 180px;
+    max-width: 280px;
+    font-size: 13px;
+    padding: 7px 12px;
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    background: var(--surface);
+    color: var(--text-primary);
+    outline: none;
+    transition: border-color .15s;
+  }
+  #search:focus { border-color: var(--border-hover); }
+
+  #filter-group { display: flex; gap: 6px; flex-wrap: wrap; }
+
+  .filter-btn {
+    font-size: 12px;
+    padding: 5px 12px;
+    border-radius: 20px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text-secondary);
+    cursor: pointer;
+    transition: all .15s;
+    white-space: nowrap;
+  }
+  .filter-btn:hover { border-color: var(--border-hover); color: var(--text-primary); }
+  .filter-btn.active { background: #534AB7; color: #fff; border-color: #534AB7; }
+
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 0 24px 10px;
+  }
+  .litem {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 12px;
+    color: var(--text-secondary);
+  }
+  .ldot {
+    width: 12px; height: 12px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  #graph-wrap {
+    flex: 1;
+    position: relative;
+    margin: 0 24px 12px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--surface);
+    overflow: hidden;
+    min-height: 600px;
+  }
+
+  svg { display: block; width: 100%; height: 100%; }
+
+  #hint {
+    text-align: center;
+    font-size: 11px;
+    color: var(--text-tertiary);
+    padding: 0 24px 14px;
+  }
+
+  #tooltip {
+    position: absolute;
+    background: var(--surface);
+    border: 1px solid var(--border-hover);
+    border-radius: 8px;
+    padding: 10px 13px;
+    font-size: 12px;
+    max-width: 240px;
+    pointer-events: none;
+    display: none;
+    z-index: 20;
+    box-shadow: 0 4px 16px rgba(0,0,0,.1);
+  }
+  #tooltip .tname { font-size: 13px; font-weight: 600; color: var(--text-primary); margin-bottom: 3px; }
+  #tooltip .tnum  { font-size: 11px; color: var(--text-tertiary); margin-bottom: 4px; }
+  #tooltip .tdesc { color: var(--text-secondary); line-height: 1.45; margin-bottom: 5px; }
+  #tooltip .tpre  { color: var(--text-tertiary); font-size: 11px; line-height: 1.4; }
+  #tooltip .tpre span { color: var(--text-secondary); }
+
+  .node circle { cursor: pointer; }
+  .node text   { pointer-events: none; }
+  .link { fill: none; stroke-opacity: .45; }
+  .link.highlighted { stroke-opacity: 1; stroke-width: 2.5px; }
+  .node.dimmed circle { opacity: .15; }
+  .node.dimmed text   { opacity: .1; }
+  .node.selected circle { stroke: var(--text-primary) !important; stroke-width: 2.5px !important; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>UCSD Cognitive Science — Prerequisite Graph</h1>
+  <p>All undergraduate COGS courses and their prerequisite dependencies · <a href="https://catalog.ucsd.edu/courses/COGS.html" target="_blank" style="color:inherit">Source: UCSD General Catalog 2025–26</a></p>
+</header>
+
+<div id="controls">
+  <input id="search" type="search" placeholder="Search course or topic…" autocomplete="off">
+  <div id="filter-group">
+    <button class="filter-btn active" data-cat="all">All courses</button>
+    <button class="filter-btn" data-cat="lower">Lower division</button>
+    <button class="filter-btn" data-cat="upper">Upper division</button>
+    <button class="filter-btn" data-cat="no-prereq">No prerequisites</button>
+    <button class="filter-btn" data-cat="external">Show outside COGS</button>
+  </div>
+</div>
+
+<div class="legend">
+  <div class="litem"><div class="ldot" style="background:#534AB7"></div>Lower division (1–99)</div>
+  <div class="litem"><div class="ldot" style="background:#0F6E56"></div>Upper division — gateway</div>
+  <div class="litem"><div class="ldot" style="background:#3B8BD4"></div>Upper division — has COGS prereqs</div>
+  <div class="litem"><div class="ldot" style="background:#993C1D"></div>Outside COGS (BILD, MATH, CSE…)</div>
+  <div class="litem"><div class="ldot" style="background:#888780"></div>Standing / GPA requirement</div>
+</div>
+
+<div id="graph-wrap">
+  <svg id="graph" role="img" aria-label="Force-directed graph of UCSD Cognitive Science prerequisite dependencies"></svg>
+  <div id="tooltip"></div>
+</div>
+
+<div id="hint">Click a node to highlight its chain · Drag to rearrange · Scroll / pinch to zoom · Click background to reset</div>
+
+<script>
+// ─── Course data ────────────────────────────────────────────────────────────
+const COURSES = [
+  // Lower division
+  {id:"COGS 1",  name:"Introduction to Cognitive Science",          div:"lower", pre:[]},
+  {id:"COGS 2",  name:"Cognitive Neuroeconomics",                   div:"lower", pre:[]},
+  {id:"COGS 3",  name:"Introduction to Computing",                  div:"lower", pre:[]},
+  {id:"COGS 8",  name:"Hands-on Computing",                         div:"lower", pre:["STAND:Freshman/Sophomore"]},
+  {id:"COGS 9",  name:"Introduction to Data Science",               div:"lower", pre:[]},
+  {id:"COGS 10", name:"Cognitive Consequences of Technology",        div:"lower", pre:[]},
+  {id:"COGS 11", name:"Minds and Brains",                           div:"lower", pre:[]},
+  {id:"COGS 12", name:"Language, Culture, and Cognition",           div:"lower", pre:[]},
+  {id:"COGS 13", name:"Field Methods",                              div:"lower", pre:[]},
+  {id:"COGS 14A",name:"Introduction to Research Methods",           div:"lower", pre:[]},
+  {id:"COGS 14B",name:"Introduction to Statistical Analysis",       div:"lower", pre:["COGS 14A"]},
+  {id:"COGS 15", name:"Uncensored Introduction to Language",        div:"lower", pre:[]},
+  {id:"COGS 17", name:"Neurobiology of Cognition",                  div:"lower", pre:[]},
+  {id:"COGS 18", name:"Introduction to Python",                     div:"lower", pre:[]},
+  {id:"COGS 20", name:"Exploring the Musical Mind",                 div:"lower", pre:[]},
+  {id:"COGS 87", name:"First-year Seminar",                         div:"lower", pre:[]},
+  {id:"COGS 90", name:"Undergraduate Seminar",                      div:"lower", pre:[]},
+  {id:"COGS 91", name:"SCANS Presents",                             div:"lower", pre:[]},
+  {id:"COGS 92", name:"Resiliency in the Face of Adversity",        div:"lower", pre:[]},
+  {id:"COGS 99", name:"Independent Study",                          div:"lower", pre:["STAND:Lower-div + 30 units + 3.0 GPA"]},
+
+  // Upper division
+  {id:"COGS 100", name:"Cyborgs Now and in the Future",             div:"upper", pre:["COGS 1","COGS 10"]},
+  {id:"COGS 101A",name:"Sensation and Perception",                  div:"upper", pre:["COGS 1"]},
+  {id:"COGS 101B",name:"Learning, Memory, and Attention",           div:"upper", pre:["COGS 1"]},
+  {id:"COGS 101C",name:"Language",                                  div:"upper", pre:["COGS 1","COGS 14A"]},
+  {id:"COGS 102A",name:"Cognitive Perspectives",                    div:"upper", pre:["COGS 1","COGS 10"]},
+  {id:"COGS 102B",name:"Cognitive Ethnography",                     div:"upper", pre:["COGS 102A"]},
+  {id:"COGS 102C",name:"Cognitive Design Studio",                   div:"upper", pre:["COGS 102B"]},
+  {id:"COGS 107A",name:"Neuroanatomy and Physiology",               div:"upper", pre:["COGS 17","BILD 12"]},
+  {id:"COGS 107B",name:"Systems Neuroscience",                      div:"upper", pre:["COGS 107A"]},
+  {id:"COGS 107C",name:"Cognitive Neuroscience",                    div:"upper", pre:["COGS 107B"]},
+  {id:"COGS 108", name:"Data Science in Practice",                  div:"upper", pre:["COGS 18","CSE 11","CSE 8A","DSC 10","MAE 8"]},
+  {id:"COGS 109", name:"Modeling and Data Analysis",                div:"upper", pre:["COGS 14B","COGS 18","MATH 18","MATH 31AH"]},
+  {id:"COGS 110", name:"The Developing Mind",                       div:"upper", pre:["COGS 1","HDP 1","HDS 1"]},
+  {id:"COGS 111", name:"Beauty and the Brain",                      div:"upper", pre:["STAND:Upper-division"]},
+  {id:"COGS 112", name:"Humor",                                     div:"upper", pre:["STAND:Upper-division"]},
+  {id:"COGS 115", name:"Neurological Development & Cognitive Change",div:"upper",pre:["COGS 107A","COGS 17","BILD 10","BILD 12","HDP 110"]},
+  {id:"COGS 116", name:"Developmental Cognitive Neuroscience",      div:"upper", pre:["COGS 107A","COGS 107B","PSYC 106"]},
+  {id:"COGS 118A",name:"Supervised Machine Learning Algorithms",    div:"upper", pre:["COGS 18","COGS 108","COGS 109","MATH 18","MATH 31AH","MATH 20E","MATH 180A"]},
+  {id:"COGS 118B",name:"Introduction to Machine Learning",          div:"upper", pre:["COGS 18","COGS 108","COGS 109","MATH 18","MATH 31AH","MATH 20E","MATH 180A","ECE 109","ECON 120A","MAE 108","MATH 183"]},
+  {id:"COGS 118C",name:"Neural Signal Processing",                  div:"upper", pre:["COGS 14B","COGS 108","COGS 109","MATH 18","MATH 31AH"]},
+  {id:"COGS 118D",name:"Math Statistics for Behavioral Data",       div:"upper", pre:["COGS 108","COGS 109","MATH 18","MATH 31AH","MATH 180A"]},
+  {id:"COGS 119", name:"Programming for Experimental Research",     div:"upper", pre:["COGS 14B","MATH 18","MATH 31AH","MAE 8"]},
+  {id:"COGS 120", name:"Interaction Design",                        div:"upper", pre:["COGS 108","COGS 1","COGS 10","CSE 12","DSC 30","DSGN 1","ENG 100D"]},
+  {id:"COGS 121", name:"HCI Portfolio Design Studio",               div:"upper", pre:["COGS 120","COGS 18","CSE 8B","CSE 11","DSC 30"]},
+  {id:"COGS 122", name:"Start-up Studio",                           div:"upper", pre:["COGS 120","COGS 187A","COGS 187B","DSGN 100"]},
+  {id:"COGS 123", name:"Social Computing",                          div:"upper", pre:["COGS 102C","COGS 120","COGS 187A","COGS 187B","DSGN 1"]},
+  {id:"COGS 124", name:"HCI Technical Systems Research",            div:"upper", pre:["COGS 127","COGS 121"]},
+  {id:"COGS 125", name:"Advanced Interaction Design",               div:"upper", pre:["COGS 120","CSE 11","CSE 8B"]},
+  {id:"COGS 126", name:"Thinking with Computers",                   div:"upper", pre:["COGS 120","COGS 121"]},
+  {id:"COGS 127", name:"Data-Driven UX / Product Design",           div:"upper", pre:["COGS 1","VIS 41","VIS 30","DSGN 1"]},
+  {id:"COGS 128", name:"Information Visualization",                 div:"upper", pre:["COGS 10","COGS 108","DSGN 1"]},
+  {id:"COGS 137", name:"Practical Data Science in R",               div:"upper", pre:["COGS 14B","MATH 11","PSYC 60"]},
+  {id:"COGS 138", name:"Neural Data Science",                       div:"upper", pre:["COGS 18","COGS 118C","COGS 189","DSC 120","ECE 45","MATH 144"]},
+  {id:"COGS 142", name:"Animal Communication",                      div:"upper", pre:["COGS 14A"]},
+  {id:"COGS 143", name:"Animal Cognition",                          div:"upper", pre:["STAND:Upper-division"]},
+  {id:"COGS 144", name:"Social Cognition",                          div:"upper", pre:["COGS 14A","COGS 14B"]},
+  {id:"COGS 150", name:"Large Language Models & Cognitive Science", div:"upper", pre:["COGS 14A","COGS 14B","MATH 11","PSYC 60"]},
+  {id:"COGS 151", name:"Analogy and Conceptual Systems",            div:"upper", pre:["STAND:Upper-division"]},
+  {id:"COGS 152", name:"Cognitive Foundations of Mathematics",      div:"upper", pre:["COGS 1","CHEM 96","MATH 95","PHIL 1","PSYC 1"]},
+  {id:"COGS 153", name:"Language Comprehension",                    div:"upper", pre:["STAND:Upper-division"]},
+  {id:"COGS 154", name:"Communication Disorders",                   div:"upper", pre:["STAND:Upper-division"]},
+  {id:"COGS 155", name:"Gesture and Cognition",                     div:"upper", pre:["STAND:Upper-division"]},
+  {id:"COGS 156", name:"Language Development",                      div:"upper", pre:["STAND:Upper-division"]},
+  {id:"COGS 157", name:"Music and the Mind",                        div:"upper", pre:["COGS 101A","COGS 101B","COGS 101C"]},
+  {id:"COGS 158", name:"Bilingual Minds and Brains",                div:"upper", pre:["STAND:Upper-division"]},
+  {id:"COGS 160", name:"Upper-Division Special Topics",             div:"upper", pre:["STAND:Dept approval"]},
+  {id:"COGS 163", name:"Metabolic Disorders of the Brain",          div:"upper", pre:["STAND:Upper-division"]},
+  {id:"COGS 164", name:"Neurobiology of Motivation",                div:"upper", pre:["STAND:Upper-division"]},
+  {id:"COGS 165", name:"Neuroimaging of Cognition",                 div:"upper", pre:["COGS 107B","COGS 107C","PSYC 106","PSYC 108"]},
+  {id:"COGS 169", name:"Genes, Brains, and Behavior",               div:"upper", pre:["COGS 1","COGS 107A"]},
+  {id:"COGS 170", name:"Brain Waves across Scales",                 div:"upper", pre:["COGS 17","BILD 12"]},
+  {id:"COGS 171", name:"Mirror Neuron System",                      div:"upper", pre:["STAND:Upper-division"]},
+  {id:"COGS 172", name:"Brain Disorders and Cognition",             div:"upper", pre:["COGS 107A"]},
+  {id:"COGS 174", name:"Drugs: Brain, Mind, and Culture",           div:"upper", pre:["STAND:Upper-division"]},
+  {id:"COGS 175", name:"Neuropsychological Basis of Consciousness", div:"upper", pre:["COGS 101A","COGS 107A"]},
+  {id:"COGS 176", name:"From Sleep to Attention",                   div:"upper", pre:["COGS 107A"]},
+  {id:"COGS 177", name:"Space and Time in the Brain",               div:"upper", pre:["STAND:Upper-division"]},
+  {id:"COGS 178", name:"Genes, Brains, and Behavior II",            div:"upper", pre:["COGS 107A","COGS 107B"]},
+  {id:"COGS 179", name:"Electrophysiology of Cognition",            div:"upper", pre:["COGS 107A","COGS 17","BILD 12"]},
+  {id:"COGS 180", name:"Decision Making in the Brain",              div:"upper", pre:["COGS 17","BILD 12","COGS 108","COGS 109","MATH 18","MATH 20B","MATH 31AH"]},
+  {id:"COGS 181", name:"Neural Networks and Deep Learning",         div:"upper", pre:["COGS 18","COGS 118A","COGS 118B","MATH 18","MATH 31AH","MATH 20E","MATH 180A"]},
+  {id:"COGS 182", name:"Introduction to Reinforcement Learning",    div:"upper", pre:["COGS 18","COGS 108","COGS 109","COGS 118B","MATH 18","MATH 31AH","MATH 180A"]},
+  {id:"COGS 183", name:"Generative AI",                             div:"upper", pre:["COGS 118A","COGS 118B","COGS 109"]},
+  {id:"COGS 184", name:"Modeling the Evolution of Cognition",       div:"upper", pre:["COGS 17","COGS 107A","COGS 107B","COGS 107C","BILD 12"]},
+  {id:"COGS 185", name:"Advanced Machine Learning Methods",         div:"upper", pre:["COGS 118A"]},
+  {id:"COGS 186", name:"Genetic Algorithms",                        div:"upper", pre:["COGS 108","COGS 109"]},
+  {id:"COGS 187A",name:"Usability and Information Architecture",    div:"upper", pre:["COGS 18","COGS 10","CSE 11","CSE 8A","DSGN 1"]},
+  {id:"COGS 187B",name:"Practicum in Professional Web Design",      div:"upper", pre:["COGS 187A"]},
+  {id:"COGS 188", name:"Artificial Intelligence Algorithms",        div:"upper", pre:["COGS 109","COGS 118A","COGS 118B"]},
+  {id:"COGS 189", name:"Brain Computer Interfaces",                 div:"upper", pre:["COGS 108","COGS 109","COGS 118A","COGS 118B"]},
+  {id:"COGS 190A",name:"Pre-Honors Project",                        div:"upper", pre:["STAND:Upper-div + dept approval"]},
+  {id:"COGS 190B",name:"Honors Studies in Cognitive Science",       div:"upper", pre:["COGS 190A","STAND:Honors admission"]},
+  {id:"COGS 190C",name:"Honors Thesis in Cognitive Science",        div:"upper", pre:["COGS 190B"]},
+  {id:"COGS 190D",name:"Preparation for Thesis Presentation",       div:"upper", pre:["COGS 190A","COGS 190B","COGS 198"]},
+  {id:"COGS 193", name:"Cognitive Science Career Seminar",          div:"upper", pre:["STAND:Junior/Senior"]},
+  {id:"COGS 195", name:"Instructional Apprenticeship",              div:"upper", pre:["STAND:Upper-div + 3.0 GPA + approval"]},
+  {id:"COGS 197", name:"Cognitive Science Internship",              div:"upper", pre:["STAND:Upper-div + 2.5 GPA + approval"]},
+  {id:"COGS 198", name:"Directed Group Study",                      div:"upper", pre:["STAND:Upper-div + 2.5 GPA + consent"]},
+  {id:"COGS 199", name:"Special Project",                           div:"upper", pre:["STAND:Upper-div + 2.5 GPA + consent"]},
+];
+
+// Collect all external prereq IDs (non-COGS, non-STAND)
+const cogsIds = new Set(COURSES.map(c => c.id));
+const externalSet = new Set();
+COURSES.forEach(c => {
+  c.pre.forEach(p => {
+    if (!p.startsWith("STAND:") && !cogsIds.has(p)) externalSet.add(p);
+  });
+});
+
+// Add external nodes
+externalSet.forEach(id => {
+  const dept = id.split(" ")[0];
+  COURSES.push({ id, name: id, div: "external", dept, pre: [] });
+});
+
+// Add standing nodes (collapsed per unique label)
+const standingLabels = new Set();
+COURSES.forEach(c => {
+  c.pre.filter(p => p.startsWith("STAND:")).forEach(p => standingLabels.add(p));
+});
+standingLabels.forEach(s => {
+  COURSES.push({ id: s, name: s.replace("STAND:", ""), div: "standing", pre: [] });
+});
+
+const allIds = new Set(COURSES.map(c => c.id));
+const links = [];
+COURSES.forEach(c => {
+  c.pre.forEach(p => {
+    if (allIds.has(p)) links.push({ source: p, target: c.id });
+  });
+});
+
+// ─── Color helpers ─────────────────────────────────────────────────────────
+const deptColors = {
+  BILD: "#B36B2A", MATH: "#2A7BB3", CSE: "#2AB394", DSC: "#2A94B3",
+  PSYC: "#7B2AB3", HDP: "#A32AB3", HDS: "#A32AB3", ECE: "#2A45B3",
+  MAE: "#6B2AB3", ECON: "#B3852A", CHEM: "#B32A6B", PHIL: "#2AB36B",
+  DSGN: "#B32A2A", VIS: "#2A6BB3", ENG: "#6BB32A",
+};
+
+function nodeColor(d) {
+  if (d.div === "lower") return "#534AB7";
+  if (d.div === "standing") return "#888780";
+  if (d.div === "external") {
+    const dept = d.id.split(" ")[0];
+    return deptColors[dept] || "#993C1D";
+  }
+  const hasCogsPre = d.pre && d.pre.some(p => cogsIds.has(p));
+  return hasCogsPre ? "#3B8BD4" : "#0F6E56";
+}
+
+function nodeRadius(d) {
+  const outDegree = links.filter(l => (l.source.id || l.source) === d.id).length;
+  if (d.div === "external") return Math.max(12, Math.min(22, 9 + outDegree * 1.2));
+  if (d.div === "standing") return 10;
+  return Math.max(14, Math.min(28, 10 + outDegree * 2));
+}
+
+// ─── Build the graph ───────────────────────────────────────────────────────
+const wrap = document.getElementById("graph-wrap");
+const svgEl = document.getElementById("graph");
+const tooltip = document.getElementById("tooltip");
+
+let W = wrap.clientWidth || 900;
+let H = Math.max(600, window.innerHeight - 220);
+wrap.style.height = H + "px";
+
+const svg = d3.select(svgEl).attr("viewBox", `0 0 ${W} ${H}`);
+
+const g = svg.append("g");
+
+svg.call(
+  d3.zoom().scaleExtent([0.2, 4])
+    .on("zoom", e => g.attr("transform", e.transform))
+);
+
+const sim = d3.forceSimulation(COURSES)
+  .force("link", d3.forceLink(links).id(d => d.id).distance(d => {
+    const t = d.target.div || (d.target.div);
+    return t === "external" || t === "standing" ? 70 : 85;
+  }).strength(0.5))
+  .force("charge", d3.forceManyBody().strength(d => d.div === "standing" ? -60 : -220))
+  .force("center", d3.forceCenter(W / 2, H / 2))
+  .force("collision", d3.forceCollide(d => nodeRadius(d) + 5))
+  .force("x", d3.forceX(W / 2).strength(0.04))
+  .force("y", d3.forceY(H / 2).strength(0.04));
+
+// Arrow marker
+svg.append("defs").append("marker")
+  .attr("id", "arrow")
+  .attr("viewBox", "0 0 10 10")
+  .attr("refX", 9).attr("refY", 5)
+  .attr("markerWidth", 5).attr("markerHeight", 5)
+  .attr("orient", "auto-start-reverse")
+  .append("path")
+  .attr("d", "M2 1L8 5L2 9")
+  .attr("fill", "none")
+  .attr("stroke", "#888")
+  .attr("stroke-width", 1.5)
+  .attr("stroke-linecap", "round")
+  .attr("stroke-linejoin", "round");
+
+const linkEl = g.append("g").attr("class", "links").selectAll("line")
+  .data(links).join("line")
+  .attr("class", "link")
+  .attr("stroke", "#aaa")
+  .attr("stroke-width", 1.2)
+  .attr("marker-end", "url(#arrow)");
+
+const nodeEl = g.append("g").attr("class", "nodes").selectAll("g.node")
+  .data(COURSES).join("g")
+  .attr("class", "node")
+  .call(d3.drag()
+    .on("start", (e, d) => { if (!e.active) sim.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y; })
+    .on("drag",  (e, d) => { d.fx = e.x; d.fy = e.y; })
+    .on("end",   (e, d) => { if (!e.active) sim.alphaTarget(0); d.fx = null; d.fy = null; })
+  );
+
+nodeEl.append("circle")
+  .attr("r", nodeRadius)
+  .attr("fill", nodeColor)
+  .attr("stroke", "#fff")
+  .attr("stroke-width", 1.2)
+  .attr("fill-opacity", 0.9);
+
+nodeEl.append("text")
+  .text(d => {
+    if (d.div === "standing") return "⚑";
+    return d.id.replace("COGS ", "");
+  })
+  .attr("text-anchor", "middle")
+  .attr("dy", "0.33em")
+  .attr("fill", "#fff")
+  .attr("font-size", d => {
+    const r = nodeRadius(d);
+    if (r >= 22) return "10px";
+    if (r >= 16) return "9px";
+    return "8px";
+  })
+  .attr("font-weight", "600");
+
+// ─── Interaction ───────────────────────────────────────────────────────────
+let selected = null;
+
+function getChain(id) {
+  const ancestors = new Set([id]);
+  const descendants = new Set([id]);
+  let q = [id];
+  while (q.length) {
+    const n = q.shift();
+    links.forEach(l => {
+      const s = l.source.id || l.source, t = l.target.id || l.target;
+      if (t === n && !ancestors.has(s)) { ancestors.add(s); q.push(s); }
+    });
+  }
+  q = [id];
+  while (q.length) {
+    const n = q.shift();
+    links.forEach(l => {
+      const s = l.source.id || l.source, t = l.target.id || l.target;
+      if (s === n && !descendants.has(t)) { descendants.add(t); q.push(t); }
+    });
+  }
+  return new Set([...ancestors, ...descendants]);
+}
+
+function applyHighlight(id) {
+  const chain = getChain(id);
+  nodeEl.classed("dimmed",    d => !chain.has(d.id))
+        .classed("selected",  d => d.id === id);
+  linkEl.classed("highlighted", l => {
+    const s = l.source.id || l.source, t = l.target.id || l.target;
+    return chain.has(s) && chain.has(t);
+  }).attr("stroke", l => {
+    const s = l.source.id || l.source, t = l.target.id || l.target;
+    return (chain.has(s) && chain.has(t)) ? "#EF9F27" : "#aaa";
+  });
+}
+
+function resetHighlight() {
+  nodeEl.classed("dimmed", false).classed("selected", false);
+  linkEl.classed("highlighted", false).attr("stroke", "#aaa");
+}
+
+nodeEl.on("click", (e, d) => {
+  e.stopPropagation();
+  if (selected === d.id) { selected = null; resetHighlight(); return; }
+  selected = d.id;
+  applyHighlight(d.id);
+}).on("mousemove", (e, d) => {
+  const r = wrap.getBoundingClientRect();
+  let x = e.clientX - r.left + 14;
+  let y = e.clientY - r.top - 10;
+  if (x + 250 > r.width) x -= 270;
+  tooltip.style.display = "block";
+  tooltip.style.left = x + "px";
+  tooltip.style.top  = y + "px";
+  const prereqList = d.pre.length
+    ? d.pre.map(p => p.startsWith("STAND:") ? `<em>${p.replace("STAND:","")}</em>` : p).join(", ")
+    : "<em>None</em>";
+  const outCount = links.filter(l => (l.source.id || l.source) === d.id).length;
+  tooltip.innerHTML = `
+    <div class="tname">${d.id}</div>
+    <div class="tdesc">${d.name}</div>
+    <div class="tpre">Prerequisites: <span>${prereqList}</span></div>
+    ${outCount ? `<div class="tpre" style="margin-top:3px">Unlocks: <span>${outCount} course${outCount>1?"s":""}</span></div>` : ""}
+  `;
+}).on("mouseleave", () => { tooltip.style.display = "none"; });
+
+svg.on("click", () => { selected = null; resetHighlight(); });
+
+sim.on("tick", () => {
+  linkEl
+    .attr("x1", d => d.source.x).attr("y1", d => d.source.y)
+    .attr("x2", d => {
+      const dx = d.target.x - d.source.x, dy = d.target.y - d.source.y;
+      const dist = Math.sqrt(dx*dx + dy*dy) || 1;
+      return d.target.x - (dx/dist) * (nodeRadius(d.target) + 6);
+    })
+    .attr("y2", d => {
+      const dx = d.target.x - d.source.x, dy = d.target.y - d.source.y;
+      const dist = Math.sqrt(dx*dx + dy*dy) || 1;
+      return d.target.y - (dy/dist) * (nodeRadius(d.target) + 6);
+    });
+  nodeEl.attr("transform", d => `translate(${d.x},${d.y})`);
+});
+
+// ─── Search ────────────────────────────────────────────────────────────────
+document.getElementById("search").addEventListener("input", e => {
+  const q = e.target.value.trim().toLowerCase();
+  if (!q) { resetHighlight(); selected = null; return; }
+  const match = COURSES.find(c =>
+    c.id.toLowerCase().includes(q) || c.name.toLowerCase().includes(q)
+  );
+  if (match) { selected = match.id; applyHighlight(match.id); }
+  else resetHighlight();
+});
+
+// ─── Filter buttons ────────────────────────────────────────────────────────
+let currentFilter = "all";
+document.querySelectorAll(".filter-btn").forEach(btn => {
+  btn.addEventListener("click", () => {
+    document.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
+    btn.classList.add("active");
+    currentFilter = btn.dataset.cat;
+    selected = null;
+    resetHighlight();
+
+    nodeEl.style("display", d => {
+      if (currentFilter === "all") return null;
+      if (currentFilter === "lower")    return d.div === "lower" ? null : "none";
+      if (currentFilter === "upper")    return (d.div === "upper" || d.div === "external" || d.div === "standing") ? null : "none";
+      if (currentFilter === "no-prereq") return d.pre.length === 0 ? null : "none";
+      if (currentFilter === "external") return (d.div === "external" || d.div === "standing" || d.div === "lower" || d.div === "upper") ? null : "none";
+    });
+    linkEl.style("display", l => {
+      if (currentFilter === "all" || currentFilter === "external") return null;
+      const s = l.source.div, t = l.target.div;
+      if (currentFilter === "lower") return (s==="lower" && t==="lower") ? null : "none";
+      return null;
+    });
+  });
+});
+
+// ─── Resize ────────────────────────────────────────────────────────────────
+window.addEventListener("resize", () => {
+  W = wrap.clientWidth;
+  H = Math.max(600, window.innerHeight - 220);
+  wrap.style.height = H + "px";
+  svg.attr("viewBox", `0 0 ${W} ${H}`);
+  sim.force("center", d3.forceCenter(W/2, H/2)).alpha(0.2).restart();
+});
+</script>
+</body>
+</html>
