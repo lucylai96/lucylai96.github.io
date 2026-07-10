@@ -19,6 +19,18 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 
 ### UCSD
 <details style="margin-bottom: 10px;">
+<summary><strong>COGS 19: Living and Learning with AI</strong> ·
+<a href=" " target="_blank">course website (in dev)</a> · 
+<a href=" " target="_blank">syllabus (in dev)</a></summary> 
+
+<p>Advancements in artificial intelligence (AI) are transforming the way we live, work, and learn. How can we leverage AI’s potential while preserving human ingenuity and intellectual agency? This course equips students to critically engage with and creatively utilize AI through hands-on experimentation. Students will evaluate AI’s capabilities and limitations, examine its impact on work, education, and creativity, and develop strategies for its responsible use. 
+<br><br>
+<strong>This could be a good course for you</strong> if ...</p>
+
+<p><strong>Prerequisites:</strong> None! All are welcome!</p>
+</details>
+
+<details style="margin-bottom: 10px;">
 <summary><strong>COGS 118D: Bayesian Models of Cognition and Behavior</strong> ·
 <a href=" " target="_blank">course website (in dev)</a> · 
 <a href=" " target="_blank">syllabus (in dev)</a></summary> 
