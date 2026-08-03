@@ -37,7 +37,7 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 <a href=" " target="_blank">course website (in dev)</a> · 
 <a href=" " target="_blank">syllabus (in dev)</a></summary> 
 
-<p>This is a newly redeveloped course that explores how Bayesian inference can be used to model cognitive functions such as perception, memory, and decision making. Additionally, we will learn and apply advanced data analysis and modeling techniques such as 
+<p>This is a newly redeveloped course that explores how Bayesian inference can be used to model cognitive functions such as perception, memory, and decision making. Additionally, we will learn and apply advanced data analysis and modeling techniques such as generalized linear models.
 <br><br>
 <strong>This could be a good course for you</strong> if you are interested in analyzing and modeling human cognition and behavior and/or learning to generate new research questions at the frontier of computational cognitive science. The course will rely on interactive discussion and collaboration, and will offer a chance to hone your research, presentation, and communication skills.</p>
 
