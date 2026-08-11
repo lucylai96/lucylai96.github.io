@@ -19,6 +19,7 @@ In my free time, I enjoy writing <a href="http://subcorticalsongs.wordpress.com/
 ***
 
 ### recent and upcoming
+* **Aug 2026:** Giving the keynote talk at the [Colors of the Brain](https://colorsofthebrain.com/) MINDS (Mentoring, Inclusion, and Neuroscience Discoveries) Symposium!
 * **Jul 2026:** Presented a poster at the [Computational Psychiatry Conference](https://www.cpconf.org/) at Yale University in New Haven, CT
 * **Jun 2026:** Attended the [Veritas Scholars Summit](https://summit.veritas.org/scholars-summit) in Park City, Utah 
 * **Jun 2026:** Organized and chaired the Cognitive Science session of the [Mathematics of Neuroscience and AI Conference](https://neuromonster.org/) in Rome, Italy 🇮🇹 
