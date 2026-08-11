@@ -1,7 +1,7 @@
 ## hello!
 ***
 
-I am an **Assistant Teaching Professor** 👩🏻‍🏫 in the [Department of Cognitive Science](https://cogsci.ucsd.edu/){:target="_blank"}  at **UC San Diego** ☀️. I wrote [this short reflection](https://sabbatical.lucylai.com/p/becoming-professor-lai){:target="_blank"} about my personal journey towards a teaching-focused academic career.
+I am an **Assistant Teaching Professor** 👩🏻‍🏫 in the [Department of Cognitive Science](https://cogsci.ucsd.edu/){:target="_blank"}  at **UC San Diego** ☀️.
 
 Previously, I was a [TSVP Visiting Scholar](https://groups.oist.jp/tsvp){:target="_blank"}  at the beautiful [Okinawa Institute of Science and Technology](https://oist.jp){:target="_blank"} in Japan. Before that, I recieved my Ph.D. in <a href="https://pinphd.hms.harvard.edu/" target="_blank">Neuroscience</a> from Harvard, where I was advised by <a href="http://gershmanlab.com/people/sam.html" target="_blank">Sam Gershman</a> and supported by the <a href="https://www.nsfgrfp.org/" target="_blank">NSF Graduate Research Fellowship</a> and a <a href="https://www.28twelvefoundation.org/" target="_blank">Harvey Fellowship</a>. I received my B.A. in [Cognitive Science](https://cogsci.rice.edu/){:target="_blank"} from Rice University.
 
@@ -9,6 +9,7 @@ In my free time, I enjoy writing <a href="http://subcorticalsongs.wordpress.com/
 
 ### quick links
 * My popular guide on applying to grad school: **[All About PhD Applications](https://lucylai.com/blog/gradapps)**
+* I wrote [this short reflection](https://sabbatical.lucylai.com/p/becoming-professor-lai){:target="_blank"} about my personal journey towards a teaching-focused academic career
 * _[Do oysters have thoughts?](https://lucylai.com/files/oysters.pdf)_, to appear in [_Meter_, Scientific American](https://www.scientificamerican.com/meter-poems/)
 * Here are some fun interviews I have done:
   * [UCSD DS3 Podcast - Apr 2026](https://www.youtube.com/watch?v=jE9bAQfLao0&t=1451s)
