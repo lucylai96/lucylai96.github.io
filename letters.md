@@ -6,7 +6,7 @@ Hi there! If you've asked me or are thinking of asking me for a letter of recomm
 Helping students succeed and take advantage of opportunities (internship, grad school, etc.) is one of my greatest joys. However, writing a quality LOR takes a lot of time and effort, so I strive to only write letters that will be strong, specific, and meaningful to your application.
 
 ### who I write letters for
-- If you are a PhD student who needs a letter from me, skip this form and just ask me directly.
+- If you are a PhD student who needs a letter from me, skip this page and just ask me directly.
 - If you served on my course staff as a TA or PLA, or worked directly with me on a research project, **I would be more than happy to write you a letter!**
 - If you took one of my classes and did well (≥A-), I will consider writing a letter if you can demonstrate aspects where you went above and beyond in some way (e.g., in your final project), and are confident that there’s not another better person for you to ask.
 
