@@ -15,8 +15,6 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 | COGS 109  |  COGS 180  | COGS 118D |
 | COGS 118D |   COGS 9   |  COGS 19 |
 
-***NOTE***: Unfortunately, COGS 118D did not migrate into TSS correctly. IT and Registrar's Office are actively working to resolve the issue, and once it has been fixed (likely not until after Aug 17), the courses will be made visible in TSS. Sorry for the inconvienience, I have no control over it :( COGS 118D will be taught at 10am, MWF.
-
 🚨📢 **I am currently [looking for PLAs](https://lucylai.com/opps)!**
 
 ### UCSD
