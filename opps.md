@@ -6,7 +6,7 @@ On this page, I'll post any current open oppourtunities to work with me as a TA,
 ### peer learning assistants (PLAs) 
 Whether you end up in academia or industry, you will likely encounter opportunities to teach, mentor, or support others. The PLA role a structured way to practice these skills. Under my guidance, you will gain hands-on experience in evidence-based pedagogy, course facilitation, and academic mentorship by helping shape an effective learning environment for one of my courses. You will also deepen your understanding of the course material (the best way to learn is to teach!), strengthen your communication and leadership skills, and see firsthand how courses are intentionally designed and taught with students in mind. 
 
-Please first read the [**basic PLA requirements**](https://cogsci.ucsd.edu/undergraduates/student-resources/ia.html){:target="_blank"}.
+Please first read the **[basic PLA requirements](https://cogsci.ucsd.edu/undergraduates/student-resources/ia.html){:target="_blank"}**.
 
 If you’d like to be considered for a PLA position in one of my courses, please do the following:
 1. Read my [PLA "syllabus"](https://docs.google.com/document/d/15gANVvomvQle8RsERJd59eQBw42BnHl-q4xsdVKCUc4/edit?usp=sharing){:target="_blank"} in its entirety to get a sense of the general role and responsibilities (may vary depending on the course you are PLAing for).
