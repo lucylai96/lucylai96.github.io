@@ -1,9 +1,10 @@
 ## hello!
 ***
 
-I am an **Assistant Teaching Professor** 👩🏻‍🏫 in the [Department of Cognitive Science](https://cogsci.ucsd.edu/){:target="_blank"}  at **UC San Diego** ☀️.
+I am an **Assistant Teaching Professor** 👩🏻‍🏫 in the [Department of Cognitive Science](https://cogsci.ucsd.edu/){:target="_blank"}  at **UC San Diego** ☀️. I [teach](https://lucylai.com/teaching.html) a variety of courses in the [Machine Learning & Neural Computation Specialization](https://cogsci.ucsd.edu/undergraduates/major/machine-learning.html) of the Cognitive Science major 
+and run a [mini-research group](https://lucylai.com/research.html) focused on understanding the algorithms behind human learning and decision making in health and disease.
 
-Previously, I was a [TSVP Visiting Scholar](https://groups.oist.jp/tsvp){:target="_blank"}  at the beautiful [Okinawa Institute of Science and Technology](https://oist.jp){:target="_blank"} in Japan. Before that, I recieved my Ph.D. in <a href="https://pinphd.hms.harvard.edu/" target="_blank">Neuroscience</a> from Harvard, where I was advised by <a href="http://gershmanlab.com/people/sam.html" target="_blank">Sam Gershman</a> and supported by the <a href="https://www.nsfgrfp.org/" target="_blank">NSF Graduate Research Fellowship</a> and a <a href="https://www.28twelvefoundation.org/" target="_blank">Harvey Fellowship</a>. I received my B.A. in [Cognitive Science](https://cogsci.rice.edu/){:target="_blank"} from Rice University.
+Previously, I was a [TSVP Visiting Scholar](https://groups.oist.jp/tsvp){:target="_blank"}  at the beautiful [Okinawa Institute of Science and Technology](https://oist.jp){:target="_blank"} in Japan. Before that, I received my Ph.D. in <a href="https://pinphd.hms.harvard.edu/" target="_blank">Neuroscience</a> from Harvard, where I was advised by <a href="http://gershmanlab.com/people/sam.html" target="_blank">Sam Gershman</a> and supported by the <a href="https://www.nsfgrfp.org/" target="_blank">NSF Graduate Research Fellowship</a> and a <a href="https://www.28twelvefoundation.org/" target="_blank">Harvey Fellowship</a>. I received my B.A. in [Cognitive Science](https://cogsci.rice.edu/){:target="_blank"} from Rice University.
 
 In my free time, I enjoy writing <a href="http://subcorticalsongs.wordpress.com/" target="_blank">poetry</a>, classical music, good coffee, and latin dancing. From 2021-2023, I was a Resident Tutor at <a href="https://quincy.harvard.edu/" target="_blank">Quincy House</a>, where I lived with and advised Harvard College students.
 
