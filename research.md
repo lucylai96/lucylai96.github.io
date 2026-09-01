@@ -1,6 +1,6 @@
 ## research
 ***
-I'm broadly interested in computational theories of learning and decision making, the role of intellectual humility in belief change, and disordered behavior in psychiatric disease. More recently, I've become interested in the collaboration between artificial and natural intelligence and how we can leverage AI while preserving human ingenuity and intellectual agency.
+I'm broadly interested in computational theories of learning and decision making and behavior in neurodevelopmental and psychiatric disorders.
 
 I completed my Ph.D. at Harvard with [Sam Gershman](http://gershmanlab.com/index.html){:target="_blank"}, where I studied decision making under cognitive resource constraints. My dissertation, **Policy compression: Acting with limited cognitive resources**, can be found <a href="https://dash.harvard.edu/handle/1/37378979" target="_blank">here</a>. A précis (summary) of my dissertation is <a href="https://lucylai.com/files/lai_precis.pdf" target="_blank">here</a>.
 
@@ -11,7 +11,7 @@ I completed my B.A. at Rice University, where I worked with [Jeff Yau](http://ya
 [Google Scholar](https://scholar.google.com/citations?user=TEpclyYAAAAJ&hl=en) | <sup>*</sup>denotes co-first authorship
 
 ### in progress
-- Bhatia, C.<sup>*</sup>, **Lai, L.<sup>*</sup>** (in prep). Reduced exploration in autism reflects resource-rational policy compression.
+- Bhatia, C., **Lai, L.** (in prep). Reduced exploration in autism reflects resource-rational policy compression.
 - **Lai, L.**, Hauser, TU., Huys, QJM. (in prep). Towards a computational account of egodystonia.
 - Bhatia, C., Gershman, SJ., **Lai, L.** (submitted). Policy regularization as a unifying theory of the striatal division of labor in learning.
 
