@@ -8,7 +8,7 @@ I completed my B.A. at Rice University, where I worked with [Jeff Yau](http://ya
 
 ### current lab members + collaborators
 - [Cheshta Bhatia](https://scholar.google.com/citations?user=F3Ggc8cAAAAJ&hl=en) (PhD Student, Organismic & Evolutionary Biology, Harvard) _co-advised with Sam Gershman_
-- [Daniel Mulford](https://www.linkedin.com/in/rami-abukhater) (Post-Bacc Researcher, Cognitive Science, UCSD)
+- [Daniel Mulford](https://www.linkedin.com/in/dgmulf/) (Post-Bacc Researcher, Cognitive Science, UCSD)
 - [Rami Abukhater](https://www.linkedin.com/in/rami-abukhater) (Undergraduate Researcher, Data Science, UCSD)
   
 ### past members 
