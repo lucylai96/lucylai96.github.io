@@ -11,8 +11,9 @@ I completed my B.A. at Rice University, where I worked with [Jeff Yau](http://ya
 [Google Scholar](https://scholar.google.com/citations?user=TEpclyYAAAAJ&hl=en) | <sup>*</sup>denotes co-first authorship
 
 ### in progress
+- Bhatia, C.<sup>*</sup>, **Lai, L.<sup>*</sup>** (in prep). Reduced exploration in autism reflects resource-rational policy compression.
 - **Lai, L.**, Hauser, TU., Huys, QJM. (in prep). Towards a computational account of egodystonia.
-- **Lai, L.**, Bhatia, C., Hardcastle, K., Mizes, K., Ölveczky, BP., Gershman, SJ. (in prep). Policy regularization enables robustness and flexibility in motor sequence learning.
+- Bhatia, C., Gershman, SJ., **Lai, L.** (submitted). Policy regularization as a unifying theory of the striatal division of labor in learning.
 
 ### published
 - **Lai, L.<sup>*</sup>**, Huang, A.Z.X.<sup>*</sup>, & Gershman, S.J. (2025). [Action chunking as conditional policy compression](./pubs/lai25.pdf){:target="_blank"}. _Cognition_
