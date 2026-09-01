@@ -1,6 +1,6 @@
 ## research
 ***
-I'm broadly interested in computational theories underlying learning and decision making, and how these models can help characterize beliefs and behavior in neurodevelopmental and psychiatric disorders.
+I'm broadly interested in computational theories of learning and decision making, and how computational models can help characterize beliefs and behavior in neurodevelopmental and psychiatric disorders.
 
 I completed my Ph.D. at Harvard with [Sam Gershman](http://gershmanlab.com/index.html){:target="_blank"}, where I studied decision making under cognitive resource constraints. My dissertation, **Policy compression: Acting with limited cognitive resources**, can be found <a href="https://dash.harvard.edu/handle/1/37378979" target="_blank">here</a>. A précis (summary) of my dissertation is <a href="https://lucylai.com/files/lai_precis.pdf" target="_blank">here</a>.
 
