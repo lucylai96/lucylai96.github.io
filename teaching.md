@@ -18,28 +18,31 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 🚨📢 **I am currently [looking for PLAs](https://lucylai.com/opps)!**
 
 ### UCSD
-<details style="margin-bottom: 10px;">
-<summary><strong>COGS 19: Living and Learning with AI</strong> ·
-<a href=" " target="_blank">course website (in dev)</a> · 
-<a href=" " target="_blank">syllabus (in dev)</a></summary> 
-
-<p>Advancements in artificial intelligence (AI) are transforming the way we live, work, and learn. How can we leverage AI’s potential while preserving human ingenuity and intellectual agency? This course equips students to critically engage with and creatively utilize AI through hands-on experimentation. Students will evaluate AI’s capabilities and limitations, examine its impact on work, education, and creativity, and develop strategies for its responsible use. 
-<br><br>
-<strong>This could be a good course for you</strong> if ...</p>
-
-<p><strong>Prerequisites:</strong> None! All are welcome!</p>
-</details>
 
 <details style="margin-bottom: 10px;">
-<summary><strong>COGS 118D: Bayesian Models of Cognition and Behavior</strong> ·
+<summary><strong>COGS 118D: Computational Models of Cognition and Behavior</strong> ·
 <a href=" " target="_blank">course website (in dev)</a> · 
-<a href=" " target="_blank">syllabus (in dev)</a></summary> 
+<a href="https://docs.google.com/document/d/1pLlLmr4DmuViXd5OMRb64EvCdsoAO6l_s8HDnUs0I88/edit?usp=sharing" target="_blank">syllabus</a></summary>  
 
 <p>This is a newly redeveloped course that explores how Bayesian inference can be used to model cognitive functions such as perception, memory, and decision making. Additionally, we will learn and apply advanced data analysis and modeling techniques such as generalized linear models.
 <br><br>
 <strong>This could be a good course for you</strong> if you are interested in analyzing and modeling human cognition and behavior and/or learning to generate new research questions at the frontier of computational cognitive science. The course will rely on interactive discussion and collaboration, and will offer a chance to hone your research, presentation, and communication skills.</p>
 
 <p><strong>Prerequisites:</strong> Programming: <a href="#">BILD 62 or COGS 18 or CSE 11 or CSE 8B</a> and Linear algebra: <a href="#">MATH 18 or MATH 31AH</a> and Probability & statistics: <a href="#">ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 183 or MATH 186</a> and Data science & ML: <a href="#">COGS 109 or COGS 118A or COGS 118B or COGS 188 or CSE 150A or CSE 151A or CSE 158 or CSE 158R or DSC 148 or ECE 174 or ECE 175A</a> or permission of instructor. <strong>NOTE:</strong> These are different than the old prereqs! I am in the process of updating the official course description and reqs, so please ensure that you have these core skills before enrolling.</p>
+</details>
+
+
+<details style="margin-bottom: 10px;">
+<summary><strong>COGS 109: Modeling and Data Analysis</strong> ·
+<a href="https://cogs109.github.io/fa26/" target="_blank">course website</a> · 
+<a href="https://docs.google.com/document/d/1liuU_F9YXLCRPqDEK0MhoK4tcLLjc3X3G_wG7-V2gFQ/edit?usp=sharing" target="_blank">syllabus</a> · 
+<a href="./files/cogs109_set.pdf" target="_blank">SET evals</a></summary> 
+
+<p> Understanding data is key to understanding the world around us. This course introduces core concepts in analyzing and interpreting data, including prediction, inference, model complexity, and data dimensionality. You will learn about data analysis techniques such as regression, clustering, and principal component analysis, and apply them to real-world datasets. We will focus on examples relevant to cognitive science, but the skills you gain will be broadly applicable across various domains.
+<br><br>
+<strong>This could be a good course for you</strong> if you want to strengthen your ability to think critically about data, apply statistical tools to real-world problems, and communicate insights from data clearly. </p>
+
+<p><strong>Prerequisites:</strong> <a href="#">COGS 14B</a> and <a href="#">MATH 18 or 31AH</a> and <a href="#"> COGS18 or CSE 7 or CSE 8A or CSE 11</a> or permission of instructor.</p>
 </details>
 
 <details style="margin-bottom: 10px;">
@@ -67,16 +70,15 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 </details>
 
 <details style="margin-bottom: 20px;">
-<summary><strong>COGS 109: Modeling and Data Analysis</strong> ·
-<a href="https://cogs109.github.io/fa25/" target="_blank">course website</a> · 
-<a href="https://docs.google.com/document/d/1SdpRRqtwHRpUCxthoSMRfS8kZEPTlqgsQaZ8pjTMwKE/edit?usp=sharing" target="_blank">syllabus</a> · 
-<a href="./files/cogs109_set.pdf" target="_blank">SET evals</a></summary> 
+<summary><strong>COGS 19: Living and Learning with AI</strong> ·
+<a href=" " target="_blank">course website (in dev)</a> · 
+<a href=" " target="_blank">syllabus (in dev)</a></summary> 
 
-<p> Understanding data is key to understanding the world around us. This course introduces core concepts in analyzing and interpreting data, including prediction, inference, model complexity, and data dimensionality. You will learn about data analysis techniques such as regression, clustering, and principal component analysis, and apply them to real-world datasets. We will focus on examples relevant to cognitive science, but the skills you gain will be broadly applicable across various domains.
+<p>Advancements in artificial intelligence (AI) are transforming the way we live, work, and learn. How can we leverage AI’s potential while preserving human ingenuity and intellectual agency? This course equips students to critically engage with and creatively utilize AI through hands-on experimentation. Students will evaluate AI’s capabilities and limitations, examine its impact on work, education, and creativity, and develop strategies for its responsible use. 
 <br><br>
-<strong>This could be a good course for you</strong> if you want to strengthen your ability to think critically about data, apply statistical tools to real-world problems, and communicate insights from data clearly. </p>
+<strong>This could be a good course for you</strong> if ...</p>
 
-<p><strong>Prerequisites:</strong> <a href="#">COGS 14B</a> and <a href="#">MATH 18 or 31AH</a> and <a href="#"> COGS18 or CSE 7 or CSE 8A or CSE 11</a> or permission of instructor.</p>
+<p><strong>Prerequisites:</strong> None! All are welcome!</p>
 </details>
 
 ### Harvard University
