@@ -21,12 +21,14 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 
 <details style="margin-bottom: 10px;">
 <summary><strong>COGS 118D: Computational Models of Cognition and Behavior</strong> ·
-<a href=" " target="_blank">course website (in dev)</a> · 
+<a href=" " target="_blank">course website (coming soon)</a> · 
 <a href="https://docs.google.com/document/d/1pLlLmr4DmuViXd5OMRb64EvCdsoAO6l_s8HDnUs0I88/edit?usp=sharing" target="_blank">syllabus</a></summary>  
 
-<p>This is a newly redeveloped course that explores how Bayesian inference can be used to model cognitive functions such as perception, memory, and decision making. Additionally, we will learn and apply advanced data analysis and modeling techniques such as generalized linear models.
+<p>Behavioral data is everywhere—revealing how we think, learn, and act. This course equips you to describe, predict, and explain behavior for real-world applications, using tools from classical statistics, machine learning, and cognitive modeling. We will explore a variety of computational models, including generalized linear models (GLMs), Bayesian cognitive models, and latent variable models, and apply them to real-world datasets. A practical course for students interested in behavioral data science or computational research in human behavior. Skills learned will be applicable to both industry (e.g., quantitative UX, behavioral data science) and academic paths (e.g., computational cognitive science research) alike.
+
 <br><br>
-<strong>This could be a good course for you</strong> if you are interested in analyzing and modeling human cognition and behavior and/or learning to generate new research questions at the frontier of computational cognitive science. The course will rely on interactive discussion and collaboration, and will offer a chance to hone your research, presentation, and communication skills.</p>
+<strong>This could be a good course for you</strong> if you are interested in applying computational models to analyze real behavioral datasets and/or learning to generate new research questions at the frontier of computational cognitive science. The course will rely on interactive discussion and collaboration, and will offer a chance to hone your research, presentation, and communication skills.
+</p>
 
 <p><strong>Prerequisites:</strong> Programming: <a href="#">BILD 62 or COGS 18 or CSE 11 or CSE 8B</a> and Linear algebra: <a href="#">MATH 18 or MATH 31AH</a> and Probability & statistics: <a href="#">ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 183 or MATH 186</a> and Data science & ML: <a href="#">COGS 109 or COGS 118A or COGS 118B or COGS 188 or CSE 150A or CSE 151A or CSE 158 or CSE 158R or DSC 148 or ECE 174 or ECE 175A</a> or permission of instructor. <strong>NOTE:</strong> These are different than the old prereqs! I am in the process of updating the official course description and reqs, so please ensure that you have these core skills before enrolling.</p>
 </details>
@@ -38,7 +40,7 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 <a href="https://docs.google.com/document/d/1liuU_F9YXLCRPqDEK0MhoK4tcLLjc3X3G_wG7-V2gFQ/edit?usp=sharing" target="_blank">syllabus</a> · 
 <a href="./files/cogs109_set.pdf" target="_blank">SET evals</a></summary> 
 
-<p> Understanding data is key to understanding the world around us. This course introduces core concepts in analyzing and interpreting data, including prediction, inference, model complexity, and data dimensionality. You will learn about data analysis techniques such as regression, clustering, and principal component analysis, and apply them to real-world datasets. We will focus on examples relevant to cognitive science, but the skills you gain will be broadly applicable across various domains.
+<p> Understanding data is key to understanding the world around us. This course introduces core concepts in analyzing, modeling, and interpreting data. You will learn about fundamental modeling techniques such as regression, classification, resampling, and model selection, and apply them to real-world datasets. We will focus on examples relevant to cognitive science, but the skills you gain will be broadly applicable across various domains.
 <br><br>
 <strong>This could be a good course for you</strong> if you want to strengthen your ability to think critically about data, apply statistical tools to real-world problems, and communicate insights from data clearly. </p>
 
