@@ -4,6 +4,8 @@
 <img src="https://lucylai.com/files/ucsd/geisel.png" alt="geisel library" width="550"/>
 </p>
 
+If you’re a current UCSD student wondering who I am or whether you should take a course with me, you’re in the right place 😊 Allow me to introduce myself and let you know what you can expect from me as an instructor.
+
 I’m an **Assistant Teaching Professor** 👩🏻‍🏫 in the [Department of Cognitive Science](https://cogsci.ucsd.edu/){:target="_blank"} at UCSD. I typically teach the following courses:
 - **COGS 9**: Intro to Data Science
 - **COGS 19**: Living and Learning with AI
@@ -12,8 +14,6 @@ I’m an **Assistant Teaching Professor** 👩🏻‍🏫 in the [Department of 
 - **COGS 118D**: Computational Modeling of Cognition and Behavior
 - **COGS 180**: Decision Making in the Brain 
 - **COGS 182**: Introduction to Reinforcement Learning (coming soon!)
-
-If you’re a current UCSD student wondering who I am or whether you should take one of the above courses with me, you’re in the right place 😊 Allow me to introduce myself and let you know what you can expect from me as an instructor.
 
 ### who am I? 🎓
 I earned my Ph.D. in [Neuroscience](https://pinphd.hms.harvard.edu/){:target="_blank"} from Harvard in 2024, where I worked on [developing computational theories of learning and decision making](https://lucylai.com/files/lai_precis.pdf){:target="_blank"}. Before that, I got my B.A. in [Cognitive Science](https://cogsci.rice.edu/){:target="_blank"} from Rice University. I was born in New England ☃️, but mainly grew up in Texas 🤠.
