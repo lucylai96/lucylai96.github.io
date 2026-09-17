@@ -35,7 +35,7 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 
 <details style="margin-bottom: 10px;">
 <summary><strong>COGS 109: Modeling and Data Analysis</strong> ·
-<a href="https://cogs109.github.io/fa26/" target="_blank">course website</a> · 
+<a href="https://cogs109.github.io" target="_blank">course website</a> · 
 <a href="https://docs.google.com/document/d/1liuU_F9YXLCRPqDEK0MhoK4tcLLjc3X3G_wG7-V2gFQ/edit?usp=sharing" target="_blank">syllabus</a> · 
 <a href="./files/cogs109_set.pdf" target="_blank">SET evals</a></summary> 
 
@@ -59,7 +59,7 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 
 <details style="margin-bottom: 10px;">
 <summary><strong>COGS 9: Intro to Data Science</strong> ·
-<a href="https://cogs9.github.io/sp26" target="_blank">course website</a> · 
+<a href="https://cogs9.github.io/" target="_blank">course website</a> · 
 <a href="https://docs.google.com/document/d/1i3c8oN-QEdW7sisnoAQkgKoKgPBzV5TmuyMYZFJyl_A/edit?usp=sharing" target="_blank">syllabus</a> · 
 <a href="./files/cogs9_set.pdf" target="_blank">SET evals</a></summary> 
 
