@@ -21,7 +21,7 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 
 <details style="margin-bottom: 10px;">
 <summary><strong>COGS 118D: Computational Models of Cognition and Behavior</strong> ·
-<a href=" " target="_blank">course website (coming soon)</a> · 
+<a href="https://cogs118d.github.io/" target="_blank">course website</a> · 
 <a href="https://docs.google.com/document/d/1pLlLmr4DmuViXd5OMRb64EvCdsoAO6l_s8HDnUs0I88/edit?usp=sharing" target="_blank">syllabus</a></summary>  
 
 <p>Behavioral data is everywhere—revealing how we think, learn, and act. This course equips you to describe, predict, and explain behavior for real-world applications, using tools from classical statistics, machine learning, and cognitive modeling. We will explore a variety of computational models, including generalized linear models (GLMs), Bayesian cognitive models, and latent variable models, and apply them to real-world datasets. A practical course for students interested in behavioral data science or computational research in human behavior. Skills learned will be applicable to both industry (e.g., quantitative UX, behavioral data science) and academic paths (e.g., computational cognitive science research) alike.
@@ -48,7 +48,7 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 
 <details style="margin-bottom: 10px;">
 <summary><strong>COGS 180: Decision Making</strong> ·
-<a href="https://cogs180.github.io/wi26" target="_blank">course website</a> · 
+<a href="https://cogs180.github.io/" target="_blank">course website</a> · 
 <a href="https://docs.google.com/document/d/1G8SD9n54daiYbeYOqWQfL4beGwLJiq4AFJvM7zNcmX0/edit?usp=sharing" target="_blank">syllabus</a> · 
 <a href="./files/cogs180_set.pdf" target="_blank">SET evals</a> </summary>
 
