@@ -16,7 +16,7 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 | COGS 109  |  COGS 180  | COGS 118D |
 | COGS 118D |   COGS 9   |  COGS 19 |
 
-**If you are waitlisted in one of my classes, I highly recomend you come to the first class!**
+**If you are waitlisted in one of my classes, I highly recommend you come to the first class!**
 
 ### UCSD
 
