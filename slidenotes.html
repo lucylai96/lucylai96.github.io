@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lecture notes handout maker</title>
+<style>
+  :root {
+    --ink: #1c2530;
+    --muted: #5b6673;
+    --line: #d5dae0;
+    --bg: #ffffff;
+    --panel: #f3f5f8;
+    --accent: #182b49;
+    --accent-ink: #ffffff;
+    --error: #a3271f;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --ink: #e6e9ee;
+      --muted: #9aa5b3;
+      --line: #364152;
+      --bg: #12171f;
+      --panel: #1a212c;
+      --accent: #8fb4ee;
+      --accent-ink: #0d1420;
+      --error: #f0928a;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  main { max-width: 640px; margin: 0 auto; padding: 40px 20px 64px; }
+  h1 { font-size: 1.6rem; line-height: 1.2; margin: 0 0 8px; letter-spacing: -0.01em; }
+  .lede { color: var(--muted); margin: 0 0 28px; }
+
+  #drop {
+    display: block;
+    border: 2px dashed var(--line);
+    border-radius: 10px;
+    background: var(--panel);
+    padding: 36px 20px;
+    text-align: center;
+    cursor: pointer;
+    transition: border-color .15s, background .15s;
+  }
+  #drop:hover, #drop.over, #drop:focus-within { border-color: var(--accent); }
+  #drop strong { display: block; font-size: 1.05rem; margin-bottom: 4px; }
+  #drop span { color: var(--muted); font-size: .92rem; }
+  #drop input { position: absolute; width: 1px; height: 1px; opacity: 0; }
+  #fileName { margin: 12px 0 0; font-size: .95rem; min-height: 1.4em; }
+
+  fieldset { border: 0; padding: 0; margin: 28px 0 0; }
+  .row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
+  @media (max-width: 520px) { .row { grid-template-columns: 1fr; } }
+  label.field { display: block; font-size: .9rem; color: var(--muted); }
+  select {
+    display: block; width: 100%; margin-top: 4px; padding: 9px 10px;
+    font: inherit; color: var(--ink); background: var(--bg);
+    border: 1px solid var(--line); border-radius: 6px;
+  }
+  select:focus-visible, button:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+
+  button {
+    margin-top: 28px; padding: 12px 22px; font: inherit; font-weight: 600;
+    color: var(--accent-ink); background: var(--accent);
+    border: 0; border-radius: 6px; cursor: pointer;
+  }
+  button:disabled { opacity: .45; cursor: not-allowed; }
+
+  #bar { height: 6px; background: var(--panel); border-radius: 3px; margin-top: 20px; overflow: hidden; display: none; }
+  #bar div { height: 100%; width: 0; background: var(--accent); transition: width .1s; }
+  #status { margin: 10px 0 0; font-size: .92rem; color: var(--muted); min-height: 1.4em; }
+  #status.error { color: var(--error); }
+  .privacy { margin-top: 36px; font-size: .85rem; color: var(--muted); }
+</style>
+</head>
+<body>
+<main>
+  <h1>Lecture notes handout maker</h1>
+  <p class="lede">Turn a slide deck PDF into a printable handout with room for notes next to each slide.</p>
+
+  <label id="drop" for="file">
+    <strong>Drop your slide deck PDF here</strong>
+    <span>or click to choose a file</span>
+    <input id="file" type="file" accept="application/pdf,.pdf">
+  </label>
+  <p id="fileName"></p>
+
+  <fieldset>
+    <div class="row">
+      <label class="field">Slides per page
+        <select id="perPage">
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3" selected>3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+          <option value="6">6</option>
+        </select>
+      </label>
+      <label class="field">Notes area
+        <select id="notesStyle">
+          <option value="lines" selected>Ruled lines</option>
+          <option value="blank">Blank</option>
+        </select>
+      </label>
+      <label class="field">Paper size
+        <select id="paper">
+          <option value="letter" selected>US Letter</option>
+          <option value="a4">A4</option>
+        </select>
+      </label>
+    </div>
+  </fieldset>
+
+  <button id="go" disabled>Create notes PDF</button>
+  <div id="bar"><div></div></div>
+  <p id="status" role="status" aria-live="polite"></p>
+
+  <p class="privacy">Your file is processed in your browser and is never uploaded.</p>
+</main>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf-lib/1.17.1/pdf-lib.min.js"></script>
+<script>
+(function () {
+  const $ = (id) => document.getElementById(id);
+  const drop = $('drop'), fileInput = $('file'), fileName = $('fileName');
+  const go = $('go'), bar = $('bar'), barFill = bar.firstElementChild, statusEl = $('status');
+  let currentFile = null;
+
+  if (!window.pdfjsLib || !window.PDFLib) {
+    setStatus('Could not load the PDF libraries. Check your connection and reload the page.', true);
+    return;
+  }
+  pdfjsLib.GlobalWorkerOptions.workerSrc =
+    'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+
+  function setStatus(msg, isError) {
+    statusEl.textContent = msg;
+    statusEl.classList.toggle('error', !!isError);
+  }
+
+  function setFile(file) {
+    if (!file) return;
+    if (file.type !== 'application/pdf' && !/\.pdf$/i.test(file.name)) {
+      currentFile = null; go.disabled = true; fileName.textContent = '';
+      setStatus('That file is not a PDF. Export your slides as a PDF and try again.', true);
+      return;
+    }
+    currentFile = file;
+    fileName.textContent = file.name;
+    go.disabled = false;
+    setStatus('');
+  }
+
+  fileInput.addEventListener('change', () => setFile(fileInput.files[0]));
+  ['dragenter', 'dragover'].forEach((ev) =>
+    drop.addEventListener(ev, (e) => { e.preventDefault(); drop.classList.add('over'); }));
+  ['dragleave', 'drop'].forEach((ev) =>
+    drop.addEventListener(ev, (e) => { e.preventDefault(); drop.classList.remove('over'); }));
+  drop.addEventListener('drop', (e) => setFile(e.dataTransfer.files[0]));
+
+  const PAPER = { letter: [612, 792], a4: [595.28, 841.89] };
+
+  async function renderJpeg(page, targetWidthPx) {
+    const base = page.getViewport({ scale: 1 });
+    const scale = targetWidthPx / base.width;
+    const viewport = page.getViewport({ scale });
+    const canvas = document.createElement('canvas');
+    canvas.width = Math.floor(viewport.width);
+    canvas.height = Math.floor(viewport.height);
+    const ctx = canvas.getContext('2d');
+    ctx.fillStyle = '#ffffff';
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+    await page.render({ canvasContext: ctx, viewport }).promise;
+    const blob = await new Promise((res) => canvas.toBlob(res, 'image/jpeg', 0.88));
+    const bytes = new Uint8Array(await blob.arrayBuffer());
+    const aspect = canvas.width / canvas.height;
+    canvas.width = canvas.height = 0; // free memory
+    return { bytes, aspect };
+  }
+
+  function fit(boxW, boxH, aspect) {
+    let w = boxW, h = w / aspect;
+    if (h > boxH) { h = boxH; w = h * aspect; }
+    return { w, h };
+  }
+
+  async function build() {
+    go.disabled = true;
+    bar.style.display = 'block';
+    barFill.style.width = '0%';
+    setStatus('Reading your PDF…');
+
+    try {
+      const perPage = parseInt($('perPage').value, 10);
+      const withLines = $('notesStyle').value === 'lines';
+      const [PW, PH] = PAPER[$('paper').value];
+      const M = 36, GAP = 14, NOTES_GAP = 18, LINE_SPACING = 24;
+      const usableW = PW - 2 * M, usableH = PH - 2 * M;
+
+      const data = new Uint8Array(await currentFile.arrayBuffer());
+      const src = await pdfjsLib.getDocument({ data }).promise;
+      const total = src.numPages;
+
+      const out = await PDFLib.PDFDocument.create();
+      const { rgb } = PDFLib;
+      const gray = rgb(0.62, 0.65, 0.69);
+      const lineGray = rgb(0.78, 0.8, 0.83);
+
+      // Layout is set from the first slide's shape.
+      const first = await src.getPage(1);
+      const fv = first.getViewport({ scale: 1 });
+      const layoutAspect = fv.width / fv.height;
+
+      let slideW, slideH, cellH;
+      if (perPage === 1) {
+        ({ w: slideW, h: slideH } = fit(usableW, usableH * 0.58, layoutAspect));
+        cellH = usableH;
+      } else {
+        cellH = usableH / perPage;
+        ({ w: slideW, h: slideH } = fit(usableW * 0.55, cellH - GAP, layoutAspect));
+      }
+
+      let page = null;
+      for (let i = 0; i < total; i++) {
+        const slot = i % perPage;
+        if (slot === 0) page = out.addPage([PW, PH]);
+
+        setStatus('Processing slide ' + (i + 1) + ' of ' + total + '…');
+        const srcPage = await src.getPage(i + 1);
+        const { bytes, aspect } = await renderJpeg(srcPage, 1100);
+        const img = await out.embedJpg(bytes);
+        srcPage.cleanup();
+
+        const d = fit(slideW, slideH, aspect);
+        let top; // y coordinate of the top edge of this slide's box
+        if (perPage === 1) top = PH - M;
+        else top = PH - M - slot * cellH - GAP / 2;
+
+        const x = M, y = top - slideH;
+        page.drawImage(img, { x, y: top - d.h, width: d.w, height: d.h });
+        page.drawRectangle({
+          x, y: top - d.h, width: d.w, height: d.h,
+          borderColor: gray, borderWidth: 0.75,
+        });
+
+        if (withLines) {
+          if (perPage === 1) {
+            // Lines fill the space beneath the slide.
+            const startY = y - 26;
+            for (let ly = startY; ly > M + 4; ly -= LINE_SPACING) {
+              page.drawLine({
+                start: { x: M, y: ly }, end: { x: M + usableW, y: ly },
+                thickness: 0.6, color: lineGray,
+              });
+            }
+          } else {
+            const nx = M + slideW + NOTES_GAP;
+            const nEnd = M + usableW;
+            for (let ly = y + 2; ly < top - 10; ly += LINE_SPACING) {
+              page.drawLine({
+                start: { x: nx, y: ly }, end: { x: nEnd, y: ly },
+                thickness: 0.6, color: lineGray,
+              });
+            }
+          }
+        }
+        barFill.style.width = ((i + 1) / total * 100).toFixed(1) + '%';
+      }
+
+      setStatus('Saving…');
+      const pdfBytes = await out.save();
+      const blob = new Blob([pdfBytes], { type: 'application/pdf' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = currentFile.name.replace(/\.pdf$/i, '') + '-notes.pdf';
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      setTimeout(() => URL.revokeObjectURL(url), 10000);
+      setStatus('Done. ' + total + ' slides on ' + Math.ceil(total / perPage) + ' pages. Your download should start automatically.');
+    } catch (err) {
+      console.error(err);
+      setStatus('Something went wrong reading that PDF. If it is password-protected or very large, try exporting a fresh copy and run it again.', true);
+    } finally {
+      go.disabled = !currentFile;
+    }
+  }
+
+  go.addEventListener('click', build);
+})();
+</script>
+</body>
+</html>
