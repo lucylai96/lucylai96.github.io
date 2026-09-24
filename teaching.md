@@ -6,6 +6,7 @@ layout: default
 > _"Docendo discimus...By teaching, we learn."_  - Seneca
 
 Teaching is one of my greatest joys :-) Below are courses that I've developed and taught over the years, with relevant course materials and teaching evaluations. (Click the arrow on the left to see the course description.)
+
 ### Current course offerings
 
 **🚨 For the 2026-2027 academic year, I am teaching:**
@@ -14,6 +15,8 @@ Teaching is one of my greatest joys :-) Below are courses that I've developed an
 | :-------: | :--------: | :--------: |
 | COGS 109  |  COGS 180  | COGS 118D |
 | COGS 118D |   COGS 9   |  COGS 19 |
+
+**If you are waitlisted in one of my classes, I highly recomend you come to the first class!**
 
 ### UCSD
 
